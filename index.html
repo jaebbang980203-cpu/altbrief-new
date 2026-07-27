@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10243f">
+  <meta name="description" content="대체투자 뉴스 모아보기">
+  <link rel="manifest" href="./manifest.webmanifest?v=6">
+  <link rel="icon" href="./icon-192.png" type="image/png">
+  <link rel="stylesheet" href="./styles.css?v=6">
+  <title>AltBrief | 대체투자 뉴스</title>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="./" aria-label="AltBrief 홈">
+        <span class="brand-mark">A</span>
+        <span class="brand-copy">
+          <strong>AltBrief</strong>
+          <small>Alternative Investment News</small>
+        </span>
+      </a>
+
+      <nav class="top-nav" aria-label="주요 메뉴">
+        <button class="nav-button active" data-view="all" type="button">전체 뉴스</button>
+        <button class="nav-button" data-view="saved" type="button">
+          저장한 기사
+          <span id="savedCount" class="count-badge hidden">0</span>
+        </button>
+      </nav>
+
+      <button id="themeButton" class="icon-button" type="button" aria-label="화면 테마 변경" title="화면 테마 변경">
+        <span class="theme-icon">◐</span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-copy">
+          <p class="eyebrow">DAILY ALTERNATIVE INVESTMENT NEWS</p>
+          <h1>대체투자 뉴스,<br>필요한 내용만 빠르게.</h1>
+          <p class="hero-description">
+            대체투자 관련 기사를 한곳에 모았습니다. 검색과 필터로 필요한 뉴스만 골라보고,
+            다시 볼 기사는 개인 저장함에 남겨두세요.
+          </p>
+        </div>
+
+        <div class="hero-stats" aria-label="뉴스 현황">
+          <div class="stat-card">
+            <span>전체 기사</span>
+            <strong id="totalCount">-</strong>
+          </div>
+          <div class="stat-card">
+            <span>최근 업데이트</span>
+            <strong id="updatedAt">확인 중</strong>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="control-panel" aria-label="검색 및 필터">
+      <div class="search-row">
+        <label class="search-box">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" placeholder="회사, 펀드, 전략, 키워드 검색" autocomplete="off">
+          <kbd>Ctrl K</kbd>
+        </label>
+
+        <button id="refreshButton" class="refresh-button" type="button">
+          <span aria-hidden="true">↻</span>
+          새로고침
+        </button>
+      </div>
+
+      <div class="filter-row">
+        <div id="categoryChips" class="chips" aria-label="자산군 필터"></div>
+
+        <div class="filter-tools">
+          <select id="periodSelect" aria-label="기사 기간">
+            <option value="all">전체 기간</option>
+            <option value="1">오늘</option>
+            <option value="7">최근 7일</option>
+            <option value="30">최근 30일</option>
+          </select>
+
+          <select id="sortSelect" aria-label="기사 정렬">
+            <option value="latest">최신순</option>
+            <option value="oldest">오래된 순</option>
+            <option value="source">출처순</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <section class="news-section">
+      <div class="section-heading">
+        <div>
+          <p id="sectionEyebrow">LATEST</p>
+          <h2 id="sectionTitle">최신 뉴스</h2>
+        </div>
+        <span id="resultCount" class="result-count">0개 기사</span>
+      </div>
+
+      <div id="loadingState" class="state-card">
+        <div class="spinner"></div>
+        <strong>뉴스를 불러오고 있습니다</strong>
+      </div>
+
+      <div id="errorState" class="state-card error hidden">
+        <div class="state-icon">!</div>
+        <strong>뉴스를 불러오지 못했습니다</strong>
+        <p id="errorMessage">잠시 후 다시 시도해 주세요.</p>
+        <button id="retryButton" class="secondary-button" type="button">다시 시도</button>
+      </div>
+
+      <div id="emptyState" class="state-card hidden">
+        <div class="state-icon">⌕</div>
+        <strong>조건에 맞는 기사가 없습니다</strong>
+        <p>검색어 또는 필터를 바꿔보세요.</p>
+      </div>
+
+      <div id="newsGrid" class="news-grid" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div>
+      <strong>AltBrief</strong>
+      <span>기사 요약은 원문 또는 공개 피드의 내용을 바탕으로 표시됩니다.</span>
+    </div>
+    <a href="#top" id="toTop">맨 위로 ↑</a>
+  </footer>
+
+  <template id="articleTemplate">
+    <article class="news-card">
+      <div class="card-header">
+        <div class="tag-group">
+          <span class="category-tag"></span>
+          <span class="region-tag hidden"></span>
+        </div>
+        <button class="bookmark-button" type="button" aria-label="기사 저장">
+          <span aria-hidden="true">☆</span>
+        </button>
+      </div>
+
+      <div class="source-row">
+        <span class="source-avatar"></span>
+        <div>
+          <strong class="article-source"></strong>
+          <time class="article-date"></time>
+        </div>
+      </div>
+
+      <h3 class="article-title"></h3>
+      <p class="article-summary"></p>
+
+      <div class="card-footer">
+        <span class="summary-label">기사 요약</span>
+        <a class="article-link" target="_blank" rel="noopener noreferrer">원문 보기 ↗</a>
+      </div>
+    </article>
+  </template>
+
+  <div id="toast" class="toast" role="status"></div>
+
+  <script src="./app.js?v=6" defer></script>
+</body>
+</html>

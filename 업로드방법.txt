@@ -1,0 +1,48 @@
+AltBrief 전체 복구 — 그대로 따라 하기
+
+1. AltBrief_Full_Fix_v6.zip을 다운로드하고 압축을 풉니다.
+
+2. 압축을 푼 AltBrief_Full_Fix_v6 폴더 안으로 들어갑니다.
+   폴더 자체가 아니라, 폴더 안의 내용 전체를 선택해야 합니다.
+
+3. GitHub 저장소 altbrief 첫 화면에서:
+   Add file → Upload files
+
+4. 압축 해제 폴더 안에서 Ctrl+A를 눌러 전부 선택하고,
+   GitHub의 업로드 화면으로 끌어다 놓습니다.
+
+   반드시 다음 항목이 함께 올라가야 합니다:
+   - .github 폴더
+   - index.html
+   - app.js
+   - styles.css
+   - sw.js
+   - manifest.webmanifest
+   - update_news.py
+   - news.json
+
+5. 아래에서 Commit changes를 누릅니다.
+
+6. 저장소 상단 Actions를 누릅니다.
+   "Update and Deploy AltBrief"가 자동 실행됩니다.
+   안 보이면 새로고침 후 10초 정도 기다립니다.
+
+7. 실행이 초록색으로 끝나면 사이트를 엽니다:
+   https://jaebbang980203-cpu.github.io/altbrief/?v=6
+
+8. 처음 한 번은 브라우저 캐시를 지웁니다.
+   Chrome에서:
+   Ctrl + Shift + Delete
+   → 캐시된 이미지 및 파일 선택
+   → 데이터 삭제
+   → 사이트 다시 열기
+
+정상 여부 확인:
+- GitHub 저장소에서 news.json의 updated_at이 오늘 시간으로 변경
+- news.json 안 articles에 실제 기사 여러 개 존재
+- 사이트 상단 전체 기사 수가 1개보다 많음
+
+기존 루트의 아래 파일은 실행에 사용되지 않으므로 삭제해도 됩니다:
+- update-and-deploy.yml
+- update-news.yml
+- AltBrief_update-news.yml

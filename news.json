@@ -1,0 +1,17 @@
+{
+  "updated_at": "2026-07-27T00:00:00Z",
+  "article_count": 1,
+  "collection_errors": [],
+  "articles": [
+    {
+      "id": "setup-check",
+      "title": "AltBrief 뉴스 수집을 시작합니다",
+      "source": "AltBrief",
+      "published_at": "2026-07-27T00:00:00Z",
+      "category": "안내",
+      "region": "Global",
+      "summary": "업로드 후 GitHub Actions가 실행되면 이 안내 기사는 실제 대체투자 뉴스로 교체됩니다.",
+      "url": "https://news.google.com/"
+    }
+  ]
+}

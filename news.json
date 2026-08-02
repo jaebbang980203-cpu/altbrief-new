@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-01T18:41:40.089815Z",
+  "updated_at": "2026-08-02T07:16:44.169351Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
     {
-      "id": "n-b87108a702fb86b1",
+      "id": "n-2fccbba040621825",
       "title": "[기고]장부 밖에서 자라는 위험…사모대출 시장과 AI",
       "source": "비즈워치",
       "published_at": "2026-08-01T05:00:02Z",
       "category": "국내 대체투자",
       "region": "Global",
       "summary": "비즈워치가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WV2RxN1BGRHh1UzR3UGowc1owQXFsQ2ZwS213cU03RUZEN3NNQ29rLTR1Q1o4dVlISDNqNU53MWVaMVNGU2pNbTg4SGpadTJEZVlXNWFJRzBidmFzaHd2ckNkenB1S0Z6TXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsV1QwZm5uQXk2VTFvYzAyWkFZbGNaOW9JMlh3ZV9iUVljcFNiaWxOVnM4OE5HU1dhMlRPWlN2TTkxV2Y1QjJaR1EzTW9MREVqWEJqV0dzYUMzWVpyeDRscjREM29zY3ljN01F?oc=5"
     },
     {
       "id": "n-efcf369ab2694264",
@@ -114,13 +114,23 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdDNIbGdiVV9lanU0Mk1UTlJXbUdQZXZoLUhwY0x1dmk2cUJ3eFIwd2dEem94N2w4SGpoWjJ6UGc1bWhLbE1YTVJMYS11a1dzeGtFYmhNaUF5WDU4QXZrRzZfQUtUTUlNQV9aclUwMzh1c3dvUHIwcWdla3VnbmRvY0prN1N0RmlHUGkzeFlzcE9mMDRuQU5IU2oxT2hDMVVjVnYwWFRScW44M1gtODg2Qlk1UlVUMU5KbUt1RmZ3anRjM1dWQVE?oc=5"
     },
     {
+      "id": "n-599d28ccc020dadd",
+      "title": "U.S. banks expand use of synthetic risk transfers as investor demand grows",
+      "source": "Traders Union",
+      "published_at": "2026-07-31T12:30:45Z",
+      "category": "SRT",
+      "region": "North America",
+      "summary": "Traders Union가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQV9lazVvbEctT2c1WUJRSXdFdkNhdlFXLTdWSTFQOHNNdnpmbXJVVTFyaXNSZ09pX2pVckVQTUlKbnZ2ZG51c0FmMFFacncyWGdMTTJrd2ZkNHg4TG5KMTk4T19FclpORXZRSjIyM0VoMFJjbmVwVUIxazhIblJURHJvV0tmemRrWmJrV21ncFU3TEVHQmZfY0I3OUV3bnNj?oc=5"
+    },
+    {
       "id": "n-c1063b91b6e03d17",
       "title": "Blackstone to buy HSBC's $25b Australian home loan portfolio",
-      "source": "dealstreetasia.com",
+      "source": "DealStreetAsia",
       "published_at": "2026-07-31T12:00:00Z",
       "category": "ABF",
       "region": "Asia Pacific",
-      "summary": "dealstreetasia.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "DealStreetAsia가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjQUNuOUZLQlRUYkc0RGMwUzFxZUhiTGZ0YkNnWFAtWEJJbTlkS2tSUU9Vanh0cGpTQlZfbzVPZXItOXBYWGh6bDhibUZ4Zk1JSHZqZDhoYnA2Mks4NEtQaFlCdnFxdGhmRDlyM2NB?oc=5"
     },
     {
@@ -166,11 +176,11 @@
     {
       "id": "n-1ae47ce95a7db413",
       "title": "SRT comes of age",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-07-31T09:21:13Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVMyN2JvaF85VTVVRGZTSkJOcWpiaUdLN0dteW9xV1ZpaGdtS2NrOFo1UFVuME5CaXhiUThlN3c2RjFUQ3NpZUdZdE1Sc1ZWNmNEcHlJVWpaU1JTVUJ4dDlKM1pYTFJCZWdaalpLZ1h1enRzTGtqRU40NzBaSFpjaXJ1YVV0UGlVLWVLZ1Zjc1VabTZpV3l6R3IzSHlKTzB0?oc=5"
     },
     {
@@ -182,6 +192,16 @@
       "region": "Korea",
       "summary": "한국경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xVF9GVnI5YUFxNHc2bElST20xTXBmNkt1dHh0V0RGZkh4QlVTUnlucDlQOXRVVFlrcS1FVlp1MFZWdmttTExTcGRyN08tcFFFakZpa0hfUXNlUQ?oc=5"
+    },
+    {
+      "id": "n-a31cd7fa80e50644",
+      "title": "PIK: The Hidden Risks of Payment-in-Kind",
+      "source": "Global Finance Magazine",
+      "published_at": "2026-07-31T06:00:00Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Global Finance Magazine가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zcXF4cVNMSEtId0hkeFlhOG80RG5ZdG1qN1pKWDRGdEpna25KcC1NZ3N5R0N0RmdjQ2ZKUXBNZ2pFV1JPWWswUWw5N3d4WHVweTBvcm5LUmxkejRQb2twZWVTdEE4dmpVeXFOcmI2R2JrWThP?oc=5"
     },
     {
       "id": "n-2f7eacd4be54c6a4",
@@ -234,6 +254,16 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzVWMGdrSTk4N3JJaTBneTMzNFJzMDJRME1ULTZCQnk1b3RpRFR5MDJuM01Zay1DVzczelhZRC0zNXR2VGJSbW5Zd2x6YkVLY2VRaEZsTV9Ha1VkemRGRWUwcVE2b3R4MFhTWXRQZGtxc3dYSlR5ZkVZTnpjZTJOcmR6WGdTcFc0LXhNSFY0V3VMakxGNlpuQnh0RTVsSXNJMnRld09NQndST2ZDclA1Z1dueFlsSDUwVHVpS044VQ?oc=5"
     },
     {
+      "id": "n-d37e8a684e670f88",
+      "title": "Xcel Energy Q2 Earnings Call Highlights",
+      "source": "TradingView",
+      "published_at": "2026-07-30T21:03:58Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNUpWeENNVGljNUpDVVJlOUxpNzhvQ0djS2cxUS0yX1hzWUdaSnk3eXVWWVNYVVFwdnM1eDdXMm1vcFRTUS1IVFc4eXZBdXVwWEQ0c0RNanowWDBDbkk5MXBvRVQ4d2RKR05ZdWpwUXRaZXdDOGxqVEljWkRudVhPc2w3aFl4dWRlVWlvdjBQLVFjbmRadkh5bjQ1ZWJBYUx1?oc=5"
+    },
+    {
       "id": "n-c1ebb83f3f37d9dc",
       "title": "Kayne Anderson Energy Infrastructure Fund completes $50M note sale",
       "source": "Investing.com",
@@ -252,6 +282,16 @@
       "region": "Global",
       "summary": "The Real Deal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUm1tQkk3ZlpmM0NKaDhMbDBCbUxpdjducnRBcVNDTVowbXg2RjZZREFWaHZjdHB6Q2NGMndrazVXY0NWSnhSMTBtQnljYkpwUHFFTlJoSGozRUN3OF9hR3ZzNUNrU0Zld3ZRYTd6TGR1R2Jib3o1M3NtU25uS3ZFZ0xMNFJlbHhoVEpwNWU0c1dpWDdoWUhvcnJ3?oc=5"
+    },
+    {
+      "id": "n-04141cd302289342",
+      "title": "Kayne Anderson Energy Infrastructure Fund completes $50M note sale By Investing.com",
+      "source": "Investing.com Nigeria",
+      "published_at": "2026-07-30T20:43:30Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "Investing.com Nigeria가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUmNaTTJud25xOVgwM2s3eURjMWFvWWtTS2FJMnd3ZDA4alFRR0xTUWJyaXZsSmFaakNGei14dlpsTzdmdUFMb3ZOc1U5M2FKNnlUeWRGWklETTBGVFE2bk5sSGF2c1VVRkhTWUFJdl9Ib3d2NW9kVHhVV0xEU1JUZVVBaG4waU0yTGtHN0hjUDUyZVpqRjZHczF3aDk3VUlOUVFUNHloQk1PbUttenBjR2dWYVFoSXI1Zmk2b2U2bWlSM0xI?oc=5"
     },
     {
       "id": "n-e40fdaaec7d10ff9",
@@ -306,21 +346,21 @@
     {
       "id": "n-d42806da4c2d21d2",
       "title": "KKR’s Asset Sales Defy Private-Equity Exit Slowdown",
-      "source": "wsj.com",
+      "source": "WSJ",
       "published_at": "2026-07-30T18:20:00Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "wsj.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdnBwaEFSQXhGTURjVmt0WmdrS3VlVGRPclpETGhobU9Vbnd3MWItZlFIdGk5TWRSSGpmZkhrRS1BYjBuam5uWGlXSlhDYVotd2NPbU1LN2ZjU1pOaGwxNVZiRFVfbkVRNXl6eWk5SUJmN05scWJGYkZfQ1JlaUpjZnFScXFuLS1Kc0VNd1NzX0hFOWZxalV3VDFlQjg5cGxjektWenBvbS0?oc=5"
     },
     {
       "id": "n-c545b1bb9d72c6a3",
       "title": "'Ponzi-like': Private equity founder admits swindling millions from investors",
-      "source": "SFGATE",
+      "source": "sfgate.com",
       "published_at": "2026-07-30T18:08:57Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "SFGATE가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "sfgate.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRVphbWczSk9keS1hXzV0UWY4andva0VTMVdPbUtEMURIVHBRZU9LS1B0VGlUcUhvQTdTb3gtSkVTVVVmeVhWSFRXMEpJVFVYZGFIaW5kTUlRVG5ub0V3M2lSd3hOdXloZlBHOWNwOW81Z2NwV2M4SEJJQXdqQmV5SF9EUQ?oc=5"
     },
     {
@@ -406,11 +446,11 @@
     {
       "id": "n-dde80b6c0f40096f",
       "title": "Jon Stein has joined Smith Hill Capital as Principal",
-      "source": "Hospitality Net",
+      "source": "hospitalitynet.org",
       "published_at": "2026-07-30T13:47:00Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "Hospitality Net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "hospitalitynet.org가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lREt3TUw3SFphcXJNVzE2eU5sVUw0UmFEMFhoR2E3RlA0bVJURHFQcDVtRmtDNjBQQndzcmhEYmxzaF90ZjZsSE1hazFqODkxS3BOdnRoMU4xMkh1bUsyeUUwSURqNDhzVEYwbkJR?oc=5"
     },
     {
@@ -646,11 +686,11 @@
     {
       "id": "n-7083c90ed9fcc6e8",
       "title": "Rated note feeders reshape the insurance-private credit pipeline",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-07-29T09:07:16Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmlvZ1FxTmttal84Tl9zTko4R0F3bTk4WFFETXZEdmxwZTRRdmZWdDFOZWM1czhqQ2drTE5Hbl83ZC12cU5YTmhXaWlWT3I3b2JIaWdBZHBpZ04xTXR5X19tOHdQY1hmRHVHM0hBNEVBNGFwTWNaRkhSSTRRekV0S0N0U01Sa182Rk9lVTR5am91T08xYUV4bWp2UVIxYnhJdmVPSTNuck1TSU1zeWFqWW9aUWQ4R1oxMkFFRmQ0TnFETUUzem92amlBTk55MWw4TExFNTREQnpvZkRvSmFV?oc=5"
     },
     {
@@ -896,11 +936,11 @@
     {
       "id": "n-64f3f287a7283193",
       "title": "H1 EU and UK bank results point to sustained SRT issuance",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-07-28T07:00:00Z",
       "category": "SRT",
       "region": "Europe",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVUhJWmJ4YUlRVmhiWE9OMTVKLW9mQzZSRmU1WHJvZUowdW1raXEzUzRYV3FFbkFxM18wX3o5d1RVUWNCNXFTTTNhUzJWcGRvNVh6azFXbW8wSlBIRklSc25WMjJQVk5DeEZ6Vkd0RFlzeFdYVnZEQVBSMG9lX2Roa0xpOGo0N3VTQU5oMy0zczQ5REVrRmN1UkdTZ212bnlrYzI1bFFpcWtRS2lzclN1dGk1R3BCSFJXWWpHTjVFRGlxdXExcEd3YlY3TQ?oc=5"
     },
     {
@@ -974,14 +1014,14 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeTdQdFBmTmxOcHRsR1owWHI0UkZfVkZTSTRLcWljbDZfekFpUHBvS2ZxNnhpVnJyMXNYbTZmOXFzTGRReHdGVzU0cnE2MGV4bjF6bGZVdkROZ01lYVV0UXg5SHJDZEQxeGNHZTJKRkplNEpMU2J6bHFlTkhBN1JvNjNB?oc=5"
     },
     {
-      "id": "n-6ffaf5ca86434b51",
+      "id": "n-b28157f7f57f3bf1",
       "title": "아시아 사모대출, 12년 만에 자금 조달 최저",
       "source": "v.daum.net",
       "published_at": "2026-07-27T19:39:01Z",
       "category": "국내 대체투자",
       "region": "Global",
       "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1xdTRWc1RyUV9zU2daSEszNEJ0ZTYyNHE3bktHZFM3OFV0aWZwRzhXU3RWT2xoYXRTelVwd0xoeTB1VTd4OGxLR2ZEQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xWVZESkloaTEyVXYyUHlUQ2hrR3VCT1R2RjdLbGxmYi1jRHgxWVcwdTF0TW9LZE8tS3BETjNnV3E2MUdvZGc?oc=5"
     },
     {
       "id": "n-80bca9fe80c3b8db",
@@ -1176,11 +1216,11 @@
     {
       "id": "n-f9138dbe8aa1031e",
       "title": "\"SK오션플랜트 매각 반대한다\"…고성군, \"사모펀드 인수 절대 불가\"",
-      "source": "haesanews.com",
+      "source": "해사신문",
       "published_at": "2026-07-27T09:49:10Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "haesanews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "해사신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13V1ZpbmlQazlIWG56bXZmd2c4bWlURnA4ZHVVSWxHOFhKb25YdTM4SDlDQ0lmOGRaYU16RUEwdC16Vk53bEZRc3k4aGNTUzFrUURVS20yZzNPYlNNYU10UmZSeWkzLXl5NHZ3?oc=5"
     },
     {
@@ -1326,11 +1366,11 @@
     {
       "id": "n-0d991c276d85b637",
       "title": "[사설] 사모펀드 배 불리는 시내버스, 국회 법개정 서둘러야",
-      "source": "kyeongin.com",
+      "source": "경인일보",
       "published_at": "2026-07-26T11:36:07Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "kyeongin.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "경인일보가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uV3Q5Y0VGZFVSMVE2T2lGVU54MUx3dG9DdWpEQlgtYXQ4ck1FV2VqbmVHX3ZEdEZmV0lMZmszbkJRbHNwY0J1cTVweWZuNjJscnc?oc=5"
     },
     {
@@ -1354,16 +1394,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FVmtReWF5YlhZdExuSTBYalYxU1NrdDBiaXJGZUZMVjVpTXB2UFVPSHZVLVlqOVpSVVZLSzVvekN6cmtoSml6RzR0Z294ek1zWmc?oc=5"
     },
     {
-      "id": "n-5eca7b2689f7158d",
-      "title": "\"10월은 쉽지 않다\"… 회비에 발목 잡힌 사모펀드 협회 출범",
-      "source": "Chosunbiz",
-      "published_at": "2026-07-25T21:00:00Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "Chosunbiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnJfemhGaEI0bTJHYmZDbm5XWVc0eVBnRGxDd1BpM005eDNVVzRnVTh3LTVCaWRCUDU2bHJtNjFOS0REbUdNN0NobG84aG5URXItWVBEMjZqcG1LZ1gta041RF9qX19EX0w5aXBVcV9yY2Qzb2sxTTFlV2tzbW9HVVgxNHRIV00?oc=5"
-    },
-    {
       "id": "n-fbaa4f3010d34042",
       "title": "“10월은 쉽지 않다”… 회비에 발목 잡힌 사모펀드 협회 출범 - 조선비즈",
       "source": "Chosunbiz",
@@ -1372,36 +1402,6 @@
       "region": "Global",
       "summary": "Chosunbiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSnJfemhGaEI0bTJHYmZDbm5XWVc0eVBnRGxDd1BpM005eDNVVzRnVTh3LTVCaWRCUDU2bHJtNjFOS0REbUdNN0NobG84aG5URXItWVBEMjZqcG1LZ1gta041RF9qX19EX0w5aXBVcV9yY2Qzb2sxTTFlV2tzbW9HVVgxNHRIV03SAZsBQVVfeXFMUG9kR2ZFMWFMWUV3UWNkcTdweVNKUVU1Q1liZHZYbl91ZHgwTmlObldPMk1UQ3pNT2VIYkxMRTllNUlyQ3VseUQtVlBZbktGVmw5WGdSUG94TGlDVXdzSjNVN3pZUFVQR1pTZFoxSGRsRmhkdWRTc2dIOEpmdFRudVlzQTZFNGQ0TlFBRTZkT3M1S2RNb2ZBRlRtUkk?oc=5"
-    },
-    {
-      "id": "n-6a58f2a59536a466",
-      "title": "Kayne Anderson Energy Infrastructure Fund, Inc. Revenue Breakdown – NYSE:KYN",
-      "source": "TradingView",
-      "published_at": "2026-07-25T20:55:47Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBIOG9jSWVHZEVJU2lkZUhZNUNhRDZpRkotSnpEdkh2NVVQMVF1bjdEWklvZzNjcll2azd2MUhaSS1qamFFUU15dnVxU1ktSUpiYWdOSkNrLWFrME1neEYzNDdYNWxRa1ZDY3dzN2hwY0tObW8?oc=5"
-    },
-    {
-      "id": "n-b6dc4de2dceba38c",
-      "title": "Kuwait secures record $16B energy infrastructure investment deal",
-      "source": "Latest news from Azerbaijan",
-      "published_at": "2026-07-25T13:00:55Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "Latest news from Azerbaijan가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONnh4aFVQVWZGcnI0QXN1VUpUcGZ4N2tDSGpyWHJXWUdNU29rRWltNlVkR2lXdmFGRUswX0V4NGdSRTV2VFFaSDBFVjhnMEp5eVE2UF9vMkN3aFNDUDRIV3VvY2x3blBRb1pqdUgzNnRnckJDbGVsREIzcnlvOU00NHpCcERjOWRuWlVDTQ?oc=5"
-    },
-    {
-      "id": "n-e0843a564113eec6",
-      "title": "XFLT Proxy Vote: What This Shareholder Vote Is Really About",
-      "source": "The Manila Times",
-      "published_at": "2026-07-25T12:47:34Z",
-      "category": "CLO",
-      "region": "Global",
-      "summary": "The Manila Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTTJQRFZ6LXNLUEpvX2JfMmZNRFFqYmt3NDZPaUpJTlNsQWoza3pQZEttNFpMRV9QVjJrdkltdVRqeFVsZi01dUhmNFpVOVpXYmU0WnBSVkMyaVdzaUVXRnRFa0x0YjFzdGZwVERqNzljMTRDRVRaQWJRVFhVWEYwX2VYQzJad3JHb21LNFFVRmwtaXQ3RE5kV1JCejI5RXhtOG5IOUFNQy14UFBGVjhhSGNzSGtEUkk4Ynl2eHVhSUM5RzZKd2NSdE43UnQ4MFc4eGfSAdIBQVVfeXFMT00yUERWei1zS1BKb19iXzJmTURRamJrdzQ2T2lKSU5TbEFqM2t6UGRLbTRaTEVfUFYya3ZJbXVUanhVbGYtNXVIZjRaVTlaV2JlNFpwUlZDMmlXc2lFV0Z0RWtMdGIxc3RmcFREajc5YzE0Q0VUWkFiUVRYVVhGMF9lWEMyWndyR29tSzRRVUZsLWl0N0ROZFdSQnoyOUV4bThuSDlBTUMteFBQRlY4YUhjc0hrRFJJOGJ5dnh1YUlDOUc2SndjUnRON1J0ODBXOHhn?oc=5"
     }
   ]
 }

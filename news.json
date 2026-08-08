@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T23:08:46.119284Z",
+  "updated_at": "2026-08-08T04:32:23.494330Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -27,7 +27,7 @@
       "id": "n-07928bcee10895c1",
       "title": "Private Credit Investors Are Testing The Exits",
       "source": "Finimize",
-      "published_at": "2026-08-07T15:06:42Z",
+      "published_at": "2026-08-07T15:42:50Z",
       "category": "Secondaries",
       "region": "Global",
       "summary": "Finimize가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -54,6 +54,16 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55cm5ELS1JalItYXlnOXVZYWEyMWdRdTVEZzZvMW1WX0JPOG9zV1RpV3VicGhKYlhJejhzU3RGdXpfZkxaN285dlNZd2V0TVFsTjdtR056QUVBWWRUV1ZzS01HUW1aaERsTlFIUnpLSQ?oc=5"
     },
     {
+      "id": "n-542d2f7b363dd226",
+      "title": "Morgan Stanley Direct Lending Fund Q2 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T12:30:00Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0pjMFgxXzlVSFVFYXFlYmtzbnlRUDRBcXF1X0NFRHdvUFZIdl80OXZodXh5Uk9rUTlra1pQd2FiYjVaNnk2NHlMT21LSGJsUlNmRnpJb3B2MjN2OWhPaXFHa09tX1RRSkhmRWtlYVJFSHM3RENEWFV2czJldWFGLU1NMk9PRDdsODJkUnYxeHB2US1zMDVBU1NNTjZOVjJP?oc=5"
+    },
+    {
       "id": "n-b3162b8c9cc1a7f1",
       "title": "Alpaca Real Estate closes debut fund at $223m",
       "source": "IPE Real Assets",
@@ -66,11 +76,11 @@
     {
       "id": "n-ed5884e2201ea630",
       "title": "Job swaps weekly: Fried Frank and Sidley expand US fund finance practice",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-08-07T11:32:52Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSzd3QUVZc0VNc1dBUVo2d0xlLXFBcFNTczB1QmtQdGJJMHpEaERvLWxwYVFMTFF4ZGEwVG1qY0xmRk40ZXVjeVk1WTRMMmJpWGhYb2Q4eGFtbjZIakctcG1SRUtldTY0LXcwYXphZTdpakNoZ0l0TndFLWZlbXdNZGV3RGtmWWNvR1N5bGpmQnJ0UVgzV0p5akZMMDg5dThBLTFBOG9YV2liMncxN1ZnTVFvbk9ZcTVnN1pYWlRFYWtLbWwtY0VYd3IzVXVwamFaSG95emNqdzk2SER2eTlHeE8tVUstS1Z4?oc=5"
     },
     {
@@ -144,6 +154,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbDF6ZlByaWpjekN2X1htWktYZHdmLUVXSm5wRWMyOEpfSUotM2E0NnVOWlRKZC11ZHo2dE5ZcG5yaDdLYXc2clJaU1J5cXEtajJNT2tTbWhnalA4T0U0eGJ2MW9nNlJUWXI2azBJTFh5X05TZ3B4YlJ2WFV0TFVNZ29vcGpDZndMOVJKaFR1QVVaNU1ONktDTXlXQ2RTazdJaE9FTw?oc=5"
     },
     {
+      "id": "n-ef04a4b0c76e3eae",
+      "title": "Centrifuge launches $JAAA, the largest tokenized AAA CLO fund with $687M in assets",
+      "source": "Crypto Briefing",
+      "published_at": "2026-08-06T20:49:22Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2czFsSlVqdFVnbjJ3V25ndFBUYXNhWlhrLXpyLV9HZ1BMM0V1bkdyWUdxQ3F6QzhsMW9pRDZOTm9KOXUwZkJyUU8zNk9hTmlvTWQyTzl6TnpNY1VpbVoyWHFvWWhzWl84djlBNjVMTQ?oc=5"
+    },
+    {
       "id": "n-6bd44e1e3bfdd12c",
       "title": "Morgan Stanley Direct Lending Fund Announces June 30, 2026 Financial Results and Declares Third Quarter 2026 Regular Dividend of $0.45 per Share",
       "source": "Yahoo Finance",
@@ -162,16 +182,6 @@
       "region": "Global",
       "summary": "entrepreneur.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUUFfdm1GdzhvSlkxYm53R1REYWpPZm5RcTY5aGVJMWMxNzZlaHV6dFlLT0Foall5dTBXVVYtRWJlcWEwaFgzRkZnQVZFeUpRR2NEYzNVMmszbWU2N1FDd1VlUWx1RldteUtGdm1wQVNWMTBObUJhWENsbE5PaThDVGpxUEhMVkphOW1hS3Q2b0dGZ2h5N2JjRFJyR1JZbUFvR09BWWR0anByTGVqdS1sVjVDcVhmNC0zMkk3Nm4wOFBjc3dOakFhREwxWmxJMjRSckhF?oc=5"
-    },
-    {
-      "id": "n-ef04a4b0c76e3eae",
-      "title": "Centrifuge launches $JAAA, the largest tokenized AAA CLO fund with $687M in assets",
-      "source": "Crypto Briefing",
-      "published_at": "2026-08-06T19:19:16Z",
-      "category": "CLO",
-      "region": "Global",
-      "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2czFsSlVqdFVnbjJ3V25ndFBUYXNhWlhrLXpyLV9HZ1BMM0V1bkdyWUdxQ3F6QzhsMW9pRDZOTm9KOXUwZkJyUU8zNk9hTmlvTWQyTzl6TnpNY1VpbVoyWHFvWWhzWl84djlBNjVMTQ?oc=5"
     },
     {
       "id": "n-df6d7ef126bfce95",
@@ -266,11 +276,11 @@
     {
       "id": "n-fe3f912da957396b",
       "title": "Ares scales back blockbuster private credit vehicle after valuation pushback",
-      "source": "ft.com",
+      "source": "Financial Times",
       "published_at": "2026-08-06T04:02:08Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "ft.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Financial Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMnJtbTBQM1A0WGRJRldqVFVZWlBhSTlnYmY4emdiUVJ5NWRvMVlvS0ZQWTNlQ0Mxb0V3Y2wyeWE2N01jRDczaWt6dmhXZVN2cEtFUTVmczAzRFYwY1NvR1ExYkZfSW5BNHRBNm1KMGczQWM2WjlSWFA0dTQzTXJvVUVWbUE?oc=5"
     },
     {
@@ -544,6 +554,16 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnd1MGJoMzBBRG5jeDcwYkc2QWkxNXVKUDRMaElVd3hMUzhTWmN1cXdyQlN3cE1yMWtRTmFXaXhwX2hpTmFhMUpOdktObFozNDRQeF9YWnV4VnE1cGpFQ3hCYmhzNDRYTkFPaEd1VXBVUnFPUHRscnFFb3c5TVJfMHh4Sy00UndlSk55TUR5cVlmYUZSWUZ1OU41amtoenp3NnBoTUpfVVlNMkpC?oc=5"
     },
     {
+      "id": "n-fa19847ca8a10411",
+      "title": "KKR earmarks some of its $19.2 billion infrastructure fund for Gulf projects",
+      "source": "Semafor",
+      "published_at": "2026-08-04T15:16:00Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "Semafor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd0ZJamdYak4wTTB4bTdOSjhwNGd0cXZFMllmdktLcTdSNDhqTW1neFBlOG0tdW5feVBRaXd3ejltRE9iXzdIWWU1ZXlOTHNMeFFOcHNBMVhLckM3bkNmWWR5Smk0ZlRVYmJIUHB0WlBLNUVuTm9GeHpqVFdmZk9uc2hLcWdWR2lrd2FwTlFfclRELVR4ZGVfLUVOZHc3MnFsek82cFBucHhlcElKU2lOeVhJaVJwSUdr?oc=5"
+    },
+    {
       "id": "n-0b8d9fa10e977d2e",
       "title": "Bridgepoint surges past target with €5.1bn direct lending fund close",
       "source": "AltAssets Private Equity News",
@@ -654,14 +674,14 @@
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTWRqNkNtakhtREJpTUwxSHZvV3dnU2d0WjIyM1hUQkJ3azd6b1lLMFpXaTloTFJvdmk5MW9sT2l2VHFvMFdCOFNTbUhBQWZISmxTa1FaRW5heVo2RWtWZEhJR1h4NVZCN0VsTU5jYk9Cd2hYYnpxSlVwQ0ZoMkEyRzhHaFlnTjQyeGx3ZGFjcGhKZUg3a094THRoYTNySndqeHZnNWxrbGpENHRwdExXMzAzUkFsYTR0MnpWS0Y3UmtWUTFRNDdiN0NGMTdSZTBwRk5FMDdHd21WY3VySTdiM0ozQkNfcDFBRXBsM2NERkpsa3pxeG9MbTE2Z0dnWFE4UmluVVBsTGVSdw?oc=5"
     },
     {
-      "id": "n-561919810750bdf2",
+      "id": "n-3728a2778fc59a26",
       "title": "사랑의열매 첫 ‘사모펀드 유언대용신탁’ 기부자 탄생…8억 약정",
       "source": "v.daum.net",
       "published_at": "2026-08-04T02:08:09Z",
       "category": "국내 대체투자",
       "region": "Global",
       "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNaUlNNExkLWlLdVpsb2FselFrdG43WDVYNE5HTXVfS2p3a2NaaFZpM2pfc2xUTWt0U25mN3dWSUFyaUVaN1N1MG82a3Vub3M?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tM19zT29TSzdQc1pjVS16QmRGWng3Yy12Mk5FVG9EZThZWERPbzdqWk9aREMwUHduLWRKNTRRc1ZZVkt0Q3QtNDhjVXBfSzF4UWhsXw?oc=5"
     },
     {
       "id": "n-7ac5b8687d59937d",
@@ -767,7 +787,7 @@
       "id": "n-b6b75c7dbfa6d924",
       "title": "This High-Powered Real-Estate Fund Is Run by College Students",
       "source": "WSJ",
-      "published_at": "2026-08-03T18:40:00Z",
+      "published_at": "2026-08-03T18:42:06Z",
       "category": "Real Estate",
       "region": "Global",
       "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -1346,11 +1366,11 @@
     {
       "id": "n-78ab227a77ad9fe7",
       "title": "XA Investments delays vote on CLO fund amid proxy battle",
-      "source": "Citywire",
+      "source": "citywire.com",
       "published_at": "2026-07-30T22:05:40Z",
       "category": "CLO",
       "region": "Global",
-      "summary": "Citywire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "citywire.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ3QxUmM4ZU52Q1Q5NEp2aXJ5VWE5MjVuVG5nZU8tSTZmd0tSZVRLN2t5YXFVb21NR3BfOUE0V2Vjem5vd0k5UW00eFJsUTdxNUhWSkVBTFpwanJyNEZEcjRuWHlVcmNDaGpic2JOMl9kLTFfb3RfM3ViS2dxSWlIbW0tZXMteTY0VEE4ejlTWVlXUzRwVXZ6MXppdllQS2ZtTmVj?oc=5"
     },
     {
@@ -1382,26 +1402,6 @@
       "region": "Global",
       "summary": "The Real Deal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUm1tQkk3ZlpmM0NKaDhMbDBCbUxpdjducnRBcVNDTVowbXg2RjZZREFWaHZjdHB6Q2NGMndrazVXY0NWSnhSMTBtQnljYkpwUHFFTlJoSGozRUN3OF9hR3ZzNUNrU0Zld3ZRYTd6TGR1R2Jib3o1M3NtU25uS3ZFZ0xMNFJlbHhoVEpwNWU0c1dpWDdoWUhvcnJ3?oc=5"
-    },
-    {
-      "id": "n-04141cd302289342",
-      "title": "Kayne Anderson Energy Infrastructure Fund completes $50M note sale By Investing.com",
-      "source": "Investing.com Nigeria",
-      "published_at": "2026-07-30T20:43:30Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "Investing.com Nigeria가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUmNaTTJud25xOVgwM2s3eURjMWFvWWtTS2FJMnd3ZDA4alFRR0xTUWJyaXZsSmFaakNGei14dlpsTzdmdUFMb3ZOc1U5M2FKNnlUeWRGWklETTBGVFE2bk5sSGF2c1VVRkhTWUFJdl9Ib3d2NW9kVHhVV0xEU1JUZVVBaG4waU0yTGtHN0hjUDUyZVpqRjZHczF3aDk3VUlOUVFUNHloQk1PbUttenBjR2dWYVFoSXI1Zmk2b2U2bWlSM0xI?oc=5"
-    },
-    {
-      "id": "n-e40fdaaec7d10ff9",
-      "title": "Kayne Anderson Energy Infrastructure Fund Completes $50 Million Private Placement of Senior Unsecured Notes",
-      "source": "Quiver Quantitative",
-      "published_at": "2026-07-30T20:30:00Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "Quiver Quantitative가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNODJNaUF0Wnl1Wnd2YUtVZlNKY1lobndRQmJCd2hUb0ZsN3FxVHBxenZLQTVoaG1VTHBhU0cyYjFWZkZxWFp3MzNxcEZoQWNid0RfUGRzNWFQOTVDMDZfYmx6X2NUbjJMOFVKYkhTZDdybm1ybDJ2d014eTdYZEstWnpKMVBGYlotVy1UeUR5d2tJZnQybkRPUGlSeWk0UUdIeFh2N3hvMlJiTnBsWkZNUlJ5UlBqMGJ0UEZaM1N1UmVZbVRqUzBVbHBscDdZY2c3ZVNjbVJta05vZw?oc=5"
     }
   ]
 }

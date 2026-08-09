@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-09T11:03:37.709128Z",
+  "updated_at": "2026-08-09T14:19:23.653777Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-a98b352d7250b552",
+      "title": "How Liquid Are Private-Credit Funds? It Depends How You Define ‘Liquidity’",
+      "source": "WSJ",
+      "published_at": "2026-08-09T09:30:00Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTE14U1Znd0pxV3BLbWZOYm16TkJEc3MzcmF1TTBuYkVYWmxwUi1HVk5KbWg3alZXOHFPTFA5TkdFWXVZWHhlbjN3Nm9YNXdTNGJkaE9yZGdSRXNwTWFGakNUZEtya1NzU1ZWVjNZQk12RzBEVXBTX0Z2OHJ5c0h5NFZmeU12MG1NMFZ3aU9SQThaaV9ObnZrUUxqNVVsOFNFZlhjcjNLQlB2SGVYd2c?oc=5"
+    },
     {
       "id": "n-b56f5c5682f2122e",
       "title": "The Nu-Age Group Announces Expanded AI and Automation Solutions for CLO and Hedge Fund Operations",
@@ -32,16 +42,6 @@
       "region": "Global",
       "summary": "The Motley Fool가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONnd3eEg1OGZOa2I0cUlZMEx3aks1Slo0QVBBZm5GcHE3UVpMX3otam9iZDkyY09Sc1JXSVZ3ZmFzTG0wSW9TT0pGdEY2TTBvNzNJQTREWkVuZ0M2WV9jNWlhV1E1b01yeHR2YjJtTjlqY19XMS1Bc0lKdmpPaE10V05iQmppQnpkb214U3dmemgzdlVKcjdEblktU0pjdkdnX2VpaU1OTzJfREpxbk4wWE1wTE9JOHRGY3dXSTFLamRMNXUwQUxQTG9xR2dRUzZzX094ZFllTmRyeWQ5a0w2Ng?oc=5"
-    },
-    {
-      "id": "n-a98b352d7250b552",
-      "title": "How Liquid Are Private-Credit Funds? It Depends How You Define ‘Liquidity’",
-      "source": "WSJ",
-      "published_at": "2026-08-08T16:01:31Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTE14U1Znd0pxV3BLbWZOYm16TkJEc3MzcmF1TTBuYkVYWmxwUi1HVk5KbWg3alZXOHFPTFA5TkdFWXVZWHhlbjN3Nm9YNXdTNGJkaE9yZGdSRXNwTWFGakNUZEtya1NzU1ZWVjNZQk12RzBEVXBTX0Z2OHJ5c0h5NFZmeU12MG1NMFZ3aU9SQThaaV9ObnZrUUxqNVVsOFNFZlhjcjNLQlB2SGVYd2c?oc=5"
     },
     {
       "id": "n-2887b64c6ab719d9",
@@ -112,6 +112,16 @@
       "region": "Global",
       "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0pjMFgxXzlVSFVFYXFlYmtzbnlRUDRBcXF1X0NFRHdvUFZIdl80OXZodXh5Uk9rUTlra1pQd2FiYjVaNnk2NHlMT21LSGJsUlNmRnpJb3B2MjN2OWhPaXFHa09tX1RRSkhmRWtlYVJFSHM3RENEWFV2czJldWFGLU1NMk9PRDdsODJkUnYxeHB2US1zMDVBU1NNTjZOVjJP?oc=5"
+    },
+    {
+      "id": "n-53dc91485c8fa8bc",
+      "title": "Earnings call transcript: DBAG H1 2026 NAV falls as valuation pressure hits",
+      "source": "Investing.com South Africa",
+      "published_at": "2026-08-07T12:13:21Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Investing.com South Africa가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaEY4N1lnXy1vVVUtR0VQUXFoanVzbW1vdk5URjUydy1IYXZCb1VkTU56bTluS0tfX3hMbW0xc29iSVVpa0FrUUJlRUNMeUVuQWZQeDBQQURBZDViQ05jMFNYaHZDYWo2WXFFWDNONFFvT3NLZjdOb0R4QjZYblJBaWV1WDJVMm9vMXI4TVFLQ2tzWlNfZkgtZV9kRndUMEkzYnZxODJxYkdJOU94QUtBZVhLMEhGNEtZaGlhZ1ozaTNtM1pVY0FDTmw3cERjUFJQb2ppMlpxWjA?oc=5"
     },
     {
       "id": "n-b3162b8c9cc1a7f1",
@@ -206,11 +216,11 @@
     {
       "id": "n-ef9ac309be5658e5",
       "title": "Private equity buyout tracker – Q2 2026",
-      "source": "Private Equity Stakeholder Project PESP",
+      "source": "pestakeholder.org",
       "published_at": "2026-08-07T02:55:39Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Private Equity Stakeholder Project PESP가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "pestakeholder.org가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oX0t3NGttMm54Z190bHB2ZHl2ZHZVakNIUGZFbFY2RW4taklHQ0VuenRMZ0gxUWFabDhNNEw3U1NlYjNHNnBGOF9LWm5fNF9qMHVrMXY3NEhMT1BrQURPbFJzLTFJanFSUmRpS0JEa0hRM1dFdmNxcw?oc=5"
     },
     {
@@ -332,6 +342,16 @@
       "region": "Global",
       "summary": "New Private Markets가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSThDVDI1Wlh1clp5cTVwSHVyTXVxNzRmUlpMTmV4U2FOUkZJOWtUczN0XzRCaFlzVGE1X2c3LXZHd3doVmpJNS16dXBrY3E0U3RUdll1OFhSMkx5cGVBb1NvRndOYkpaRlBxMmRyR0NxVngtX05zVDN5d25zaEtTTjJPbTdiZDJ2SVg0TW02elAyR3NUX285U1VZUjVRTEE?oc=5"
+    },
+    {
+      "id": "n-deac6b9b06a3ad98",
+      "title": "Private Equity Explained With Examples and Ways To Invest",
+      "source": "Investopedia",
+      "published_at": "2026-08-06T07:00:00Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "Investopedia가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80QVNJSktIR1V4bmxRdUhrbTkyWU9FTjhQLXZIVWwwTHRiNVdEMWJ4UDJnX2tEVFMxWHdvQ0tRZ2RtYkpNLXY3d0d6WS05UC02ZGpkSHhMYUJ1Q2lsSG1GRVI1TnI?oc=5"
     },
     {
       "id": "n-72de1c5785a3fe61",
@@ -462,6 +482,16 @@
       "region": "Global",
       "summary": "Bisnow가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSURCcGNYMlRaMHVIRTc0XzFzajRmdWFYZER3S3RFeWh5akRyV3ozckROc1lSOEpMdXA0NGQ0SHUwYnBHWGJIY1daUDJDWTVKNUhfQjBnNnFEc01POGZ6RG9yQ3J6V2p2dHlzZkdoMHdhaVZBTWdRNnB3TkFmekV6LVJBZ1M5cWNhQjV2aFN5c2VyVHg4andRdVJhdHQ5V0I4XzBaa1dsdUxoTUhxVGNSRG9HbEU5dVpYVlhlVWRuMFhnLUZf?oc=5"
+    },
+    {
+      "id": "n-3cc54f5b4e35c3da",
+      "title": "Apollo’s capital solutions business drives record fees in Q2",
+      "source": "Private Debt Investor",
+      "published_at": "2026-08-05T12:56:49Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "Private Debt Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFNoZDJpZkM5bVl1Rmd6eVotWEE3VXp0SUtTRDZkSzlFYjhRX3NROElJcHFCX3dLelRJYWpDNEg4UURFdDBSb0RMbXJwU2diY01fNUd0VE96YXF0dGlJYVpHQnNBRnZCUjBxaEU2ZFNjN21GZEh5MDdzdnhCTlpYenV6ajRySzg3NmxRNVVOSXVnM3pZWTd1aGRqRmI?oc=5"
     },
     {
       "id": "n-b05a21d6e8af9eb5",
@@ -656,11 +686,11 @@
     {
       "id": "n-fa19847ca8a10411",
       "title": "KKR earmarks some of its $19.2 billion infrastructure fund for Gulf projects",
-      "source": "semafor.com",
+      "source": "Semafor",
       "published_at": "2026-08-04T15:16:00Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "semafor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Semafor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd0ZJamdYak4wTTB4bTdOSjhwNGd0cXZFMllmdktLcTdSNDhqTW1neFBlOG0tdW5feVBRaXd3ejltRE9iXzdIWWU1ZXlOTHNMeFFOcHNBMVhLckM3bkNmWWR5Smk0ZlRVYmJIUHB0WlBLNUVuTm9GeHpqVFdmZk9uc2hLcWdWR2lrd2FwTlFfclRELVR4ZGVfLUVOZHc3MnFsek82cFBucHhlcElKU2lOeVhJaVJwSUdr?oc=5"
     },
     {
@@ -1086,11 +1116,11 @@
     {
       "id": "n-43f73b258856c159",
       "title": "홈플러스·고려아연 사태가 던진 경고…‘사모펀드 경영’의 위험성 [스페셜리스트뷰]",
-      "source": "economist.co.kr",
+      "source": "이코노미스트",
       "published_at": "2026-08-03T07:00:00Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "economist.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "이코노미스트가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zVmhIQjJaOWdKYkZpMmh3RG1RNFY0d1RsTW5IWnhOVGVMXzJEUzRtclFsRWtlYmhteHR1Mklrc0NxWFpWYmVXaFRodDMwSmE0aDNyejV6eGRmNkhqM2NXdFNR?oc=5"
     },
     {
@@ -1372,36 +1402,6 @@
       "region": "Global",
       "summary": "secondarylink.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORUpMeFNpNjR1WDhhTkpvVUdOMi1CVGJvVlItVHJOblYxclN4dERQVzlPNTBHcjhYMzBtN0poSTkzdEw5UlBRUTVoMHNpc3VpR2cybkI0VWNydnZINHZYWkZzcUZnVm9GeEtsalhaNkRmSUZoSWZVZUw0YmtJMGpKdmQwTFVfZ2VRVThQVWRnRUIyemxHaFVEQUdzUElsS2N3a2ltNVlJUE9oWFBQeHJWUWxB?oc=5"
-    },
-    {
-      "id": "n-1ae47ce95a7db413",
-      "title": "SRT comes of age",
-      "source": "Structured Credit Investor",
-      "published_at": "2026-07-31T09:21:13Z",
-      "category": "SRT",
-      "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVMyN2JvaF85VTVVRGZTSkJOcWpiaUdLN0dteW9xV1ZpaGdtS2NrOFo1UFVuME5CaXhiUThlN3c2RjFUQ3NpZUdZdE1Sc1ZWNmNEcHlJVWpaU1JTVUJ4dDlKM1pYTFJCZWdaalpLZ1h1enRzTGtqRU40NzBaSFpjaXJ1YVV0UGlVLWVLZ1Zjc1VabTZpV3l6R3IzSHlKTzB0?oc=5"
-    },
-    {
-      "id": "n-f966448dd5a37be3",
-      "title": "What is private equity?",
-      "source": "blackrock.com",
-      "published_at": "2026-07-31T08:07:38Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "blackrock.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPalJ0MDM2c21VSWFNZW53bnp0RkhDMWJLNWJRcmV6ekJhS2Fib1pwUlRtQk41dmRZa3BBNlBwN0NtZmprT3FvcnlLdTZNbUxFN1B3U2hVSlJwZFVlQXl5dXA5VUUtbF9NUkVMY0xaRXllYnA3ckVtSUh5ZFZ6eE5rN0d6aTRPaEdNNnVnTWhQUnBtV3c5?oc=5"
-    },
-    {
-      "id": "n-a31cd7fa80e50644",
-      "title": "PIK: The Hidden Risks of Payment-in-Kind",
-      "source": "Global Finance Magazine",
-      "published_at": "2026-07-31T07:00:00Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "Global Finance Magazine가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zcXF4cVNMSEtId0hkeFlhOG80RG5ZdG1qN1pKWDRGdEpna25KcC1NZ3N5R0N0RmdjQ2ZKUXBNZ2pFV1JPWWswUWw5N3d4WHVweTBvcm5LUmxkejRQb2twZWVTdEE4dmpVeXFOcmI2R2JrWThP?oc=5"
     }
   ]
 }

@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-08-11T15:33:55.568618Z",
+  "updated_at": "2026-08-11T20:28:00.405975Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-780843a4bd3c81f0",
+      "title": "Blackstone hired a Goldman Sachs MD from the team schmoozing private credit firms",
+      "source": "eFinancialCareers",
+      "published_at": "2026-08-11T15:55:25Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "eFinancialCareers가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1oyRl9VTXBEdkZaQlJQYVA3ajZrX2Q1cUxmVnlaYXZOSG1BZkRXblVWVExScXBEVU9RSTRCMmJJWkdLdUpRQ0FBYUx4WG03Um5nUDZrUmRUdWlUTkVhdFpzTUR6N195YjhkVWRvRUtRenZZajl6bzRTUklXSjVWTFV3WmVfVzFBZ3RhTGlPWktacEIzbXhyVDJXbk0yNjRvdWhBb3lFU1JOWXk4Nk5yZnBkOFVxbHNUVEtBMA?oc=5"
+    },
+    {
+      "id": "n-da5c12a7f101f55f",
+      "title": "Yankees receive $2.6 billion in financing deal with Apollo Sports Capital",
+      "source": "The New York Times",
+      "published_at": "2026-08-11T15:28:13Z",
+      "category": "Private Equity",
+      "region": "North America",
+      "summary": "The New York Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGV5cEE1Tm1TamhBdEx5alRKdlZ4eVBKWHhzVGJoeFZiVmk4QlBOQkVNNUhhdkhDcDJ3S2ZJNVJQYXdYV2NVNDJJNW1iRlAwUU5YVTdhUTN0OEF5SzBtMno1cVJaUXFyazVvSGxxa3dWZ05JZVVvWkNOOXhXX2d6aHctMXdTVW1UT3RhR0JBa3pzLWxST3Y5ZA?oc=5"
+    },
+    {
+      "id": "n-247e6c8dcbb5b02f",
+      "title": "Yankees receive $2.6 billion from private equity fund in new deal",
+      "source": "Yahoo Sports",
+      "published_at": "2026-08-11T13:51:40Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Yahoo Sports가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGZsVDBudVhBeUlGTlFFOWdpQkdGZWhHbFY4ZGdwempWbHBLUXJQU0RIREdmd3AySDNwdHRsN2dVVXJHVHdRRExNTjR0b2Vza3NyYWVjSVFqa3FfTzMzY1pWTThmYmlNQTRkYTA1dVBkd0xKVWhuRWxMTGc4bV9paXVB?oc=5"
+    },
     {
       "id": "n-67f8e50190e2bbd3",
       "title": "Private-Credit Firms Clamp Down on Loan Sweeteners in Fear of ‘Shadow Defaults’",
@@ -22,6 +52,16 @@
       "region": "Global",
       "summary": "이코노미스트가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zVmhIQjJaOWdKYkZpMmh3RG1RNFY0d1RsTW5IWnhOVGVMXzJEUzRtclFsRWtlYmhteHR1Mklrc0NxWFpWYmVXaFRodDMwSmE0aDNyejV6eGRmNkhqM2NXdFNR?oc=5"
+    },
+    {
+      "id": "n-6a0de9453d07fe1a",
+      "title": "BLUE OWL CAPITAL ANNOUNCES SENIOR NOTES OFFERING",
+      "source": "TradingView",
+      "published_at": "2026-08-11T13:10:00Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTdRenpiU1BMMklOSG80clBZemlRYTZ6d2E4eUdQOVNJaVcwV1JlWTVxZDFvaUp0bWRFaW5sd3pJZTZ6X1d2QnBPRG1NQ3JTd2xwTFB3b3ZwZVBUQ0sxc3g3TkFZMDdrelVacjE0UTZnZUxMSWtYU0RfTGdXMXRsbXJfNmJjTnd2dlhfVWZoeFVsRm9PRktmSG1ONU1PcGtMd25IeHQyQXNXc0thc1E?oc=5"
     },
     {
       "id": "n-adbfe05390c5509e",
@@ -74,6 +114,26 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVk1UlQ2OEs5QTFNbmxKNF9JTTRrYzlocEZQYi1SRktLeVpOVGVFTVFENXBDOWZqaU5SczdmOVBvOXJpdk55Y1BMRjJmbTNTMnE0VDUzMVBMeEtDa2Q3TDNqMmxoWTZnSHpuaWFObFBNQk1aOW5qVF85Y1ZidlVmd0xrUDhweXV1MmM1cWdrVEUzZTVfbXg4NlJSWG1wRzhCZFY1VmNwcXluSGl3bjk2aXRJS0w?oc=5"
     },
     {
+      "id": "n-2950bcd5a9d086b6",
+      "title": "Bill Ackman’s $1 Billion Sale (GP Stakes Case Study) Arnaque Allo Telephone (MQPhkLnGS8)",
+      "source": "Mshale",
+      "published_at": "2026-08-11T10:31:09Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "Mshale가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tREdhaFlhdzlrMGQwYkRPQjE0bTJXOVY5ZG5PaEJjMHpObXFuTDFLMUtCZHM3Vl9IenJEaC02aS1HYk44NXBTenJSVXZCSFZtZE14LUZIRzcxVnc?oc=5"
+    },
+    {
+      "id": "n-19af9efa17dfa201",
+      "title": "Titanbay and Coller Capital partner to expand access to evergreen secondaries",
+      "source": "Funds Europe",
+      "published_at": "2026-08-11T09:43:44Z",
+      "category": "Secondaries",
+      "region": "Europe",
+      "summary": "Funds Europe가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVzdRMEVyY0dBaHVtMjZsM3ZwNTB3cjVPTGVkQ2Y4bWs0UnpBSzhDeHVBcjh4MXZRSm1aOGZBMFQtVGdULW9iLVhiYWZpYkRkN0YwNmpSSno5RVJlOEk2dDZReXdxOU9BNE96bmZxUkNNUGZVNHA4QmVXdkRNWnR6b1VsazRBdFpmS1c4UHpNQ2ZTUjFRXzFWNEUtWXJtR0Ntczg2eFpB?oc=5"
+    },
+    {
       "id": "n-73d3eca08868f4f6",
       "title": "렌터카 1위 롯데렌탈, 美사모펀드 TPG에 1.3조원 매각",
       "source": "v.daum.net",
@@ -92,6 +152,16 @@
       "region": "Global",
       "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUhocjF5d1lqdndGU0ZMQXhZV0pBaVhGQ0VHVmdzRzB2RjlBcGNOSVpVdVd6Z2E2MDVfSlVrY09wcVZuRHVPa3MtOXVSWmlUVUFuTUdzdEdXOWJ3NFFvNTFaVkZ2VW5meUc5enBzbkNCbUhiMEttNk1DbFZDT1EyWjd4R3lTbTDSAZABQVVfeXFMTmJCU3BPMzRMYVllX01EajA3ZVhBdkpjWDYtYzdZU3VvRDRHN3RDemJFc3QxRzNsYTc4dXhSU2Zyb1VjS09ERUVYamhwdlYwMndUUkNPc1FuSWhORUVhNTV2UTFMMUx1cW1xR3ZyNWJERWFuTkxrUzRETG5tSDVLdE1mUHBDbDYtSU9zcEZuMzV5?oc=5"
+    },
+    {
+      "id": "n-6ef0b993ff1e6476",
+      "title": "SQ Capital, Pantheon, Apollo S3 co-lead Exponent's €750 million CV",
+      "source": "SecondaryLink",
+      "published_at": "2026-08-11T08:51:25Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "SecondaryLink가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTEd5aEloNE9fSmJzaXVJVEEySkVjQ0J4cFVDWjNpcjB0TFhBVmZUS1BnQ1U2Z3lqYjk1SGdNSXlaU1ZUNEgzWUluazVwRzJzZ2JpZGJKZGxGMXVteXNIbTVaX3pqQjNtc01RanFOVkdkU1BRcmwzVVQ5cTBIVE54SC1IU1dEVjFKVko5WjhJS05oZTd2aUxGaXAtMGJ6SmdHMzBvcE1ESS0yazlxYlVNdDZWUFN4ejdDX29z?oc=5"
     },
     {
       "id": "n-8ddcd2803454250d",
@@ -236,11 +306,11 @@
     {
       "id": "n-10ddcbc4174b629a",
       "title": "해외 부동산 펀드 투자 주의보 \"증권사 믿었다가 전액 날렸다\"",
-      "source": "영남경제",
+      "source": "ynenews.kr",
       "published_at": "2026-08-10T07:28:06Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "영남경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "ynenews.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tUHdXLUNOV3JjV01ydDYyVEJKMnljcFA4R0hGeG1ndzZnOE1kVzlSdUZWalE0WEJQbl9URjlEMFk1a3RFQS1UU0F0SjZJeDFuMzJGWlpydlRzSkhscXRzek9ldEx6LWc?oc=5"
     },
     {
@@ -362,6 +432,16 @@
       "region": "Global",
       "summary": "조선일보가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcE55cHFQWlhFVWJnbHBrRTNQZ0NQQ0FPUy1NeE1CT1BuMWVkcGJya2x6Sl92c2k2dlY1UDNGSE94d2pNR1R0NXVzWnlURDZXTnVMWFh5Qi0yWXZtRGZRdXBrUGpJLXhtZWV4QzBpYkhYOV8xYWl5LVVITFNiVnhKYzREeTBjd084RW44UVpn?oc=5"
+    },
+    {
+      "id": "n-3a7681f7eb733e14",
+      "title": "부동산이라 안전?…해외 부동산펀드 원금 전액 손실 주의보",
+      "source": "아주경제",
+      "published_at": "2026-08-10T03:00:00Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "아주경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyVmZfaXVMa2ViWDAtbzM4Nmk3VVJLdlR6cmdaTnltSjl2cWdBMmpPQkktZWd3Q1V5aGJ2MGRtZFNJNHd6RmlEU0YyS3RyUm5VVWpRVmo0MnY2UdIBWEFVX3lxTE1QSjFXdkxEeDQ0NVA3MURMRjBHYTNiMkJTZEdENEhQd3FVV1RUb3NsSFZUQWNiYWpiaHhodmxGU2puNTA4LUtBUkJhNkxuSnN5eDdKSERIQU0?oc=5"
     },
     {
       "id": "n-e34afe8d36c8965c",
@@ -564,6 +644,16 @@
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xaGd1aEVZTVNZMGNMODgtOWxaVnJKeC1pVWg4RGdreWJDeXF2bTlQeDg3TFlrYTVuMnNZQkN6TWpHOXd1NHZLbjRaNWt0Rm5OWUxCdGgxdTJVZEkxcFZrR1p0MUJTcGNiajhSNg?oc=5"
     },
     {
+      "id": "n-a1646d592805e3f0",
+      "title": "Goldman private credit fund's co-CEO to step down",
+      "source": "Citywire",
+      "published_at": "2026-08-07T10:27:38Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Citywire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYnVzRG5uaW1mTlR3V1daRThyUXpsVnJyalFuMHF5dnpWdmJlWDhTdWNrOGlxWVhlQ1hJXzMwQkZZa0pCQTQ5WGhETENLSXlvS2c4WVBtOGVJaXhPRlp6TWs1ZEJ5NGJ6MEZOSGhLN0h4cnVzUlpUSkRxeXVOa2w2TF9la1ctWTBPeG01V1lfQVdIMXVXd1hPWQ?oc=5"
+    },
+    {
       "id": "n-4b704e993e57b67a",
       "title": "Credit Immobilier de France launches jumbo mortgage book sale",
       "source": "Structured Credit Investor",
@@ -685,7 +775,7 @@
     },
     {
       "id": "n-df6d7ef126bfce95",
-      "title": "Brookfield Accelerates Launch Of Giant Real Estate Fund As Market Improves",
+      "title": "Brookfield Launching New Real Estate Fund In 2027",
       "source": "Bisnow",
       "published_at": "2026-08-06T18:06:16Z",
       "category": "Real Estate",
@@ -695,7 +785,7 @@
     },
     {
       "id": "n-df6d7ef126bfce95",
-      "title": "Brookfield Launching New Real Estate Fund In 2027",
+      "title": "Brookfield Accelerates Launch Of Giant Real Estate Fund As Market Improves",
       "source": "Bisnow",
       "published_at": "2026-08-06T18:06:16Z",
       "category": "Real Estate",
@@ -1312,96 +1402,6 @@
       "region": "Global",
       "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmQ0VDNuRk9ZcEw0Y1g4QlE4LUdNRV80bjNWUEk4YjJqU196SUpTei1jcGZfUlg1S0NsNnNSZTVaOEVuU3lqMjBMLS0yRzhoZHl3T1V2cS1tTWkzeFp2WGtwQlE3a3FiM2xxajczOWJTdUdSTGhiLUtfUUZCem5lQ2c2eV9tbmJ5WnZMVW02UDVGQQ?oc=5"
-    },
-    {
-      "id": "n-25085317c2b1b7fb",
-      "title": "사랑의열매 첫 ‘사모펀드 유언대용신탁’ 기부자 탄생…8억 약정",
-      "source": "v.daum.net",
-      "published_at": "2026-08-04T02:08:09Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TQlJ2c1JBLWp6NVk4UEFlYU5IR3BWeklqVFNKN1R6MmgxMVBPLWVoOTJydzd4VXlvNGc3WEVCaTVmTzRKRWc?oc=5"
-    },
-    {
-      "id": "n-7ac5b8687d59937d",
-      "title": "Radnor investment firm raises $300M for private equity vehicle, nearly doubling prior fund",
-      "source": "The Business Journals",
-      "published_at": "2026-08-04T01:46:00Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "The Business Journals가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMEZac0FTUFY0M1piUVZXQkZxVzQ3STR6WGw5US1RNnZwbFJscWY2Z1RTU0IwdTlWV1A4QlVEWDZ5ZHpKU3BobE1CeXBFWXhIeGJYMGhwNV9iWEtGdlhYVFA3NDNISzBGSm9yV0NTWDNDNldpa3pva3ZfcGF1WGtnTlowSm96ZE03ZGFmcElkMGYzTlQwQU01OHBfN00?oc=5"
-    },
-    {
-      "id": "n-5d80c483386f3cff",
-      "title": "Boaz Weinstein Takes Activist Stake at Bluerock Private Real Estate Fund with 5.03% Stake",
-      "source": "TradingView",
-      "published_at": "2026-08-03T23:56:03Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ1Vnd050d2xvaVlxVmExN1dtYV9kcjM3cXdET21sUEtoQnZpaDVadUIxcnJ2X0xKbU9qUG9mS2pEZ0hXTVhTanEybHpBU1Z5eFRHMlJKWnRjLTdlRTZYVWttcTRPc1NJU3c5Q1ZMeTVmeVZkeUtQTFp5TkpsSGgyVmZWM0tJZUtUOGpnUVNDWGhpZUZ6bmh6WXA5aGJGbWJMNi1GYXBITTNLQVlteXV0Yk5rVW5hV3JNQW1waHhEYUx1NHVMb0YzODdZdUNOLVBZYS1kNk5aMlptMHFKWHBnaTlERko?oc=5"
-    },
-    {
-      "id": "n-fcb3feae9b3a1e5b",
-      "title": "Kayne Anderson Fund's Long-Term Investments: 95% Midstream Energy",
-      "source": "Stock Titan",
-      "published_at": "2026-08-03T22:25:00Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "Stock Titan가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNGJDMFhVLVgtQjlpUHFqUXNwMXdQbG1VTWJqbFp0WE5XNHNHRG9xT2VmSnpzVlNNR1BJQjlXS1BQOTBrNVFHaENFVGNTRldORzhpWk96S2lLc0R4YWMwOEJ6cWVJc1lLZVhNNFh6bGl4U0hsc1ExVGpIc2ZHaXBnRVlyR0tjc011bzR2aDU4azRvbzBUcWtpaTIzSWZDemFONC1qSUttYnBYSndvZW9FMjB2RVBrb0dCZlpNTDNfTQ?oc=5"
-    },
-    {
-      "id": "n-ba0ef5066e14114f",
-      "title": "Kayne Anderson Energy Infrastructure Fund Provides Unaudited Balance Sheet Information and Announces Its Net Asset Value and Asset Coverage Ratios as of July 31, 2026",
-      "source": "Moomoo",
-      "published_at": "2026-08-03T22:25:00Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "Moomoo가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSzE2MTZ6LWF6ZTRIc3R0bkRaUm1IbTlLMk5LWWdieVRWMnhaRW1qeUUyRTNfeUJyazZwU3pxLWJGQzB0NGNnOVVwd2g2T09aZEFZdEc4LUFMbUJCMkxvdV9jbWFMUTl4WHRNVW8ydGk1aDZPLXd6Nzd5bFR5cmpwTHV1OXBXZldxZGY2b28yNjR0a0RJYldVN21JVEpMb0w3T3FOOU1xbzZ4amQ0TlZxR3RLT0J2YWtTSWVVYzR1YUpMMEN0R2tv?oc=5"
-    },
-    {
-      "id": "n-3c2a6d3fe9aca493",
-      "title": "Sponsors pushed for a bigger slice of continuation fund profits in H1",
-      "source": "PitchBook",
-      "published_at": "2026-08-03T21:46:29Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "PitchBook가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONVh3QWhwTnRCeENILU9xRjF0cUJQTGRWUnNtZ2dyRXNYYVd3VjZmUUcwV0UyU2tMem0zc3ZMZzFiajBNeGNMcTV5R3JXZDJzY1V1TFJSS1hkaG5xaUNWb0RDUzVFVnBtek5EOFRpNkFSNkFVNy1hNF9aRXcwaWppTWRyeHVnTGpPMmFXd0k1MUgtRmZlSUtJVEtrVVBHenhSQTJ4eExxNW8?oc=5"
-    },
-    {
-      "id": "n-28253f9cfff4bc78",
-      "title": "KKR Closes $19.2B Infrastructure Fund, Bringing Its Infrastructure Equity to $120B",
-      "source": "hartenergy.com",
-      "published_at": "2026-08-03T20:11:00Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "hartenergy.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2YxQTBuWnlzdW5KTVE0cVdjWlFjeF9pMmdRZUtXYkFuUjJCYXNvcXk0bzF1YkNoOXhpOG9nWk9vT3JxMHFGbzZCV1AxSzhUVklXR3lMeTFKLUJTQTVfZjRqRHZrcjJKTE9FaXh1aHlEdEdicjM0Vjl3aGpEaEtuYnRZQmVjb1d0cjVnd1R5ckxoX0ZmMHdXTHlB?oc=5"
-    },
-    {
-      "id": "n-8a36ae0a7cb8c682",
-      "title": "Accessing the next layer of private credit",
-      "source": "Brookfield",
-      "published_at": "2026-08-03T20:08:52Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "Brookfield가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVXdoRnZNakJIc2JkSVBZczd6M2t2VTkxN3NWOFMzTFh2WFhCTWpTcUtrX2tRM2RkNldYbXJ0RlpRVGUyWTdhLTgyaFlBUG9QQ2RadFlIYWJRYTk2V1FjY1lUNWRqZTRhcVhFU2JQdkRoc09SWk1IeWI1TnlwcXFZaUJLNUFleUdTZlE?oc=5"
-    },
-    {
-      "id": "n-22e86279ba328478",
-      "title": "Why Ares May Want Leonard Green",
-      "source": "Los Angeles Business Journal",
-      "published_at": "2026-08-03T19:27:31Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Los Angeles Business Journal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GWE1QeGFXalB5M29MVG1OV0ZodTY4T0UtWDc4eFJLTWpQa2hKRmpxRllOR3B3a000YzVQUnE0NmZOWXgzMHdZSUNNSWRub0RDNTN6TER0S2hKaWtDV1AyUTRuR1AxRml3VGVyMXFkcVhnSGRiVUt2R0JYOA?oc=5"
     }
   ]
 }

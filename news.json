@@ -1,16 +1,26 @@
 {
-  "updated_at": "2026-08-14T20:04:54.023374Z",
+  "updated_at": "2026-08-14T21:58:15.303515Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
     {
+      "id": "n-4535e7af4b1175e7",
+      "title": "Homestead secures ‘significant commitments’ at first close of agri private credit fund",
+      "source": "Alternative Credit Investor",
+      "published_at": "2026-08-14T17:07:28Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Alternative Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWxxRUg3TXZ5VU9Pako1WGNPMG9lRmpvdjFuY3R0c1BQZ09KTnl6M1BBTUtCUVp4enh4WTZhRzdSRnItYk1aUWhpTTBjQWp5RG42dVYyeTR4RFBlcC1OSXo0YV83R0JDeWNHNnNuRTFWMnB6M0RHOWU0d3pHbDRyamRnTkN3VmxVZDB6NlhiRW93dm4ycU9ESWFxbVZfUTFzajRCN0tlNk1wSThpYU44ME5HdlFHWWRBbkJqN2ZsaGRLVGZwaUpXSVU5czlHLTA?oc=5"
+    },
+    {
       "id": "n-7cafeac4d7869659",
       "title": "2026 Canadian Private Credit Allocator Outlook",
-      "source": "marketsgroup.org",
+      "source": "Markets Group",
       "published_at": "2026-08-14T15:39:16Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "marketsgroup.org가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Markets Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV0lnMnhLYkRtM202Q19yZDByUDI1VVRkaEppdGhtcWpQZ3JzOUl0VGhWb2FFYmNnVWpRMUFVaGpaT0lfU0F6VHpWaGg3ZFItS2VJQWVIZDRES2RSdGRXeGUwMkxFSUdEcXdmbDQ2V2dFeW9tWlBlUkJoUTBUeDVzVk0xTkpTRGZfMjBoVnZQMXdsT0lJNzlXY05aRQ?oc=5"
     },
     {
@@ -22,16 +32,6 @@
       "region": "Global",
       "summary": "더구루가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5UnR0NXI0bDNVamo3MUo5QWRyS3RIV1VIUnIyNjFBY2k3TVE0SkgzTDV5TmVCQlJMaE9hRHlNa21uWm4zcDk5YjZEMnBpX1Bfckc0TnJMbXdwRHY2M2xKWjlVcw?oc=5"
-    },
-    {
-      "id": "n-4535e7af4b1175e7",
-      "title": "Homestead secures ‘significant commitments’ at first close of agri private credit fund",
-      "source": "Alternative Credit Investor",
-      "published_at": "2026-08-14T14:31:55Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "Alternative Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWxxRUg3TXZ5VU9Pako1WGNPMG9lRmpvdjFuY3R0c1BQZ09KTnl6M1BBTUtCUVp4enh4WTZhRzdSRnItYk1aUWhpTTBjQWp5RG42dVYyeTR4RFBlcC1OSXo0YV83R0JDeWNHNnNuRTFWMnB6M0RHOWU0d3pHbDRyamRnTkN3VmxVZDB6NlhiRW93dm4ycU9ESWFxbVZfUTFzajRCN0tlNk1wSThpYU44ME5HdlFHWWRBbkJqN2ZsaGRLVGZwaUpXSVU5czlHLTA?oc=5"
     },
     {
       "id": "n-3786e583650278c0",
@@ -147,7 +147,7 @@
       "id": "n-315c8fdada091c3c",
       "title": "1789 Capital closes $1.2B real estate fund",
       "source": "Axios",
-      "published_at": "2026-08-14T02:42:09Z",
+      "published_at": "2026-08-14T05:43:09Z",
       "category": "Real Estate",
       "region": "Global",
       "summary": "Axios가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -164,14 +164,14 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MMmI0SjBlYWJPRmRsbVM5X2F1WmJOQ3NLc3BnaG5jSkh6NTZaczF4Q1V5TFdCYnNWWDR6cjJ5RWlyaHpibVlRTGRqQzczeVpiZDc4TWg1TEEzUHpWcXA4aUlabFZlNExIcUhEeS1OemlWSEM20gF0QVVfeXFMTUwyYjRKMGVhYk9GZGxtUzlfYXVaYk5Dc0tzcGdobmNKSHo1NlpzMXhDVXlMV0Jic1ZYNHpyMnlFaXJoemJtWVFMZGpDNzN5WmJkNzhNaDVMQTNQelZxcDhpSVpsVmU0TEhxSER5LU56aVZIQzY?oc=5"
     },
     {
-      "id": "n-a94018bbbefb70fe",
+      "id": "n-f26cd7ca2076bfe6",
       "title": "T. ROWE PRICE OHA SELECT PRIVATE CREDIT FUND ANNOUNCES JUNE 30, 2026 FINANCIAL RESULTS AND DECLARED TOTAL DISTRIBUTIONS OF $0.60 PER SHARE IN Q2 2026",
-      "source": "TradingView",
+      "source": "PR Newswire",
       "published_at": "2026-08-13T22:28:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQcjdCNDVTZElMckFXeHhlSDQzaFdOY0syV3N0bnhySVdGOXAyNzhUMV9KV3JVZFY2UWtaQThqMG1tOTJYWEJSNnUyUWZRT0hWd3F6Zi1Pdk1Uck90aTQxbnRlUVhfODhmRWMwVTNiOE1iVnlEN3lsdWg1Z3dUaDl2SE0yUGhmb1BzQ0FsMERvUzRVdk5IS29oVlM5cnRPVE9URzhpaExYYzZ0QTZXTndhWXJTb1VJWHNwMi1tOTJnQ21IUUFTb2t5RXVfV0hGRXhpR2lwcmJRWmVKYWdLV3kyYzZjZXBnREU2dnRTX3BtRHRVMjkyanJKZFpOa2NSb0daQ19yTHliaXhhY1pjQmd1SXhXZTZQX0NOS3lSNGlJUFE1VTNMR2lYdHhZX3FOT2lp?oc=5"
+      "summary": "PR Newswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQMkR0dFRkR0pRdTB0RWV5ZE5sclRGX1ZpLWh0NzhOUUI2VUdjRXdNZmw0allPbU1yWHhBOEpIVG9kczNaU0Y5bUtkRXdWQ2pTaE41M3VEU0Jmdm9qQndWekdZRThIbjdJbW5rVm95R3dlMUFPU1pfV2xzQV9FMlVQMEFSMnFNb2hrNHI5UlpZUENCTDAwZ0wxNlZDR19ELUVGa0lYQmFmeHAtWEhya0NBeDdGSlBNdlFmMDU5ZTBRSEZCRTRhZ05yUFlTVkR3Z1BFcHFzQldtTUN6U1VPQUJRV2tQcHFvRUR4YTlRYzAtd0FHRUREUWdOTTBpZWVoOTJrbDNyV3Q2U0xOcnJmWDdaZm1ObkI3aU91ZWNscFYyRDJuNkYta0lxQ0dqN1A?oc=5"
     },
     {
       "id": "n-85d04a7582b7eb44",
@@ -376,11 +376,11 @@
     {
       "id": "n-64c9c42cf972f08f",
       "title": "Morgan Lewis Advises Pantheon on $3.2 Billion Co-Investment Fund – News",
-      "source": "morganlewis.com",
+      "source": "Morgan Lewis",
       "published_at": "2026-08-12T12:53:08Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "morganlewis.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Morgan Lewis가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWkhkZnhZX1dNUFlPa1Zja2tKZWFncVl0REhOMU15RWxXXzNwWDE1VFJTSWw5VUtaeG80bHR0RzJ0VUtZTTF2MG5TNWtXRUhhNHE4bTJvcEp4TGotWGIzdVBOYkNRSzBHM0k4S0pPREdralRMdVpQYjZrNldmdzc1YzFxMkkwVF9ZTlR6WUZpUHRKZDFSVUptTWgwRmtSVThUNXhVcGFLRQ?oc=5"
     },
     {
@@ -1026,11 +1026,11 @@
     {
       "id": "n-c97c5d9d0a48ee99",
       "title": "건물값 조금 빠졌는데 내 돈은 ‘0원’…해외부동산펀드의 레버리지 함정",
-      "source": "조세일보",
+      "source": "joseilbo.com",
       "published_at": "2026-08-10T03:10:00Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "조세일보가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "joseilbo.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fV1R0TjBsb1lia3htdWhwenhrd1NnMHhfcGVJeDZSRDdHc1NVTVk5N0R1LXhwd1FfQWxfUUxBcUNNYnlSYjZhSnpBdjNuVml0M0J3aTFMTWdncGZ3eW80?oc=5"
     },
     {
@@ -1386,11 +1386,11 @@
     {
       "id": "n-df6d7ef126bfce95",
       "title": "Brookfield Accelerates Launch Of Giant Real Estate Fund As Market Improves",
-      "source": "Bisnow",
+      "source": "bisnow.com",
       "published_at": "2026-08-06T18:06:16Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "Bisnow가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "bisnow.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTFJwWVhScWRoWThORnNBR0FzcVVFNXBlb2dkVEJtd3p6X2dNbXpscHZMa2NUbTBGNTZWVmRmcFpkOXdWQkNjeVY4aGEyZlVJV2xUVTRkVmNPeXA0SEk3MjkwVkRfdElEMk80bHdtSkg5a2V3Z25OdHZaYjJSalpTbFRlSGwzd2NJN1ZCM3dGc2FKaUkxcDE1YVZMbXkwMmJobWdUbi1lOHJ1VTM3MlBRMW1tYU1fdEhsQ0tVa0g4bkh2a2VHRXZOQlRaanp2TF9n?oc=5"
     },
     {

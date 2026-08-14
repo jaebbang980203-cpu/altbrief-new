@@ -1,17 +1,117 @@
 {
-  "updated_at": "2026-08-14T09:44:47.217549Z",
+  "updated_at": "2026-08-14T15:11:04.164344Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
     {
+      "id": "n-3786e583650278c0",
+      "title": "Donald Trump Jr. returns to real estate roots with $1.2B raise",
+      "source": "The Real Deal",
+      "published_at": "2026-08-14T14:28:00Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "The Real Deal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVlE3Y0xoZ0Z5aHB4NUhJeEJ4UmF2blVmbVdsbTltWGJXTWY5OGxQMlJQRUhGTEV0SHBRM0g1TXFlUE9KT1A5NE0zMVQzV3MzaUpfQk9OX2w1Vm4xbGJNdnlEdXlHYlpjQTJjSTAzQ25aUDhGRlFjRVY3NWVTUzZ2Q0FrUk5YT0tTYnJpTEZkRlNUY0xhQmhwLXcxZWZwbDAyVDMwakd3?oc=5"
+    },
+    {
+      "id": "n-aa8c0ce71ddf539b",
+      "title": "Private credit roundup: Nvidia's half trillion for chips financing, plus others",
+      "source": "Reuters",
+      "published_at": "2026-08-14T13:54:07Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Reuters가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdWtyVEpfcVNDRlNMYkRlOFNBOFRSVnBMazVkeVc3b2FRZWNYVVpvcjJsbFJxODVvVEFNMmFiaTdvaEpxLWc0N2lYZnRCRXBhM2Y1djB3RlJMMFJWVlgtR19wdGF5WW16aFFia2lSZ3hXUTVrUTF0dFdWQVBGWkxsbEZ5UXJlU2dzYW43OXlxQkFaRS00V2VKNWtzb0FvdGliQ3JzQ3NnMDNPZU5tSEdLUlluQ0E4dlc3bUxfeVptb2ttUndhVU9Z?oc=5"
+    },
+    {
+      "id": "n-7bd45aa0d961f1d7",
+      "title": "Homestead Capital Announces First Close of Inaugural Agriculture Private Credit Fund",
+      "source": "PR Newswire",
+      "published_at": "2026-08-14T13:39:00Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "PR Newswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdHU3bHFINWp5b2N0YXo5M2c2Wlo2Z3JZQ2NaaVlFSW5fMGdNYkFlOUxneFE2UU9XTXlBZzYyT0RvXzBVVDJ0Mk5YUzdOU3p2WkhCTG9xVlg4MG1URmk2OVFfS1BWNjE4RFRFOEZ0NlJiSHFfWjIzcmk4V0xFWGM1azRrTXZ0dTQ0UVJFcVgxZU1JaFV4MTNpeFp0aTB5X3RhVmtoZndQYzlOS0lmZEpOaHhDR3Z4T2JETTdRSEN5Mjh5dHVzTGtIVFZOY0F5aEtsX01wWm9zZw?oc=5"
+    },
+    {
+      "id": "n-f1532eec88359a49",
+      "title": "Hollyport’s Carter on why the firm chose Blue Owl",
+      "source": "Secondaries Investor",
+      "published_at": "2026-08-14T13:11:58Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "Secondaries Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3dTaGVlRjZhZkxFM08zSGU4QmtfeUF5MXdUZjcxVkhMR1VjWGM0Z1dOWnBTOWF3aXRFR0xVTHM2TTZqbU1fQUZYNzA1WXNIRUVzZjB1bGRFZ2E0enplV3lMZy1NY2s5M0xPdk0yVTJEMGRsWGpaSHVNUUpsNUFGb0FKcTRZSjRYVkV0Qnln?oc=5"
+    },
+    {
+      "id": "n-28f9df0600a51031",
+      "title": "Lightspeed builds a continuation fund around its OpenAI stake",
+      "source": "Dealroom",
+      "published_at": "2026-08-14T12:36:00Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTd1YVhvSTlYSHQzbmxSVGNtYkNoNjdsWWkzUVlZaDhydFd5REx2S0dQeU5YcGhmR1A4N3ZQMEI5RnpxTWw0NnJaR1dQMXZ4VkhGMFJPcnNDYnU3d080Q0tRY2lld1B3U1g3OHIyQ0NsZ0dTYkp5UVR2TVplVC00UTQtMWtDNWc4YTN6RHNRYUlPSklaamgzMWl0OA?oc=5"
+    },
+    {
+      "id": "n-fe6b5fdee09290be",
+      "title": "Tokenized transactions surge to $5.3 billion but generate just $14M as costs soar by 56%",
+      "source": "CryptoSlate",
+      "published_at": "2026-08-14T12:35:39Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "CryptoSlate가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3pYUmhXa1VZREtDNHpTN1VVY01lTFo3SmRPZzE5UXI0c245ZmF5VXh3N2pLaVRMYUVyNlRLQXluX1V1ZV8wZWloU1B5bDhYMXNXZWpHUUYxOE5vZTlxNHVQeGJSM0RlLUp2OUhid083MjVTUzBTZm1EQlB0bWM0SXVYSHJ1TlZUeHR6UW1rOFJNNFpfUTRUVWUwZlYzSDlYWkRQdm00TkIyM1M5UlEwV0tWd3BrUQ?oc=5"
+    },
+    {
+      "id": "n-256219e6eb11d6da",
+      "title": "CIP Raises $3 Billion for Growth Markets-Focused Clean Energy Infrastructure Fund",
+      "source": "ESG Today",
+      "published_at": "2026-08-14T12:10:10Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "ESG Today가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHNSejRaQnVfOFZRYThUMkpkWUI2WVRkM1lYZEZWM3VDc05rMHJERS1hOXd2UGdYRXAyazE0Wkl3VFJpQWREUWh3ZkZvUDZudU1MOUc5cmZ2M2RYdHphXy1lRFhoN0g1UENaS1lmbkdQdDhmYjhGblFMVzcteE5hX0p4LUJaUWl4cGpiMzVqTUlyNVNIUDZRaUtPRFFsc1A2R1JOMFNHWm1HQQ?oc=5"
+    },
+    {
+      "id": "n-18514ae3d6e4dde2",
+      "title": "Janus Henderson, Victory Park Capital, And Privacore Raise Additional $100 Million For Asset-Backed Credit Fund",
+      "source": "Pulse 2.0",
+      "published_at": "2026-08-14T11:29:17Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRzR2c0h1djhKOVhQNmNmallIbHhpRTE0VXBnMVIyMy1WTnBQQTY4NWFJbUM2ZjhyaVJVeUJVT3RtUEZkNUlXNWxzWGxfa3N4YVQxS1AzcWcyNXdnSVZObXBQaTRDSTN2bEQycExMLWwtR09vRG5qRWZDS2wySFNfSnZpejhXaXRjQ3NYejlrc1JmX0NJZFM1YVRDYW9WSmFBTklXZVEwanZjMGhhQjhEMS05UzU2LXlFLWpSVUNqR0VNbVd2aHBJ0gHMAUFVX3lxTE9JMjE4eU8tSE4xRXJBLW02VjJ2b0lweEJPclZheVA2ZDZONUlDZkJlLWd3WEhJNzRHd2l0NVZ1dlFhWHduODhNbWtYc3RIUXRGc1hkQlRXN2hQeFU1ZE94bDZnNEphb1c2R2lkM1N1X3pfTGNhWC03NDkwbUEtVXZ5MEI0ZkM3UUJicmpZNTB0YjlEWUxhYXdtS01Yamo1M1pJM3VWVlJxNDc1VlNOTjhTSU1GQTBGaTVPSlNwUjdWeGJOZ0xSWWtfNE50WQ?oc=5"
+    },
+    {
+      "id": "n-43f73b258856c159",
+      "title": "홈플러스·고려아연 사태가 던진 경고…‘사모펀드 경영’의 위험성 [스페셜리스트뷰]",
+      "source": "이코노미스트",
+      "published_at": "2026-08-14T09:26:27Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "이코노미스트가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zVmhIQjJaOWdKYkZpMmh3RG1RNFY0d1RsTW5IWnhOVGVMXzJEUzRtclFsRWtlYmhteHR1Mklrc0NxWFpWYmVXaFRodDMwSmE0aDNyejV6eGRmNkhqM2NXdFNR?oc=5"
+    },
+    {
       "id": "n-c5123d43eed34fb2",
       "title": "Loan Note: New platform PEI Private Credit launched; LP thoughts on fund-level leverage",
-      "source": "Private Debt Investor",
+      "source": "privatedebtinvestor.com",
       "published_at": "2026-08-14T05:51:41Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Private Debt Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "privatedebtinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTVZFX2w3NGQ2UTJzSjFQWDNzZlEyY293bXBjeC1iME1EV3F3WVpOZHViUzZRR2p3aDNrMl9uREMxMVVKYmFkM09VbExKbGUyQXpHRlBIV25MLV80NnhxTVZRSWl1dS02NWNRdXgwS21wWFNYdDQ4TkY4YUtvcGd3OHpXR0p6S3VyVF9MbXhFazRnQV9EdjBFaXBKZFBnYTlfUGJmNXRaNU9lZ1FvaVdVR2lBTTcwR3VCV1RzY3hxQQ?oc=5"
+    },
+    {
+      "id": "n-315c8fdada091c3c",
+      "title": "1789 Capital closes $1.2B real estate fund",
+      "source": "Axios",
+      "published_at": "2026-08-14T02:42:09Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "Axios가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vNzY3bTU5ME1iWGQ4OFdTa0J2VFVZZ0dfUDZTZUVOWURVbGhyX2Y1U2FZdW9sdWU3Vktad0NUMkVQSWhBMjdLZjR4dnl2QzFzdFdqUUNZZnhJLXJrWlJKdWtQRDZ3aDdSOFFPYll0Zw?oc=5"
     },
     {
       "id": "n-aea00544adba4032",
@@ -26,11 +126,11 @@
     {
       "id": "n-06a9828949c67f9d",
       "title": "워크데이, 사모펀드의 인수 기대로 17% 급등…10년래 최대폭 상승",
-      "source": "news.einfomax.co.kr",
+      "source": "연합인포맥스",
       "published_at": "2026-08-13T22:56:56Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "news.einfomax.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "연합인포맥스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MMmI0SjBlYWJPRmRsbVM5X2F1WmJOQ3NLc3BnaG5jSkh6NTZaczF4Q1V5TFdCYnNWWDR6cjJ5RWlyaHpibVlRTGRqQzczeVpiZDc4TWg1TEEzUHpWcXA4aUlabFZlNExIcUhEeS1OemlWSEM20gF0QVVfeXFMTUwyYjRKMGVhYk9GZGxtUzlfYXVaYk5Dc0tzcGdobmNKSHo1NlpzMXhDVXlMV0Jic1ZYNHpyMnlFaXJoemJtWVFMZGpDNzN5WmJkNzhNaDVMQTNQelZxcDhpSVpsVmU0TEhxSER5LU56aVZIQzY?oc=5"
     },
     {
@@ -44,13 +144,23 @@
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQMkR0dFRkR0pRdTB0RWV5ZE5sclRGX1ZpLWh0NzhOUUI2VUdjRXdNZmw0allPbU1yWHhBOEpIVG9kczNaU0Y5bUtkRXdWQ2pTaE41M3VEU0Jmdm9qQndWekdZRThIbjdJbW5rVm95R3dlMUFPU1pfV2xzQV9FMlVQMEFSMnFNb2hrNHI5UlpZUENCTDAwZ0wxNlZDR19ELUVGa0lYQmFmeHAtWEhya0NBeDdGSlBNdlFmMDU5ZTBRSEZCRTRhZ05yUFlTVkR3Z1BFcHFzQldtTUN6U1VPQUJRV2tQcHFvRUR4YTlRYzAtd0FHRUREUWdOTTBpZWVoOTJrbDNyV3Q2U0xOcnJmWDdaZm1ObkI3aU91ZWNscFYyRDJuNkYta0lxQ0dqN1A?oc=5"
     },
     {
+      "id": "n-85d04a7582b7eb44",
+      "title": "Ellington Credit Q2 Earnings Call Highlights",
+      "source": "TradingView",
+      "published_at": "2026-08-13T21:04:18Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaU54UXB2Sm9OSzc5UXFKV0JxVGR1cXU2cWhpUXJ0Smo2MUpvNVZaQmxKUW53TGZnNURxamN5cUcxSTBDN1BfTW1SR1pncG5TSDRJSUJpbWR1aW05RW5OWFplaEl0Mm42QlZzWFNsSm04a002SEZJX3RLVkVXNF9ONFBqVjhvUVFla0k0Slk2V2Y4OHdzb1A1LVpWMjJyLWJraTlTdE9hODQ?oc=5"
+    },
+    {
       "id": "n-b74267499f97a9f9",
       "title": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say",
-      "source": "reuters.com",
+      "source": "Reuters",
       "published_at": "2026-08-13T18:35:00Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "reuters.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Reuters가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDFoSlRtR1RvcWRPUmFxenVMN09MZU0wMEpuTlI3a19xamlXeXlQcHZReEt3WXFXU3llTDdvQVZTZExrZFRVWGdrNDFxRnRTLVRJeXBxejlXd3hmSmhFdFNqY1FlRXkwTVpfeUJhODdfSGFuWFplcXRTeElXX0hFZkhhUFVlYmN6ekNZ?oc=5"
     },
     {
@@ -76,11 +186,11 @@
     {
       "id": "n-1f4db0c0f5a564a2",
       "title": "Navigating a maturing private credit market: Insight for advisors",
-      "source": "BlackRock",
+      "source": "blackrock.com",
       "published_at": "2026-08-13T16:47:45Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "BlackRock가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "blackrock.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanBlUm9OcVdBZll2SzVGR2Y3RnZWajRiZ01wR2V1akk3OFZpWmxrVk5EbVZJLTYzSkxqenczVGx0TDJvakxwb2RjUVFfemdrLWttYWRobnB3ckZ1ZWRCRm5DWXhUTmxwWnNfUFdVMTVWZk5sT3VfbUtKYUtYSVQxQW9rM0hFNURIc19leHh1Nmllb29TVTFzbUhOeUdoUGxIVE9BTnR4ZlQ?oc=5"
     },
     {
@@ -96,22 +206,22 @@
     {
       "id": "n-4079d1c3f3c0056c",
       "title": "Citizens Capital Markets gains Rheault and Jones, MDs, for syndicate and capital markets biz",
-      "source": "asreport.americanbanker.com",
+      "source": "Asset Securitization Report",
       "published_at": "2026-08-13T15:25:00Z",
       "category": "CLO",
-      "region": "North America",
-      "summary": "asreport.americanbanker.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "region": "Global",
+      "summary": "Asset Securitization Report가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWZUMnJuSVRDTGtJMWNqTjhhcU1EWkIzQjZVVFlsUXRnb3Q2NEVpSFl6R3RvOUtDR0NjSzZRTEp5Rll2LW9qTWdUNU9YY2FhUVNlMTBJeGlMbGJkX2RuMzFPRm0zX25TOEMtRVgzRFhmMmJ1Nng0TWFxR1J1aWRwVlRXTHlMaktZYzdmWTdqYzdSdS1mNXlsUGJxRXYtUTV0aTZPU2Q5endvRGM?oc=5"
     },
     {
-      "id": "n-315c8fdada091c3c",
-      "title": "1789 Capital closes $1.2B real estate fund",
-      "source": "Axios",
-      "published_at": "2026-08-13T14:08:30Z",
-      "category": "Real Estate",
+      "id": "n-c6f9c61ecd1bcfa5",
+      "title": "Arini launches first ABF fund",
+      "source": "Dealroom",
+      "published_at": "2026-08-13T13:21:28Z",
+      "category": "ABF",
       "region": "Global",
-      "summary": "Axios가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vNzY3bTU5ME1iWGQ4OFdTa0J2VFVZZ0dfUDZTZUVOWURVbGhyX2Y1U2FZdW9sdWU3Vktad0NUMkVQSWhBMjdLZjR4dnl2QzFzdFdqUUNZZnhJLXJrWlJKdWtQRDZ3aDdSOFFPYll0Zw?oc=5"
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5maHhvMnA4SFM3cWZJenczOS1yOFdEN3JpY3M4NUlYRnNpZmdEYldVR25DV0x5eldKT3kwd21kMVctTU14Si1sZE8xSnFqczhRS25BWklmMU1mdEo2RUhVaGtjUnZ5WjdUejBIZk9zd2I?oc=5"
     },
     {
       "id": "n-6e55174df4e5f0d0",
@@ -146,11 +256,11 @@
     {
       "id": "n-6a0c47c349ef1dc2",
       "title": "Via Transportation (VIA) director Peres buys 10,080 shares at $24.74 average",
-      "source": "Stock Titan",
+      "source": "stocktitan.net",
       "published_at": "2026-08-12T22:28:28Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "Stock Titan가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "stocktitan.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnN5Xy1mcWpiSEJCaENLMVBrdEkyclo2dVlZYmZMLUt1S2dPa0pSX09JUExKZEZBenNKOUhxREo4aEFpUlB2ejRmM2hUXzZwcXBFanZYbTF0RExsSTRIWEszSUE0ZzA0UHRVX3o2M0x2UzNZOE9CUEduUWJ6akFXeG1XRzNVRUtXcXk3TkdKQ0h5VEVYbWVJVWVvR2dnS3FPQi1NQmFJREtYVXY3cXlHSTRTbmE0dw?oc=5"
     },
     {
@@ -162,16 +272,6 @@
       "region": "Global",
       "summary": "아시아경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nQnBKY0pPNXJ1MzNoc3Vsc3ltWU9Bbm9OSFh2SVdQTGoySnMyTHFGWG8xODJWeFZpakNrNGM3RmJTdHp6MkM1dVdLOS0zWTZFSG5ndzFmTF9JU2ttZnJEaA?oc=5"
-    },
-    {
-      "id": "n-c6f9c61ecd1bcfa5",
-      "title": "Arini launches first ABF fund",
-      "source": "Dealroom",
-      "published_at": "2026-08-12T21:51:40Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5maHhvMnA4SFM3cWZJenczOS1yOFdEN3JpY3M4NUlYRnNpZmdEYldVR25DV0x5eldKT3kwd21kMVctTU14Si1sZE8xSnFqczhRS25BWklmMU1mdEo2RUhVaGtjUnZ5WjdUejBIZk9zd2I?oc=5"
     },
     {
       "id": "n-e095a7a7ccccbddb",
@@ -336,11 +436,11 @@
     {
       "id": "n-841de2551d59327a",
       "title": "The evolution of fund finance and how borrowers have more options than ever",
-      "source": "9fin.com",
+      "source": "9fin",
       "published_at": "2026-08-11T22:27:16Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "9fin.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "9fin가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00U0dWQnBvTlVmUGhGaWxLVV9hWjVseEtfc2Nsa3hiTHh6Mktxd1ZjU2g4R2s4U2xSaWpRdjk3Y0V3b21lUzVXa0UwY2hhel9oWU1vdnRwTkpuR0w1Y29TVExJX0pIZmdnWXp2YQ?oc=5"
     },
     {
@@ -456,22 +556,12 @@
     {
       "id": "n-67f8e50190e2bbd3",
       "title": "Private-Credit Firms Clamp Down on Loan Sweeteners in Fear of ‘Shadow Defaults’",
-      "source": "WSJ",
+      "source": "wsj.com",
       "published_at": "2026-08-11T13:30:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "wsj.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3BRR0NOV2FVZi1SeUU2N1daUnJrMFQtWC1tSVQxaWk3RlBjN0ZnbEFnTUFZa3VtMGJ6c09ab05zUzFxOEZoUnlEYU55RVdFblhPWGZ6ZlY2d2hjekhGTGFjampUbVRvRFo2OGQ3bEd0TlRueGxST0kzZFJ1R3BHdzFDSXhxY25IeVhsTmhQMzl6ZGRQVEVEdUtoV3V2VEZMU0pQYk5vLXhvSDlVaDdQcU1NbVU?oc=5"
-    },
-    {
-      "id": "n-43f73b258856c159",
-      "title": "홈플러스·고려아연 사태가 던진 경고…‘사모펀드 경영’의 위험성 [스페셜리스트뷰]",
-      "source": "이코노미스트",
-      "published_at": "2026-08-11T13:14:41Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "이코노미스트가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zVmhIQjJaOWdKYkZpMmh3RG1RNFY0d1RsTW5IWnhOVGVMXzJEUzRtclFsRWtlYmhteHR1Mklrc0NxWFpWYmVXaFRodDMwSmE0aDNyejV6eGRmNkhqM2NXdFNR?oc=5"
     },
     {
       "id": "n-6a0de9453d07fe1a",
@@ -486,11 +576,11 @@
     {
       "id": "n-adbfe05390c5509e",
       "title": "Felicitas closes US$10m delayed-draw NAV facility",
-      "source": "structuredcreditinvestor.com",
+      "source": "Structured Credit Investor",
       "published_at": "2026-08-11T13:05:09Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVJ1WWRsVWxFRkMyTkIwQUkxR3hCVDFnQ2dBTTdKSzZ5RGxZcGdUMEUwYlJLdDVDX0NSYjlWQlVJSlBuZlBGaGFmalRXLXZ5Z3JiOTdpV0xjTHBydkpfS2Y1YTdDTUgyN1g2dDdYVlJjNlBydURNQmpvR3U1WC1rSGJGaDJUc0I3OUtrbk1NdDkxQXlmNTNwTTNtbkxmdHFkbGFNSVpKcm9UM09ObmQxb2FSMmVOLUpTWVNPMnpFUm9DemdNNHBLX3hKdw?oc=5"
     },
     {
@@ -526,11 +616,11 @@
     {
       "id": "n-4203a2cf87833c84",
       "title": "White & Case advises PGIM on Mexican real estate fund targeting over half a billion dollars in capital commitments",
-      "source": "whitecase.com",
+      "source": "White & Case LLP",
       "published_at": "2026-08-11T12:00:00Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "whitecase.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "White & Case LLP가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaU43cktuVm1MMzl0NW5HLTNKZzVYdHcyQmZhWWZ0bVFFSWZSd2ZudFFVRGRTaFh6WS0xUGU2S3N0REFlRjJZc2lGTloyTWs4akdLR3ZBeFFOUXk1ay00SUhpNHphRm1qejZtdllxM3BZSVZpM1VJMFRMd01sSjdLaHgzeXd1QS1Gb211cFc2UUZxVnN2N0NiQ2xIYmZqV21yMEZQbFM3NmE1OGh0aXVOdW9GMlRqV3YteHRyR2VR?oc=5"
     },
     {
@@ -726,11 +816,11 @@
     {
       "id": "n-cfd8ab1244c720d9",
       "title": "Inside 17Capital's playbook",
-      "source": "structuredcreditinvestor.com",
+      "source": "Structured Credit Investor",
       "published_at": "2026-08-10T11:03:51Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaF9LT09xQlotbHVNcThaVU5CVDd4ZElBNE5RbVNrb2N3RGljY2dfZ3pnb1hXMGFXczIwXzZIVm56UUVMOEYzNHp3czZaUkprQVktSENKX0l2cXlzMnVycldMdWd4WXVnNU1uLV9xZHQ0M2dvRHlUTFlwWHNRLV9DU21GWUhWTWRDTWFZc292SVB5MjBNeXRiQjV0VXJLdkVZcGVqZDhKcXlSM3dJQXc?oc=5"
     },
     {
@@ -756,11 +846,11 @@
     {
       "id": "n-7f3b71f8f8c93451",
       "title": "Behind Private Credit’s Upbeat Claims, Loan Health Is Worsening",
-      "source": "WSJ",
+      "source": "wsj.com",
       "published_at": "2026-08-10T10:02:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "wsj.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDVEclFZU2RuS2toRklSbUVuZk1Jc3Ixb0p1aGlWaGJnVW5Rekd5c29yY2xFVlU3RkdYa0JIQlptRV9rSVdOMHk4d2NLcU0xcWZ2RHRucWxSMnh5Z1RUVGpjMGtxdUlkWXNlTUxBWXdqeGR6d25mQkREUjFTazRza0pRb3Rzb0lQSFRGd2pFblRkdzVXcUR0WEQ2cUloLWRZR2djbFFVX0pHZw?oc=5"
     },
     {
@@ -794,14 +884,14 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tUHdXLUNOV3JjV01ydDYyVEJKMnljcFA4R0hGeG1ndzZnOE1kVzlSdUZWalE0WEJQbl9URjlEMFk1a3RFQS1UU0F0SjZJeDFuMzJGWlpydlRzSkhscXRzek9ldEx6LWc?oc=5"
     },
     {
-      "id": "n-6f4086b4de10ce99",
+      "id": "n-77256a4f47a404b7",
       "title": "“안전하다더니 원금 전액 손실”…부동산펀드 투자 주의보",
-      "source": "경향신문",
-      "published_at": "2026-08-10T07:13:00Z",
+      "source": "v.daum.net",
+      "published_at": "2026-08-10T07:14:11Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "경향신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xbXlkVi1xYnZ0QjdULUhCM0NzMXgwQ0tBVDgwN0hPRGJRUU53SFFVd1M5OS12Q0tpVEpLYkY3dEVLSHhBVi11MHcycWJON2RSbFN2ZHp1Q0poUQ?oc=5"
+      "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fRTlEb211WjZyX2FZY3FSNnRrWjFZU21WYmlYbUdJVzM5d0I0QVhWeFZLR1NDZDcwTmRtLVRBdDJCa3pEZzJLRmZzcG5uM1l2RmNkbw?oc=5"
     },
     {
       "id": "n-04f324df88916365",
@@ -906,11 +996,11 @@
     {
       "id": "n-c97c5d9d0a48ee99",
       "title": "건물값 조금 빠졌는데 내 돈은 ‘0원’…해외부동산펀드의 레버리지 함정",
-      "source": "joseilbo.com",
+      "source": "조세일보",
       "published_at": "2026-08-10T03:10:00Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "joseilbo.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "조세일보가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fV1R0TjBsb1lia3htdWhwenhrd1NnMHhfcGVJeDZSRDdHc1NVTVk5N0R1LXhwd1FfQWxfUUxBcUNNYnlSYjZhSnpBdjNuVml0M0J3aTFMTWdncGZ3eW80?oc=5"
     },
     {
@@ -936,11 +1026,11 @@
     {
       "id": "n-e34afe8d36c8965c",
       "title": "Private Credit Is Under Growing Strain, Despite Industry’s Upbeat Tone",
-      "source": "WSJ",
+      "source": "wsj.com",
       "published_at": "2026-08-10T01:00:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "wsj.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONWc3R0t2R1pBQWRCZy1fRjBrTkY5dVJaejhDWGtvbnJiZU16Z08yS1hHV3dIR1R4NnRJVkwwSkRlUkFNZHNrYm1CT3dRQktYQVlmdS1acm5xRWxVMDg1RXA1SWZ0WnlDTC12UF9GUU5JOHBqY2pfZG9sYnR2eFp3ZEdwMEdpMEZHSGhnWm9IOTRPc0RGMUsxRTUzaHRsdFBMUHZxWjBsbHdGNE11U0stQW9ELW1hQQ?oc=5"
     },
     {
@@ -956,11 +1046,11 @@
     {
       "id": "n-b56f5c5682f2122e",
       "title": "The Nu-Age Group Announces Expanded AI and Automation Solutions for CLO and Hedge Fund Operations",
-      "source": "natlawreview.com",
+      "source": "The National Law Review",
       "published_at": "2026-08-09T02:54:37Z",
       "category": "CLO",
       "region": "Global",
-      "summary": "natlawreview.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "The National Law Review가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnhvaEh6cXBFZ0xKaW5sOGk5dHF1WHdFWHhkRzBucXZRN2hRaXh0emIzdWhsUmFqSi0xSkV3VmNBNXRlMFZaRmZKUmtvUzktVlYwUWZaUUVwUjI4a0YzS25HZ2pHQXpHNGFLbVN5QlRzTXk4S0N4YTBxanZnNmkzTXMxeERVRkc2VTB3ZFRHbm5aMURDREFRSzh3N2pybERTclVQQV8xeXhZeFFVWGtreUllVQ?oc=5"
     },
     {
@@ -1018,7 +1108,7 @@
       "title": "Private credit roundup: Weaker results but redemption pressures ease",
       "source": "whbl.com",
       "published_at": "2026-08-08T05:09:32Z",
-      "category": "Secondaries",
+      "category": "Private Credit",
       "region": "Global",
       "summary": "whbl.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0FITzYtYjBUaVlzTXpLQ2tKMlhYZFhrSTEtaU5STE5sR0VTVHZfcXdNR1lOVmN1djBZMG4yOXlQcS1sZjgxV01WWm0xQnhWVGN0WWtwLVRWNmJjaDMxdTNMRFlXTllhNl8wZG9odVNFTEY1MGlvZDlOc0hpWjVSNDFwTU96RHg0eEtXc3JsXzNTRVUydEZFZkVWQlg?oc=5"
@@ -1312,96 +1402,6 @@
       "region": "Global",
       "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdzlsRmRfRWk2RlhLZlltZHg3SU9neC1TdTlCM2lYNEltLWVSdjdNQ1NyOTl2bzI4b2djSVFPam53SDJfUk1kcUFVZUZkNC1rc3NIdmNTS0ItdEFwcFRDT3FOTGNYSnc1WER4QXdBTUZEb0M1b3U0SXpsYjdMX0ZuSmN5SHVCSGtoVHF1V3lNbFhYT2NOZzEyLXBqU25rd2tT?oc=5"
-    },
-    {
-      "id": "n-14d210dd73b04e5b",
-      "title": "CAZ Investments Partners with SoFi to Democratize Access to Private Markets",
-      "source": "StreetInsider",
-      "published_at": "2026-08-06T13:01:16Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "StreetInsider가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkVIMVJpRkNoU25xdVg3aWNnRDA5M2RDRmpqZDRKS09rcjR0dGkzUHBoQ2F2UVIyR3FBVG5xMmc2dDN4Wlo3OHhKWU9HS3E3eThaUGJydVd6bEw1WHJzM0VjLTJPYUhvcVBvN1hZQ2w3bHhoVEt2MUp2Y0lZXzF3ZTRlRE8zRmxSS1VBcDRqVjRka3hWVFRIQTZ2REoyUnAwNU5jaGc0Rmw4V3kyU0RIb3VzUUJkdE9WYzNpSVY1Rml2WXNCTFF1UVRn?oc=5"
-    },
-    {
-      "id": "n-2b7c30f65ed04808",
-      "title": "Veritas Capital to Acquire Saber Power Services, Expanding Power Infrastructure Investment Platform",
-      "source": "citybiz",
-      "published_at": "2026-08-06T12:50:53Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "citybiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNUhJM2FiZ29leGZqRGxxclRUR1MxTnliWk1kOC1FNU1kb1B3M21wM2JoY0ZtOUFtVUZTbFgzUkNyWVRFSktZbGc4VmxTY2xzZE45NEpCNE5iUmJXU0ExSDJYWHVJcUp3a3M3OTlGM0Zya19HU3RkVmxJN2Vzak04VG9WdlowYWNkWjVfN2s5dFBQT3EyY1dONm02V0tYR042LUZtSVZSc25qOHlzN25Gbm13VXpoRzF5SDlxVXU0Y3N5TnV0c2p4OHJoZERlM051OXJJ?oc=5"
-    },
-    {
-      "id": "n-4116ff6b2c701342",
-      "title": "CEE bank completes CRE SRT first",
-      "source": "Structured Credit Investor",
-      "published_at": "2026-08-06T12:49:32Z",
-      "category": "SRT",
-      "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUkxbV9LU0Q1TS1JVVR6N3ZLaWpjMkpDYWFveUVLR2ZscWN2T2dkeWt5bUlweFlvWE5vWXY4WHNFb1l6VmFHYi01b2tFeHdrYUdGakNGSVczeHltdDJMQ1o5WlphYXF1YjBzeWhtZlQwZEpaTzJkR3cxaG91OFZPeUZiZy01UXV1Nm9pd3llRnowcExnZFJkWWV2NEtLRDdWM1ZIWGQ3aGFlU1JpOHZ0eFhYbkJhYWFsR1Aw?oc=5"
-    },
-    {
-      "id": "n-3b5d9e3095650579",
-      "title": "Singapore-based bank signals SRTs are here to stay",
-      "source": "Structured Credit Investor",
-      "published_at": "2026-08-06T10:44:58Z",
-      "category": "SRT",
-      "region": "Asia Pacific",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMzkxY082YTN5VTlIenFURFJSbWxSMjYwTDREbTNFbjRadUVRdGpVSzNHTVJ5WXI5ejE3TjdIYmxKUDJ1Q1pGUWRNVFBfZjFQYUNJX1RQV0tvMC1IT2RybGw5VldhODdWQzZQUkFBdGwzMEVIOVRxZmJWVWhvSU5TOVltaWRjT2w2Q2FqZ3R2b1RWOTBOeUNwcEJ0d0lNYjRIUm5vUFRpVHh0cWZDcDY1NlluQkc2UUJ5czduZ1RhNmVmdXhIRDBIc1lxUjBybW42SzRZ?oc=5"
-    },
-    {
-      "id": "n-c14c68fbff902580",
-      "title": "In brief: Sustainability remains a factor for private credit LPs",
-      "source": "New Private Markets",
-      "published_at": "2026-08-06T10:00:32Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "New Private Markets가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSThDVDI1Wlh1clp5cTVwSHVyTXVxNzRmUlpMTmV4U2FOUkZJOWtUczN0XzRCaFlzVGE1X2c3LXZHd3doVmpJNS16dXBrY3E0U3RUdll1OFhSMkx5cGVBb1NvRndOYkpaRlBxMmRyR0NxVngtX05zVDN5d25zaEtTTjJPbTdiZDJ2SVg0TW02elAyR3NUX285U1VZUjVRTEE?oc=5"
-    },
-    {
-      "id": "n-1d69bfc8601bd1ab",
-      "title": "Centrifuge launches $JAAA, largest tokenized AA...",
-      "source": "Pluang",
-      "published_at": "2026-08-06T07:00:00Z",
-      "category": "CLO",
-      "region": "Global",
-      "summary": "Pluang가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUUQza3hyTlhnWldVMFdRYXFkUEVjMVN5YS1CWTZzX05kQ09yOXFZN2dtd1JYc19oejhRTmpLOUtOQ1h6RmlsZ3dqeUNtTDh6Q0MzOGptd0lOMGREWnZNcGlobHhTZC15cG5STTJocVFib1V5eFRycnJsMjNZd3VXR0toaUloZXBsakV4SmRpWUxwMjcyZUNKU3UyYVozTjlPa0czeWpn?oc=5"
-    },
-    {
-      "id": "n-deac6b9b06a3ad98",
-      "title": "Private Equity Explained With Examples and Ways To Invest",
-      "source": "Investopedia",
-      "published_at": "2026-08-06T07:00:00Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "Investopedia가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80QVNJSktIR1V4bmxRdUhrbTkyWU9FTjhQLXZIVWwwTHRiNVdEMWJ4UDJnX2tEVFMxWHdvQ0tRZ2RtYkpNLXY3d0d6WS05UC02ZGpkSHhMYUJ1Q2lsSG1GRVI1TnI?oc=5"
-    },
-    {
-      "id": "n-72de1c5785a3fe61",
-      "title": "우본·산업은행, ‘AI 인프라 펀드’ 1조원 조성… 국가 미래전략산업에 집중 투자",
-      "source": "한국보험신문",
-      "published_at": "2026-08-06T06:48:09Z",
-      "category": "국내 대체투자",
-      "region": "Korea",
-      "summary": "한국보험신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MUlhZdWhoeFE3TE9EUGZBQmcwVG10WkNPdEpIQ21peFBDSU5OR3hlMmd0ZG13cFpBQjRZUE5YdjVrNUc4RHE0NGd5QU5ianJfRUhxa2E1TlBGc0U5ZERxUWlzNEtydVM4WElZS2tEc9IBb0FVX3lxTE5MUlhZdWhoeFE3TE9EUGZBQmcwVG10WkNPdEpIQ21peFBDSU5OR3hlMmd0ZG13cFpBQjRZUE5YdjVrNUc4RHE0NGd5QU5ianJfRUhxa2E1TlBGc0U5ZERxUWlzNEtydVM4WElZS2tEcw?oc=5"
-    },
-    {
-      "id": "n-cf86317bf21e9d19",
-      "title": "총회연금재단, 대체투자 숏리스트 'LB' 등 6곳 확정…세컨더리에 초점",
-      "source": "numbers.co.kr",
-      "published_at": "2026-08-06T04:08:03Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "numbers.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTlI5UEFZcWdFNnBTVW9RR2k1Si1wYzFvOVVuX29lekhoSXBhaElRNHNTb3J6aVpIYkxxUlVEbjhvQzh6X3RNOERFekFYenBmM0p1alE5QUNZZjJrYU4tTzloOG9GN0FvWS1V?oc=5"
     }
   ]
 }

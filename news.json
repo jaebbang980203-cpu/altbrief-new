@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T19:10:33.920997Z",
+  "updated_at": "2026-08-15T21:53:41.305552Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -14,13 +14,23 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1VQVXpQdXRQem9DSmZWSXdRRzFrYnlsVDc3d21RTVdBUzFTY0hGSXRFZEVxVzJXODduTTE0eUx3ZmNQQVhvd3ZnSFN2SEoyQUYyZ1J4em53THhFMXVFVzM2UkFQbWotZDR5NmFJeG1aTi0wN2FEUlRCbE40c1NtZWt2THVLMlJz?oc=5"
     },
     {
+      "id": "n-dd9216e6884f72d0",
+      "title": "Exclusive | PayPal in Talks to Sell Itself to Stripe, Private-Equity Firm Advent",
+      "source": "WSJ",
+      "published_at": "2026-08-14T20:19:00Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHVrdzZiTnAwZy1mRDRhZWp6Z3FTcTlQeVYydmtGWmh3NmkzOWctNlEzYjVPckZzZXUyZklrVlVMWVZ0S3JUX2xTODFmSFhWdkFjLWJaSk1DdGxZTGVrUFRpVHExTzNfZlU1UVlJdnBWTkEzQ2VmMkUwR1kzZVJpeHRpMzBuSUU?oc=5"
+    },
+    {
       "id": "n-4535e7af4b1175e7",
       "title": "Homestead secures ‘significant commitments’ at first close of agri private credit fund",
-      "source": "Alternative Credit Investor",
+      "source": "alternativecreditinvestor.com",
       "published_at": "2026-08-14T17:07:28Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Alternative Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "alternativecreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaWxxRUg3TXZ5VU9Pako1WGNPMG9lRmpvdjFuY3R0c1BQZ09KTnl6M1BBTUtCUVp4enh4WTZhRzdSRnItYk1aUWhpTTBjQWp5RG42dVYyeTR4RFBlcC1OSXo0YV83R0JDeWNHNnNuRTFWMnB6M0RHOWU0d3pHbDRyamRnTkN3VmxVZDB6NlhiRW93dm4ycU9ESWFxbVZfUTFzajRCN0tlNk1wSThpYU44ME5HdlFHWWRBbkJqN2ZsaGRLVGZwaUpXSVU5czlHLTA?oc=5"
     },
     {
@@ -146,11 +156,11 @@
     {
       "id": "n-aea00544adba4032",
       "title": "BFF Bank Looks To Offload $1.2 Billion Of Bad Loans",
-      "source": "Finimize",
+      "source": "finimize.com",
       "published_at": "2026-08-14T09:11:59Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Finimize가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "finimize.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0NrLVRnSWI0eGZnQ0VhcmlJMjJFcnp5bVk1SnpJRFNTRjBKSVQ1SjluVkJqdUlMcUJvMVJJdDF2eW5jMkdxSzQzWF9kUU9oOUY4eG1xLTJEVDFYbWIxcDJvWGhrV3VzN3o1NU14NkdIQUpPcVBldnFFZ3oxN2NBX0VEOVk?oc=5"
     },
     {
@@ -176,11 +186,11 @@
     {
       "id": "n-315c8fdada091c3c",
       "title": "1789 Capital closes $1.2B real estate fund",
-      "source": "axios.com",
+      "source": "Axios",
       "published_at": "2026-08-14T05:43:09Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "axios.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Axios가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vNzY3bTU5ME1iWGQ4OFdTa0J2VFVZZ0dfUDZTZUVOWURVbGhyX2Y1U2FZdW9sdWU3Vktad0NUMkVQSWhBMjdLZjR4dnl2QzFzdFdqUUNZZnhJLXJrWlJKdWtQRDZ3aDdSOFFPYll0Zw?oc=5"
     },
     {
@@ -214,14 +224,14 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MMmI0SjBlYWJPRmRsbVM5X2F1WmJOQ3NLc3BnaG5jSkh6NTZaczF4Q1V5TFdCYnNWWDR6cjJ5RWlyaHpibVlRTGRqQzczeVpiZDc4TWg1TEEzUHpWcXA4aUlabFZlNExIcUhEeS1OemlWSEM20gF0QVVfeXFMTUwyYjRKMGVhYk9GZGxtUzlfYXVaYk5Dc0tzcGdobmNKSHo1NlpzMXhDVXlMV0Jic1ZYNHpyMnlFaXJoemJtWVFMZGpDNzN5WmJkNzhNaDVMQTNQelZxcDhpSVpsVmU0TEhxSER5LU56aVZIQzY?oc=5"
     },
     {
-      "id": "n-f26cd7ca2076bfe6",
+      "id": "n-a94018bbbefb70fe",
       "title": "T. ROWE PRICE OHA SELECT PRIVATE CREDIT FUND ANNOUNCES JUNE 30, 2026 FINANCIAL RESULTS AND DECLARED TOTAL DISTRIBUTIONS OF $0.60 PER SHARE IN Q2 2026",
-      "source": "PR Newswire",
+      "source": "TradingView",
       "published_at": "2026-08-13T22:28:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "PR Newswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQMkR0dFRkR0pRdTB0RWV5ZE5sclRGX1ZpLWh0NzhOUUI2VUdjRXdNZmw0allPbU1yWHhBOEpIVG9kczNaU0Y5bUtkRXdWQ2pTaE41M3VEU0Jmdm9qQndWekdZRThIbjdJbW5rVm95R3dlMUFPU1pfV2xzQV9FMlVQMEFSMnFNb2hrNHI5UlpZUENCTDAwZ0wxNlZDR19ELUVGa0lYQmFmeHAtWEhya0NBeDdGSlBNdlFmMDU5ZTBRSEZCRTRhZ05yUFlTVkR3Z1BFcHFzQldtTUN6U1VPQUJRV2tQcHFvRUR4YTlRYzAtd0FHRUREUWdOTTBpZWVoOTJrbDNyV3Q2U0xOcnJmWDdaZm1ObkI3aU91ZWNscFYyRDJuNkYta0lxQ0dqN1A?oc=5"
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQcjdCNDVTZElMckFXeHhlSDQzaFdOY0syV3N0bnhySVdGOXAyNzhUMV9KV3JVZFY2UWtaQThqMG1tOTJYWEJSNnUyUWZRT0hWd3F6Zi1Pdk1Uck90aTQxbnRlUVhfODhmRWMwVTNiOE1iVnlEN3lsdWg1Z3dUaDl2SE0yUGhmb1BzQ0FsMERvUzRVdk5IS29oVlM5cnRPVE9URzhpaExYYzZ0QTZXTndhWXJTb1VJWHNwMi1tOTJnQ21IUUFTb2t5RXVfV0hGRXhpR2lwcmJRWmVKYWdLV3kyYzZjZXBnREU2dnRTX3BtRHRVMjkyanJKZFpOa2NSb0daQ19yTHliaXhhY1pjQmd1SXhXZTZQX0NOS3lSNGlJUFE1VTNMR2lYdHhZX3FOT2lp?oc=5"
     },
     {
       "id": "n-b74267499f97a9f9",
@@ -446,11 +456,11 @@
     {
       "id": "n-4bc2a39122ca2aea",
       "title": "Real Estate Fund Set to Lose Boston Life Science Investment",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "published_at": "2026-08-12T12:41:04Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjd1eDhyTW5RWGd1MHFxd3JSSkNkNS1YUG45bXczM3RGMmZKN0JJR3NLMmtOekhtbUU1dVRYWVVsWmZVS3IxUmFWa1h1Qi13R1M4RWEyY1BYQzhiYmYxVkJuQzNTSmV2ZmtMOHFCbHVjQ2VnMjBCZlJIVFM2dUtfU01YTHFoSmhWRkQ2QlREbVVqMy12bTkwbHVXRWdOTHFhTHFUU1hzOE5CSFZYWThv?oc=5"
     },
     {
@@ -646,11 +656,11 @@
     {
       "id": "n-247e6c8dcbb5b02f",
       "title": "Yankees receive $2.6 billion from private equity fund in new deal",
-      "source": "Yahoo Sports",
+      "source": "sports.yahoo.com",
       "published_at": "2026-08-11T13:51:40Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Yahoo Sports가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "sports.yahoo.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGZsVDBudVhBeUlGTlFFOWdpQkdGZWhHbFY4ZGdwempWbHBLUXJQU0RIREdmd3AySDNwdHRsN2dVVXJHVHdRRExNTjR0b2Vza3NyYWVjSVFqa3FfTzMzY1pWTThmYmlNQTRkYTA1dVBkd0xKVWhuRWxMTGc4bV9paXVB?oc=5"
     },
     {
@@ -846,11 +856,11 @@
     {
       "id": "n-d14ac75f8d920c2a",
       "title": "Exponent Closes €750 Million Continuation Fund for H&MV",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "published_at": "2026-08-11T04:00:00Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUt2SXIzSlJ6RjJKTHQ1WnprMVVmMnVEbmp0YlE3djlReVpaWUJzMi1XaHYwNExJcWJiNDNmTkhyZUZWT1p6a05HQXdRYU44VUcxTV8tWm1UQnRkWmpEYjNmUlpORmNqTktZU1dmSnVlRVloYlJxV1JDM0NXN3BBTm5mSjBxRU9FM1NqVTAyZGFGNC1QUndOdjRCM0FFNlQ1bmxGREVBZV8?oc=5"
     },
     {
@@ -886,11 +896,11 @@
     {
       "id": "n-c1133d369411a12e",
       "title": "The Horn Of Africa States: The Region And The Missing Private-Markets Revolution – OpEd",
-      "source": "eurasiareview.com",
+      "source": "Eurasia Review",
       "published_at": "2026-08-10T14:35:20Z",
       "category": "ABF",
       "region": "Asia Pacific",
-      "summary": "eurasiareview.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Eurasia Review가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZFhYZk1rWVJqakFscVBzWGdSM2pzT1c2WW9YU3B3M3BLWjFfVEtHcVFJbjl6aDAtU21aTDd4SVpReUl5Q2VUZkZ1cnBiV01jc3RLTmtfSGVYdUF4MTZWTTJHQ21raEk3b3NjRGRLSndqNHJQRkVBS0QzaU83Rm05RjA2X19nOWRDUUFfQlNwb0NtR2pkR1U1c3ZkX29nY1BqWFVqRTc4WWNFZGw2Y19MVmYwTlptTmE5b1Z3N2prSU8?oc=5"
     },
     {
@@ -1006,11 +1016,11 @@
     {
       "id": "n-04f324df88916365",
       "title": "원금 손실부터 자필서명 배상 불가까지 '해외부동산펀드'",
-      "source": "junggi.co.kr",
+      "source": "중기이코노미",
       "published_at": "2026-08-10T06:46:31Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "junggi.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "중기이코노미가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GZ0ZNZzZnWXRZY0o2YUItNXdnMjUzLVJVS214SGZwVmFkaDd0dVAtbHptbGp0VWxfM2xBU3kyX1hqN1BpQmNIU0J0MGZpX0JJbnc2eV9yU0k4VzlPbG5ORE9XUE1kOGxWWHc?oc=5"
     },
     {
@@ -1196,11 +1206,11 @@
     {
       "id": "n-2b0da0ae51c4616b",
       "title": "Alerian MLP ETF vs First Trust Energy Infrastructure Fund: Which Energy ETF is the Better Buy in 2026?",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "published_at": "2026-08-08T17:31:00Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "fool.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "The Motley Fool가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONnd3eEg1OGZOa2I0cUlZMEx3aks1Slo0QVBBZm5GcHE3UVpMX3otam9iZDkyY09Sc1JXSVZ3ZmFzTG0wSW9TT0pGdEY2TTBvNzNJQTREWkVuZ0M2WV9jNWlhV1E1b01yeHR2YjJtTjlqY19XMS1Bc0lKdmpPaE10V05iQmppQnpkb214U3dmemgzdlVKcjdEblktU0pjdkdnX2VpaU1OTzJfREpxbk4wWE1wTE9JOHRGY3dXSTFLamRMNXUwQUxQTG9xR2dRUzZzX094ZFllTmRyeWQ5a0w2Ng?oc=5"
     },
     {
@@ -1392,16 +1402,6 @@
       "region": "Middle East",
       "summary": "9fin가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaXhWeGl3VWliVzJiNTJtSEE3eWFDQ09QM2owa2VDZ213XzRVX252TkliNEJUYzF6bGxET0tSaDVVdFVCd1BtRnd5S2dtbFVtZjBRaVc4TVFyUER0SmZxSVNrbUxBSVBOY1gtOVA1TkxmRmZuMC1PRkJyeTBEYjgtT00wRQ?oc=5"
-    },
-    {
-      "id": "n-dd62572fd33299d9",
-      "title": "Apollo S3 leads Monogram Capital's $300 million beverage CV",
-      "source": "SecondaryLink",
-      "published_at": "2026-08-07T07:00:00Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "SecondaryLink가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbV9QcTVHcFR5c1RxM0N4c2VvRm9SREIxRGRJanl3cGI3djhNNTZvRXBWYkJIVXp4WDh4UEc2VUlick1mMTZkNkNqWjhtN2dLQXNpREg0d245T1FRcjJIcFp6QlFJRy1kYzdlYVdFRGZ0VlNqUUI2UFBJam9GelAzYmNkaTBXWkhWLW1QS3VBRWxFQTM1NmRVNVFjZ010aTd0bVdNTmtUTHlkSllzRi1VMEpZLTg?oc=5"
     }
   ]
 }

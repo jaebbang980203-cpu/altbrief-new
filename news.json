@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T09:58:58.770077Z",
+  "updated_at": "2026-08-16T15:55:28.313343Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -34,14 +34,34 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zVmhIQjJaOWdKYkZpMmh3RG1RNFY0d1RsTW5IWnhOVGVMXzJEUzRtclFsRWtlYmhteHR1Mklrc0NxWFpWYmVXaFRodDMwSmE0aDNyejV6eGRmNkhqM2NXdFNR?oc=5"
     },
     {
+      "id": "n-08a8095788491fb2",
+      "title": "Cardo AI – Weekly Recap",
+      "source": "tipranks.com",
+      "published_at": "2026-08-15T14:18:01Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "tipranks.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VSWVadWdZdHhzMjVUR1EzSEJBdnVMWmFrX3VQT2VPOUtqcktHN2lsY0xnSFhzem5RazJCdmQyWVY1eEI1OWRDbzJITWtnTU5GTWZqcFp6VHFCRGNJWmtRUmdnRmw0Vnh1d00tSUp4NjBub1h0Wl83ejQwbEQ?oc=5"
+    },
+    {
       "id": "n-eb40676cfc3379a7",
       "title": "글로벌 UHNW 자산, 102조 달러 향한다…AI와 대체투자 경쟁",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
       "published_at": "2026-08-15T02:03:32Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "글로벌이코노믹가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "g-enews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1VQVXpQdXRQem9DSmZWSXdRRzFrYnlsVDc3d21RTVdBUzFTY0hGSXRFZEVxVzJXODduTTE0eUx3ZmNQQVhvd3ZnSFN2SEoyQUYyZ1J4em53THhFMXVFVzM2UkFQbWotZDR5NmFJeG1aTi0wN2FEUlRCbE40c1NtZWt2THVLMlJz?oc=5"
+    },
+    {
+      "id": "n-28f9df0600a51031",
+      "title": "Lightspeed builds a continuation fund around its OpenAI stake",
+      "source": "Dealroom",
+      "published_at": "2026-08-15T00:33:49Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTd1YVhvSTlYSHQzbmxSVGNtYkNoNjdsWWkzUVlZaDhydFd5REx2S0dQeU5YcGhmR1A4N3ZQMEI5RnpxTWw0NnJaR1dQMXZ4VkhGMFJPcnNDYnU3d080Q0tRY2lld1B3U1g3OHIyQ0NsZ0dTYkp5UVR2TVplVC00UTQtMWtDNWc4YTN6RHNRYUlPSklaamgzMWl0OA?oc=5"
     },
     {
       "id": "n-dd9216e6884f72d0",
@@ -52,6 +72,16 @@
       "region": "Global",
       "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHVrdzZiTnAwZy1mRDRhZWp6Z3FTcTlQeVYydmtGWmh3NmkzOWctNlEzYjVPckZzZXUyZklrVlVMWVZ0S3JUX2xTODFmSFhWdkFjLWJaSk1DdGxZTGVrUFRpVHExTzNfZlU1UVlJdnBWTkEzQ2VmMkUwR1kzZVJpeHRpMzBuSUU?oc=5"
+    },
+    {
+      "id": "n-e46c3002c763a746",
+      "title": "Homestead Capital Announces First Close of Agriculture Private Credit Fund with Anchor Investment of $150M",
+      "source": "Agriculture Investment Marketplace",
+      "published_at": "2026-08-14T17:32:05Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Agriculture Investment Marketplace가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbnZ0bXFHRDhXUGx3VFMwNTBiU01ubXJwdU92QW93U1pTNXVwSXhhMG1Qb1E3ZkU3TDQ5U0RrYzltZ1I4NWt1ZEVKN3lBYnE1UlpIUUlNaWtMWTJJamxUTHYwNWhaRl9HeVFCQl9MU0RJZTV0SmlyM3E5Nl8wemtwWTl4ckY0Sk5fUmVlb0R0c2hIR3NZUFo3dTNGblFtNXhEMVFCdjBSeGdpLVRKWi1wOGVwT0c4V1IwaGdqcGVWZlNaQ1l0ZnMzRUhIWGlPTS1RWEFnbHdjcw?oc=5"
     },
     {
       "id": "n-4535e7af4b1175e7",
@@ -144,23 +174,13 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHNSejRaQnVfOFZRYThUMkpkWUI2WVRkM1lYZEZWM3VDc05rMHJERS1hOXd2UGdYRXAyazE0Wkl3VFJpQWREUWh3ZkZvUDZudU1MOUc5cmZ2M2RYdHphXy1lRFhoN0g1UENaS1lmbkdQdDhmYjhGblFMVzcteE5hX0p4LUJaUWl4cGpiMzVqTUlyNVNIUDZRaUtPRFFsc1A2R1JOMFNHWm1HQQ?oc=5"
     },
     {
-      "id": "n-28f9df0600a51031",
-      "title": "Lightspeed builds a continuation fund around its OpenAI stake",
-      "source": "Dealroom",
-      "published_at": "2026-08-14T12:36:00Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTd1YVhvSTlYSHQzbmxSVGNtYkNoNjdsWWkzUVlZaDhydFd5REx2S0dQeU5YcGhmR1A4N3ZQMEI5RnpxTWw0NnJaR1dQMXZ4VkhGMFJPcnNDYnU3d080Q0tRY2lld1B3U1g3OHIyQ0NsZ0dTYkp5UVR2TVplVC00UTQtMWtDNWc4YTN6RHNRYUlPSklaamgzMWl0OA?oc=5"
-    },
-    {
       "id": "n-fe6b5fdee09290be",
       "title": "Tokenized transactions surge to $5.3 billion but generate just $14M as costs soar by 56%",
-      "source": "CryptoSlate",
+      "source": "cryptoslate.com",
       "published_at": "2026-08-14T12:35:39Z",
       "category": "CLO",
       "region": "Global",
-      "summary": "CryptoSlate가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "cryptoslate.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3pYUmhXa1VZREtDNHpTN1VVY01lTFo3SmRPZzE5UXI0c245ZmF5VXh3N2pLaVRMYUVyNlRLQXluX1V1ZV8wZWloU1B5bDhYMXNXZWpHUUYxOE5vZTlxNHVQeGJSM0RlLUp2OUhid083MjVTUzBTZm1EQlB0bWM0SXVYSHJ1TlZUeHR6UW1rOFJNNFpfUTRUVWUwZlYzSDlYWkRQdm00TkIyM1M5UlEwV0tWd3BrUQ?oc=5"
     },
     {
@@ -254,14 +274,14 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MMmI0SjBlYWJPRmRsbVM5X2F1WmJOQ3NLc3BnaG5jSkh6NTZaczF4Q1V5TFdCYnNWWDR6cjJ5RWlyaHpibVlRTGRqQzczeVpiZDc4TWg1TEEzUHpWcXA4aUlabFZlNExIcUhEeS1OemlWSEM20gF0QVVfeXFMTUwyYjRKMGVhYk9GZGxtUzlfYXVaYk5Dc0tzcGdobmNKSHo1NlpzMXhDVXlMV0Jic1ZYNHpyMnlFaXJoemJtWVFMZGpDNzN5WmJkNzhNaDVMQTNQelZxcDhpSVpsVmU0TEhxSER5LU56aVZIQzY?oc=5"
     },
     {
-      "id": "n-a94018bbbefb70fe",
+      "id": "n-f26cd7ca2076bfe6",
       "title": "T. ROWE PRICE OHA SELECT PRIVATE CREDIT FUND ANNOUNCES JUNE 30, 2026 FINANCIAL RESULTS AND DECLARED TOTAL DISTRIBUTIONS OF $0.60 PER SHARE IN Q2 2026",
-      "source": "TradingView",
+      "source": "PR Newswire",
       "published_at": "2026-08-13T22:28:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQcjdCNDVTZElMckFXeHhlSDQzaFdOY0syV3N0bnhySVdGOXAyNzhUMV9KV3JVZFY2UWtaQThqMG1tOTJYWEJSNnUyUWZRT0hWd3F6Zi1Pdk1Uck90aTQxbnRlUVhfODhmRWMwVTNiOE1iVnlEN3lsdWg1Z3dUaDl2SE0yUGhmb1BzQ0FsMERvUzRVdk5IS29oVlM5cnRPVE9URzhpaExYYzZ0QTZXTndhWXJTb1VJWHNwMi1tOTJnQ21IUUFTb2t5RXVfV0hGRXhpR2lwcmJRWmVKYWdLV3kyYzZjZXBnREU2dnRTX3BtRHRVMjkyanJKZFpOa2NSb0daQ19yTHliaXhhY1pjQmd1SXhXZTZQX0NOS3lSNGlJUFE1VTNMR2lYdHhZX3FOT2lp?oc=5"
+      "summary": "PR Newswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQMkR0dFRkR0pRdTB0RWV5ZE5sclRGX1ZpLWh0NzhOUUI2VUdjRXdNZmw0allPbU1yWHhBOEpIVG9kczNaU0Y5bUtkRXdWQ2pTaE41M3VEU0Jmdm9qQndWekdZRThIbjdJbW5rVm95R3dlMUFPU1pfV2xzQV9FMlVQMEFSMnFNb2hrNHI5UlpZUENCTDAwZ0wxNlZDR19ELUVGa0lYQmFmeHAtWEhya0NBeDdGSlBNdlFmMDU5ZTBRSEZCRTRhZ05yUFlTVkR3Z1BFcHFzQldtTUN6U1VPQUJRV2tQcHFvRUR4YTlRYzAtd0FHRUREUWdOTTBpZWVoOTJrbDNyV3Q2U0xOcnJmWDdaZm1ObkI3aU91ZWNscFYyRDJuNkYta0lxQ0dqN1A?oc=5"
     },
     {
       "id": "n-b74267499f97a9f9",
@@ -326,11 +346,11 @@
     {
       "id": "n-4079d1c3f3c0056c",
       "title": "Citizens Capital Markets gains Rheault and Jones, MDs, for syndicate and capital markets biz",
-      "source": "Asset Securitization Report",
+      "source": "asreport.americanbanker.com",
       "published_at": "2026-08-13T15:25:00Z",
       "category": "CLO",
-      "region": "Global",
-      "summary": "Asset Securitization Report가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "region": "North America",
+      "summary": "asreport.americanbanker.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWZUMnJuSVRDTGtJMWNqTjhhcU1EWkIzQjZVVFlsUXRnb3Q2NEVpSFl6R3RvOUtDR0NjSzZRTEp5Rll2LW9qTWdUNU9YY2FhUVNlMTBJeGlMbGJkX2RuMzFPRm0zX25TOEMtRVgzRFhmMmJ1Nng0TWFxR1J1aWRwVlRXTHlMaktZYzdmWTdqYzdSdS1mNXlsUGJxRXYtUTV0aTZPU2Q5endvRGM?oc=5"
     },
     {
@@ -346,11 +366,11 @@
     {
       "id": "n-6e55174df4e5f0d0",
       "title": "Caliber Goes Live with PURE Pickleball & Padel Tokenized Real Estate Investment Offering",
-      "source": "GlobeNewswire",
+      "source": "globenewswire.com",
       "published_at": "2026-08-13T11:15:00Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "GlobeNewswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "globenewswire.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNFJteUtkcGdad2FZNTFPZ2Q5bF9fWnR3blpkYmx5T2lqYzVRY3B1MmcyQW1YazJSWG9ERk5Ba0o3YkxNV0FrQkRqdGh1X0VBaXVMZXlicEdpOXN2ZlNnbWxFd1BDSlQ3U1VUTWd1dzNzUW5UNFUtbTNCQlU1QUF0a1RRVXJUcXd2cHgzWm5lN3hIZFdfeFJ3d0Fhek56ay14LVZZbjBKQlkyaktQc3F5V011OXJxTTJ3ZVhtcXdGR1dTc0JXQ3Z5cDZoTEh3WUxHQ1lhTlBXczdEUjBWTFhtbXZKSFY3N01yMUNJZDJLclhhNEk?oc=5"
     },
     {
@@ -366,11 +386,11 @@
     {
       "id": "n-a344cea0116beca8",
       "title": "Lightspeed seeks $600m for OpenAI-linked fund: sources",
-      "source": "Tech in Asia",
+      "source": "techinasia.com",
       "published_at": "2026-08-13T00:55:00Z",
       "category": "Secondaries",
       "region": "Asia Pacific",
-      "summary": "Tech in Asia가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "techinasia.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmZ2FZaG9KUWJPR2tLcFNwQUYxdkdtbkVtTEJrQzhjUnQ2SUFDcEhvVTRneHNBbVNOaWJEUlJpXzhuREpwTjFPZERLU0t6UmlfbWxaZW5BeVlRSEtYM0tBLWRyaTNfcUZlQ28xbDYtNHlycmJrM1N3bnN3ZWRYNHc?oc=5"
     },
     {
@@ -386,11 +406,11 @@
     {
       "id": "n-5b091f7e6653c5fc",
       "title": "\"100만원으로 사모펀드 투자한다\" 사모재간접펀드, 변동성 장세에 '주목' [재테크 풍향계]",
-      "source": "asiae.co.kr",
+      "source": "아시아경제",
       "published_at": "2026-08-12T22:23:32Z",
       "category": "국내 대체투자",
-      "region": "Asia Pacific",
-      "summary": "asiae.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "region": "Global",
+      "summary": "아시아경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nQnBKY0pPNXJ1MzNoc3Vsc3ltWU9Bbm9OSFh2SVdQTGoySnMyTHFGWG8xODJWeFZpakNrNGM3RmJTdHp6MkM1dVdLOS0zWTZFSG5ndzFmTF9JU2ttZnJEaA?oc=5"
     },
     {
@@ -856,11 +876,11 @@
     {
       "id": "n-8ddcd2803454250d",
       "title": "Exponent rolls H&MV into continuation fund at €1.4bn valuation as data centre demand powers 12x uplift",
-      "source": "AltAssets Private Equity News",
+      "source": "altassets.net",
       "published_at": "2026-08-11T07:56:41Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "AltAssets Private Equity News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "altassets.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPRE1JZDNYWVFPOU9UUHloY1ltcHM0OW9QeEpMd1lqZ2VVU1Q0ZHVGc1Joc1lqbzZkUFZPMWJXY01WNjdQRWNLa0Jyd3Q4YktqdmFxMjRUNFNGSG16WmFON3YwWWltVEtPU1F2NlpSdGJ4Rm5ncmNHczdxZTEzM2s2Mm1mUjd5OUE2dFhfaWZFSFpNdVJNZEdFNnNNZTdwTWpVSzYwSEVWdFQxeGdrVUlyYzd5clJ4UWxrYXVnV2dnZkRwOUdYb2dEOFNtQWI1MkZVc0IyTkViMTlDeFdrWi1LVGpnLWJrZ3h4ejktTEVKOTN2b3ZZMDFkN3d6YlJ4cDczeE1kY3E5WDBRUUJ1OGdKcld4SDBTSmRIS2dmOTV2TjhCNzhJdHFvcFBlbDRGYUhKNmxNVWF4QWlwUVY2dS1xTTFCMG9LdEFpbl82NXpNU1J6NHZ6LWdZMnluRHNGRXAtbklLQW5aX0pqU05ueFlwNWRFd1VoUnhFY1hLOEdDa1RIQQ?oc=5"
     },
     {
@@ -886,11 +906,11 @@
     {
       "id": "n-006eb95812e3c6a6",
       "title": "Net Asset Value of EfTEN Real Estate Fund AS as at 31 July 2026",
-      "source": "GlobeNewswire",
+      "source": "globenewswire.com",
       "published_at": "2026-08-11T05:00:00Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "GlobeNewswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "globenewswire.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcnBENFVKbWphRjB1bFY2djRZT2R6MWo2bXpuWWVyVVNaS2UyVGtoVmRtS2ZvOUhCUDQzR1huRTFXbnI3bFRROHluQS1Zd3FwTEhuNDYxeGVCQTdvbFJOLW1ZUTc3OEFwQi1ub0phVVlEV0F3VlhyUy13ZEg3QTlvYVpfM3QwT3VrbktWWkhwQU93Y1hwWlROdUpkbkpTQzNhek1GVjVMc1Zvak12cHZoMlFNdkt6ZDZ2dmdaMVFKYWVkRGl5aGVMYlpjWTN6SWhV?oc=5"
     },
     {
@@ -902,6 +922,16 @@
       "region": "Global",
       "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUt2SXIzSlJ6RjJKTHQ1WnprMVVmMnVEbmp0YlE3djlReVpaWUJzMi1XaHYwNExJcWJiNDNmTkhyZUZWT1p6a05HQXdRYU44VUcxTV8tWm1UQnRkWmpEYjNmUlpORmNqTktZU1dmSnVlRVloYlJxV1JDM0NXN3BBTm5mSjBxRU9FM1NqVTAyZGFGNC1QUndOdjRCM0FFNlQ1bmxGREVBZV8?oc=5"
+    },
+    {
+      "id": "n-116ff747f0acefde",
+      "title": "Private Credit Deal Activity Underscores Growing Need for Scalable Data Infrastructure",
+      "source": "tipranks.com",
+      "published_at": "2026-08-11T02:36:55Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "tipranks.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT1F4TG9aWThFMzdKWk9IUlRRd3JaVldWdkNxT25tYjFJeThHM1UzN1I1bDBFOUdoZ3J4eXRHQkxCWldpQ2xrTjJKRXctVF9EaXZWS1kxOEk4SmhkYW5CZXJCdEs0SjFhWVNoRG5JY3FrdkdGQ0xTbUczNWlBd3YyU2w4cGtGaDg5djdxRkhsRG5tSGVKc2tvUHl1X2dfWnNfcGtUaUs0cFN1SzVqZl9adEpWcjlQaUUxcV91ZUluRjhROVduZVIzOEhhdktmeWs?oc=5"
     },
     {
       "id": "n-1090262b110f88f1",
@@ -1372,36 +1402,6 @@
       "region": "Global",
       "summary": "Investment Week가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFZPNFBHeW5CR3lJT0hpSllCak1od21QNUtmdW9TWURRZkpfVG5ERWlKYnNoa09IZTJFZDFab2lKR1NOVjRvMUZHa1IwV3FHYlZ3OUh3MHRuaFVwRHZuZnpzc2YzOFd5RnJWN2FDZW5VSDRxYW5iSTBCUkdlRFlzZDkzNTY0RHFBOHJ5X3lfdzNsTU9yekVOR1JUZDRKWlY0bG15NlVSNEUzMTJtTm1uLW9SUS0xeDdKX3NIZ3lR?oc=5"
-    },
-    {
-      "id": "n-2682b989c9977258",
-      "title": "Signs of distress are showing up in private credit",
-      "source": "Axios",
-      "published_at": "2026-08-07T11:22:24Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "Axios가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xaGd1aEVZTVNZMGNMODgtOWxaVnJKeC1pVWg4RGdreWJDeXF2bTlQeDg3TFlrYTVuMnNZQkN6TWpHOXd1NHZLbjRaNWt0Rm5OWUxCdGgxdTJVZEkxcFZrR1p0MUJTcGNiajhSNg?oc=5"
-    },
-    {
-      "id": "n-a1646d592805e3f0",
-      "title": "Goldman private credit fund's co-CEO to step down",
-      "source": "Citywire",
-      "published_at": "2026-08-07T10:27:38Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "Citywire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYnVzRG5uaW1mTlR3V1daRThyUXpsVnJyalFuMHF5dnpWdmJlWDhTdWNrOGlxWVhlQ1hJXzMwQkZZa0pCQTQ5WGhETENLSXlvS2c4WVBtOGVJaXhPRlp6TWs1ZEJ5NGJ6MEZOSGhLN0h4cnVzUlpUSkRxeXVOa2w2TF9la1ctWTBPeG01V1lfQVdIMXVXd1hPWQ?oc=5"
-    },
-    {
-      "id": "n-4b704e993e57b67a",
-      "title": "Credit Immobilier de France launches jumbo mortgage book sale",
-      "source": "Structured Credit Investor",
-      "published_at": "2026-08-07T09:22:16Z",
-      "category": "ABF",
-      "region": "Europe",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNjJGOC1pSjRWRlZXRUJzR1NKMjBuU05qNnR3V3RTQ3BINlQyYkstRzNNaHdEc2c3ZlJFQmcyVkUzWFlPbmRQaG1wSjVHaEhleUtXc0xmZUg5bUZ2TEczaC1SQ1RtS3dic0F1aFhUSUlCc0FIbnFCVHpHQkE3eHB1YnBJRTg2YjBVZFYtYmMxUjZTMGZFMHhjelRnQjFvQW5CczFaUElrc0JCOThoZ0tSOFB1XzZJay04MERObmFLay05Yks3eTY2QjFCbC1xOU0?oc=5"
     }
   ]
 }

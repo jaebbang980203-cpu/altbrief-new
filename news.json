@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-08-17T03:29:54.437204Z",
+  "updated_at": "2026-08-17T08:25:44.964338Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-d0fa49856d527196",
+      "title": "2조 달러 美 사모대출 흔들, 초저금리 잔치 끝난 속사정",
+      "source": "글로벌이코노믹",
+      "published_at": "2026-08-17T05:00:43Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "글로벌이코노믹가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFdNM1RXZlVLZEw0STVhSFo4NkxMMkVLLUdrelJuSklFeUt6UGtCMU5UekxLV0JyTWVUU09WY2haaEdfMjZVWDY1VEhtMWRpYjR3MnZMY2FPLV9aRE5fZ2dSd2hvM2E1Z3lNcGJuNXJMc1Bzc2pjNEhJTkZLNkx1S2RCVU5VdmU4?oc=5"
+    },
+    {
+      "id": "n-9ea7f474d87203f4",
+      "title": "BNPP AM Prime’s Pascal Christory: ‘There won’t be enough capital for everybody’",
+      "source": "pehub.com",
+      "published_at": "2026-08-17T02:00:24Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "pehub.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0F0OFVOd1M3NUxzTGlzOU5nZ2s1TmF2NWNfUDFWYTg0T0RrUFNTVS1DNVFTaGxaTEJaTjNvVlJ3MVo5Y2tSaW9ud2ptYnlyZHhEa0dMNjVTcG55SjUzano0MEFMaWw5UlAtZG43RG1fR3NYZDBIUDhXZjlJMG8xaFRBcTlYNVIwanY4S1ZyZEZ4RkpUNFBqSVpoRngxdw?oc=5"
+    },
+    {
+      "id": "n-5b19b16d792f8852",
+      "title": "Homestead Capital raising inaugural ag private credit fund",
+      "source": "alternativeswatch.com",
+      "published_at": "2026-08-16T23:47:32Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "alternativeswatch.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdU5XQzVqZk50ckFJajFxeFJOQmR1d1BHa19sRUpTY0RFbzBhak5fMHVnSFZPdWtvWnZMZzlRcEZ2aHh2WnhyMHhBbDVvNFduRWdzNWw1NVR5MDlMWWJTdDJuLTBPd2ZyczJOVFFTcVNRMnd5TFltc1BzTy1zOGpvMlQxSlR4RDZiTVNfX1hTS25GNXNGUGFTVTVBa0UtcmM4bzU4?oc=5"
+    },
     {
       "id": "n-1e99839ae2c435a5",
       "title": "Investors Put $650 Million Into a Real Estate Fund. The FBI Is Offering $150,000 to Find Its Fugitive Former President",
@@ -24,6 +54,16 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUE5ORk5ZcVI4QWRmMWt2enRxdmxIcFlCLUZLakdEbU9qVEJfWUcwZ0w5VTlKckd0bEVuQVdTMVg2UllsZjE4Q29oT043bElQdXdXRTE1SHJ6RjNIVFNoalotTE8xdWRDMTJTR2RuODVvNFc1YklxU1J3UTVLMklnTWxnZXZJMTdrdTI5U1VEYXFpTHVCX3c?oc=5"
     },
     {
+      "id": "n-f8aa3c05374c7360",
+      "title": "Kayne Anderson Energy Infrastructure Fund, Inc. Revenue Breakdown – LSIN:0A1J",
+      "source": "TradingView",
+      "published_at": "2026-08-16T00:26:22Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ObldXU1dIRkpKRHBHaWszaS1HTFI3N2p6NEpoSDU1b0JVdTY2U0VjMk5sT0JWTGx6dF9EV1oxLXdpendlNG5RMFRIMGh4cmM1MV9VUkNTRGlhYjFGSEs0N0V1NXg0N1VPZlV2Ri1UZ3RJanFl?oc=5"
+    },
+    {
       "id": "n-cf2e62f687938f81",
       "title": "1789 Capital Closes $1.2 Billion Debut Real Estate Fund Targeting More Than $8 Billion Of Sun Belt Development",
       "source": "Pulse 2.0",
@@ -36,11 +76,11 @@
     {
       "id": "n-43f73b258856c159",
       "title": "홈플러스·고려아연 사태가 던진 경고…‘사모펀드 경영’의 위험성 [스페셜리스트뷰]",
-      "source": "economist.co.kr",
+      "source": "이코노미스트",
       "published_at": "2026-08-15T21:41:59Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "economist.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "이코노미스트가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zVmhIQjJaOWdKYkZpMmh3RG1RNFY0d1RsTW5IWnhOVGVMXzJEUzRtclFsRWtlYmhteHR1Mklrc0NxWFpWYmVXaFRodDMwSmE0aDNyejV6eGRmNkhqM2NXdFNR?oc=5"
     },
     {
@@ -356,11 +396,11 @@
     {
       "id": "n-4079d1c3f3c0056c",
       "title": "Citizens Capital Markets gains Rheault and Jones, MDs, for syndicate and capital markets biz",
-      "source": "asreport.americanbanker.com",
+      "source": "Asset Securitization Report",
       "published_at": "2026-08-13T15:25:00Z",
       "category": "CLO",
-      "region": "North America",
-      "summary": "asreport.americanbanker.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "region": "Global",
+      "summary": "Asset Securitization Report가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWZUMnJuSVRDTGtJMWNqTjhhcU1EWkIzQjZVVFlsUXRnb3Q2NEVpSFl6R3RvOUtDR0NjSzZRTEp5Rll2LW9qTWdUNU9YY2FhUVNlMTBJeGlMbGJkX2RuMzFPRm0zX25TOEMtRVgzRFhmMmJ1Nng0TWFxR1J1aWRwVlRXTHlMaktZYzdmWTdqYzdSdS1mNXlsUGJxRXYtUTV0aTZPU2Q5endvRGM?oc=5"
     },
     {
@@ -456,11 +496,11 @@
     {
       "id": "n-cd09db62ffabeb53",
       "title": "Which Is the Better Energy Sector ETF, VanEck's Nuclear-Focused NLR or First Trust's EMLP Targeting Energy Infrastructure?",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "published_at": "2026-08-12T22:09:00Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "The Motley Fool가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "fool.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUUxIQnpHNm5vb091ZFIyWDBaX0tyUnA5c0owSkRYb3JkbTU5cWpES2c1eUc2SV9paEFBcWt1VXlNRFZXMGF1ZXdfUW4yWmpCQ2dZTUVDcVBDSkl3cDRUOWp0aGIxSWVVbzFlMXBiaHp3RGs0UUZVeGVBc0RZeDlOT01XckRVOWJTLVV5SzU4cUhVV0hzY0EtUzNUeHdLSUdZUFFvSXZLOXBodnRPSTFwNFBPTnpBWlY1X1Zva3lUSklOMTNlMjRWVVZrX2p2SHcxVHU5QkYzdXhFd1JITkpNeFI4MU1nMXhxMERHOG9oX09JNFJ5RE1MLVlpTQ?oc=5"
     },
     {
@@ -476,11 +516,11 @@
     {
       "id": "n-40017cf2d7ceab39",
       "title": "Fortress Investment Group Leads $161 Million Loan for Oak OKC Development in Oklahoma City",
-      "source": "Fortress Investment Group",
+      "source": "fortress.com",
       "published_at": "2026-08-12T20:43:44Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "Fortress Investment Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "fortress.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM3IyVTcxMkN6X0sxQmN1WXhhamF3c0pxLXc3ejRjQ2h0R25FSWpLM2hjbXlJY2lpOHJvYTBsamhxOHB2MEhZX3Q1cEZqLUhkQjg0czF6eXJrX1FGMUR0SHlOY0ZiLUd4X3Z6Rm5Sc1RhNkRoTlNhMzNZZEdsNUx2eFl6cks4YmpIUTZ5aTR4U1JmNXdYcXoyYmw2OVg2UjhuYWtaczc0YVN4YTJvaU5VVEtzbXpkeGtpaUYwYUQxRmNCY244Z1pHREtn?oc=5"
     },
     {
@@ -516,11 +556,11 @@
     {
       "id": "n-f3c749ca59bb023f",
       "title": "Americans have $30 trillion saved for retirement. Private equity wants a cut",
-      "source": "NBC News",
+      "source": "nbcnews.com",
       "published_at": "2026-08-12T18:23:44Z",
       "category": "Private Equity",
       "region": "North America",
-      "summary": "NBC News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "nbcnews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjBUazgzVEUyTWVjMEJ5MVVQS1kyUXNJYjlFY1FUMkVqUE1hOGRid0F1TnNMcUZ1TGVvSnhGSGRNNHZxS0N5Qi0tRTNFdVhEeXVSNTlBZzF0MWloeDhSRnM0MUI0T09Ud0g2ZHVmV1lDLXZ0QjZnUHFzMnNtdGdWaEY5QVhta05ER2oxSUdCSmpuSUtNcDdOZnVVQWxTdmxwMFpNZDF5QkRmbkFhQlplTlNB?oc=5"
     },
     {
@@ -1116,11 +1156,11 @@
     {
       "id": "n-10ddcbc4174b629a",
       "title": "해외 부동산 펀드 투자 주의보 \"증권사 믿었다가 전액 날렸다\"",
-      "source": "영남경제",
+      "source": "ynenews.kr",
       "published_at": "2026-08-10T07:28:06Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "영남경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "ynenews.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tUHdXLUNOV3JjV01ydDYyVEJKMnljcFA4R0hGeG1ndzZnOE1kVzlSdUZWalE0WEJQbl9URjlEMFk1a3RFQS1UU0F0SjZJeDFuMzJGWlpydlRzSkhscXRzek9ldEx6LWc?oc=5"
     },
     {
@@ -1132,6 +1172,16 @@
       "region": "Global",
       "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fRTlEb211WjZyX2FZY3FSNnRrWjFZU21WYmlYbUdJVzM5d0I0QVhWeFZLR1NDZDcwTmRtLVRBdDJCa3pEZzJLRmZzcG5uM1l2RmNkbw?oc=5"
+    },
+    {
+      "id": "n-737b95d57321624e",
+      "title": "Investor Intentions: Plymouth County Retirement Association issues RFP for private equity manager",
+      "source": "Private Equity International",
+      "published_at": "2026-08-10T07:00:00Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Private Equity International가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMnYxLVgwLXlpY0I3Xy1CTU9weXIxeVRIMm56c2JqdnMzSzFMRnBMNzFHM2QtWk91SW03bVJjTWJvUnpXWmRjcnVOQzZzUDlxclpXWlhjTWExTFVObktlVkVnV2hYTVQtbDM2RzVEdWozWkVac2wtdVByLTFDUUxLRmNxSXJadkhRc2hhcFlHUndXdk51MmxSQXVSSzRmSS0zcEZ6ZWhSZThza1hZQWtJTFM0U0NvMWRJOTBVY19SdEp4dlRWMHY2bzBQY280cDZIQlB1clVHRQ?oc=5"
     },
     {
       "id": "n-04f324df88916365",
@@ -1236,11 +1286,11 @@
     {
       "id": "n-cf87f8319db0b9cb",
       "title": "금감원 “부동산 펀드도 원금 전액 손실 가능”",
-      "source": "news.kbs.co.kr",
+      "source": "KBS 뉴스",
       "published_at": "2026-08-10T03:49:00Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "news.kbs.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "KBS 뉴스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53cVNFVGtyb3JERl94bGF5V2VHa0dkdEtwQ0t5cThFOENXZEstTWN4NC1nQnNLWmI2N1U2andYYUE1Vk9FT2NwWHAwUFUyWk9rZnF2ZXRMZGdtTTg?oc=5"
     },
     {
@@ -1326,11 +1376,11 @@
     {
       "id": "n-2b0da0ae51c4616b",
       "title": "Alerian MLP ETF vs First Trust Energy Infrastructure Fund: Which Energy ETF is the Better Buy in 2026?",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "published_at": "2026-08-08T17:31:00Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "The Motley Fool가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "fool.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONnd3eEg1OGZOa2I0cUlZMEx3aks1Slo0QVBBZm5GcHE3UVpMX3otam9iZDkyY09Sc1JXSVZ3ZmFzTG0wSW9TT0pGdEY2TTBvNzNJQTREWkVuZ0M2WV9jNWlhV1E1b01yeHR2YjJtTjlqY19XMS1Bc0lKdmpPaE10V05iQmppQnpkb214U3dmemgzdlVKcjdEblktU0pjdkdnX2VpaU1OTzJfREpxbk4wWE1wTE9JOHRGY3dXSTFLamRMNXUwQUxQTG9xR2dRUzZzX094ZFllTmRyeWQ5a0w2Ng?oc=5"
     },
     {
@@ -1352,56 +1402,6 @@
       "region": "Asia Pacific",
       "summary": "Investing.com Australia가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaEwyZFA1SHE0NEI1cDlGYnVMdnJtcGNOLWprYjBPRnJkNUdhR0I4TEdweTIxZ0didmVCZWZvb1dmODRIWEUyWXdVSUo4WHhqWGVYU3JYSGhiMUNRRndEcWlpaVNacEc3Q2NfcUwzRFJ1Zk1LS0ZlTVpZeU5qM3B4YnFwcnJNNGV2V1lNa3BwZDZ3NXRfUnpPbDFUTU1oeTlJakEyREdhdkVsR3M2Y0hTMjRHdWU1bm9FRGJQcXIyYmZFQTNHVmlTZFNMSmZNUC1nU0taeGJzUzA?oc=5"
-    },
-    {
-      "id": "n-776bc852b55a8abc",
-      "title": "Private credit roundup: Weaker results but redemption pressures ease",
-      "source": "whbl.com",
-      "published_at": "2026-08-08T05:09:32Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "whbl.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS0FITzYtYjBUaVlzTXpLQ2tKMlhYZFhrSTEtaU5STE5sR0VTVHZfcXdNR1lOVmN1djBZMG4yOXlQcS1sZjgxV01WWm0xQnhWVGN0WWtwLVRWNmJjaDMxdTNMRFlXTllhNl8wZG9odVNFTEY1MGlvZDlOc0hpWjVSNDFwTU96RHg0eEtXc3JsXzNTRVUydEZFZkVWQlg?oc=5"
-    },
-    {
-      "id": "n-fac7a9cc63c1d03d",
-      "title": "Morgan Stanley Direct Lending Fund (MSDL) (Q2 2026) Earnings Call Highlights: NII Covers ...",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-08-07T21:03:59Z",
-      "category": "Private Credit",
-      "region": "North America",
-      "summary": "Yahoo! Finance Canada가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUxlR3ZNbXY5VHY4YW1UUXVkTUt0ZWotQXhoM3hJXzZDWHl4WFJNcmdFWlBxeWxwVTJFbERQV2VyRjI0XzV6N2JiRmtXYUYzeWd0aGYzTEszOFZ5QW5KMnhxTXp3WTBhbzR5TkktWTZyWGdzOEQ5enloOE5kWkFuQ2QtbkxiRXU1YmhV?oc=5"
-    },
-    {
-      "id": "n-07928bcee10895c1",
-      "title": "Private Credit Investors Are Testing The Exits",
-      "source": "Finimize",
-      "published_at": "2026-08-07T17:42:50Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "Finimize가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMTBDYmRfZVVRbkZGczFVS2R4Nzg4T0k0NHB1STIwQUdGNkJjcTg2SlcwcVBTdVpsWEZEWkdqVk1kazduUUdRcVlhbjRqY1FPdWx4QzRJbGJ0Tm14T0EyOWNIRG5JT191YThRZW1kcHV2OWxhLUc5eG9MMGpVVEdhbQ?oc=5"
-    },
-    {
-      "id": "n-ed5884e2201ea630",
-      "title": "Job swaps weekly: Fried Frank and Sidley expand US fund finance practice",
-      "source": "structuredcreditinvestor.com",
-      "published_at": "2026-08-07T17:26:15Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSzd3QUVZc0VNc1dBUVo2d0xlLXFBcFNTczB1QmtQdGJJMHpEaERvLWxwYVFMTFF4ZGEwVG1qY0xmRk40ZXVjeVk1WTRMMmJpWGhYb2Q4eGFtbjZIakctcG1SRUtldTY0LXcwYXphZTdpakNoZ0l0TndFLWZlbXdNZGV3RGtmWWNvR1N5bGpmQnJ0UVgzV0p5akZMMDg5dThBLTFBOG9YV2liMncxN1ZnTVFvbk9ZcTVnN1pYWlRFYWtLbWwtY0VYd3IzVXVwamFaSG95emNqdzk2SER2eTlHeE8tVUstS1Z4?oc=5"
-    },
-    {
-      "id": "n-344d8dfe1021ff13",
-      "title": "Earnings call transcript: Morgan Stanley Direct Lending Fund misses Q2 2026 EPS",
-      "source": "Investing.com",
-      "published_at": "2026-08-07T16:26:57Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "Investing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc2E4cUxob0J2MXl2eFZXcjQ1QU0wczFOUkJISEo2RHJNQ0FTemVMdjNieVNaMmpJbi1BMlVIMkR3MFVZS0lZZ0RLVGxZVHdjZkhtSC1LT01fUnhEekFCUE1GRFJELW9mSWJxc0xxSldrR3ZDQkkweE9yc2lWNUFJTVdFcmNjVUxKaFhTMXlVbnZJUXozUy03YXBoVDR3R2lZS2lRTjdWMk4xQWZIM2JDS0VFTnFCSTlIaDNPaE5JSWF0TFBHTVVDei1JQjRuWXc?oc=5"
     }
   ]
 }

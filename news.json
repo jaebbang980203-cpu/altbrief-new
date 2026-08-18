@@ -1,36 +1,76 @@
 {
-  "updated_at": "2026-08-18T16:04:04.386530Z",
+  "updated_at": "2026-08-18T19:41:05.542748Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
     {
-      "id": "n-06131fead1fdfe32",
-      "title": "Anatomy of the Private Credit Market",
-      "source": "Advisor Perspectives",
-      "published_at": "2026-08-18T15:39:48Z",
-      "category": "Private Credit",
+      "id": "n-35c753716717daa7",
+      "title": "UBS taps DC Advisory for director hire in latest boost to EMEA advisory",
+      "source": "Secondaries Investor",
+      "published_at": "2026-08-18T16:49:43Z",
+      "category": "Secondaries",
       "region": "Global",
-      "summary": "Advisor Perspectives가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVdIQ3k5a0xNdUtjbUxiTEU5TkpyYm9yRkNGNS1lY3lpNTlhMEdtS2lMUllRdFdkclBHazdNOTZUb3RXVG8wVThZaHJwb3BEUkF1UHR0cDdxc2RsU2Zhcy12dFJpaTVNcEt1bFZHcURZcDBTYXNxbDVObjJYVDNBcFFOVVF2aEZvYWNLTVZn?oc=5"
+      "summary": "Secondaries Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeTBITm9yVVNERGhVM3prLXNNTVRsNkdmdVFSeWNjTDBwU09GU1lwX0FsRXZoUU45R1JjbjJtN3NoZmtCTmM4REtpME0tbHNJMjVxUnlzdzN4WVdzdnFzT1pZeko4V2V1ZFVWTDJBQi1zR0pDaHRmd0NwQW5GakhKNzJlY1Fndkc4NG8taFZRbG5JUVNoU05XVTZhNFNXT1pBRDR0S3dXakJzYWRK?oc=5"
     },
     {
       "id": "n-829672c366a5dff3",
       "title": "Machine Investment Group closes second investment fund at $350m hard cap",
       "source": "Institutional Real Estate, Inc.",
-      "published_at": "2026-08-18T13:21:16Z",
+      "published_at": "2026-08-18T16:46:15Z",
       "category": "Real Estate",
       "region": "Global",
       "summary": "Institutional Real Estate, Inc.가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXNsaENWd09zVEFiRHJvYlpGakxoNE90OTM1OVNYTzNWelh6OVZsLVQ3Q1YweDJYdmwtUzFIQ194ZUpGN0RpVlI3cXRtalNFay1laXRXSXhoUGRSWGNSMmxQVFlJLU1TaElNX3F2U19tODdLdS1lTzFQSzhqQ2ZaeTF6bWVTZ3hBUVgxeWw5QlBGLVdIU2sxa2ln?oc=5"
     },
     {
+      "id": "n-f97d11e8c257a67f",
+      "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
+      "source": "TradingView",
+      "published_at": "2026-08-18T15:59:54Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQTYxdkdjSHZ1OG8zazFWQmRFOGZqdXZuUHFQWmJYb2Rib01ZOGFPbi0tbGhPRy1xbmc4ODV4aExUUlh6QXF0bGJocDM1anpwaVcwVG9OQ1NqVi12NVpGeXNHMVdaY2E1eHZrZXgtc0Rtd09DM1BVSVpBMU1BWU1EdXhSZ2ZSRFhVR2c1UFpicWhJdi01cWdONS1KalViSXpvdXJibGdUdHUxMVlncFF0V2Nhb3NZQUxFNmtBVGlfeXV0aVA0TXZRM0VfWmdQZW84N0dtdjRRRlVOTjNBV0E?oc=5"
+    },
+    {
+      "id": "n-06131fead1fdfe32",
+      "title": "Anatomy of the Private Credit Market",
+      "source": "advisorperspectives.com",
+      "published_at": "2026-08-18T15:39:52Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "advisorperspectives.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVdIQ3k5a0xNdUtjbUxiTEU5TkpyYm9yRkNGNS1lY3lpNTlhMEdtS2lMUllRdFdkclBHazdNOTZUb3RXVG8wVThZaHJwb3BEUkF1UHR0cDdxc2RsU2Zhcy12dFJpaTVNcEt1bFZHcURZcDBTYXNxbDVObjJYVDNBcFFOVVF2aEZvYWNLTVZn?oc=5"
+    },
+    {
+      "id": "n-7797652a4b6e329b",
+      "title": "Hollyport backs Viking Growth’s €160m CV for Talentech",
+      "source": "Secondaries Investor",
+      "published_at": "2026-08-18T14:32:31Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Secondaries Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRDh0OHRzbDlidEFzcXFZR1ZQdEg2T003SXNTMG5sV3d4clYxWEMya0JhbGlLbUE4djdIWHpoSjRjbFAzdnBxMHc3OVVoczB2ZlYtLVhScVhpS3NvaVNIU0hlWW1IMmlKd1V6RGtLUTBBRDFKejl4UnNBbl9lSDRrR1hFcEhONWloeGJ0MjhuVlh6ZUww?oc=5"
+    },
+    {
+      "id": "n-01a32316fee45034",
+      "title": "Enterprise value to revenue forward of Kayne Anderson Energy Infrastructure Fund, Inc. – FWB:KA5",
+      "source": "TradingView",
+      "published_at": "2026-08-18T14:04:54Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZTVuNFBBakpyV0RjZHVXUHRHZ1BmOHZ2a2h6bHIySlBsSXNOMlFnbXFRbFNMdmtoS3dQeVJwLWVqZDF0RXBaVGp5VDZZNmZTSmhMZUtrWEQ0RFJ4Y1NHUEVXMnNaWk5qQ3J1emJzbHp5OG56M3J3Tm9OY1JZY0N0WktyMFA5OGVDOEJqQ0xVdWFQbmpTdUxaZkVaNTNHemZnbVo4bFRXRQ?oc=5"
+    },
+    {
       "id": "n-bf7aba1e428d39e2",
       "title": "Saratoga Investment Corp. Announces Offering of Notes and BBB Investment Grade Rating from Egan-Jones Ratings Company",
-      "source": "The Manila Times",
+      "source": "manilatimes.net",
       "published_at": "2026-08-18T12:13:10Z",
       "category": "CLO",
       "region": "Global",
-      "summary": "The Manila Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "manilatimes.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOcm05ZXpOMFhUckc0ekZPSU83YWNtSmVoT09TcnJqSExZSVozN0x6VFI4V243aEZ5M2F6dXJVa2xxZ3BFT1FRZkVzY2IxdTBFMmowSjMxRzl0c3I0VmNyNW9acXhJZlJrZ2RVVDJ6dkpLdEItZVNFRkZxemhFdHBjeTF4WmtUQXZDbTRsZ05PeGJidXFkb3NTOThHWlU5d1B2S3d2V2NxX0hnbVVzUl9zTnAyRjBRQ2dobndqbnFwRnZNNmpDUHgyMS0xdEJqMDFCX3hkRTk2eXUzR2dpV28zdEpoSGcyY1ZXLUU4X3V4eGU2Qm5IRUhvNWtZX2xmTFlEdDUtbERtRk1kUWN3aC1aNVJRNjBxRjlIQmfSAZ8CQVVfeXFMTkVWRDUydjNWcUkzUElnX1ZpSmZyanlyZWUtRjBLRmlDRGNlbnlqNUFpc0dZeHo0SzhLSGU3UG1QODZUYm1uTVlnN2Q2VjFJRG5wcVFLWTlnREpoN0p1TnBRSDhqbzdUelN1RXZPSnlwam00aGpyZ3pVWHZfUjcxLXprclRHTk1DeFhnel9PYmRDV19FM2xoM2xYbmt0S2xuYmpRZm5pVDNrVWU2MU9sWnpKeVltX3FlZ195ejAwRHdTQ1RMbkx1TENmcE1MeFd3M2puR3c2ZXhvaXg4ejZvVlhiZkp4LVZxRFZ4Q3pxa0tmM2xKY2ZtVFVzaWtEdTNNWS1COWdmbzdTUS1BNkUwWjRlbEdZMHBmSER2aDVqZXc?oc=5"
     },
     {
@@ -126,11 +166,11 @@
     {
       "id": "n-1a94fc446969ff2e",
       "title": "IMCO committing $300 million to Canadian real estate fund, Caisse completing Boralex acquisition",
-      "source": "Benefits Canada.com",
+      "source": "benefitscanada.com",
       "published_at": "2026-08-17T19:29:10Z",
       "category": "Real Estate",
       "region": "North America",
-      "summary": "Benefits Canada.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "benefitscanada.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZWZLeFhFLWNXTnRtczZEREw3ZzBBT2duZTlwRndfU3BOakxMcXJ5SU5uclVhdHV1NVlYOGNMcnJRdjRVN1R2dFk0MW1NT2RzdU9TbkJ3SS1QbWdXSm56Q04tRkVGdkNLTVBwdGQ2d0h2Z3VUenh6UFdzMVQwaGcwZFZHbTZrN25hNC1xNDA0bml4UUx0WEFZWVd1UlF3NUlPcW5TX19ZTlc4NUI5YWhEY1ZNOUxmdWhmOElKOE9lTXNJZEVUaDNFd3FVaElJcTJ2UWV1cjhIdHU5eGtjVlB5Mjh2TnNDOFJVZ00tcjRrbw?oc=5"
     },
     {
@@ -266,11 +306,11 @@
     {
       "id": "n-d0fa49856d527196",
       "title": "2조 달러 美 사모대출 흔들, 초저금리 잔치 끝난 속사정",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
       "published_at": "2026-08-17T05:00:43Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "글로벌이코노믹가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "g-enews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZFdNM1RXZlVLZEw0STVhSFo4NkxMMkVLLUdrelJuSklFeUt6UGtCMU5UekxLV0JyTWVUU09WY2haaEdfMjZVWDY1VEhtMWRpYjR3MnZMY2FPLV9aRE5fZ2dSd2hvM2E1Z3lNcGJuNXJMc1Bzc2pjNEhJTkZLNkx1S2RCVU5VdmU4?oc=5"
     },
     {
@@ -356,12 +396,22 @@
     {
       "id": "n-cf2e62f687938f81",
       "title": "1789 Capital Closes $1.2 Billion Debut Real Estate Fund Targeting More Than $8 Billion Of Sun Belt Development",
-      "source": "pulse2.com",
+      "source": "Pulse 2.0",
       "published_at": "2026-08-15T23:13:16Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ1NZS1JUSkt6OHV6ZXRPWG9OemYxZ0JtVjRveUR1RVNNZFI2Z090Q2RqZldfN25tMXh2LXVEMVFDdXlEQkVCNzRJSFRFSWs3aGVoR0hjWjg4dS02UXVjb3JNVThaWmJUZW55WEthbXhVUVh5ZkJ4Y290RnNJNm0xZmhpdjlqdDNhTW5LMl9VNm1ySGtRYW40NUIzZF9QWXg1QnptSVFYNHBFNHdEQU95eVN3eWFpdHRzRV8zQnAwQmRGM3F5ZF840gHMAUFVX3lxTFBPSVhxWVI0cUl2elMxRnBQYi1kQjZJOXpCYkdFem1nOXZfWEhPWjBZb1QxS3NFbTlVcnB2aHlhNXBfT0IxVGJ0YnVPZlNRM3FNbG5NZXgwUkE1aGhrdHlHZ1FYUG1UalhiLUo0Q182elBkVFpIaEM0d2l5c0ZZQzEwZGI0NjYzaURkTTN2bFFWZ0dIUElERjJ4b0tjbWF4SGlUeXJhT3FlX3V2LUxhbUxUYnk2NEJlT0R0QnY2M1hBcDVVcGNVZlRzSzJXaQ?oc=5"
+    },
+    {
+      "id": "n-08fa7f4dbbba7d34",
+      "title": "Goldman Sachs MLP Energy Infrastructure Fund's Kodiak Gas Services Inc(KGS) Holding History",
+      "source": "GuruFocus",
+      "published_at": "2026-08-15T14:50:41Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "GuruFocus가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2Rickxia09RUzFmQVBOc2tueUNleW1RcWdOS0pBRmNybmZIYVNrMlhELVNZaVNkdEF3X0Y4b0xMS2g0clJ5aHgyLWNTX0JFWElJY19HcUFieVp1YnpuaDBzcFVzdU51Ql9RbUhjdm9pa2ZfS2ZqTGN4TVJVZ1p6ZjJUMlVzZ1I1aTJGNjJnWG5EMGIxRUJubHlMN1VmVjlL?oc=5"
     },
     {
       "id": "n-08a8095788491fb2",
@@ -374,23 +424,13 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VSWVadWdZdHhzMjVUR1EzSEJBdnVMWmFrX3VQT2VPOUtqcktHN2lsY0xnSFhzem5RazJCdmQyWVY1eEI1OWRDbzJITWtnTU5GTWZqcFp6VHFCRGNJWmtRUmdnRmw0Vnh1d00tSUp4NjBub1h0Wl83ejQwbEQ?oc=5"
     },
     {
-      "id": "n-08fa7f4dbbba7d34",
-      "title": "Goldman Sachs MLP Energy Infrastructure Fund's Kodiak Gas Services Inc(KGS) Holding History",
-      "source": "GuruFocus",
-      "published_at": "2026-08-15T05:12:18Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "GuruFocus가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2Rickxia09RUzFmQVBOc2tueUNleW1RcWdOS0pBRmNybmZIYVNrMlhELVNZaVNkdEF3X0Y4b0xMS2g0clJ5aHgyLWNTX0JFWElJY19HcUFieVp1YnpuaDBzcFVzdU51Ql9RbUhjdm9pa2ZfS2ZqTGN4TVJVZ1p6ZjJUMlVzZ1I1aTJGNjJnWG5EMGIxRUJubHlMN1VmVjlL?oc=5"
-    },
-    {
       "id": "n-eb40676cfc3379a7",
       "title": "글로벌 UHNW 자산, 102조 달러 향한다…AI와 대체투자 경쟁",
-      "source": "글로벌이코노믹",
+      "source": "g-enews.com",
       "published_at": "2026-08-15T02:03:32Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "글로벌이코노믹가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "g-enews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1VQVXpQdXRQem9DSmZWSXdRRzFrYnlsVDc3d21RTVdBUzFTY0hGSXRFZEVxVzJXODduTTE0eUx3ZmNQQVhvd3ZnSFN2SEoyQUYyZ1J4em53THhFMXVFVzM2UkFQbWotZDR5NmFJeG1aTi0wN2FEUlRCbE40c1NtZWt2THVLMlJz?oc=5"
     },
     {
@@ -566,11 +606,11 @@
     {
       "id": "n-18514ae3d6e4dde2",
       "title": "Janus Henderson, Victory Park Capital, And Privacore Raise Additional $100 Million For Asset-Backed Credit Fund",
-      "source": "pulse2.com",
+      "source": "Pulse 2.0",
       "published_at": "2026-08-14T11:29:17Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRzR2c0h1djhKOVhQNmNmallIbHhpRTE0VXBnMVIyMy1WTnBQQTY4NWFJbUM2ZjhyaVJVeUJVT3RtUEZkNUlXNWxzWGxfa3N4YVQxS1AzcWcyNXdnSVZObXBQaTRDSTN2bEQycExMLWwtR09vRG5qRWZDS2wySFNfSnZpejhXaXRjQ3NYejlrc1JmX0NJZFM1YVRDYW9WSmFBTklXZVEwanZjMGhhQjhEMS05UzU2LXlFLWpSVUNqR0VNbVd2aHBJ0gHMAUFVX3lxTE9JMjE4eU8tSE4xRXJBLW02VjJ2b0lweEJPclZheVA2ZDZONUlDZkJlLWd3WEhJNzRHd2l0NVZ1dlFhWHduODhNbWtYc3RIUXRGc1hkQlRXN2hQeFU1ZE94bDZnNEphb1c2R2lkM1N1X3pfTGNhWC03NDkwbUEtVXZ5MEI0ZkM3UUJicmpZNTB0YjlEWUxhYXdtS01Yamo1M1pJM3VWVlJxNDc1VlNOTjhTSU1GQTBGaTVPSlNwUjdWeGJOZ0xSWWtfNE50WQ?oc=5"
     },
     {
@@ -906,11 +946,11 @@
     {
       "id": "n-01ca5fc88d19a15b",
       "title": "Polar Asset Management Partners Holds $215 Million First Close For CRS Fund II",
-      "source": "pulse2.com",
+      "source": "Pulse 2.0",
       "published_at": "2026-08-12T19:40:14Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnJ3R1l0LUpJVzZsLTZkSU1paHJvZnZTcExMajFOa2FHb3Noc2VXMFlVUFpvck5uRlF4enhUdXRZcHJ1d0kybG1OOGpTRS1CdU96aWw1VTg4N1pyV3pzTWpPZjlfTkdYcWM2UHp2VjkzcEhKb3llV2lhQWpHXzdCRXRYdm5PZGJpcm9KSHpyWGE3Tk16SDcxNHF5eGdkQdIBowFBVV95cUxNWU50bHJueDhBX3prRm43VXlKMXlDdG5mNmVuSjR6SVVDZ3NrcjFiOVl1Slp5MTc0cnBYT3FYRU5abW5Lc0p0eUpWMnptVlN1UEo1NzRmWkJyQkxhUUJfTnRTamRDOEhPTzdZWENnSnpvaml2Q3VmeHVoNEUyMThyRUZnTjkwNVVmekcybGgxSHdnZEVrZll6eHJneWFUQlBFV0Fv?oc=5"
     },
     {
@@ -956,11 +996,11 @@
     {
       "id": "n-4bc2a39122ca2aea",
       "title": "Real Estate Fund Set to Lose Boston Life Science Investment",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-12T12:41:04Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjd1eDhyTW5RWGd1MHFxd3JSSkNkNS1YUG45bXczM3RGMmZKN0JJR3NLMmtOekhtbUU1dVRYWVVsWmZVS3IxUmFWa1h1Qi13R1M4RWEyY1BYQzhiYmYxVkJuQzNTSmV2ZmtMOHFCbHVjQ2VnMjBCZlJIVFM2dUtfU01YTHFoSmhWRkQ2QlREbVVqMy12bTkwbHVXRWdOTHFhTHFUU1hzOE5CSFZYWThv?oc=5"
     },
     {
@@ -976,11 +1016,11 @@
     {
       "id": "n-69b33ba77a472d69",
       "title": "AI Looms Over Software Companies — and the Investors Who Piled Into Them",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-12T12:00:00Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iOGR6Rk01cW9Zak9fRjAwT2xQVnc3Q1pVMUEzVlRJSVhiemhGenRuSFVadlZTbnV6eF9xRmpKMDdPd1g0V2pwNGE5MmpHeXNWaEFCMVpOU2VleGd0YUFIeDhRcDlOSzRFWTNGX2tQdG5IOU1PX2c?oc=5"
     },
     {
@@ -1176,11 +1216,11 @@
     {
       "id": "n-da5c12a7f101f55f",
       "title": "Yankees receive $2.6 billion in financing deal with Apollo Sports Capital - The Athletic",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "published_at": "2026-08-11T15:28:13Z",
       "category": "Private Equity",
-      "region": "North America",
-      "summary": "The New York Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "region": "Global",
+      "summary": "nytimes.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGV5cEE1Tm1TamhBdEx5alRKdlZ4eVBKWHhzVGJoeFZiVmk4QlBOQkVNNUhhdkhDcDJ3S2ZJNVJQYXdYV2NVNDJJNW1iRlAwUU5YVTdhUTN0OEF5SzBtMno1cVJaUXFyazVvSGxxa3dWZ05JZVVvWkNOOXhXX2d6aHctMXdTVW1UT3RhR0JBa3pzLWxST3Y5ZA?oc=5"
     },
     {
@@ -1206,11 +1246,11 @@
     {
       "id": "n-67f8e50190e2bbd3",
       "title": "Private-Credit Firms Clamp Down on Loan Sweeteners in Fear of ‘Shadow Defaults’",
-      "source": "wsj.com",
+      "source": "WSJ",
       "published_at": "2026-08-11T13:30:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "wsj.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3BRR0NOV2FVZi1SeUU2N1daUnJrMFQtWC1tSVQxaWk3RlBjN0ZnbEFnTUFZa3VtMGJ6c09ab05zUzFxOEZoUnlEYU55RVdFblhPWGZ6ZlY2d2hjekhGTGFjampUbVRvRFo2OGQ3bEd0TlRueGxST0kzZFJ1R3BHdzFDSXhxY25IeVhsTmhQMzl6ZGRQVEVEdUtoV3V2VEZMU0pQYk5vLXhvSDlVaDdQcU1NbVU?oc=5"
     },
     {
@@ -1266,11 +1306,11 @@
     {
       "id": "n-4203a2cf87833c84",
       "title": "White & Case advises PGIM on Mexican real estate fund targeting over half a billion dollars in capital commitments",
-      "source": "whitecase.com",
+      "source": "White & Case LLP",
       "published_at": "2026-08-11T12:00:00Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "whitecase.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "White & Case LLP가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaU43cktuVm1MMzl0NW5HLTNKZzVYdHcyQmZhWWZ0bVFFSWZSd2ZudFFVRGRTaFh6WS0xUGU2S3N0REFlRjJZc2lGTloyTWs4akdLR3ZBeFFOUXk1ay00SUhpNHphRm1qejZtdllxM3BZSVZpM1VJMFRMd01sSjdLaHgzeXd1QS1Gb211cFc2UUZxVnN2N0NiQ2xIYmZqV21yMEZQbFM3NmE1OGh0aXVOdW9GMlRqV3YteHRyR2VR?oc=5"
     },
     {
@@ -1362,46 +1402,6 @@
       "region": "Global",
       "summary": "SecondaryLink가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTEd5aEloNE9fSmJzaXVJVEEySkVjQ0J4cFVDWjNpcjB0TFhBVmZUS1BnQ1U2Z3lqYjk1SGdNSXlaU1ZUNEgzWUluazVwRzJzZ2JpZGJKZGxGMXVteXNIbTVaX3pqQjNtc01RanFOVkdkU1BRcmwzVVQ5cTBIVE54SC1IU1dEVjFKVko5WjhJS05oZTd2aUxGaXAtMGJ6SmdHMzBvcE1ESS0yazlxYlVNdDZWUFN4ejdDX29z?oc=5"
-    },
-    {
-      "id": "n-8ddcd2803454250d",
-      "title": "Exponent rolls H&MV into continuation fund at €1.4bn valuation as data centre demand powers 12x uplift",
-      "source": "AltAssets Private Equity News",
-      "published_at": "2026-08-11T07:56:41Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "AltAssets Private Equity News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPRE1JZDNYWVFPOU9UUHloY1ltcHM0OW9QeEpMd1lqZ2VVU1Q0ZHVGc1Joc1lqbzZkUFZPMWJXY01WNjdQRWNLa0Jyd3Q4YktqdmFxMjRUNFNGSG16WmFON3YwWWltVEtPU1F2NlpSdGJ4Rm5ncmNHczdxZTEzM2s2Mm1mUjd5OUE2dFhfaWZFSFpNdVJNZEdFNnNNZTdwTWpVSzYwSEVWdFQxeGdrVUlyYzd5clJ4UWxrYXVnV2dnZkRwOUdYb2dEOFNtQWI1MkZVc0IyTkViMTlDeFdrWi1LVGpnLWJrZ3h4ejktTEVKOTN2b3ZZMDFkN3d6YlJ4cDczeE1kY3E5WDBRUUJ1OGdKcld4SDBTSmRIS2dmOTV2TjhCNzhJdHFvcFBlbDRGYUhKNmxNVWF4QWlwUVY2dS1xTTFCMG9LdEFpbl82NXpNU1J6NHZ6LWdZMnluRHNGRXAtbklLQW5aX0pqU05ueFlwNWRFd1VoUnhFY1hLOEdDa1RIQQ?oc=5"
-    },
-    {
-      "id": "n-b10ec7d13fec8e0d",
-      "title": "Limerick-based H&MV Engineering valued at €1.4 billion in new deal",
-      "source": "Business Post",
-      "published_at": "2026-08-11T06:47:19Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "Business Post가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlYzTUxHSzhyMGFXR21YX24wdzhNWnFlLVAtVmxHaXpvY3pONHVNLUFDMmRwQjNURzFESDRxVzFyWWRCYUtQd1hTRW9HYklGMXprUHhNalAxdS1jdUNHeEhzejE3a0hjcVF4UGVwR1VNeVozWmVTaXFfREdLT2t4Q1k4Y1RWcmMtRlBGT3k2eW9jandXeHkwUF9KNFpPR1JBT295bTNHSQ?oc=5"
-    },
-    {
-      "id": "n-4fb35423291e67b0",
-      "title": "롯데그룹, 美 사모펀드 TPG에 롯데렌탈 매각 추진",
-      "source": "연합뉴스TV",
-      "published_at": "2026-08-11T06:39:00Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "연합뉴스TV가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xeWk0MDlPdmdsWXY4X01nM3ZBRURoLXlFNUZxeW01SnRrUVRsRDRNQXFuZmpxVkI4SnBSS0pPWi1hVDBlLWdLU0Q0ZHFVVklCdENXWFBvcGVxbHNnMGhiRWhneEJRSnM?oc=5"
-    },
-    {
-      "id": "n-a908e0b5ccf4d986",
-      "title": "고금리와 기업 부진...美 사모펀드, 기업 3만3천개 매각 못해",
-      "source": "v.daum.net",
-      "published_at": "2026-08-11T05:54:02Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PNUNNWlJHbmNKOU9SS1hrc1Bwbm5sV1J1cm84S2dJWlpUM2J1THRTQV9LQ0tOUW5jZEJ4b2ktSlJ0d1JxM0NTTk1jVQ?oc=5"
     }
   ]
 }

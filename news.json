@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-18T14:09:23.096846Z",
+  "updated_at": "2026-08-18T16:04:04.386530Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-06131fead1fdfe32",
+      "title": "Anatomy of the Private Credit Market",
+      "source": "Advisor Perspectives",
+      "published_at": "2026-08-18T15:39:48Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Advisor Perspectives가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVdIQ3k5a0xNdUtjbUxiTEU5TkpyYm9yRkNGNS1lY3lpNTlhMEdtS2lMUllRdFdkclBHazdNOTZUb3RXVG8wVThZaHJwb3BEUkF1UHR0cDdxc2RsU2Zhcy12dFJpaTVNcEt1bFZHcURZcDBTYXNxbDVObjJYVDNBcFFOVVF2aEZvYWNLTVZn?oc=5"
+    },
     {
       "id": "n-829672c366a5dff3",
       "title": "Machine Investment Group closes second investment fund at $350m hard cap",
@@ -246,11 +256,11 @@
     {
       "id": "n-48d08d4e750a5ba6",
       "title": "Asia-Pacific property funds turn to recaps amid redemption pressure",
-      "source": "kedglobal.com",
+      "source": "KED Global",
       "published_at": "2026-08-17T09:56:00Z",
       "category": "Secondaries",
       "region": "Asia Pacific",
-      "summary": "kedglobal.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "KED Global가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OMFl1cU1EUWVZemNaV1RfX0hBWFd0WlpDR29xVmJOMzJhVFlDeG1XSTlHemMwU3RiR1hVXzctMk83d1B2NzByR1hCUEptZ2NubmhZNE1uYWNUdmtnVGZ2a01QMWtCaktva05LOXo0OA?oc=5"
     },
     {
@@ -346,11 +356,11 @@
     {
       "id": "n-cf2e62f687938f81",
       "title": "1789 Capital Closes $1.2 Billion Debut Real Estate Fund Targeting More Than $8 Billion Of Sun Belt Development",
-      "source": "Pulse 2.0",
+      "source": "pulse2.com",
       "published_at": "2026-08-15T23:13:16Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ1NZS1JUSkt6OHV6ZXRPWG9OemYxZ0JtVjRveUR1RVNNZFI2Z090Q2RqZldfN25tMXh2LXVEMVFDdXlEQkVCNzRJSFRFSWs3aGVoR0hjWjg4dS02UXVjb3JNVThaWmJUZW55WEthbXhVUVh5ZkJ4Y290RnNJNm0xZmhpdjlqdDNhTW5LMl9VNm1ySGtRYW40NUIzZF9QWXg1QnptSVFYNHBFNHdEQU95eVN3eWFpdHRzRV8zQnAwQmRGM3F5ZF840gHMAUFVX3lxTFBPSVhxWVI0cUl2elMxRnBQYi1kQjZJOXpCYkdFem1nOXZfWEhPWjBZb1QxS3NFbTlVcnB2aHlhNXBfT0IxVGJ0YnVPZlNRM3FNbG5NZXgwUkE1aGhrdHlHZ1FYUG1UalhiLUo0Q182elBkVFpIaEM0d2l5c0ZZQzEwZGI0NjYzaURkTTN2bFFWZ0dIUElERjJ4b0tjbWF4SGlUeXJhT3FlX3V2LUxhbUxUYnk2NEJlT0R0QnY2M1hBcDVVcGNVZlRzSzJXaQ?oc=5"
     },
     {
@@ -362,6 +372,16 @@
       "region": "Global",
       "summary": "tipranks.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VSWVadWdZdHhzMjVUR1EzSEJBdnVMWmFrX3VQT2VPOUtqcktHN2lsY0xnSFhzem5RazJCdmQyWVY1eEI1OWRDbzJITWtnTU5GTWZqcFp6VHFCRGNJWmtRUmdnRmw0Vnh1d00tSUp4NjBub1h0Wl83ejQwbEQ?oc=5"
+    },
+    {
+      "id": "n-08fa7f4dbbba7d34",
+      "title": "Goldman Sachs MLP Energy Infrastructure Fund's Kodiak Gas Services Inc(KGS) Holding History",
+      "source": "GuruFocus",
+      "published_at": "2026-08-15T05:12:18Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "GuruFocus가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2Rickxia09RUzFmQVBOc2tueUNleW1RcWdOS0pBRmNybmZIYVNrMlhELVNZaVNkdEF3X0Y4b0xMS2g0clJ5aHgyLWNTX0JFWElJY19HcUFieVp1YnpuaDBzcFVzdU51Ql9RbUhjdm9pa2ZfS2ZqTGN4TVJVZ1p6ZjJUMlVzZ1I1aTJGNjJnWG5EMGIxRUJubHlMN1VmVjlL?oc=5"
     },
     {
       "id": "n-eb40676cfc3379a7",
@@ -476,11 +496,11 @@
     {
       "id": "n-3786e583650278c0",
       "title": "Donald Trump Jr. returns to real estate roots with $1.2B raise",
-      "source": "therealdeal.com",
+      "source": "The Real Deal",
       "published_at": "2026-08-14T14:28:00Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "therealdeal.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "The Real Deal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVlE3Y0xoZ0Z5aHB4NUhJeEJ4UmF2blVmbVdsbTltWGJXTWY5OGxQMlJQRUhGTEV0SHBRM0g1TXFlUE9KT1A5NE0zMVQzV3MzaUpfQk9OX2w1Vm4xbGJNdnlEdXlHYlpjQTJjSTAzQ25aUDhGRlFjRVY3NWVTUzZ2Q0FrUk5YT0tTYnJpTEZkRlNUY0xhQmhwLXcxZWZwbDAyVDMwakd3?oc=5"
     },
     {
@@ -546,11 +566,11 @@
     {
       "id": "n-18514ae3d6e4dde2",
       "title": "Janus Henderson, Victory Park Capital, And Privacore Raise Additional $100 Million For Asset-Backed Credit Fund",
-      "source": "Pulse 2.0",
+      "source": "pulse2.com",
       "published_at": "2026-08-14T11:29:17Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRzR2c0h1djhKOVhQNmNmallIbHhpRTE0VXBnMVIyMy1WTnBQQTY4NWFJbUM2ZjhyaVJVeUJVT3RtUEZkNUlXNWxzWGxfa3N4YVQxS1AzcWcyNXdnSVZObXBQaTRDSTN2bEQycExMLWwtR09vRG5qRWZDS2wySFNfSnZpejhXaXRjQ3NYejlrc1JmX0NJZFM1YVRDYW9WSmFBTklXZVEwanZjMGhhQjhEMS05UzU2LXlFLWpSVUNqR0VNbVd2aHBJ0gHMAUFVX3lxTE9JMjE4eU8tSE4xRXJBLW02VjJ2b0lweEJPclZheVA2ZDZONUlDZkJlLWd3WEhJNzRHd2l0NVZ1dlFhWHduODhNbWtYc3RIUXRGc1hkQlRXN2hQeFU1ZE94bDZnNEphb1c2R2lkM1N1X3pfTGNhWC03NDkwbUEtVXZ5MEI0ZkM3UUJicmpZNTB0YjlEWUxhYXdtS01Yamo1M1pJM3VWVlJxNDc1VlNOTjhTSU1GQTBGaTVPSlNwUjdWeGJOZ0xSWWtfNE50WQ?oc=5"
     },
     {
@@ -566,11 +586,11 @@
     {
       "id": "n-ea08a110a9502709",
       "title": "Asset-Backed Finance: A market segment coming into focus",
-      "source": "privatebank.jpmorgan.com",
+      "source": "J.P. Morgan Private Bank",
       "published_at": "2026-08-14T07:00:00Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "privatebank.jpmorgan.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "J.P. Morgan Private Bank가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3NSNjY1aGpXRFZyc2l6ZmJFR1g1Y3ozeWIxLXF5dmJDbWJLOXpSTzA5X2lXRmRuSDhzaHlYZ3YyVzJUT3R5NVpzaG93QXRpZkZXcFhfTGNmVUhyemFJU1pEazY1dmRPMzg4X3laUmJzZmY2cFlFOVdaemU5ZHpoUGI5WkltZWNMQ3gtU0xHeV9mbHVuQ0VlVG1nc2tYMzBHeEVUTmdwSDJndG1ibWM3Y0l5RG0xZkRUNVlRWS1uQkk5d28xUGc?oc=5"
     },
     {
@@ -886,11 +906,11 @@
     {
       "id": "n-01ca5fc88d19a15b",
       "title": "Polar Asset Management Partners Holds $215 Million First Close For CRS Fund II",
-      "source": "Pulse 2.0",
+      "source": "pulse2.com",
       "published_at": "2026-08-12T19:40:14Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnJ3R1l0LUpJVzZsLTZkSU1paHJvZnZTcExMajFOa2FHb3Noc2VXMFlVUFpvck5uRlF4enhUdXRZcHJ1d0kybG1OOGpTRS1CdU96aWw1VTg4N1pyV3pzTWpPZjlfTkdYcWM2UHp2VjkzcEhKb3llV2lhQWpHXzdCRXRYdm5PZGJpcm9KSHpyWGE3Tk16SDcxNHF5eGdkQdIBowFBVV95cUxNWU50bHJueDhBX3prRm43VXlKMXlDdG5mNmVuSjR6SVVDZ3NrcjFiOVl1Slp5MTc0cnBYT3FYRU5abW5Lc0p0eUpWMnptVlN1UEo1NzRmWkJyQkxhUUJfTnRTamRDOEhPTzdZWENnSnpvaml2Q3VmeHVoNEUyMThyRUZnTjkwNVVmekcybGgxSHdnZEVrZll6eHJneWFUQlBFV0Fv?oc=5"
     },
     {
@@ -936,11 +956,11 @@
     {
       "id": "n-4bc2a39122ca2aea",
       "title": "Real Estate Fund Set to Lose Boston Life Science Investment",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "published_at": "2026-08-12T12:41:04Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjd1eDhyTW5RWGd1MHFxd3JSSkNkNS1YUG45bXczM3RGMmZKN0JJR3NLMmtOekhtbUU1dVRYWVVsWmZVS3IxUmFWa1h1Qi13R1M4RWEyY1BYQzhiYmYxVkJuQzNTSmV2ZmtMOHFCbHVjQ2VnMjBCZlJIVFM2dUtfU01YTHFoSmhWRkQ2QlREbVVqMy12bTkwbHVXRWdOTHFhTHFUU1hzOE5CSFZYWThv?oc=5"
     },
     {
@@ -956,11 +976,11 @@
     {
       "id": "n-69b33ba77a472d69",
       "title": "AI Looms Over Software Companies — and the Investors Who Piled Into Them",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "published_at": "2026-08-12T12:00:00Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iOGR6Rk01cW9Zak9fRjAwT2xQVnc3Q1pVMUEzVlRJSVhiemhGenRuSFVadlZTbnV6eF9xRmpKMDdPd1g0V2pwNGE5MmpHeXNWaEFCMVpOU2VleGd0YUFIeDhRcDlOSzRFWTNGX2tQdG5IOU1PX2c?oc=5"
     },
     {
@@ -1186,11 +1206,11 @@
     {
       "id": "n-67f8e50190e2bbd3",
       "title": "Private-Credit Firms Clamp Down on Loan Sweeteners in Fear of ‘Shadow Defaults’",
-      "source": "WSJ",
+      "source": "wsj.com",
       "published_at": "2026-08-11T13:30:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "wsj.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3BRR0NOV2FVZi1SeUU2N1daUnJrMFQtWC1tSVQxaWk3RlBjN0ZnbEFnTUFZa3VtMGJ6c09ab05zUzFxOEZoUnlEYU55RVdFblhPWGZ6ZlY2d2hjekhGTGFjampUbVRvRFo2OGQ3bEd0TlRueGxST0kzZFJ1R3BHdzFDSXhxY25IeVhsTmhQMzl6ZGRQVEVEdUtoV3V2VEZMU0pQYk5vLXhvSDlVaDdQcU1NbVU?oc=5"
     },
     {
@@ -1356,11 +1376,11 @@
     {
       "id": "n-b10ec7d13fec8e0d",
       "title": "Limerick-based H&MV Engineering valued at €1.4 billion in new deal",
-      "source": "businesspost.ie",
+      "source": "Business Post",
       "published_at": "2026-08-11T06:47:19Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "businesspost.ie가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Business Post가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlYzTUxHSzhyMGFXR21YX24wdzhNWnFlLVAtVmxHaXpvY3pONHVNLUFDMmRwQjNURzFESDRxVzFyWWRCYUtQd1hTRW9HYklGMXprUHhNalAxdS1jdUNHeEhzejE3a0hjcVF4UGVwR1VNeVozWmVTaXFfREdLT2t4Q1k4Y1RWcmMtRlBGT3k2eW9jandXeHkwUF9KNFpPR1JBT295bTNHSQ?oc=5"
     },
     {
@@ -1382,26 +1402,6 @@
       "region": "Global",
       "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PNUNNWlJHbmNKOU9SS1hrc1Bwbm5sV1J1cm84S2dJWlpUM2J1THRTQV9LQ0tOUW5jZEJ4b2ktSlJ0d1JxM0NTTk1jVQ?oc=5"
-    },
-    {
-      "id": "n-33daa57349d62081",
-      "title": "美 사모펀드들, 미매각 기업 3만3천개",
-      "source": "v.daum.net",
-      "published_at": "2026-08-11T05:48:50Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VTDNjTFBsOWtrdkVveEM4ME1jVlM1QkI2VXMzNC03dmh4WDZ0NGRUQktXelREemlKTVc2MEpjcGg1SkxYUVNrd2tMTDhsMW1XbE5yYg?oc=5"
-    },
-    {
-      "id": "n-006eb95812e3c6a6",
-      "title": "Net Asset Value of EfTEN Real Estate Fund AS as at 31 July 2026",
-      "source": "GlobeNewswire",
-      "published_at": "2026-08-11T05:00:00Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "GlobeNewswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcnBENFVKbWphRjB1bFY2djRZT2R6MWo2bXpuWWVyVVNaS2UyVGtoVmRtS2ZvOUhCUDQzR1huRTFXbnI3bFRROHluQS1Zd3FwTEhuNDYxeGVCQTdvbFJOLW1ZUTc3OEFwQi1ub0phVVlEV0F3VlhyUy13ZEg3QTlvYVpfM3QwT3VrbktWWkhwQU93Y1hwWlROdUpkbkpTQzNhek1GVjVMc1Zvak12cHZoMlFNdkt6ZDZ2dmdaMVFKYWVkRGl5aGVMYlpjWTN6SWhV?oc=5"
     }
   ]
 }

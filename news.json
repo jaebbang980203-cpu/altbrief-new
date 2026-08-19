@@ -1,17 +1,27 @@
 {
-  "updated_at": "2026-08-19T19:36:02.261463Z",
+  "updated_at": "2026-08-19T22:01:09.985902Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
     {
-      "id": "n-83adf5080c21c470",
+      "id": "n-dd98332cb679219a",
+      "title": "Riskified (NYSE: RSKD) insider sells 162K shares in preset plan",
+      "source": "Stock Titan",
+      "published_at": "2026-08-19T20:02:50Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Stock Titan가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmJ0SWVHNWpWM2JuYXN6cGRXeE1JeWRwaGt0d1ZuRUVOY3ZXUFpha001bWhhVmV0VUlCRHN5cVRCQk9uNktoOGE5NVdUNS02VklmY2tMekptLXNTVG5Ub3hHYkxjdTBUU0lDVFdDZ29GaE5kMS1EaG55TzI2aEFsTThQVVMwb1NGZGRGOEFXNWIzeTZEdFlFSmVxSDFGUjFsWVFiSnc2R0dveVE?oc=5"
+    },
+    {
+      "id": "n-a1ecf2c167e3c094",
       "title": "Kirkland Guides Machine's $350M Distressed Real Estate Fund",
       "source": "Law360",
       "published_at": "2026-08-19T19:08:00Z",
       "category": "Real Estate",
       "region": "Global",
       "summary": "Law360가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQTFhc2ZYc2VMRHRFRy1pb2ktMjJSTV9IdWthTmN2bk5XNWR1VW9CU1I2dTZieWJwOGxYQmtMMS1GdHc0c0pXb2IwbGR4aFJTWFlxVHhqZ2tJQk9zajZ6akg3a3M1cG13NjNxem5WUzQ1MXpEWHg0WVdsTWJjTDlDUnZ4S2Zxa1A2clVua21tSkRBd0NGRElBNzBhY01RNG_SAXNBVV95cUxNMzMtT1dtR21XZVQ5aHkxekZZQkpxZUJmVmR0WWRVUzVHVjFnbG85QndCMURpcVBpS0pTZXhzcUZTQ3JZd3FsYm5ENjJKOWVCclVEUXQ4VmpJWVlZTkJjU2Y2X1I1OHlua2pMWVY2d1VxdjVV?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV2R3RFBDZFJSY0k1TG9aQVVqTndmMmRueVZnaUVsaXlPaXdWeXczNmVMdEtKSEV3TjRqV3R4dC1oTEtpM0IyRXU2YU1kWFFPQ2d5VUN5TURJN0lKZDNfRUJlVFFkRGQxT1VlbjJhYm9ybFd4X0V4NXU1ZzFKN3hmWFVLS0QtMVN6cE1qZ2loOHUxWlM5OUlLdG5PeGIyX3Rkb3RxWnJRaVZNMWUyQ29HbFY3b3FUdVAtU0xZN2RlazV4ZzRuaVphQ3RhaEjSAXNBVV95cUxNMzMtT1dtR21XZVQ5aHkxekZZQkpxZUJmVmR0WWRVUzVHVjFnbG85QndCMURpcVBpS0pTZXhzcUZTQ3JZd3FsYm5ENjJKOWVCclVEUXQ4VmpJWVlZTkJjU2Y2X1I1OHlua2pMWVY2d1VxdjVV?oc=5"
     },
     {
       "id": "n-0f83dca9679c0cbf",
@@ -36,11 +46,11 @@
     {
       "id": "n-3e07c2055f665ee7",
       "title": "Jefferies Targets €1 Billion for Private Credit Secondaries Fund",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-19T14:58:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX010UC1BWjNXbzg1dWdDOXotMHFUT0N2VUVfU2x6ZEMzMGdpd0RBRGpRek9sNkYtdHlRU3A2VUtDWW9kZ0tVMUV1OWtXUk9ta0RqR1VRTGtNUnlIVnhINUp3ZGQwQTNQZTdtN2tORzJuUGwtVmRzVzZ0OFVReVR0SzN2SG0xQzZvOFdXMnEtTkdqWFI3R1JsYTBEc2dXa0xiZUV4b0tVa3poZFJLZnJISEVGTjA?oc=5"
     },
     {
@@ -56,11 +66,11 @@
     {
       "id": "n-b5cd5e047a23e5ee",
       "title": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-19T12:15:57Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdTRXdVh6UmJ1d2VNeTVzUTZvR3gyak9FeUlDSlFSR243LUxJUHgtZ2NCV3c1Y29SU1NrWlIyeHplQVFiSHZiYTFXYVlzRjBHd2cxdS14TmNBTXdCSzNPT0JZUzk2eWlMZWVKY0ZucEtiQi01T2pqTGdhRTZUVUttLXNYQVJXcHU0VklVZjlGQV85Si1SYm9LcFR2OTNTM09jNWpVY1FWc3J2enFtTnBBMlI3aTE?oc=5"
     },
     {
@@ -286,11 +296,11 @@
     {
       "id": "n-db1dc5ea22b57ff3",
       "title": "Lotus Infrastructure Raises $1.8 Billion to Invest Across Clean Energy Value Chain",
-      "source": "esgtoday.com",
+      "source": "ESG Today",
       "published_at": "2026-08-18T11:19:10Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "esgtoday.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "ESG Today가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeERMXzRGcnV0SVFZYzBsN2NjQU8tQ3BCNWp2akRuVWlQampEMDRPWEdjSWFpb1hYVVhmSlRtbmtrbzhaalQycnJiSTlodV9USVhNTnZGYXNFTGtySUlsdzhRMFM4T0lrNXNkOG04bk1zV0xjejAwM045S0RhdTAxTzl3SzQtUHAwaUMyRmJHS0tEQTR6d1Nyc3FlWlg5Q1FsUTR1VEg5QUhGanc?oc=5"
     },
     {
@@ -306,11 +316,11 @@
     {
       "id": "n-1f4d368df5a17bd0",
       "title": "Vintage year in private equity: the key metric for fund selectors",
-      "source": "rankiapro.com",
+      "source": "RankiaPro",
       "published_at": "2026-08-18T09:50:38Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "rankiapro.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "RankiaPro가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDNzZTUzaXVZR19iZXNaU0ZIWkJUQTNzc3BoMTlQMTdxa0FkU3JudU9veUZ1Z015bTdPa1REZTBkbkE1MnFqRHIwWnRUVWFQVDVxYlRrZUFCdzM2UUxOMEhQVnBnX0R5dEhmRVlNSFM0em9ZQXBCUGd2aXE3dzVMdnpaMjBoWGZGSG9XNlVjbjljUQ?oc=5"
     },
     {
@@ -536,11 +546,11 @@
     {
       "id": "n-48d08d4e750a5ba6",
       "title": "Asia-Pacific property funds turn to recaps amid redemption pressure",
-      "source": "kedglobal.com",
+      "source": "KED Global",
       "published_at": "2026-08-17T09:56:00Z",
       "category": "Secondaries",
       "region": "Asia Pacific",
-      "summary": "kedglobal.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "KED Global가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OMFl1cU1EUWVZemNaV1RfX0hBWFd0WlpDR29xVmJOMzJhVFlDeG1XSTlHemMwU3RiR1hVXzctMk83d1B2NzByR1hCUEptZ2NubmhZNE1uYWNUdmtnVGZ2a01QMWtCaktva05LOXo0OA?oc=5"
     },
     {
@@ -562,6 +572,16 @@
       "region": "Global",
       "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtTDFtYkprQ1c1SEZhcnAzQ2dJbktrMmtCNXV4V0t5WXJfM2xFQk1fZlk2UVk1alhGRnZ0MjMyNE1yazNMMEV0dXJFU1J6SXEzNlRUUDBCQmUxcWhBNnc?oc=5"
+    },
+    {
+      "id": "n-3da7a20d3f93779e",
+      "title": "MGLJX Fund Price and Chart — NASDAQ:MGLJX",
+      "source": "TradingView",
+      "published_at": "2026-08-17T05:50:59Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WdHFzWW9LQzhkSVVLckZ3ZHhRdnRHU0J0ck00clpmTXlMUjdMZlItX1NweVVuUFI4c1ZQeEFMNWw5VmszR1hnSGcycWZEMEFTYjFmOVo5eXdjRVloNVE?oc=5"
     },
     {
       "id": "n-6e364a875fd9ac72",
@@ -856,11 +876,11 @@
     {
       "id": "n-256219e6eb11d6da",
       "title": "CIP Raises $3 Billion for Growth Markets-Focused Clean Energy Infrastructure Fund",
-      "source": "esgtoday.com",
+      "source": "ESG Today",
       "published_at": "2026-08-14T13:23:49Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "esgtoday.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "ESG Today가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHNSejRaQnVfOFZRYThUMkpkWUI2WVRkM1lYZEZWM3VDc05rMHJERS1hOXd2UGdYRXAyazE0Wkl3VFJpQWREUWh3ZkZvUDZudU1MOUc5cmZ2M2RYdHphXy1lRFhoN0g1UENaS1lmbkdQdDhmYjhGblFMVzcteE5hX0p4LUJaUWl4cGpiMzVqTUlyNVNIUDZRaUtPRFFsc1A2R1JOMFNHWm1HQQ?oc=5"
     },
     {
@@ -1016,11 +1036,11 @@
     {
       "id": "n-03ae7b896011c848",
       "title": "Private equity firm returns $13.3M to PNM’s parent company following criticism",
-      "source": "Source New Mexico",
+      "source": "sourcenm.com",
       "published_at": "2026-08-13T19:04:22Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Source New Mexico가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "sourcenm.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEhUbGhVNE01R2NiM3RUQ2NwN3hqZ1p0TkQzZHhBUWFJeEtUdUUyRWJlbWcxZTRiNlFYVmtPS1hRSmthTE1QN0Q5ay1VZHNnVjNYMU90Zzl6TVNvNXJIUkdubXJjYjFfN0VYSWdjWGg0aFo4RjlYaWZ4eHdHcGhhY0x4ZFhHakxxZHQ3V2otYkFhODk1ZzZHZ3Q1TURWejc1V0wxcDdvTFYyakRxcUE?oc=5"
     },
     {
@@ -1156,11 +1176,11 @@
     {
       "id": "n-aaa6844b33723492",
       "title": "Lakers’ $12.5 billion sale shows why private equity loves sports — and won’t leave",
-      "source": "sports.yahoo.com",
+      "source": "Yahoo Sports",
       "published_at": "2026-08-12T23:05:50Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "sports.yahoo.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Yahoo Sports가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNktJdnJaUVliQWtEbjZ6NWVIUWJmTTROYWxBTVBCYUQ2NXUtT19VX2ZzNk1yWEtkSFZ4N3VxTW50bmhVUFpDVGxRS2pRTDI5bWhxYWxwZjZ6TkhxX09WZm42OFRBU1pvTy1IbFdZQXNYOXpzQkUtTTc1ZGs3NmdHMUZaUllFdDhXZkRqdG5xa05hN1ROa0RZV2cyNFVlRlhiMDMtdGVKY0RlaWk5QVBhWE9tLUUxekVic2ZDYWhBQnpkcjF1OE5sbQ?oc=5"
     },
     {
@@ -1296,11 +1316,11 @@
     {
       "id": "n-4bc2a39122ca2aea",
       "title": "Real Estate Fund Set to Lose Boston Life Science Investment",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-12T12:41:04Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjd1eDhyTW5RWGd1MHFxd3JSSkNkNS1YUG45bXczM3RGMmZKN0JJR3NLMmtOekhtbUU1dVRYWVVsWmZVS3IxUmFWa1h1Qi13R1M4RWEyY1BYQzhiYmYxVkJuQzNTSmV2ZmtMOHFCbHVjQ2VnMjBCZlJIVFM2dUtfU01YTHFoSmhWRkQ2QlREbVVqMy12bTkwbHVXRWdOTHFhTHFUU1hzOE5CSFZYWThv?oc=5"
     },
     {
@@ -1316,11 +1336,11 @@
     {
       "id": "n-69b33ba77a472d69",
       "title": "AI Looms Over Software Companies — and the Investors Who Piled Into Them",
-      "source": "bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-12T12:00:00Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iOGR6Rk01cW9Zak9fRjAwT2xQVnc3Q1pVMUEzVlRJSVhiemhGenRuSFVadlZTbnV6eF9xRmpKMDdPd1g0V2pwNGE5MmpHeXNWaEFCMVpOU2VleGd0YUFIeDhRcDlOSzRFWTNGX2tQdG5IOU1PX2c?oc=5"
     },
     {
@@ -1382,26 +1402,6 @@
       "region": "Global",
       "summary": "Green Street News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHVWeHpvUnN5Z0pKY1A4N3lDbWUxS21La0V5RE5xMDR0NkNxZEJnWVZSRWJ6MjZxeFFUNi1mRlNmWjFBcWJEMGtSeFRVdTNEeEVDUFdFOVV0aHVrQ0tPR2lycjBNdElhUHF6MUU5Z2lwQUNxcHR3VFZMUW5UODRvTldRajJNRXBqdHlwYw?oc=5"
-    },
-    {
-      "id": "n-e40a04093aca934a",
-      "title": "PRIVATE CREDIT CONTINUATION FUND ZOMBIE COMPANY UNITED SITE FILES BANKRUPTCY- WIPING OUT BILLIONS Sell Bitcoin (Bg7QKFQ2pc)",
-      "source": "Mshale",
-      "published_at": "2026-08-12T04:05:43Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "Mshale가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPX3ZlbDhyYUkyRkRxakxpcmlNbVJBSFVrODFLeXFDekYtWjFDc0tkM1VtQXNTdFpuNnNVRVhuTUZDbEktYy1aelhsbmk5a0VMQVFHWjVkVHRSa2xDTWduUw?oc=5"
-    },
-    {
-      "id": "n-9072a691f215ba1d",
-      "title": "Apollo backs $300M continuation fund for Appalachian drinks maker Mountaintop",
-      "source": "Dealroom",
-      "published_at": "2026-08-12T02:22:19Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYUw4N3pKekdhSXVOLWFvMVJ5XzNsaVhWaXdHS1pHZ2o0dWlFdFpUakZZaDU5X1FzYXJDVnZyVGRqSWxyNU16SGJoZHgyWEhyNDdIcXN0RzdhREd6S09SMWszQllDbV96bDRHUUtjaWw1d0hodGpycXBQelJRXy1adnN2X05SaXVXTlpoUVFTQXdUUDF5a25Td1NrUTlUQ0JfUDh6S3dnMDR3NWNpeW1j?oc=5"
     }
   ]
 }

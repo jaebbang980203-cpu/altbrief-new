@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-08-20T09:51:05.357341Z",
+  "updated_at": "2026-08-20T13:12:41.374536Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-69611a51b83d4f22",
+      "title": "Kern County Employees’ Retirement commits $160m to US real estate debt",
+      "source": "IPE Real Assets",
+      "published_at": "2026-08-20T11:50:17Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "IPE Real Assets가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUk92SHNxYVMzRjJ6U094Wm5zZHE5RUZxVjJDSlhQdUZGU1F4aHhRTGFUOWNxcW90dXY3NXlwdjBKU3d0ZVdRVHUyMks0Ymk0T1l6clJJRTBHZzBQNUk2eFZXdDNXTDRMQTU2TXIya3F3UkYyZFgtbkQxc3NvcTN5bDVaT3FpWnJibVRNR2gyR3BhNk4zcVdNN3pSd3pOam5VdDMza0l1ellXdXozbjI2bFdqejdYX1Vi?oc=5"
+    },
+    {
+      "id": "n-3b0829c7ad7b6d8f",
+      "title": "국민연금 책임투자 확대…대체투자에도 ESG 원칙 적용",
+      "source": "뉴시스",
+      "published_at": "2026-08-20T09:48:46Z",
+      "category": "국내 대체투자",
+      "region": "Korea",
+      "summary": "뉴시스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaeXZnU3RyaGh0cllIU0Z2NWhNcmxYY2tkdnQ2MDJ4SjVCTlpSS29RdTlEV0N1cVZIOGVkdWozVDJyMkJMQXdCcFppVWhwZ1ZDR2c4M1k1aGw0WklUakw5UdIBeEFVX3lxTE54YVZUbDQ2UjY3MXNWakdzeGNPVFJrTWVJY0VMenNsVVlqcTBYdmdqNmdMbnJUSGZKZVZ3OEY2azVlLXU4WEdKdVU4TDc2Z3dNVGc4SVlGSFpaNE9VLXNRMXZOSm1ncUpmZDVQQVpmcTVYUWE3YmlmQQ?oc=5"
+    },
+    {
+      "id": "n-00b59a68eddd8b88",
+      "title": "국민연금 책임투자 강화…대체투자에도 ESG 원칙 적용한다",
+      "source": "연합뉴스",
+      "published_at": "2026-08-20T09:28:14Z",
+      "category": "국내 대체투자",
+      "region": "Korea",
+      "summary": "연합뉴스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5T2lJVjU4YnpEN3BzVXNTUXBNMDdfNWhZMjktV0FiWlBQSm9hdGJfRWU1OERlWmNSeC1jWXlYWURDY09OZWo4bEZNV05fMXh4dEd2VFE5ZGpkQ2fSAWBBVV95cUxNTGJnOUstQlVCanpyQ0swOE5aZFFaYUd1eXdTdTVxeTlwWGpqOUtzVnZLZ2lZb2FHejU1WWxIblppRkV5bTBybURvaU13YnBZWjJXMWE3dmNFVEN2R19JUjU?oc=5"
+    },
+    {
+      "id": "n-aecbe363b04cb7b3",
+      "title": "국민연금, 부동산·인프라 등 대체투자에도 'ESG 책임투자' 적용",
+      "source": "BBS불교방송",
+      "published_at": "2026-08-20T09:03:37Z",
+      "category": "국내 대체투자",
+      "region": "Korea",
+      "summary": "BBS불교방송가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uUHNRYkI1WDA3QjhVa3JOWUlBSmh5VU42QzhZRmpHRk1jdkdFUkJaZFRGeWNuem5XTVlXbUZGODY1ZzRKN0Y1MkRHdHkzXzhTVURtV3VJelBmUVgyckpkT19IX0VUcVd0WERj?oc=5"
+    },
     {
       "id": "n-459152aed9dc7551",
       "title": "“PE도, 부동산도, 인프라도 AI”…대체투자, 분산 효과 '흔들'",
@@ -72,6 +112,16 @@
       "region": "Global",
       "summary": "연합인포맥스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81QV9CQjNZZWFhMlNmNkdFLVRLWWVSLURfODlfLWhCdnZjeGNQT3pjUHFxSFBOdm05X3ZINGVEWm5jdzZUSWVodzI5VGNQNDF2Y1pSV194MXVQUWNEb1ZRRUY3WDRpSGVLOF9wX3J3cmJ3bXIx?oc=5"
+    },
+    {
+      "id": "n-68a591e52a63784c",
+      "title": "삼정KPMG \"하반기 국내 사모펀드 시장 회복 기대…AI·에너지 등 핵심 자산∙대형 딜 집중\"",
+      "source": "CPA뉴스",
+      "published_at": "2026-08-20T00:08:45Z",
+      "category": "국내 대체투자",
+      "region": "Korea",
+      "summary": "CPA뉴스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pZllNeWdrck9IeWpCUElEQnl3amNIaUlXcUQwdXhVTGUxU2NBMXl0SHQ5Yi1MUGVZMWNFSnE4a0E2MTB1ZUNXTTBRS0hFRlhkX25XaEZPajBSeG1CNEU0VFpXR2tQWjUz?oc=5"
     },
     {
       "id": "n-a409cea1cf42b406",
@@ -672,6 +722,16 @@
       "region": "Global",
       "summary": "dakota.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEdYTW1oc09uSGpMRWo4eWV2eDUycXZoTElRVXJEbUtIbDVWVDNFN3pjUnpRN2UydXd0TmdIa0kzcGdQanI4WVJ2MEhQbFhuWF9wdlMyYk1JWnhMNUwwLWtRS040NTNMYTVnS3RKQVIyTXNobTRScVNpUzV5ZzhkNC1sMVZ2R2Q2VnFFN09RSWlnNl9EWmFpOF8xNA?oc=5"
+    },
+    {
+      "id": "n-b39a7c231bb83087",
+      "title": "Canadian issuer weighs project finance SRT",
+      "source": "Structured Credit Investor",
+      "published_at": "2026-08-17T07:00:00Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQXBMcWFVNnh4YXFJdjZhNUFWTUNuLTM2NnRLTVc3blFETFNlWi04RXM3R0doaS0tanByZWlVdlMwQ0xRbHNVUWNjUDlIU3Btam9yTHJLTnJrNDVvSWFWeTRQUHMyZXlZNk5zTHlzeGxqOUltdWF2eVl6OFdzczQ4SWhRYm5sdHJYbzM1MzdGYmhNTlRtVldWYUMzUVB2ZTBEblBNalhITTFYS3UtMEdRWWlqb3hSODdGbFNGb1NsY3BGeXB5bjliUzFEaw?oc=5"
     },
     {
       "id": "n-b07091452ea72b04",
@@ -1342,66 +1402,6 @@
       "region": "Global",
       "summary": "Fortress Investment Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM3IyVTcxMkN6X0sxQmN1WXhhamF3c0pxLXc3ejRjQ2h0R25FSWpLM2hjbXlJY2lpOHJvYTBsamhxOHB2MEhZX3Q1cEZqLUhkQjg0czF6eXJrX1FGMUR0SHlOY0ZiLUd4X3Z6Rm5Sc1RhNkRoTlNhMzNZZEdsNUx2eFl6cks4YmpIUTZ5aTR4U1JmNXdYcXoyYmw2OVg2UjhuYWtaczc0YVN4YTJvaU5VVEtzbXpkeGtpaUYwYUQxRmNCY244Z1pHREtn?oc=5"
-    },
-    {
-      "id": "n-427852f6d3200045",
-      "title": "Lightspeed Seeks Approximately $600 Million in Secondary Transaction to Extend Exposure to AI Investments like OpenAI",
-      "source": "ababnews.com",
-      "published_at": "2026-08-12T19:59:53Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "ababnews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IbVpfNXlLenVzYkhZQU9CQVE5TWFzcjRWdnlvdFB0Zm9zanpma1JaOERGLUlodHE1N0dWV1dzWTgwVmtYWG1BbG1Ta3Jya1ZvRWFhVzVRRUUzRXBJVklnYVgxdFRpX2ozMi1NM09EdWZtOENI?oc=5"
-    },
-    {
-      "id": "n-839c3ef6030ddda3",
-      "title": "Utmost appoints Aberdeen to manage commercial real estate debt mandate",
-      "source": "Institutional Real Estate, Inc.",
-      "published_at": "2026-08-12T19:58:43Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "Institutional Real Estate, Inc.가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLWdqNmdIMlh4anZCay1fQ0I2RTlCRlo3NXhWS1kwa1hfeFBlNUN0TzZ4QjlzbXViV1ZzX2VqYW5RYlp5YVhMdEhtLUxmVzFtckJqQ1V2Y1RtMHV3ZXBiQ3pSaloxWnJoemgwckkwQ2FDNlJPcXdJb3R2RDhNZnVld3p2bllkbDZmWjE0TXB1V0c0OWhua1RhcQ?oc=5"
-    },
-    {
-      "id": "n-01ca5fc88d19a15b",
-      "title": "Polar Asset Management Partners Holds $215 Million First Close For CRS Fund II",
-      "source": "Pulse 2.0",
-      "published_at": "2026-08-12T19:40:14Z",
-      "category": "SRT",
-      "region": "Global",
-      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnJ3R1l0LUpJVzZsLTZkSU1paHJvZnZTcExMajFOa2FHb3Noc2VXMFlVUFpvck5uRlF4enhUdXRZcHJ1d0kybG1OOGpTRS1CdU96aWw1VTg4N1pyV3pzTWpPZjlfTkdYcWM2UHp2VjkzcEhKb3llV2lhQWpHXzdCRXRYdm5PZGJpcm9KSHpyWGE3Tk16SDcxNHF5eGdkQdIBowFBVV95cUxNWU50bHJueDhBX3prRm43VXlKMXlDdG5mNmVuSjR6SVVDZ3NrcjFiOVl1Slp5MTc0cnBYT3FYRU5abW5Lc0p0eUpWMnptVlN1UEo1NzRmWkJyQkxhUUJfTnRTamRDOEhPTzdZWENnSnpvaml2Q3VmeHVoNEUyMThyRUZnTjkwNVVmekcybGgxSHdnZEVrZll6eHJneWFUQlBFV0Fv?oc=5"
-    },
-    {
-      "id": "n-f3c749ca59bb023f",
-      "title": "Americans have $30 trillion saved for retirement. Private equity wants a cut",
-      "source": "NBC News",
-      "published_at": "2026-08-12T18:23:44Z",
-      "category": "Private Equity",
-      "region": "North America",
-      "summary": "NBC News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjBUazgzVEUyTWVjMEJ5MVVQS1kyUXNJYjlFY1FUMkVqUE1hOGRid0F1TnNMcUZ1TGVvSnhGSGRNNHZxS0N5Qi0tRTNFdVhEeXVSNTlBZzF0MWloeDhSRnM0MUI0T09Ud0g2ZHVmV1lDLXZ0QjZnUHFzMnNtdGdWaEY5QVhta05ER2oxSUdCSmpuSUtNcDdOZnVVQWxTdmxwMFpNZDF5QkRmbkFhQlplTlNB?oc=5"
-    },
-    {
-      "id": "n-1f952a8a43076bfc",
-      "title": "Starwood Real Estate Income Trust (SWDR) logs $790M revenue and $257M net loss",
-      "source": "Stock Titan",
-      "published_at": "2026-08-12T17:03:05Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "Stock Titan가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOWw2dWptdkdMUW5uQ0FBOWdWb0M3UVJka1hIQXh6X0c0NXBPWExhMHNkeDJLckdpa29Hbzc1TFBPbVpoNWRkTjhOSWdvQjVrdW5wRFgzUmdXZXFqRXF4QU80ZUFUMG9kSFgwd3hiSDdkdjFoTDFFMWR5Q2ZUZW90UUpQcWdpOWstaWRxRERnU0dGYjdWSWROdWItWm52RFFrVWs5WWhnRG5iT19CbzRWTVZsaW5QQVRTOG5vbllyOGNYdzhPam9Zakl3?oc=5"
-    },
-    {
-      "id": "n-8690685440764529",
-      "title": "PBGC launches program for potential plan sponsors to assess coverage",
-      "source": "Pensions & Investments",
-      "published_at": "2026-08-12T15:50:00Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0IxcUlONnF0MERxdXZiMlJscVMzdkJ5aGhlMDc0elVMdnVMbFJqNXJOTVdRV3R2dDNSWmdPLUZtSERtMGVvTFhXUV9VMUU0bFlBV0w2TnFQWWdJQ1RzVlA3cnRCUDRJLUhtWF9keklVbEJSb1pwYVhxRmVkSV9DNjROQlRmMDRiVm9MeWJpbXFFZFZXcEdSYmtvS1VaT2tKbjA5QQ?oc=5"
     }
   ]
 }

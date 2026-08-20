@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-20T19:01:35.532682Z",
+  "updated_at": "2026-08-20T21:45:00.434760Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-a86a14ced860186a",
+      "title": "월가 큰손들, 中 투자 '뚝'...대형 사모펀드 10곳 올해 '투자 제로'",
+      "source": "v.daum.net",
+      "published_at": "2026-08-20T19:39:02Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TSkRsUFRxeHhCZ0hHREpTUTRsVVlDUllvZkhOd2FtdXRoeGg4Ymw3ZHhoWWthTG9PNVpwR3RCalVpdkQ1RjJGeFRQRHVFX2c?oc=5"
+    },
     {
       "id": "n-422900cb5150ef99",
       "title": "Machine Raises $350M for Second Real Estate Fund",
@@ -12,6 +22,16 @@
       "region": "Global",
       "summary": "connectmoney.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2FoM0M0M2dMdFFmM3hCVXZXM3U4anVLR0hDcXNkZUdnYm55TE03aFA1dmp3U000QkpkN2l3Rk9BNXFXb1lSQnlhZUJZdmtXUnQ0ZWZKNGpvbVlTTnBzOTdDSHU3OF9rdmprcVUyVE1yc1FjRUktMks5a2ZuVUM3RUQ1Ti1wbk0xNXBHUHpn?oc=5"
+    },
+    {
+      "id": "n-33fe3120f7690962",
+      "title": "Private equity’s billion-dollar scramble to own a piece of sports",
+      "source": "The Washington Post",
+      "published_at": "2026-08-20T17:00:01Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "The Washington Post가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3NIM3JJc25mZmlfSTN3d1RoRW5MbkktX1pxbmNfQUJkZFQ0TW1idUVWdG5rTjN4N1c5Rm1aaVd3alkzZ0UzdE9ieHM1S1lXdFVENXg2SVJQcDJDZEYxLUpxQjFKWEhJZWNZSkxlUDhQeFZwZFBlYzdudGo2LXU1NkhmbXRJTFBRU2FQUE9QVm9sR1lmTjVVYmUxbE56bl9SVHdLV1prbHBiUQ?oc=5"
     },
     {
       "id": "n-f603df3b3035b63e",
@@ -114,6 +134,16 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uUHNRYkI1WDA3QjhVa3JOWUlBSmh5VU42QzhZRmpHRk1jdkdFUkJaZFRGeWNuem5XTVlXbUZGODY1ZzRKN0Y1MkRHdHkzXzhTVURtV3VJelBmUVgyckpkT19IX0VUcVd0WERj?oc=5"
     },
     {
+      "id": "n-e255d5a57686de67",
+      "title": "국민연금, 대체투자에도 ESG 적용…책임투자 전 자산군으로 확대",
+      "source": "한국경제",
+      "published_at": "2026-08-20T08:41:02Z",
+      "category": "국내 대체투자",
+      "region": "Korea",
+      "summary": "한국경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTeWozSXNVQkIyLW1KZkN6b09nOE04SVFRXzdaRDY0WktZZ2Flb2JpekNMeno1WXVWazBXUE5NTjVmV09tNlNCNnc3UDNMSTF0Wk1DNnY2WUNFUQ?oc=5"
+    },
+    {
       "id": "n-459152aed9dc7551",
       "title": "“PE도, 부동산도, 인프라도 AI”…대체투자, 분산 효과 '흔들'",
       "source": "마켓인",
@@ -196,11 +226,11 @@
     {
       "id": "n-a409cea1cf42b406",
       "title": "Asian School Chain Founder Seeks $300 Million for PE Buyout Fund",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-20T00:00:00Z",
       "category": "Private Equity",
       "region": "Asia Pacific",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd1V3Vnl6Sm1uNE1KWk90eVpNdVlFZHJ6Unl3V203bm1ZM0xLS01UV1R0WU9ackVHdFZTcVFHTllNZnpxZFFSYi1kXzRSX0lqQ3NOVnZFWjBNNTB0Sk1BM0xGY0FhRVYyQVJNcVFpNUUwQzRXa0tJRFpicF9QakJBSGhvNEJjWDB6NDY5NlJtbGJFNlJzU2hJYVpwclRQNjJuWEpVYkE0ZDRaVE5faUdvSUN1VDQ?oc=5"
     },
     {
@@ -274,14 +304,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdWF1OWhVLXJSX2ZlMzNjSzYyaWFiQXdmOEdqeGE5OHJKbWloVnpKMTBFLUhlLXdKb1Vza2xaV2JlSzM0cVdZc01xMTI3MlVIVW41bml0anRQQzNzVlBCcFA5ZEFVYXZMdEZXMlFxdjFlV1ozTGdVaE04dW4wVHQ1SURYM09pblVUOWFBVlNxdmk2Z0tCZ1V6N1hRR3RYeVdGNlBDZHlBMjJCRWR0bm1WVW5ob1Y0bk43a2M2UXJGWWx1cDg?oc=5"
     },
     {
-      "id": "n-19c4098915fc7203",
+      "id": "n-df562de54789cc08",
       "title": "Machine Investment Group Closes Second Investment Fund at $350 Million Hard Cap",
-      "source": "Yahoo Finance Singapore",
+      "source": "PR Newswire",
       "published_at": "2026-08-19T12:41:00Z",
       "category": "Real Estate",
-      "region": "Asia Pacific",
-      "summary": "Yahoo Finance Singapore가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX09NR2xBUzhXXzRDX215ZG52QVdVWUdkQzEzNWZ3WVBqd05IQVhsN0EyRUZkTUVDVkVfVVY1bzFyakVVTlRJY3ZiSS04UnBfUVNERVlRN0lValNPWUpQM1NzWHREbFExNDB1MFp0MUpvR3NoYkFQNXpzZDJnV3dkZjUxWmJTSW4xQ2JaYWxaRl8?oc=5"
+      "region": "Global",
+      "summary": "PR Newswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSGVEQkktYTdsWFJhM2pUeTNQNGhXd19LMm9PSS1YYl9CYjdzS3BRZkN5MnlJakNfMzlfa3BlMFM2THk2Mk9lbVdDbGpVdFpOaC1NQTQyU01rTEhzOW0zeENUMEhaNzNPMElpVDRwMzZhc1VyQVlBWWQ5ZDg3Sm9iamIxV3l0alZoS3NmYnJoZHVKZHI0OWJPaDYtQms2NXNJblVUZHhFQUZtRjduRVE1NUxLTXVLcmlhYlktRzV4SzFpdTJGQW1QRGpMX2JUcUE?oc=5"
     },
     {
       "id": "n-b5cd5e047a23e5ee",
@@ -1372,36 +1402,6 @@
       "region": "Global",
       "summary": "GlobeNewswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNFJteUtkcGdad2FZNTFPZ2Q5bF9fWnR3blpkYmx5T2lqYzVRY3B1MmcyQW1YazJSWG9ERk5Ba0o3YkxNV0FrQkRqdGh1X0VBaXVMZXlicEdpOXN2ZlNnbWxFd1BDSlQ3U1VUTWd1dzNzUW5UNFUtbTNCQlU1QUF0a1RRVXJUcXd2cHgzWm5lN3hIZFdfeFJ3d0Fhek56ay14LVZZbjBKQlkyaktQc3F5V011OXJxTTJ3ZVhtcXdGR1dTc0JXQ3Z5cDZoTEh3WUxHQ1lhTlBXczdEUjBWTFhtbXZKSFY3N01yMUNJZDJLclhhNEk?oc=5"
-    },
-    {
-      "id": "n-f2b7d5828de40dca",
-      "title": "Rest Super’s selective approach to PE pays off as program comes of age",
-      "source": "Top1000funds.com",
-      "published_at": "2026-08-13T04:03:54Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Top1000funds.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEU5UTB2RGdlNEp2MlNuZHp2U1luWFVRV3VYVkNVTkdISzVHN1BzTTR0b3A1Vi10dFhnS1Y3S3hyUGc0TjRBdGEwWHo4YUN3cGNhY3hVMGlpbHhUeGs0ZW9xZHhrcHljeXlnVjV2dW1DVVJQYUxrR0g5SDJ1ekR6QXdCdkNhNGRTOFBWWmEydGo0OXA2TWlpOW9jVE4xWVR2NktZajJfaW4taEdMd3BXZzBFRTBkQ3FqcWNtOHFfZURZa2R4Mmln?oc=5"
-    },
-    {
-      "id": "n-e21b5acf07c1d4e8",
-      "title": "New Private Fund Launches & Closes - July 2026",
-      "source": "dakota.com",
-      "published_at": "2026-08-13T01:32:31Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "dakota.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTVE2VlpndHFVU2VsSlRPWmJkV3Q2dF9DS2NLX1NRTEhBM3ZkMkRXQ0FQZWRhcThZRHM5ZnJSY1VFc0N2dC1LMVZNVTlTcXhQTU5kaTFLRlY1WF9mRFFiLXJScTg3M3VHdXQ2YUoybkdPRF9ibEJ6UXBCWjZwZkNKb0VxUFrSAZQBQVVfeXFMTlJyMkVsYnVLS3hjMHNjVklxdDYtUExhdElhYkNwblZTS2w2YlJwREdqRC13Z254QjBqMTRwTlRDSzdULTRvUkE5UkF5bC03bXBkLWh4LXgtU1o3ZjlkZGR0OFZZdGdOamdieUs1dEdJYmk2YWZQLXh4dEswcmh5T05SYXNfRF9kWmNCQmQ0UE1vSlF1bg?oc=5"
-    },
-    {
-      "id": "n-3a42ec03a2ded592",
-      "title": "Real Estate Private Equity Firms Are Rethinking Cash Management as Undeployed Capital and Fund Reserves Sit Idle Across Funds and SPVs",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-13T01:23:00Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTjJiNGlnREZKeDJBclIxMDVJX01nZzRZUjZEUDEzc0xFc3laY3BsNUdMb2l3SzRzQ3V6MWdKb1lrcGxvR0dCWFI4WWgwemliTGdtTV9vdkRfeGthWHR3eEdlcUJTU3dpTmZBNnBIWmYwb2pYYzN4VjZ1NngwLWtxYmN6Ri1tZ2xhNU1lRm5COFJxQWNkSnc2QlRn?oc=5"
     }
   ]
 }

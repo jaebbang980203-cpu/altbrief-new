@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-08-20T15:49:53.496680Z",
+  "updated_at": "2026-08-20T19:01:35.532682Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-422900cb5150ef99",
+      "title": "Machine Raises $350M for Second Real Estate Fund",
+      "source": "connectmoney.com",
+      "published_at": "2026-08-20T18:11:12Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "connectmoney.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU2FoM0M0M2dMdFFmM3hCVXZXM3U4anVLR0hDcXNkZUdnYm55TE03aFA1dmp3U000QkpkN2l3Rk9BNXFXb1lSQnlhZUJZdmtXUnQ0ZWZKNGpvbVlTTnBzOTdDSHU3OF9rdmprcVUyVE1yc1FjRUktMks5a2ZuVUM3RUQ1Ti1wbk0xNXBHUHpn?oc=5"
+    },
+    {
+      "id": "n-f603df3b3035b63e",
+      "title": "PGIM grows ABF pool",
+      "source": "Alternative Credit Investor",
+      "published_at": "2026-08-20T16:51:45Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "Alternative Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TMzhkUDFrRTV2eUx1QW5mbUMwT1JmVmxxdkhrbjFibm5oSXpJQ25qcm1OWlFZR0N6b3R5LTBoYmJ1NEtYQmZjV3Q1VEVSU0t0eGJpbzNhREE3X0JNYzBLNXpHdktkcWxuSVlRbUVQOUctV0ZKRzBRaA?oc=5"
+    },
     {
       "id": "n-0027f72a255342b4",
       "title": "Energy infrastructure: investment and development opportunities in Argentina",
@@ -22,6 +42,26 @@
       "region": "Global",
       "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQVNKVG5HWWEtZ2JTWG5iYmVWYXU1YV9qeXhmWW45NzNjRkVyM1BiS0ZyQk16RTdrT2NIYnp2MFNxWVJhaENpR0tJdWJGOHpYUGxCUTR0RUhHNmd0WnZyYVpKcG9sZGdrVzZRQWVxMHJsMDZYUmhOLVFhWUVMMHhuWkRJODJuVnp5QUlwV3BQTmF4M25lbzQ0OElDUU5EdXppSzFjNHFkNVBOelNvWkp0d3hQdThodEZtZ2Jpc3c4blBTbUxkMzZUTQ?oc=5"
+    },
+    {
+      "id": "n-d5995c82993ac1a8",
+      "title": "Does KKR's $796B AUM Set the Stage for $1T Growth by 2030?",
+      "source": "TradingView",
+      "published_at": "2026-08-20T14:11:00Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXVoUHByUlB6Z1FWYXBmX1duNmdIbkl2eDQ2eHkwSEpvcUtyaXg0SGpMeXVMcGVCbzlZd0ZNRFdMY3FCRGtHeVdvVFhSWEQ1SWZuTnBtWmJ6UEE4dHR4YlZtZkdMWkJpN1FNOEhQdWp5TUN1YnFQQnhrTmlVck1ydXhZSEtHWC1ReVA5bS1rNTQ5TU1mR0tCYl83b0tOWGM4NUNiZDlmaTRfN2toVFJBdQ?oc=5"
+    },
+    {
+      "id": "n-579ea865d22c4022",
+      "title": "North American GPs dominant as fundraising accelerates",
+      "source": "pei-privatecredit.com",
+      "published_at": "2026-08-20T14:03:50Z",
+      "category": "Private Credit",
+      "region": "North America",
+      "summary": "pei-privatecredit.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObFh3R3V1YzRQZGxmWUZlOG1yczhRcmJpTlJqQ0cyeFNxd2diZ2ZTRDhDcmFIZ0s0dmZNNEktRjU0ejNSN2ZaVnBoUFoxZFBzOGdLNHRQMlJrS0VmNHBPSXdESVRpMnhqRzJGZXpzRWxveVhwOHhBSWJocnpfTktldVFRb0I4UHpNMUFxdWVOckttZ1dKeVE?oc=5"
     },
     {
       "id": "n-69611a51b83d4f22",
@@ -216,11 +256,11 @@
     {
       "id": "n-3e07c2055f665ee7",
       "title": "Jefferies Targets €1 Billion for Private Credit Secondaries Fund",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-19T14:58:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX010UC1BWjNXbzg1dWdDOXotMHFUT0N2VUVfU2x6ZEMzMGdpd0RBRGpRek9sNkYtdHlRU3A2VUtDWW9kZ0tVMUV1OWtXUk9ta0RqR1VRTGtNUnlIVnhINUp3ZGQwQTNQZTdtN2tORzJuUGwtVmRzVzZ0OFVReVR0SzN2SG0xQzZvOFdXMnEtTkdqWFI3R1JsYTBEc2dXa0xiZUV4b0tVa3poZFJLZnJISEVGTjA?oc=5"
     },
     {
@@ -246,11 +286,11 @@
     {
       "id": "n-b5cd5e047a23e5ee",
       "title": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-19T12:15:57Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdTRXdVh6UmJ1d2VNeTVzUTZvR3gyak9FeUlDSlFSR243LUxJUHgtZ2NCV3c1Y29SU1NrWlIyeHplQVFiSHZiYTFXYVlzRjBHd2cxdS14TmNBTXdCSzNPT0JZUzk2eWlMZWVKY0ZucEtiQi01T2pqTGdhRTZUVUttLXNYQVJXcHU0VklVZjlGQV85Si1SYm9LcFR2OTNTM09jNWpVY1FWc3J2enFtTnBBMlI3aTE?oc=5"
     },
     {
@@ -1362,46 +1402,6 @@
       "region": "Global",
       "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTjJiNGlnREZKeDJBclIxMDVJX01nZzRZUjZEUDEzc0xFc3laY3BsNUdMb2l3SzRzQ3V6MWdKb1lrcGxvR0dCWFI4WWgwemliTGdtTV9vdkRfeGthWHR3eEdlcUJTU3dpTmZBNnBIWmYwb2pYYzN4VjZ1NngwLWtxYmN6Ri1tZ2xhNU1lRm5COFJxQWNkSnc2QlRn?oc=5"
-    },
-    {
-      "id": "n-a344cea0116beca8",
-      "title": "Lightspeed seeks $600m for OpenAI-linked fund: sources",
-      "source": "Tech in Asia",
-      "published_at": "2026-08-13T00:55:00Z",
-      "category": "Secondaries",
-      "region": "Asia Pacific",
-      "summary": "Tech in Asia가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmZ2FZaG9KUWJPR2tLcFNwQUYxdkdtbkVtTEJrQzhjUnQ2SUFDcEhvVTRneHNBbVNOaWJEUlJpXzhuREpwTjFPZERLU0t6UmlfbWxaZW5BeVlRSEtYM0tBLWRyaTNfcUZlQ28xbDYtNHlycmJrM1N3bnN3ZWRYNHc?oc=5"
-    },
-    {
-      "id": "n-aaa6844b33723492",
-      "title": "Lakers’ $12.5 billion sale shows why private equity loves sports — and won’t leave",
-      "source": "Yahoo Sports",
-      "published_at": "2026-08-12T23:05:50Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Yahoo Sports가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNktJdnJaUVliQWtEbjZ6NWVIUWJmTTROYWxBTVBCYUQ2NXUtT19VX2ZzNk1yWEtkSFZ4N3VxTW50bmhVUFpDVGxRS2pRTDI5bWhxYWxwZjZ6TkhxX09WZm42OFRBU1pvTy1IbFdZQXNYOXpzQkUtTTc1ZGs3NmdHMUZaUllFdDhXZkRqdG5xa05hN1ROa0RZV2cyNFVlRlhiMDMtdGVKY0RlaWk5QVBhWE9tLUUxekVic2ZDYWhBQnpkcjF1OE5sbQ?oc=5"
-    },
-    {
-      "id": "n-6a0c47c349ef1dc2",
-      "title": "Via Transportation (VIA) director Peres buys 10,080 shares at $24.74 average",
-      "source": "Stock Titan",
-      "published_at": "2026-08-12T22:28:28Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "Stock Titan가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZnN5Xy1mcWpiSEJCaENLMVBrdEkyclo2dVlZYmZMLUt1S2dPa0pSX09JUExKZEZBenNKOUhxREo4aEFpUlB2ejRmM2hUXzZwcXBFanZYbTF0RExsSTRIWEszSUE0ZzA0UHRVX3o2M0x2UzNZOE9CUEduUWJ6akFXeG1XRzNVRUtXcXk3TkdKQ0h5VEVYbWVJVWVvR2dnS3FPQi1NQmFJREtYVXY3cXlHSTRTbmE0dw?oc=5"
-    },
-    {
-      "id": "n-1b5cc568f52e55a8",
-      "title": "\"100만원으로 사모펀드 투자한다\" 사모재간접펀드, 변동성 장세에 '주목' [재테크 풍향계]",
-      "source": "v.daum.net",
-      "published_at": "2026-08-12T22:24:50Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrYzljZUVkdHVZeTk0d1BGM2NDem9jbTl4UHd0Q0hsZW9oME51TTh4R0NRUWdZQ0NGSFpVMlI2ZE1URzVEVXRCdDlUb0x4czU2clNWVw?oc=5"
     }
   ]
 }

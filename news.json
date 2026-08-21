@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-08-21T07:08:58.011761Z",
+  "updated_at": "2026-08-21T09:53:19.907129Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-21fed0931ed43e7b",
+      "title": "PIMCO sees asset-based finance expanding beyond corporate credit",
+      "source": "investordaily.com.au",
+      "published_at": "2026-08-21T07:15:07Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "investordaily.com.au가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN1lma3p6YWNDRnlhU0c1VEVQTTR5T2ZIeVA5OC1zcVg0OE5kMzRxM3RuN2V0TUFONGYyQzlwR2RfV0hINlJoN1piTXBORkRNNEJtakVzckJNWFFBUk9Wcm4tTmlnQld6MnJRYmRNdnZESFp1YzhOS1VzWkZ2UFdmR1JOMjQ2UzJSTlk4OUdTSHpIQ1dIZEF2cVYwTUY4RWc?oc=5"
+    },
     {
       "id": "n-46c2ad9ac31711d4",
       "title": "\"싫으면 사모펀드하시든가요\"…운용사 발칵 뒤집힌 이유는",
@@ -12,6 +22,16 @@
       "region": "Global",
       "summary": "연합인포맥스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWeUtrNnFqZzc4VFBSdG5UcngzY0hsM2FqaHNpay1wWVdobW1PYWRONWh2RkZmMnVXZnlrN0dNUTRCcm1ZR1RoaVctdWdCbTFQOXY4MWtCeTZOTENiejJHQ01YblpYWXhVYl9UeTc0RzE?oc=5"
+    },
+    {
+      "id": "n-f4d8759c8699e5d2",
+      "title": "Phoenix Equity, Thoma Bravo among firms betting on Ireland; BNPP AM Prime featured in They Said It",
+      "source": "pehub.com",
+      "published_at": "2026-08-21T04:28:04Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "pehub.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDR1amllQWlBa1p1dndzSjY5dm9CV3pFdnpYOW5CR0hJSnAxX1BZcFhOcUNydnZxUUU5emtFaU5faTNGa1c4d2tIRUNPeVdHeEVGOFRCWllXeThraE5sdFZIRjhjNnFSZ1RoSUZjUjlaNi1FZnNpcUJsNFNRM0xyZVhTb0FkbmJwcXZVMS1waG85N0pNNTNYaFl3ZjgtZEVPbmtBUlpYRjhnN0pZc2FncUlORGlfNUtBQ0o4?oc=5"
     },
     {
       "id": "n-b5fa7685ca2c2b09",
@@ -542,6 +562,16 @@
       "region": "Global",
       "summary": "Advisor Perspectives가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdVdIQ3k5a0xNdUtjbUxiTEU5TkpyYm9yRkNGNS1lY3lpNTlhMEdtS2lMUllRdFdkclBHazdNOTZUb3RXVG8wVThZaHJwb3BEUkF1UHR0cDdxc2RsU2Zhcy12dFJpaTVNcEt1bFZHcURZcDBTYXNxbDVObjJYVDNBcFFOVVF2aEZvYWNLTVZn?oc=5"
+    },
+    {
+      "id": "n-ad946b45ce031ebf",
+      "title": "Private equity fund set to buy Lithuanian fish processing companies",
+      "source": "intrafish.com",
+      "published_at": "2026-08-18T14:49:24Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "intrafish.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcXg4TEE5bms0d0lWbVVnaER0dnVXMHgwSVNCWVp3WExBYWlaOTNoelhZbGRyZ3E4eHktZTh3M280dzBJd2FqNVRHclBZQldmRmVmdXMycU5QY3FEVDV6S0Q2RUhKOUdiUE5rYkxtTUJibWlNN2x2dU92MzR5MEtUaXo1cTJiOWxiUUdDczh1dVdobmpobXBnX01CYjZlSW5YdUhtMTlteldXelB1V3NBcDJ6RjZrWEk?oc=5"
     },
     {
       "id": "n-ce59470674db3f08",
@@ -1372,36 +1402,6 @@
       "region": "Global",
       "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVdHMTJwZ2NlUVc3RENDZFBOQWJUX3FNU0poS2x3c3NMdE52amN6cWhKVndmczdqZ19vSGRlU2Z3dGliQk1RR3dQZFVZdmozd1hTc25vMlI4cHdSVUIxcERJV051cmJJZmh1NVRxRHVFbW43ZjhUaF9QNmVDSnJuTFVLcw?oc=5"
-    },
-    {
-      "id": "n-03ae7b896011c848",
-      "title": "Private equity firm returns $13.3M to PNM’s parent company following criticism",
-      "source": "Source New Mexico",
-      "published_at": "2026-08-13T19:04:22Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Source New Mexico가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEhUbGhVNE01R2NiM3RUQ2NwN3hqZ1p0TkQzZHhBUWFJeEtUdUUyRWJlbWcxZTRiNlFYVmtPS1hRSmthTE1QN0Q5ay1VZHNnVjNYMU90Zzl6TVNvNXJIUkdubXJjYjFfN0VYSWdjWGg0aFo4RjlYaWZ4eHdHcGhhY0x4ZFhHakxxZHQ3V2otYkFhODk1ZzZHZ3Q1TURWejc1V0wxcDdvTFYyakRxcUE?oc=5"
-    },
-    {
-      "id": "n-c73a0830952c68c7",
-      "title": "Alto Unveils Private Deal Room As CAZ Investments Brings Alternative Funds To SoFi Invest",
-      "source": "foreignpolicyjournal.com",
-      "published_at": "2026-08-13T17:35:00Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "foreignpolicyjournal.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnVzTEszMXJMa1RmSmpUVW15V3h6Qjd0eXVtdWVTZElqU1VTUURYd3o5RDlOQTljRUl4RzJzb3JnazFRaWtxZHV2LUZEWm9rcTVpamE0eHM0MmRkNV9FVXdBTklrOFF6bUVsQkNSZFV5TWt5bV84SjlRSHJTcTRpSkJ3dVVwNno1UVQ0ZmQwTHA1cFVlSWI3anVZcUItWHpPdEIzalRaVFY0SDBHQlNVcHZpM1ZuMzdxWUVIbEcwektOSnQ2ajN5cWJmejJfMEl4aC1PTg?oc=5"
-    },
-    {
-      "id": "n-6d540ac1abc912a9",
-      "title": "TROW's July AUM Slips on Outflows: Can Diversification Support Growth?",
-      "source": "TradingView",
-      "published_at": "2026-08-13T17:29:00Z",
-      "category": "CLO",
-      "region": "Global",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT283b3Z6eGNCMGlOcW8yUWNvc01mby02QXo1TGp4bERSalNPVElWMWxXN1BQSEswV0djRmNhQWVEZkVSai1rOVpreUd4cEZjY2g2MGh2LWlVazdveG95VHJrUDRSOFRkeDB0bktaMVlLTTcxTm5vOEpjNm9tWW84RFo0dGNMZHVhczlJMmhPUjNTVU0waE9sa0h3Zl90YUxFMTZnVzVyNVloOVRZS2JVM0pkU3k2ZXJoNHdVSkpkcFR3Zw?oc=5"
     }
   ]
 }

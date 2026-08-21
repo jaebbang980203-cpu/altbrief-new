@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T01:59:16.544533Z",
+  "updated_at": "2026-08-21T04:02:58.028712Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -22,6 +22,16 @@
       "region": "Global",
       "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TSkRsUFRxeHhCZ0hHREpTUTRsVVlDUllvZkhOd2FtdXRoeGg4Ymw3ZHhoWWthTG9PNVpwR3RCalVpdkQ1RjJGeFRQRHVFX2c?oc=5"
+    },
+    {
+      "id": "n-a460a489e4c20102",
+      "title": "Continuation Vehicles in Private Credit: What Lenders Need to Know",
+      "source": "SecondaryLink",
+      "published_at": "2026-08-20T19:09:57Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "SecondaryLink가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVFp3ZXpVekZIempYXy1xMml3RDFIWFRUdUhrQ0hKeHF3YXVVd0poaVllVkhXYm9lS2FlUFpfNEtHTGNqeXJIOU1HV0R1MFhCRFM2c2ZFeGVRZ2FHSk9qVnBxZ1BjbWV2QjY4dzF3OEtCVjE5VzFqMzExUm9VUXdsS294dXhJeVY3d0s2MzJFMFRWTjZqaFJRbFNBS1BpWjVlT2t3YTM2ZGpab1BOdWVteEdDSGNjOEtfNlgxLXZR?oc=5"
     },
     {
       "id": "n-422900cb5150ef99",
@@ -234,6 +244,16 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81QV9CQjNZZWFhMlNmNkdFLVRLWWVSLURfODlfLWhCdnZjeGNQT3pjUHFxSFBOdm05X3ZINGVEWm5jdzZUSWVodzI5VGNQNDF2Y1pSV194MXVQUWNEb1ZRRUY3WDRpSGVLOF9wX3J3cmJ3bXIx?oc=5"
     },
     {
+      "id": "n-2d59b9cb4b0e7c00",
+      "title": "Pharmacy2U shareholders announce £500m continuation fund",
+      "source": "Pharmacy Magazine",
+      "published_at": "2026-08-20T01:37:24Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Pharmacy Magazine가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUE9FcHVPX0hhRGVjVThWT2xFYkJQMy1xd3UtSFlXamVPZkZSV3AyLWVoZUw2eTI3dzdpU2NSaTJuRUNIbjFqSTgyVXNBUlBaTjZwd0ZIZ1I0c1dZcHlsUlIxVnFaWjlZZS1idldtdEhpdFFvc0YtdnB6V2l0SmlRY01mMDFVR01PSnpWektFajJKNzNGRklSRi1Bbw?oc=5"
+    },
+    {
       "id": "n-68a591e52a63784c",
       "title": "삼정KPMG \"하반기 국내 사모펀드 시장 회복 기대…AI·에너지 등 핵심 자산∙대형 딜 집중\"",
       "source": "CPA뉴스",
@@ -246,11 +266,11 @@
     {
       "id": "n-a409cea1cf42b406",
       "title": "Asian School Chain Founder Seeks $300 Million for PE Buyout Fund",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_at": "2026-08-20T00:00:00Z",
       "category": "Private Equity",
       "region": "Asia Pacific",
-      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd1V3Vnl6Sm1uNE1KWk90eVpNdVlFZHJ6Unl3V203bm1ZM0xLS01UV1R0WU9ackVHdFZTcVFHTllNZnpxZFFSYi1kXzRSX0lqQ3NOVnZFWjBNNTB0Sk1BM0xGY0FhRVYyQVJNcVFpNUUwQzRXa0tJRFpicF9QakJBSGhvNEJjWDB6NDY5NlJtbGJFNlJzU2hJYVpwclRQNjJuWEpVYkE0ZDRaVE5faUdvSUN1VDQ?oc=5"
     },
     {
@@ -1382,26 +1402,6 @@
       "region": "Global",
       "summary": "Asset Securitization Report가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWZUMnJuSVRDTGtJMWNqTjhhcU1EWkIzQjZVVFlsUXRnb3Q2NEVpSFl6R3RvOUtDR0NjSzZRTEp5Rll2LW9qTWdUNU9YY2FhUVNlMTBJeGlMbGJkX2RuMzFPRm0zX25TOEMtRVgzRFhmMmJ1Nng0TWFxR1J1aWRwVlRXTHlMaktZYzdmWTdqYzdSdS1mNXlsUGJxRXYtUTV0aTZPU2Q5endvRGM?oc=5"
-    },
-    {
-      "id": "n-afc225b74e52d7a5",
-      "title": "How a Pittsburgh private equity firm closed third fund in record 32 days",
-      "source": "WPXI",
-      "published_at": "2026-08-13T14:51:37Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "WPXI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWlEV1pGcDZfSnhPcGJjQlhqM1FKY1V1a2UyczV2T01CdV9VTGZjN01ySkM0SGZJT0FxME5UNmQ5b21KdTFuZk5xUVItT1BKdE5zTmJyZHAwNmxkbnp0ZUVRN0ttaF9zRkl5Z0c0N0NkbHl4MkVhSWx4eXc3azB3MjFsQWZMbmNpUVdsWUhjUFUzOU51amE3N3Zlb2JyazA2SmZ3M3ExVW5FYkFpa1dhajZNdy1LY1R1TFNFX1dSMWJhY0VabFHSAdoBQVVfeXFMTzd3QV9fVWhQVzJHdTRiQnBNS2xqTVA2bk50OE5YT2V2UVpjazd2U2NYQVpSNVlnaHNjMkFRRjdUUGRXTlZkbVF1TENwcWxuRDZrbENGSFMtZ0VBZWZxSXdBaHQ4OVJ2T0hMQzBadjMtTHN1ajFFWnBfblUwTkY1em5nUHVVZ2RrNGtRR1dNYTVLX0UyUGxiYk9aZERGSkVlTmprQlZrMU9Nc0d5Z19JdmxHU1I4eHZHVmVHbkMzTldZcUZHQzBQSkdkbmNUa1o4b1BIamJXbGU0TVE?oc=5"
-    },
-    {
-      "id": "n-c6f9c61ecd1bcfa5",
-      "title": "Arini launches first ABF fund",
-      "source": "Dealroom",
-      "published_at": "2026-08-13T13:21:28Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5maHhvMnA4SFM3cWZJenczOS1yOFdEN3JpY3M4NUlYRnNpZmdEYldVR25DV0x5eldKT3kwd21kMVctTU14Si1sZE8xSnFqczhRS25BWklmMU1mdEo2RUhVaGtjUnZ5WjdUejBIZk9zd2I?oc=5"
     }
   ]
 }

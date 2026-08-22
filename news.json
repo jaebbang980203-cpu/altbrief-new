@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T09:44:26.466623Z",
+  "updated_at": "2026-08-22T13:02:21.179921Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -12,6 +12,16 @@
       "region": "Global",
       "summary": "GuruFocus가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMGpULU1aeXFXU0JnUWFZRm9fYVhuV0dPS0pjdGQ4dmJLN2UtTWlfTS1kU3BlYmlEeVZicE1rdV85M2l2a1VNNFc2b2RIOE85RmZXLXVQSFdTd2RqN2M0NnVUZmJHOWNKZzUwUUhBUDM1b2lFaGRtb2dvU0RNbTEyQno5SUdYZGZYSnZldER1VjB0MVBhaHFVZS1Ma09FSVBZRDk0Q0l3eXZ6LS1vUjZQZUp0eDVpdUpEX3p6NXZfN0tpS3lua1FVcVY5RmpKaHRtdTBnbEN1aVJZR3NwUVY0?oc=5"
+    },
+    {
+      "id": "n-012fb42579d6c035",
+      "title": "Private Equity Healthcare Acquisitions – June 2026",
+      "source": "Private Equity Stakeholder Project PESP",
+      "published_at": "2026-08-22T00:46:36Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Private Equity Stakeholder Project PESP가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeHRTX2xIdlQtTlpRWVhzZFlWQXhNUU56eUxQXy1tVnBBNVR1WXM0N2hEVXd6YkEtLW1qUHFuY18yZlN5UmtlUm82dzY0Z1BRZHppeW5DVExTdnEtOTkzeWM5azd6c2t5M21aZ2E0NjdiZUxkc2p4bVM5cUhqYW9rVVJIRVJsM3M?oc=5"
     },
     {
       "id": "n-1eb1185820e7935b",
@@ -516,11 +526,11 @@
     {
       "id": "n-3e07c2055f665ee7",
       "title": "Jefferies Targets €1 Billion for Private Credit Secondaries Fund",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-19T14:58:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX010UC1BWjNXbzg1dWdDOXotMHFUT0N2VUVfU2x6ZEMzMGdpd0RBRGpRek9sNkYtdHlRU3A2VUtDWW9kZ0tVMUV1OWtXUk9ta0RqR1VRTGtNUnlIVnhINUp3ZGQwQTNQZTdtN2tORzJuUGwtVmRzVzZ0OFVReVR0SzN2SG0xQzZvOFdXMnEtTkdqWFI3R1JsYTBEc2dXa0xiZUV4b0tVa3poZFJLZnJISEVGTjA?oc=5"
     },
     {
@@ -546,11 +556,11 @@
     {
       "id": "n-b5cd5e047a23e5ee",
       "title": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-19T12:15:57Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdTRXdVh6UmJ1d2VNeTVzUTZvR3gyak9FeUlDSlFSR243LUxJUHgtZ2NCV3c1Y29SU1NrWlIyeHplQVFiSHZiYTFXYVlzRjBHd2cxdS14TmNBTXdCSzNPT0JZUzk2eWlMZWVKY0ZucEtiQi01T2pqTGdhRTZUVUttLXNYQVJXcHU0VklVZjlGQV85Si1SYm9LcFR2OTNTM09jNWpVY1FWc3J2enFtTnBBMlI3aTE?oc=5"
     },
     {
@@ -1392,16 +1402,6 @@
       "region": "Global",
       "summary": "The Real Deal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVlE3Y0xoZ0Z5aHB4NUhJeEJ4UmF2blVmbVdsbTltWGJXTWY5OGxQMlJQRUhGTEV0SHBRM0g1TXFlUE9KT1A5NE0zMVQzV3MzaUpfQk9OX2w1Vm4xbGJNdnlEdXlHYlpjQTJjSTAzQ25aUDhGRlFjRVY3NWVTUzZ2Q0FrUk5YT0tTYnJpTEZkRlNUY0xhQmhwLXcxZWZwbDAyVDMwakd3?oc=5"
-    },
-    {
-      "id": "n-f1532eec88359a49",
-      "title": "Hollyport’s Carter on why the firm chose Blue Owl",
-      "source": "Secondaries Investor",
-      "published_at": "2026-08-14T13:56:25Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "Secondaries Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX3dTaGVlRjZhZkxFM08zSGU4QmtfeUF5MXdUZjcxVkhMR1VjWGM0Z1dOWnBTOWF3aXRFR0xVTHM2TTZqbU1fQUZYNzA1WXNIRUVzZjB1bGRFZ2E0enplV3lMZy1NY2s5M0xPdk0yVTJEMGRsWGpaSHVNUUpsNUFGb0FKcTRZSjRYVkV0Qnln?oc=5"
     }
   ]
 }

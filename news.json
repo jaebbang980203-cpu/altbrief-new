@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T13:15:14.807646Z",
+  "updated_at": "2026-08-24T15:58:04.597611Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -42,6 +42,26 @@
       "region": "Global",
       "summary": "KED Global가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SZS15LW16OWR0VEZpM2haZDdqWk9RaTVNT2JHNWlJbVBuSER4bVlBUXE4RXp3YVRacDJHLVhfM0RsSTY2eDFqM0xqV011TUc4YjFOUjQxaENnX01SSzc4WjhXY3BpdFRURS1QbWxMVQ?oc=5"
+    },
+    {
+      "id": "n-8258551bef2a3ef3",
+      "title": "Infrastructure Investment in Southern Africa",
+      "source": "The Borgen Project",
+      "published_at": "2026-08-24T08:30:01Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "The Borgen Project가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BckxobDk2YlNTSW5fV0h1RmRiR29KbGp6OW5XaThDLWJCaHpKcWFseEdydC1FbG5MNktTR29ILXYtQmk4R0xVMXJzMmJ3Y3RZWHVIeE9sSktjTzcyT25MRFVROUZUbWdqOG0xSDQtaWtqa1o0dFFkcFp6cw?oc=5"
+    },
+    {
+      "id": "n-448aea283928f65d",
+      "title": "LABJ Stock Index: August 24",
+      "source": "Los Angeles Business Journal",
+      "published_at": "2026-08-24T07:00:11Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "Los Angeles Business Journal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWDRhZmhOSkw5VzZBY0dldlYxb040OVIxcUV5RHZiYndtNWFzVE9YNXlKVThNSTU4LWdpMWZ2WV9VakxxV2phY3kzRko4NUFVTEtaMDFOLVBkcGRsajlHaEgzcEpMblo3N0lqUGt6aFBMNmlHdG9YUUI5ZHV0Q3BxQlNHdVlueFlhSmlVUnVR?oc=5"
     },
     {
       "id": "n-a607bfe88e896f88",
@@ -632,6 +652,16 @@
       "region": "Global",
       "summary": "خبرپو가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxNcmNPcldsZXRaSFN4NGJ5OGtPRFNBZkZsTENDc2lhZ0hWUjdRU1ZsYy1jVEJGN2ppOU5tZGhWVnJZTzVleDVtdkVBMVpwblBVcHdReXFvbThhblRMY0g0N2ZVbmxYeC1wakNHOVpXcFd5RzJHVE5RT3BlT2ZoNTNmbTV1X25VbmR2OEZ6NXZUR0RpYjFEYTFhdGtpOUxZY3NXQUdBOFlHVlVESHdLNkU3bzFzYUp5bXRkaGtHc3FUX1FMYUY5aDEwcG5tYzEyZXNUWUxBSnE3NUg3N1lqMS1xWE9NT1V0YVRKZXB5QWVTMFdHS0ZreDFaOVgtNFZxcHBaYXBkUTR2dURwbkFUNm41dDJMZk5vYWRlNDBkQXVBMUdXdUlNLUxtNVJzWmdfa0k2N285SWp6SUNwenEtNWQ5OGpvX3M3Qlh6aVNQd0RvQWhxLXNIel85RDVpUHYwaFZtUldHMU9oRWdkcjNtd1ZmN2s1Z01Td09HclktWUFIQU10T2FGTUZlSTg3Y2xfWUV1SG0tVnc4dVd5REVMNVlYa0RaT250RE53aTdWQ05GT1liRWcwY1E4OUczNHVueWdrT09oWnR0MjN0MEJrU2dHYml3UDF2UlZEdGg1WW9sbFFyTmVPcmR1cWVWc1ZuUkg1TW5ibDFKWFAzRDIxY1F1ag?oc=5"
+    },
+    {
+      "id": "n-86f053ec381c83e5",
+      "title": "Jefferies Plans €1B Secondaries Fund for Private-Credit Loans",
+      "source": "Briefs Finance",
+      "published_at": "2026-08-19T16:48:21Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Briefs Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZG9LOGx3b1pZTmxZT1BCOHRWeTVhVmdMU3NkQzh5TlZzalhEekphV1lvVzlyV3RYV0NVTU9CRmlSa3NWeFotLThqVVg3eWF4RDBMNE9EM09xQUlUTUtZMG43TjBDaDhCUnI1WndlTGx3TTUwdjZ1YmNmZ0p3TWFtYk1HWTg5U3ZDYkp5TDBiUE1OQQ?oc=5"
     },
     {
       "id": "n-0f83dca9679c0cbf",
@@ -1372,36 +1402,6 @@
       "region": "Europe",
       "summary": "Yahoo Finance UK가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmNrS1VncmJWZ1J4bFBYMThTSkw3THRDZUxMQ1lnZHBsR3B2bWNTaWVQMjQwNnZiMnBJNExscmlhdWxtcmVseGNRUGZxa05DczNWZ19JdkVVbG16ak9KMzhLdXlwX2dZSXE1ZmdsZFJZYXdDS0pxcllETnFuRGJTakZXMnNtUQ?oc=5"
-    },
-    {
-      "id": "n-d0747b27919bab00",
-      "title": "5 Best Infrastructure Stocks for 2026 and How to Invest",
-      "source": "The Motley Fool",
-      "published_at": "2026-08-16T14:46:00Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "The Motley Fool가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS2xyZmtMTl9Ed19xZG9tQ2FHOVNveW1sM1BwQUFsN1R0X19rX3B2TDhlbzdUcl9BS1lEMFI1Vk50WDJRUzRjdVpDWUNaLVR5RlQwZEtVVFNqWEJhbjM1dW85V1NYeDMzMmJnWGY0VFVWNkF3dDF4NDFmN2hOdUREZnQ2VXFJcHpOTHBFbllRc29qc0d4Wmdxamo4SzJnZlhENzlDbGJaY00zV1oxNEdmWVFqRQ?oc=5"
-    },
-    {
-      "id": "n-c8e8f63700de1701",
-      "title": "Quomodo calls for digital infrastructure investment at NITRA conference",
-      "source": "Business News Nigeria",
-      "published_at": "2026-08-16T12:16:30Z",
-      "category": "Infrastructure",
-      "region": "Middle East",
-      "summary": "Business News Nigeria가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU2xuaE00MzBjcVVaWkRjMF8wcGUyNGlPZEoxaGs3SHJVV1ZJNGd3QlV6TmJ5MjNEYThBTnMzMWJVOFFma01fYWx5alVISENpNVdtcEtCTUY0VXdRd2FKT3lHdkk3Xy1NUEZ4eHlFaElnTHVjcWd0OHh5M1YwOWYxNWVTQ3FNQ1FvMGxYYmpZclQyQW5VcGJ0LU8tdHlKZTBDZ1UwYVF0a0c1Yzla?oc=5"
-    },
-    {
-      "id": "n-3b3e40d9fc1d4070",
-      "title": "Does Invesco’s Real Estate Debt Surge to US$3.2 Billion Reshape the Bull Case for IVZ?",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-16T01:15:00Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUE5ORk5ZcVI4QWRmMWt2enRxdmxIcFlCLUZLakdEbU9qVEJfWUcwZ0w5VTlKckd0bEVuQVdTMVg2UllsZjE4Q29oT043bElQdXdXRTE1SHJ6RjNIVFNoalotTE8xdWRDMTJTR2RuODVvNFc1YklxU1J3UTVLMklnTWxnZXZJMTdrdTI5U1VEYXFpTHVCX3c?oc=5"
     }
   ]
 }

@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-08-24T10:05:58.360117Z",
+  "updated_at": "2026-08-24T13:15:14.807646Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-e2d6d11748201a15",
+      "title": "Inside Walkers' fund finance expansion",
+      "source": "Structured Credit Investor",
+      "published_at": "2026-08-24T11:37:58Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2p4Zi03eDkxYkZkbDdGODFNeGw1blJhV3JTdUVtcHFiaEdSOUt6NmVldHkzNUNUc0lVVVJxN0JwUnAycHE1MFNqVHBRUjBTaWxfdEJIQUdyWTFmTTFQVXVMOHg5NWRFR1BYMUJIajlUdHEzMWZodEtQQjA1a3RyWlFwRGJ4R2ExT0NnU3c1bmRsblo0TkpHSjJJUTFJU3JUeU5haG1HcU1zdm9WVGVBcHdWS0U5WG5MWEwzSw?oc=5"
+    },
+    {
+      "id": "n-5c4d1f4811af86a4",
+      "title": "Nigeria Targets $750m in Cloud and AI Infrastructure Investment Within 24 Months Under New Digital Cloud Policy",
+      "source": "iAfrica.com",
+      "published_at": "2026-08-24T11:24:21Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "iAfrica.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURMenR4VkJnMUxVWDYydE5IbUo4VDBHZ2ZtZ1FyUXRQZlZ1bmRPY3JYTUxmUFVUVktHaWRuV0x0czV6anFGOVdjUE16dmVXcV9HX2ZGaVBma0pIR1dnOHpuQXBUMngwam1wYlAxTWhJOEtyLVhWLS1yNC1EbFVYSVVzalRKVk12cGJpT2pGZFhPR2NIVW00YU9uX1c5QkVaZ2tFcGZscEtaMlkwd004LVFMdEJ6eXd4eXNnX3JYd1pmS0VPLXFhSTIzRQ?oc=5"
+    },
     {
       "id": "n-59422bf5d89286ea",
       "title": "PGIM launches US$700 million Mexican real estate fund",
@@ -188,7 +208,7 @@
       "title": "Investor Intentions: Partners Capital to consider a broad range of opportunities in 2026",
       "source": "pei-privatecredit.com",
       "published_at": "2026-08-21T09:15:41Z",
-      "category": "Real Estate",
+      "category": "GP Stakes",
       "region": "Global",
       "summary": "pei-privatecredit.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSXVfNEFVVXFHdmphTUk0d1N6eXZGSDJvclBLel9Cb3RkWmpURnRPQkE1S1dKd250U0pXZXlZbGxYY2s0VkNaek95NFNQR3VOLWZNdTlUaFdZbFl0a3d0ckk4dVRFUU51OU05ZDRqeE8zMDhUYVpPWGVsc0FjWWNSQXpIWjAzai1XMVZnbl9GTFRxMWQ4RG5WSWUwRkN3R3cyNmxndDlNNVVqUldFSUxvZFR0Wk1JZUdYWDdSSl9WUFo?oc=5"
@@ -636,11 +656,11 @@
     {
       "id": "n-3e07c2055f665ee7",
       "title": "Jefferies Targets €1 Billion for Private Credit Secondaries Fund",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-19T14:58:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX010UC1BWjNXbzg1dWdDOXotMHFUT0N2VUVfU2x6ZEMzMGdpd0RBRGpRek9sNkYtdHlRU3A2VUtDWW9kZ0tVMUV1OWtXUk9ta0RqR1VRTGtNUnlIVnhINUp3ZGQwQTNQZTdtN2tORzJuUGwtVmRzVzZ0OFVReVR0SzN2SG0xQzZvOFdXMnEtTkdqWFI3R1JsYTBEc2dXa0xiZUV4b0tVa3poZFJLZnJISEVGTjA?oc=5"
     },
     {
@@ -666,11 +686,11 @@
     {
       "id": "n-b5cd5e047a23e5ee",
       "title": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-19T12:15:57Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdTRXdVh6UmJ1d2VNeTVzUTZvR3gyak9FeUlDSlFSR243LUxJUHgtZ2NCV3c1Y29SU1NrWlIyeHplQVFiSHZiYTFXYVlzRjBHd2cxdS14TmNBTXdCSzNPT0JZUzk2eWlMZWVKY0ZucEtiQi01T2pqTGdhRTZUVUttLXNYQVJXcHU0VklVZjlGQV85Si1SYm9LcFR2OTNTM09jNWpVY1FWc3J2enFtTnBBMlI3aTE?oc=5"
     },
     {
@@ -1382,26 +1402,6 @@
       "region": "Global",
       "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUE5ORk5ZcVI4QWRmMWt2enRxdmxIcFlCLUZLakdEbU9qVEJfWUcwZ0w5VTlKckd0bEVuQVdTMVg2UllsZjE4Q29oT043bElQdXdXRTE1SHJ6RjNIVFNoalotTE8xdWRDMTJTR2RuODVvNFc1YklxU1J3UTVLMklnTWxnZXZJMTdrdTI5U1VEYXFpTHVCX3c?oc=5"
-    },
-    {
-      "id": "n-f8aa3c05374c7360",
-      "title": "Kayne Anderson Energy Infrastructure Fund, Inc. Revenue Breakdown – LSIN:0A1J",
-      "source": "TradingView",
-      "published_at": "2026-08-16T00:26:22Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ObldXU1dIRkpKRHBHaWszaS1HTFI3N2p6NEpoSDU1b0JVdTY2U0VjMk5sT0JWTGx6dF9EV1oxLXdpendlNG5RMFRIMGh4cmM1MV9VUkNTRGlhYjFGSEs0N0V1NXg0N1VPZlV2Ri1UZ3RJanFl?oc=5"
-    },
-    {
-      "id": "n-cf2e62f687938f81",
-      "title": "1789 Capital Closes $1.2 Billion Debut Real Estate Fund Targeting More Than $8 Billion Of Sun Belt Development",
-      "source": "Pulse 2.0",
-      "published_at": "2026-08-15T23:13:16Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ1NZS1JUSkt6OHV6ZXRPWG9OemYxZ0JtVjRveUR1RVNNZFI2Z090Q2RqZldfN25tMXh2LXVEMVFDdXlEQkVCNzRJSFRFSWs3aGVoR0hjWjg4dS02UXVjb3JNVThaWmJUZW55WEthbXhVUVh5ZkJ4Y290RnNJNm0xZmhpdjlqdDNhTW5LMl9VNm1ySGtRYW40NUIzZF9QWXg1QnptSVFYNHBFNHdEQU95eVN3eWFpdHRzRV8zQnAwQmRGM3F5ZF840gHMAUFVX3lxTFBPSVhxWVI0cUl2elMxRnBQYi1kQjZJOXpCYkdFem1nOXZfWEhPWjBZb1QxS3NFbTlVcnB2aHlhNXBfT0IxVGJ0YnVPZlNRM3FNbG5NZXgwUkE1aGhrdHlHZ1FYUG1UalhiLUo0Q182elBkVFpIaEM0d2l5c0ZZQzEwZGI0NjYzaURkTTN2bFFWZ0dIUElERjJ4b0tjbWF4SGlUeXJhT3FlX3V2LUxhbUxUYnk2NEJlT0R0QnY2M1hBcDVVcGNVZlRzSzJXaQ?oc=5"
     }
   ]
 }

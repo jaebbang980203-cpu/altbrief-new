@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-08-25T09:52:41.303850Z",
+  "updated_at": "2026-08-25T13:13:15.459180Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-db00ef8effddd15f",
+      "title": "UK digital infrastructure just tripled on paper, not on site",
+      "source": "The Next Web",
+      "published_at": "2026-08-25T11:51:40Z",
+      "category": "Infrastructure",
+      "region": "Europe",
+      "summary": "The Next Web가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQai04dzd6dmd3R1dNa180OGVtbGNpYklnZ1pTbEkzREtUZXE2ejVvWkRXd01jT1ExSGFIVS1tYjgxLUREb2FCYm8tYURjU0pCZDBxNUFNZnNscmF1aW1JYl9aY184eTFZd012S0k4U0U3Qkk0Z0ZQdDk4dFFmQkdaSF92SlJSOWFYYkNic1pnbw?oc=5"
+    },
+    {
+      "id": "n-39b20777e47379d9",
+      "title": "AIB Said to Tap Banco Santander, Howden Group for Significant Risk Transfer",
+      "source": "marketscreener.com",
+      "published_at": "2026-08-25T10:34:48Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "marketscreener.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR1BCM0p0RTJwNklCeWZTTElES25kZXJQUXdSVmRseVlqalpIRllvYnRFUkhsWHhlNFFOekp1RzlJcUlaTV84Y1drd0pUeDc1WVkxQW9WMVpLWnFXVlRPNVZ5RC03TEIxeFNoR0hsd2h4X2FUeGFGdHAtZUVRTUUxdVI4T0lOWkU0SGxFSFpEMzQ4a2QyRzBCcmd2OGZjMm9GeUNqaTRUVFNHRTRwdHkwNzI5RkRlbUUyMHY2RlFxa3RObndMWVE?oc=5"
+    },
+    {
+      "id": "n-7637a9df04d78db4",
+      "title": "Digest: Amazon Sued Over AI Training on Twitch Videos; UK Digital Infrastructure Investment Hits Dot-Com Era Levels",
+      "source": "exchangewire.com",
+      "published_at": "2026-08-25T08:02:42Z",
+      "category": "Infrastructure",
+      "region": "Europe",
+      "summary": "exchangewire.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdDRDaVdSRXNIRDhzc2RZVFh4Qms2VXNyLTVWZl9GSGRuT3o3T0hPMUFXY2FRaDZ1UUs1WDhCY0w0N2c1X2N4eFF2eF9VX0lhd045VS1oRHBfY3U3djV3ck93Q0Jqek5vMU5CNkhzUjN0eWNSSi02VGRtX3NfTXFkM3pSM2VGOHlMODh1OGtzYXAwU1BmZjNxSGRKWXB2VWMtMWlyZjBUSDEyaHpIcWpVUjZ0Z3kyOExtMkk3X3JoLU1qb2VzemhrRW1zazJydGc2dG5seG13R0R6UTk3b1VNQVY1ZkdGN2xWZTNGaVZrQUI?oc=5"
+    },
     {
       "id": "n-1623fb73ce7d0da2",
       "title": "Ireland’s AIB Turns to Santander for SRT Tied to Project Finance",
@@ -42,6 +72,16 @@
       "region": "Global",
       "summary": "Devdiscourse가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXRCN0JQRFMyYUo1cUFkZkhLR0RmSGFKRko2YUgxQnE0cXR4UmNLTWhjajhaWVZFQ1Zra2hIMm43VHkyOW5JdXJ5V3l4dWxZc2hsRlBOcm9feWJUdzd1eTBHSnl1MUE4cWcwaF9JRmI3XzA3ZEhoWXJNeG1tOXI0VFdzOF96bm9IX1V6ZnQ4ZDJjNXBub1BTWUM1dTBRbm1CTmlWWFN5TUtsVW96WmxMdmtSb2xpNWlsZmVKWmZsdTPSAcABQVVfeXFMTzF0QjdCUERTMmFKNXFBZGZIS0dEZkhhSkZKNmFIMUJxNHF0eFJjS01oY2o4WllWRUNWa2toSDJuN1R5MjluSXVyeVd5eHVsWXNobEZQTnJvX3liVHc3dXkwR0p5dTFBOHFnMGhfSUZiN18wN2RIaFlyTXhtbTlyNFRXczhfem5vSF9VemZ0OGQyYzVwbm9QU1lDNXUwUW5tQk5pVlhTeU1LbFVvelpsTHZrUm9saTVpbGZlSlpmbHUz?oc=5"
+    },
+    {
+      "id": "n-ee508a0c951f3502",
+      "title": "Private equity growth funds attract record first-half inflows as sector rebounds",
+      "source": "Financial Times",
+      "published_at": "2026-08-25T04:00:21Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Financial Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQjFpS3hVR2lHTnFFeHBWd1JiVEdjVDdVMFFjZkNlYlo1ckVXTDNPUWtRVDcxOHRCZVhleWxzTmo1b0dfaU5xd0xnMU11MU96LWFIUXZ2M3I3QVIzdEVmWDMyanY4SW5RMTdCa2FadGhYMDNZejJlTnRnZnV4dnkyU0tKemQ?oc=5"
     },
     {
       "id": "n-68f4514b1adcc90c",
@@ -936,11 +976,11 @@
     {
       "id": "n-b5cd5e047a23e5ee",
       "title": "Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-08-19T12:15:57Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdTRXdVh6UmJ1d2VNeTVzUTZvR3gyak9FeUlDSlFSR243LUxJUHgtZ2NCV3c1Y29SU1NrWlIyeHplQVFiSHZiYTFXYVlzRjBHd2cxdS14TmNBTXdCSzNPT0JZUzk2eWlMZWVKY0ZucEtiQi01T2pqTGdhRTZUVUttLXNYQVJXcHU0VklVZjlGQV85Si1SYm9LcFR2OTNTM09jNWpVY1FWc3J2enFtTnBBMlI3aTE?oc=5"
     },
     {
@@ -1062,6 +1102,16 @@
       "region": "Global",
       "summary": "Baker Donelson가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONWliWGRzUHJ2N3FjZlBnNGNsUmh6VGtpM0VvNWRWdXRKanFMcGVVdng2Y0NxMnR4Y0RVckxSUlduV1pIakNkS3NXYkhGcmI0QUt3VU5nY3FWZVVsUHZuOTFDaDR3ME1YNXFURTNUWkQxM0lqTWJUQy1aeS1DUHB6aU9Nb2FOczBNREJyWm0tTWpFajNaVmFkR2JDeHM3Nkh3V1MxeHBuUTY0ZVBMRXJn?oc=5"
+    },
+    {
+      "id": "n-63603e05f069128f",
+      "title": "Private equity firm closes oversubscribed $440M debut fund amid challenging PE market",
+      "source": "The Business Journals",
+      "published_at": "2026-08-18T19:32:00Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "The Business Journals가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSGFZeXA4WXpkbXdSRW9KbGlxVWh4YVdJdGFIb1VOQkxxVzVqMG4tUF9RMkx1Z083MkVnYm1mU3Rnc3k4blFMMU9TM2t0SWMwQ2tSRTVVSk9qT3BIbkVvX1lfODlKaTRkUGFHYXA0bDdXX3NuVlM3eUxvTGVMOUtJWnpuWEpaeWRkN3NDQlc1amFlVUg4RTg2TEgwYWwyUDBqUkFSNkV3?oc=5"
     },
     {
       "id": "n-686ac0a7d4cb32f9",
@@ -1352,56 +1402,6 @@
       "region": "North America",
       "summary": "Benefits Canada.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZWZLeFhFLWNXTnRtczZEREw3ZzBBT2duZTlwRndfU3BOakxMcXJ5SU5uclVhdHV1NVlYOGNMcnJRdjRVN1R2dFk0MW1NT2RzdU9TbkJ3SS1QbWdXSm56Q04tRkVGdkNLTVBwdGQ2d0h2Z3VUenh6UFdzMVQwaGcwZFZHbTZrN25hNC1xNDA0bml4UUx0WEFZWVd1UlF3NUlPcW5TX19ZTlc4NUI5YWhEY1ZNOUxmdWhmOElKOE9lTXNJZEVUaDNFd3FVaElJcTJ2UWV1cjhIdHU5eGtjVlB5Mjh2TnNDOFJVZ00tcjRrbw?oc=5"
-    },
-    {
-      "id": "n-3fd1e89dca50aaac",
-      "title": "Rising fundraising momentum affirms support for US real estate private credit",
-      "source": "pei-privaterealestate.com",
-      "published_at": "2026-08-17T18:48:40Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "pei-privaterealestate.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdUREMm5LemUtS2xnQnVlVnUxMVg4Ui1VQkFpcmhHSzZrcS1qU0ZUUXNFcUlqTFNoT2JORUZjUFJGN2dHby1YRUZiVHFXeHMwWHlRTXpVZWYxYkxyeDh5RU1BaEhyTFZOQURYQ2xQOWxlc2xiZ1lmTm1CUFFsZksxM3UwRjRSbXBDYWN2VVlfSV9lZDk1eHBtelZKeWF1QU1GZUMtMS1vQ0tFNk95TWFlVzBQdmUtYXVsNHVLQWZRaW0?oc=5"
-    },
-    {
-      "id": "n-e0730ae4ad675d15",
-      "title": "Crestline completes $200 million NAV loan",
-      "source": "SecondaryLink",
-      "published_at": "2026-08-17T18:29:55Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "SecondaryLink가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1pYU2hoc2l6WjFSeVpndC1uZFduLXF0UUwxQkNTbTBmRXU3NkNxUThZNUFWUXhwVFdWa2pCVzFfdXBoMFRTRE5xaXlvZmUtVXRMYzNjSHJxRHJyU2t5UmdHRFNvQTFhZ01jd1RvbkRBZWpRMVJVSVdGOHMtXzlYWTBhejJ6M3IwaXQ1M1o4dDBsdTh1R3gtMjI0TjA?oc=5"
-    },
-    {
-      "id": "n-2948da0d2ec0d13e",
-      "title": "Continuation funds of Q2 2026",
-      "source": "SecondaryLink",
-      "published_at": "2026-08-17T18:29:54Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "SecondaryLink가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3hHeTRoaHFQTkpmRmVwOFhvcTNwd3psTEYyZWw0YzZWWEVxOWprbFN6ZHQtYnBXSnpYSE4tQlNfam9jNkZNRVF6dk9VeUhkOTVOOTNoU0trWTI4RGRXSXBRVF91VlRpTGgxaVM3cU93SnJPczRxUTR6Vkx4QnhZM3BBM0RndTdwX0xHMDZB?oc=5"
-    },
-    {
-      "id": "n-69b25de3d9f04b03",
-      "title": "SkyKnight Closes New Fund at $2 Billion",
-      "source": "JD Supra",
-      "published_at": "2026-08-17T17:17:25Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "JD Supra가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHlzZ25fTUk2NlloZ2I2eWRmeVdrcHdPY3JuWnpGYXN2SnRXNnVlbGJlWFBGWjhlWUlDdlNBV3RHUFcyQmRSTkVjU2lPSlJQeDJJbWpQZ0w0X0RQMHN4R0xYcG5fa0lPZ0doc1VmcW5YbjRBdVYzYW0tSmdJMHFoME1CZWhWa1kz?oc=5"
-    },
-    {
-      "id": "n-bfa5887c75e0ad16",
-      "title": "PennPSERS commits $500 million to private equity, real estate",
-      "source": "Pensions & Investments",
-      "published_at": "2026-08-17T16:49:00Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdjl3Xzc4Ymx4SDZSUk9MQXIxLXZDSHYwZkhBZlYxZG8zUlh6Z25yLTZ5ckNrZHFodDFwei1WZzNfSGlvM2dyRGxkcG9hdUU2ejVObHBPWGhhM2tEU1ZiLWd6cVpuYWtkVmxha0RsRFRNR2MtemstNXZGNjJGakFzUDdrMmVHUV9lUWo1Mm16aElvcVZ4MjUxcGRDWmowM0l0UF91ZUZua1YxbXlDRmUyY3hJQTBRazlSc0R6SjI1RXZvd3NmRUNfdQ?oc=5"
     }
   ]
 }

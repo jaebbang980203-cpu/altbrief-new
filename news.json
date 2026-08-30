@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T11:57:24.087981Z",
+  "updated_at": "2026-08-30T16:43:08.015506Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -44,13 +44,23 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MaUJseVZvMUpOVmFyc2xzOUtiNUY5R0pjbTlOODIxaVVCbzZMU3F4aS11dGhOLVdwczBXS0hzZXplWlAzOGRjVXpUQnQ1YWMzdjdCSXZFTnU0c1k?oc=5"
     },
     {
-      "id": "n-8746572333511604",
-      "title": "Andreessen Horowitz raises $1.1 billion for AI infrastructure fund",
-      "source": "ET CIO",
-      "published_at": "2026-08-29T04:53:46Z",
+      "id": "n-fd70eea54a8a5ee1",
+      "title": "Aecom, Dornan and Mott: Top 5 Construction Stories This Week",
+      "source": "Construction Digital",
+      "published_at": "2026-08-29T07:40:25Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "ET CIO가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Construction Digital가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CZl9IMFc0M3NnS2pvRndCOUstOS1HVUpOcExyRExiX3d1WGlLUU80UFQ2VjV0VXNIc3podWFnMWVCd2R4dm5WbVJEZnhhY2l0UDc1ag?oc=5"
+    },
+    {
+      "id": "n-8746572333511604",
+      "title": "Andreessen Horowitz raises $1.1 billion for AI infrastructure fund",
+      "source": "cio.economictimes.indiatimes.com",
+      "published_at": "2026-08-29T04:53:46Z",
+      "category": "Infrastructure",
+      "region": "Asia Pacific",
+      "summary": "cio.economictimes.indiatimes.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcGJmRjFmaElhSTFuTnNYcEFTWmNCLVgwQkwzZmdsNHM3dk1JcnliOVdyWHRhN01IOXNHa0VlVW1vUno0OVJXc2g3VC12U25EdXdsbjBJWlZxZVRlRm1fZmduRGdlNEZrTVpRYi01TnFFZnBGX3NwTEduV2RWbnJLZEdreWFuaDlzSXBEU3pGTG5mdzdYcFktWk10Mkhjd3RKakZWNWhvQnZmdjZ5SmhWeXppRFJrT3VISThuTVBwLVRNd1JPZFVZNUgzNm9ra3NwblRVRG83RdIB1wFBVV95cUxOcGJmRjFmaElhSTFuTnNYcEFTWmNCLVgwQkwzZmdsNHM3dk1JcnliOVdyWHRhN01IOXNHa0VlVW1vUno0OVJXc2g3VC12U25EdXdsbjBJWlZxZVRlRm1fZmduRGdlNEZrTVpRYi01TnFFZnBGX3NwTEduV2RWbnJLZEdreWFuaDlzSXBEU3pGTG5mdzdYcFktWk10Mkhjd3RKakZWNWhvQnZmdjZ5SmhWeXppRFJrT3VISThuTVBwLVRNd1JPZFVZNUgzNm9ra3NwblRVRG83RQ?oc=5"
     },
     {
@@ -62,6 +72,16 @@
       "region": "Global",
       "summary": "Bisnow가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeExqdEFnSU9aVE9jaUJWdk9YTDdDRTIyOFFOOE9uRjlMYzlLYTc1NWN0eThRbk9NSWVLQzV5ZmNveVpXWU9CRHJTX1k1YXZJcnN4Mnd3bkZOWGhjU21jOG9ZZnk0ci05clhyVVdfcU8wS21WdzRwSmtCaHF2Z0dvMjBfempuMjBQMVhJblJ5d1hJTkZVTjA2LTVDeTUzOHhIekdlYUVrM3NvQWNwZWlmVmRuRUw?oc=5"
+    },
+    {
+      "id": "n-5fbb4da42a094412",
+      "title": "환매 막힌 사모대출 투자자들, \"지분 사겠다\" 제안 거부",
+      "source": "매일경제 마켓",
+      "published_at": "2026-08-28T20:15:15Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "매일경제 마켓가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GLWxmYngxYU83RXYzdGhVOERnZU1WdEIxVDFjal96c3FIV3JTTmVRdnpPNVh1Vmt1YkNfYjMtQjVwSGM0SGdNeThkbG1RTXRET3c?oc=5"
     },
     {
       "id": "n-4a07f05524f3c840",
@@ -652,6 +672,16 @@
       "region": "Global",
       "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONTg2VFJ4OUdRQm1RQlVTTnVGRWdWc0F2QnU1M2lzNG5WZlJTU29HVWczdTh4bW5GdXRDX0lVLTdkak1DZGZRLXl0T3VxektBRG5nb3dCTGpuOHFkRENQdmFnNmdBWkVYRUZyWmlHSk40bUxlS3BvdUwxUVItRzBFOWdRc240ZWJJNTVYRUtIcXE1Nk14X1R2VVE0OVN6WW9waHhyZnR5bGVWbFc3YnVQVg?oc=5"
+    },
+    {
+      "id": "n-0b58413f7e5c7d12",
+      "title": "메테우스자산운용, 공제조합 거쳐 사모펀드와 매각 협상 개시",
+      "source": "인베스트조선",
+      "published_at": "2026-08-26T01:03:00Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "인베스트조선가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVBiSUk5WjVwb2ltRzZZVGlZRm9HeElBLUxpeUFfUFFhaW91ZFVnYmlvdG1OLVFYVG83ZWpWTk53UmU1eHBHZXI1N21sTHNhSHgweVU5cUJlNk1qLUVUcDd1cnI2NWwzeHNaYmRwdi1tTVNnWDhiRGU1WFh3bTFtVHNIQQ?oc=5"
     },
     {
       "id": "n-bf543d13da49bc5b",
@@ -1372,36 +1402,6 @@
       "region": "Global",
       "summary": "연합인포맥스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzUW0zcFFidFhjaXo4dzkxWno0ZWs5b0hsT01yOHFRNHFZa2lsMmJyUFJ1R0VDWUVzazJ4bEdON2IybkFHSFNYRndUbjlPS21aSGY4VWp6UWVqQXFPNnJpaDY1RzhCRGNUWmJHOHhFN1RneGhF?oc=5"
-    },
-    {
-      "id": "n-0207a1d6250098b4",
-      "title": "국민연금 대체투자도 ESG 적용 길 열린다",
-      "source": "세이프타임즈",
-      "published_at": "2026-08-21T06:10:05Z",
-      "category": "국내 대체투자",
-      "region": "Korea",
-      "summary": "세이프타임즈가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55QXNVR1BteVJoTzR5ZVZyNVZVWktGZXF3Tm85dG1haFJyZUUyMTRjTHlOSzBaV1RTMnlzUnZxVWRCeTNVSDNWNVNxNF9leTJiZVF4WkVBZjJueEZHSHZNR2g0Ym9VUkRwNXFvel9mMNIBc0FVX3lxTE9wWG05bm00ZHV3a094Z2JTT0FpV1VDNXIxdFVCMWkyOVlkRktIdWRyLV9iT29QcW45cmJCMXBPY1ZObk9oWWVEQTJlMDFrcURRdTlWeGo2WnZaS2tsQmg1NXpVQzVzYmtiaUxLZ3h2bnplTmc?oc=5"
-    },
-    {
-      "id": "n-f4d8759c8699e5d2",
-      "title": "Phoenix Equity, Thoma Bravo among firms betting on Ireland; BNPP AM Prime featured in They Said It",
-      "source": "pehub.com",
-      "published_at": "2026-08-21T04:28:04Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "pehub.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDR1amllQWlBa1p1dndzSjY5dm9CV3pFdnpYOW5CR0hJSnAxX1BZcFhOcUNydnZxUUU5emtFaU5faTNGa1c4d2tIRUNPeVdHeEVGOFRCWllXeThraE5sdFZIRjhjNnFSZ1RoSUZjUjlaNi1FZnNpcUJsNFNRM0xyZVhTb0FkbmJwcXZVMS1waG85N0pNNTNYaFl3ZjgtZEVPbmtBUlpYRjhnN0pZc2FncUlORGlfNUtBQ0o4?oc=5"
-    },
-    {
-      "id": "n-b5fa7685ca2c2b09",
-      "title": "Franklin Templeton closes inaugural CFO at $1.5 billion",
-      "source": "SecondaryLink",
-      "published_at": "2026-08-21T02:19:08Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "SecondaryLink가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM05zYWhNLWNWakE4ZGVxNFp5am5RXzdGNzdZSkRrZl9lM0xkU2R1ay1sc2hVVjJiY3czWEVvZXY4dzRXYllaSVFEcVMtSzI4dUJ3N0tOQ1ZfVE9WZEtrbVhhU3REbXFTYVBGZ3BoVnN2VktxTGgtenVrekNVSjhaMkFCM2NKTUtVV09WaUlFcDNtZHZ4eTQxdU1ERmoyaXpxWmhxeFZGRTN4WFVHd0pV?oc=5"
     }
   ]
 }

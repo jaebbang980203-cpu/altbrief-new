@@ -1,8 +1,88 @@
 {
-  "updated_at": "2026-08-31T13:56:38.372868Z",
+  "updated_at": "2026-08-31T20:51:21.510207Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-f0fb4f5945616e3f",
+      "title": "Where will the US$18bn in infrastructure investment Peru expects in three years go?",
+      "source": "BNamericas",
+      "published_at": "2026-08-31T19:52:30Z",
+      "category": "Infrastructure",
+      "region": "North America",
+      "summary": "BNamericas가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVjFNR0pBd2lpdThoMmpZSGlDcHcwUHJGNGJOc09BQy1SU0w2TmNtS3hqLWZkRVlXMnZJcW1mRV9YNVlKeVhzeGZaU05ocm1yU09rd2F3SllNSFhqdVFvQlZQR25QbUR5dWZsMGpZaXlYN3gxenkyUXdvc3d2RFF4VFJHNDRnOTJuNC1aQ25ZQTlZNGhlVktaNVlsSGdOZXVQRy1RRjUwYUVGYmF2RHY0cm1sOFg4X0pRV0xoUQ?oc=5"
+    },
+    {
+      "id": "n-65249cb77ce0ece4",
+      "title": "Dallas’ Crow Holdings seeks $3.25 billion for its biggest real estate fund yet",
+      "source": "Dallas News",
+      "published_at": "2026-08-31T19:29:22Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "Dallas News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOengtR09ueS1odEtFVGtWa2dCMkN2b3FHempUcDl4UEYzd3hWbkJpV3RUbm5CN184V0hHVTNJR01ORVppd0pfSEtQZ1kzX2ExR1ZPVkdzRTFKbVIzNUttU2dFM0hubnFuRks1ZnIwQm5nQ3oyOHhYSU1PVlQ5UElaZm50QXpLX1N3aWJYczNqZ2Q2V0FGc2ZPWVlQRk9GZnFrVUE?oc=5"
+    },
+    {
+      "id": "n-af466b45d13f8ac9",
+      "title": "Coller and HSBC lead Carrick's $600 million CV",
+      "source": "SecondaryLink",
+      "published_at": "2026-08-31T17:55:10Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "SecondaryLink가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeXpqZFZtc05zdlFGYTdOc0lON1BPeHFDcjVKUkpjNFFObzFqMXM2eVlWR2ZNUTV6OFNSdGtCeVNWTEYyNXdjamMtQXJBdUl3TkF5aVFCWXhfY2VBVEc3LTJfaU92d1N6cVdrcEFpX2ZHWWFDWnhTd0xMSVlmeDRSNnlESHFXUlFLYUxSRFRpdlctbU1TZGxwSTIyRklhWHJUeW5J?oc=5"
+    },
+    {
+      "id": "n-8ae6fd353284bd9c",
+      "title": "Dragoneer raised $1B for continuation fund, half its $2B target",
+      "source": "Dealroom",
+      "published_at": "2026-08-31T16:35:08Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTJFamhGLXp1aG1Pb2o2MmJoOFpuZFd2STV6em1aUmR0WHljZDhUelp4M1VNdzBRZE1lVnFNX2NBZVVTVjBoczBqa3B3aWhHbV9WX0JVZlF3YXpKZjNPWi1uYjdSRHUzNTNoX0szSFZTUE9pZ2NlX3RNb1NfQVBXWVBSY05QUDVUU2V5UjJfRVNVbEFENmJtZXdB?oc=5"
+    },
+    {
+      "id": "n-429f8bc94b802952",
+      "title": "NIIF Raises ₹19,000 Cr for Second Infrastructure Fund",
+      "source": "Rediff MoneyWiz",
+      "published_at": "2026-08-31T15:30:45Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "Rediff MoneyWiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd01ncDFzZkpsb1A2dGRIYWVpLWRsTE1VUzR2eDN5WjBtOU9vRUY2dGhobDNoMVUyakstU09oZ0hYUTk4UllTTHdXQzJpYnVjNGJMM1pyS082S1g4aHpvMHlrbTZnMV93UUJqdnpCOGJrdlVkWkFRUVlacUd4N2tDY1d1djQtaHdMSnA1ckkyWXU2MGNkdXpUcHYyMXcxeThzblFaQTdnQdIBrAFBVV95cUxNQWwxMXktQUxwUVJYN1I0X1ZycVBlcF9ieVVYVmVzTTFXMUpTMGxFeVBJYXljSzYzRXMtdk5BQ1ppU0ttV3EtdkEzOEJlb3NTSm1yNGZlTFdHRkVsQlE1MzZXenJHQjF2alE1OHk5dkkwTG1zWU5oVC1Od3lodmJ4c0tIS2dFVzhBZXpSdW1NSGFYZ2l5Z3Y0Vno2VG9pdmYyQW8xdDZ6NUlqVDd2?oc=5"
+    },
+    {
+      "id": "n-e37f80a0e5293d13",
+      "title": "Carrick closes $600M continuation fund, puts fresh $255M into Saviynt",
+      "source": "Dealroom",
+      "published_at": "2026-08-31T14:30:47Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcVEwTHptVjZ6RmQ0Mm1MMlRYVFdQNm92aUZ5UjM1RjRUTlJrY1QwQW5QRlV1OEJvM2lvR3htQmUtdEtfdS1WZDRKbkdMRUtCVEZhWXdad0NkWTUyeG54eWQ2MzU1MktoMk9lXzBrMV9QYmFOWFFIM3MwUzdHV09XUjhfeG81ZDdRU1JxeTdEVHpRR19rOGNMQmRSdXlWeWNnUUE?oc=5"
+    },
+    {
+      "id": "n-90f21b35c52d223c",
+      "title": "Korea Post appoints IGIS, Capstone for $360m real estate debt mandate",
+      "source": "Institutional Real Estate, Inc.",
+      "published_at": "2026-08-31T14:20:43Z",
+      "category": "Real Estate",
+      "region": "Korea",
+      "summary": "Institutional Real Estate, Inc.가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHpwZVdIZmhXV1cwVVVTQm5yX0tDSHh6RXlRZVdjeHFIaU5iYmRzVlJkS3JMM2xWRnF0RUtKZHo4OWN6NU9tdVR1aUJ2a21XSFNXYUVoOTJHX2d4VWQ5bVVtR2NUdFFTZW5UVC1zcWI5djRhQTFVMlBXRTlSTFRCRmJTdzNFTnk5QTFQTzBGd01WQWNm?oc=5"
+    },
+    {
+      "id": "n-527a22a5879d78df",
+      "title": "Obra Capital Names Colleen Kilfoyle Chief Compliance Officer",
+      "source": "citybiz",
+      "published_at": "2026-08-31T14:06:11Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "citybiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWmJUR0ZXR3pZWjdsZGdlYlk2WERmaG5QNV9ZNVV1eEJrLVg3cmI1MjR2VmpoT09nVUxVUGNrdU85QlpTdUZyai1iMk44bTdYLTFUajN0TGFMTm1abjJ6S0JzMTFtUXo1T1g1dmFaQm5GUzlIRW93WmVfSEJsLW5GWm9BaUlzZ3ByWHFFSzRONElhaWdSLWNYM3I4UUtvMWpo?oc=5"
+    },
     {
       "id": "n-612187f6935c6477",
       "title": "CLOs face array of potential issues as 2027 approaches",
@@ -54,6 +134,16 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pZEJMeWNhWTB1OUlVZ0lFTHo4LUtwZzhROXVINTdVeXVGM0duWnhnUVZ6WHJ6UW5qUW82ODRvZXZCdV9ZRmhtRXBOUTJYNF94RE9aVGhCakx2aWpfWlpQYTM3X0cxSFR1aU9V?oc=5"
     },
     {
+      "id": "n-e36f9f14908708ab",
+      "title": "India's NIIF secures $2b first close of Infrastructure Fund II",
+      "source": "DealStreetAsia",
+      "published_at": "2026-08-31T10:27:01Z",
+      "category": "Infrastructure",
+      "region": "Asia Pacific",
+      "summary": "DealStreetAsia가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3puQ1lLTmp3cG91SWdsT2t5NGZYdlNDTnpGdTExY1l4RDB2WWEyUUJlVWFBWEZBNmU3THBVSHdyMXQ0WEFlZHFUN2ZJZVhXdmJuOXZqYVNieGRLQ21pUGFDcGhkOE9DOWFsaDI2ZW1OY19rS05jbjVrZml2aHhBc1p3UVRpNTF5MWh2QjV4YlBqclkyTDRMUmN6R0RTLW9oT3YtTGpFdXBOc0Y3Tzh3dFZLenlDNW4wbEhSUm42bWhMWGRjUnc?oc=5"
+    },
+    {
       "id": "n-f520fa475ffa7fd7",
       "title": "ADIA unit invests in India’s $2bln NIIF infrastructure fund",
       "source": "TradingView",
@@ -62,6 +152,16 @@
       "region": "Asia Pacific",
       "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHFQclJ2YzVrT2picWxXTHU3bzJtUXFkSGZvOWtDZmNvT2pwSlRCRDFPZ0p2cUxZMHZUUDRhSHhJT01ETEJ6OFg0YzNkbEJCbm9RU1BJTkZESENtSzhqcFFZYjFMY2FUTktGSVR0LVlJdnc0MXplUWFGU19YNGtPd3k1NWFWMmNIVkxNczNzS1BKQVRJOUh5NFNWMmxiVERTQlFpNF9qb2s1MjFsQk9oWkVPcHNMMlFtOGZlVjllcWpNckota3VfMkkwTi0xdWc?oc=5"
+    },
+    {
+      "id": "n-3c450b1c4c06e102",
+      "title": "SK오션플랜트, 사모펀드 디오션과 매각 계약",
+      "source": "경남도민일보",
+      "published_at": "2026-08-31T09:00:00Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "경남도민일보가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TdjlvNVBqNXdhNnNVRFUwZDNMbEp1TkJfdE1oRkVHM0ZXZnNKbFJQajNKenBpSzVRZk96azZxNVVHdTd1cmwxSW9tOUl3U1d0akR6aW9JMXpHWnh1S3VtZ1R0anZCcWI4LVE?oc=5"
     },
     {
       "id": "n-20028b05b76d6fed",
@@ -266,11 +366,11 @@
     {
       "id": "n-3237576c59cc100a",
       "title": "TPG: Private credit's ABF push gathers pace",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-08-28T11:17:27Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTmZROW9sNld4VXZsYmpHSGZCc3Q0LU5iVXpIeEJ2aC1lQ1FFMU5ma184WjFqbUcwc1JkSDdZNjkyb1JPQWswLUl4QzN1LUUzNUtCUFhZMGVPR3JUc1hIZ1FGZEhieldmOXJiY0I4UHNBVTI5LW5Ra0ZqaVhhT0hyZWxxUnZXcnYzQjlqY3FnZVE3YXVyYlJRWFZLNmE1R3JETFd4WWpHY3VHakVxSmdDMHRXRXJYd0JrMmtNd1dJY1cwcFFTUlpqVkpuUi1hSkw5QjcxQTFvT29RY1E?oc=5"
     },
     {
@@ -326,11 +426,11 @@
     {
       "id": "n-176f4ce804a62358",
       "title": "SRT's borders keep moving",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-08-28T08:43:13Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHlPUTN4MkZpUjVxelpDWXVGZzVkNlg5TVZzUy1KX2lnSEtHTERfN2RieHhIS3RZTERMSHFjSU5tRnVmdE9HY0ZqdFc3b01iMGtMLTgwU1NjVzhGeUcxMWZBOURSSFdVMk5taUtvZEs5TzQ4NnFhZ2ZPNnhYWTlPVElGVzA1MDRPTmR1ZlFBeUI0aWRYbUZCWDlOeVlDSEJwOFRLUWQ2RTV4eEFm?oc=5"
     },
     {
@@ -346,11 +446,11 @@
     {
       "id": "n-8706cdcb54603395",
       "title": "The Top Private Equity Firms of 2026",
-      "source": "GrowthCap",
+      "source": "growthcapadvisory.com",
       "published_at": "2026-08-27T21:53:53Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "GrowthCap가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "growthcapadvisory.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CbGllbW5pWWNudjByZEhjc0ZwWkFPNU9DdGlwZU1qcEs5NHpiWXdyNU42MFJlUXg1blFySUFHVDF0WFJralRlSkJSWExEc0t1cDdqS3dpai1xeHZpbXVzRU5YLTNUTkw1cEUtWWJVNUtiMk5QMVE?oc=5"
     },
     {
@@ -442,6 +542,16 @@
       "region": "Global",
       "summary": "IPE Real Assets가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHdORkZzOTgxbDVKbFdSUVpvbDBwUUZEdmRUbm9KOUhBdXJsMk1LUlJaaG81ZjZaWVFnaWV2OHVfT2FoU0FoUl94ZDU1ekUwS0ZrQ2NnSWJUbFdxUHlYT2JZeHRpX2hiNUd2VTFqQzZfUU1wQkp5VEZvamxrazJ0cXBWaEl2d2YtV0Zmc1lzX2VpNDdKeU5EeHRhRTVXWk1pZWFhclllVG0xWnc?oc=5"
+    },
+    {
+      "id": "n-eaf39f7ed8afaadf",
+      "title": "Aura rolls out evergreen private equity and credit fund",
+      "source": "Alternative Credit Investor",
+      "published_at": "2026-08-27T11:26:53Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Alternative Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRFprWmIyMGNRM2hOUzBsX1M3c3lSUzgtNUFUc3MxQnhoWmF0d2FhWDd4T1ZDYTNJSEpoVXN3XzBubkZtUWRtTFhEb05GWGlUUHIwQlVxOWtJbUhQcFAtSmFGZERBSUI2ZmdKTUUtNGNHUUhDeDVfRWJpVkF0N245dGdGZUpKRXUwYUtIbHBRbFM2c29jOHJiZlcySTItd0RZOEFPYTRXY0k?oc=5"
     },
     {
       "id": "n-7475ea2c1ac71ec4",
@@ -544,6 +654,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDhVNmJ1aEdyUGhfcm9vU3VyWFU2d3ZIOFRwVkhqWXNJU0FfOHhQUzhyaFFlLWgzTXNzckp2RmhZNU9ISEVKUFBBUmZPTmI5ajFFTmIxTUU5RS1tTU5raE1QZlN3MHdGS2tvSGh6WE8xd0NmRkQ3WjBKekFFWk5FakhQZnhELXQxcFVpWnp5QnNvUlVzOF95cHZjRkRnWElPSFJqWg?oc=5"
     },
     {
+      "id": "n-9afe5122905be523",
+      "title": "Higher-for-longer rates create opening for private real estate debt: DRC Savills IM",
+      "source": "KED Global",
+      "published_at": "2026-08-26T20:13:00Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "KED Global가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aRGhtT2Jpc0VVMXdBZGZmNFdLMW1BN205bjlyOXhBb3BHZ2dvNTVIRmlEZWtxLV9TWEpPSDYxeTZSX19kZTFxQlFBNmFhamt3SVRHeXphQUgzR1Z6Mi13YzRpS25ueVhpMFFfSE1Ia1E?oc=5"
+    },
+    {
       "id": "n-0227f2a8be9c6c68",
       "title": "Florida SBA slates $100m for Lotus Infrastructure Fund IV",
       "source": "Institutional Real Estate, Inc.",
@@ -556,11 +676,11 @@
     {
       "id": "n-d5043c79b5ad6bbd",
       "title": "Cincinnati firm Hauser Private Equity raises region’s largest fund of its kind",
-      "source": "The Business Journals",
+      "source": "bizjournals.com",
       "published_at": "2026-08-26T18:43:00Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "The Business Journals가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "bizjournals.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXNVcVh2cm5VMVFTODNBZ3dFb3UwUVVnTjVGSk9IRlJJWjJ4b3VyUmtZaTFmR010RzVuaWZDazZjb2d0ZUswOEFiaG9NSUFLSm5QNEd1TXZJUXFPbTg5VmxMN1hja3FsLXdxRjFtLUFYRWxJaHBxM3hOWXdYUHAyRXl5dVhleUk3UVFPc2RNTFg0aG5WcWdYOFNUQ3BVdVNQb3JSTE9sc01nX3c?oc=5"
     },
     {
@@ -636,21 +756,21 @@
     {
       "id": "n-d8e9514571677aad",
       "title": "NatWest SRT team hit by senior departures amid hiring push",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-08-26T14:36:09Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUFpFTTV0NHBBVFlOVlFNZk9nQ1Q1a24yN3d4MllEMFNmS2FOUEhVY1kyQ1Z5UkFnemZJWDhpUWxWQ3VtVjNxSHZFV2JHQ3pvbm51MGVfbFdpN2hoX0NYSDU1dDh4NnE2RWRTUUh3MUY1VmVlblJmSHAtcFJDMndEWGJCY3FpY2FfMFJUTFdYRk9EbDJwSHZVYXhiaW9YVldJSUlRSkdhRGpEeHlUcE1oRFdMdVcwZVRXWm90ZUM4VXVpXzJHWU4tU1lPYXNRUTlqbWJFZzdlOA?oc=5"
     },
     {
       "id": "n-83023361e7e2d7be",
       "title": "SCI in Focus: Are forward flows launchpads for public ABS?",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-08-26T13:40:15Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUDViMlhlYXNSTldBQTNpSzJvS2U2dDFjMTNReFdiZFZVVDdVOUQzcF9SajBzSm0tTzNmcVNaRTNLLWozc0syNU9oNTVQYUtoWjA0d0pqX1pHUlpsU3U4TVE3ODB4ZFp5aGthWjE3dnRPUFFqVFozVjNoOUVyYzlyMmdZaHQ3VlZFaW5YdGFHTnEzOHhEb2xEZzVyWE9pVWJrMm5pYy1BMmoxdXRrWl95cGxrZ1hsYXZiQkVXZDAxNWZvUnQwVUJnYzVNV29aWTN3WXlXYW5B?oc=5"
     },
     {
@@ -712,16 +832,6 @@
       "region": "Global",
       "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFMtR3hrZ2lzYkxzQ0NXbFJzU3NhNGhGWjhBalV0RXZUNERUVU5WM20tbFpXZXZzRDZRTU01Mm9kZkp5US1QVjEybTNVU3Y3WllSaHotWU1zUlc1Q3Q0X3FJU1c1RUtVQTNYRV9mQW1hb0F0Z2V6bktfSU9oOHBzNGlCVlJBV3VHNmY5Q0R6THlYU1VFWHJFeHpJc0hpdC1IRmZzb09VZ2t1bzd3cmg3TzB0dnozNDlYQ1I2RGhPX3PSAcYBQVVfeXFMTlVzRUFFWVkyc0NKcGtuOTZWWmV6SVhSWjlzNHhZT0VGbTRHZHBjWjBjVlFDXzNpSE5yODB2UHlhdWdBaGRwSDM0aEdvSF93WHFzTVJESS1hZzJ4NWhqZjh4TmZJZm00THRrblpsQWdCRjgzMmludEJ3bXMxTzFleEt2UlR1OTFOcFpSYjdrbHdwU3A2VVUyRTBYMzhXRG5qNlNhRzZGR1IwenJkNWhkWHNLcWNVMFNtNTQtQUlBRTlHcnQtYnVn?oc=5"
-    },
-    {
-      "id": "n-9afe5122905be523",
-      "title": "Higher-for-longer rates create opening for private real estate debt: DRC Savills IM",
-      "source": "KED Global",
-      "published_at": "2026-08-26T11:51:19Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "KED Global가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aRGhtT2Jpc0VVMXdBZGZmNFdLMW1BN205bjlyOXhBb3BHZ2dvNTVIRmlEZWtxLV9TWEpPSDYxeTZSX19kZTFxQlFBNmFhamt3SVRHeXphQUgzR1Z6Mi13YzRpS25ueVhpMFFfSE1Ia1E?oc=5"
     },
     {
       "id": "n-083b258c0df21232",
@@ -924,6 +1034,16 @@
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXFLMUhPSW82bWNHM2tNa3VaMDBma2hKaUNhTmxOMnpCRERuMV8tMTdycVBiN25UWkkzU2ZIbTdIWmJhZ1FIRzBZek5yOEotdExUc0VZZ1lqVk43X2VydGtUQXR0aXQ5QVktWkU1dVRuQ3lpREM5NVNDVXJkN1VrTHQ4QXJDemNSVFpSU0M5T25PTl9PR1hNc19pZTVodFEzVFRTLTFEWGlXdEJwOHlQQ0RpM0RXQQ?oc=5"
     },
     {
+      "id": "n-d20ba077a3bff6e6",
+      "title": "AIB Taps Santander for Project Finance Risk Transfer",
+      "source": "streamlinefeed.co.ke",
+      "published_at": "2026-08-25T07:30:43Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "streamlinefeed.co.ke가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXZpUU1Ia0ZBZG9IT195aGVKUUpiVlBjeU55WHBucTR4c2FfNUZKRndRMkx1VFZmeVRmQ0diQlpoUWFnSUVWRmEzN2Roemd1VTdwbS1Hb29qUzJJZHRKOXVMV0tvbjZsdEFOemZsX1F1dmlXSkZnSEpmWk9ZOS10MU5GRHE1NGRTcDJ6Z3dFNA?oc=5"
+    },
+    {
       "id": "n-08042a7ed7dd939a",
       "title": "Siguler Guff weighs India-focused continuation fund",
       "source": "SecondaryLink",
@@ -1026,11 +1146,11 @@
     {
       "id": "n-14eed781a1d57eb7",
       "title": "Large prime auto, new C&I risk transfer deals",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-08-24T19:04:35Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanFTa3RtUXM3dG5LWDZPX1RjQ0JDTDhwZ0tpVWNjNjJSNEdyNU5lSmxaeHFidFNmdG1iU0xOMm1aMDVrSFB6V3NPRDhseTltbEdYbFZNR0F4dHo3T0ZRQ0ZFengtb3pIRWMwekFGNTVCRHVKRlN5QU91ZFQ4dVJZYTNfWmdkX3VQVWxTcExDSWI2UHo4WUcwOHhkbzg4T0dlcUNXT1NRaVNlRS11VW5zTGZBZDg1bjB1X3dwUDVtMWhnUzYyc1poeExTSWs?oc=5"
     },
     {
@@ -1086,11 +1206,11 @@
     {
       "id": "n-e2d6d11748201a15",
       "title": "Inside Walkers' fund finance expansion",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-08-24T11:37:58Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2p4Zi03eDkxYkZkbDdGODFNeGw1blJhV3JTdUVtcHFiaEdSOUt6NmVldHkzNUNUc0lVVVJxN0JwUnAycHE1MFNqVHBRUjBTaWxfdEJIQUdyWTFmTTFQVXVMOHg5NWRFR1BYMUJIajlUdHEzMWZodEtQQjA1a3RyWlFwRGJ4R2ExT0NnU3c1bmRsblo0TkpHSjJJUTFJU3JUeU5haG1HcU1zdm9WVGVBcHdWS0U5WG5MWEwzSw?oc=5"
     },
     {
@@ -1282,126 +1402,6 @@
       "region": "Global",
       "summary": "With Intelligence가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX090NThOYmlFeW1XRVU3VEVQQ0VNT2NPZ2xuWDJrNzJBWHBnXzdCTEZaSmpHaGdUbjlHYWZBMDY3di1PR19lNi1nY1B4N2xEYUZrU21EbDJEcUQyS2pObVZXTnNpV2tSakdJNnlyMnJqYmNWbHMyYVNmSGt3MUgxczFkdE5HLU5OWjRsZUMzUUNxMU5YWGd4eWpBMDdFdw?oc=5"
-    },
-    {
-      "id": "n-6c65f0b973e0fb63",
-      "title": "KYN Insider Buying: Director Carita Walker Acquires 3,400 Shares of Kayne Anderson Energy Infrastructure Fund",
-      "source": "GuruFocus",
-      "published_at": "2026-08-22T08:36:06Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "GuruFocus가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMGpULU1aeXFXU0JnUWFZRm9fYVhuV0dPS0pjdGQ4dmJLN2UtTWlfTS1kU3BlYmlEeVZicE1rdV85M2l2a1VNNFc2b2RIOE85RmZXLXVQSFdTd2RqN2M0NnVUZmJHOWNKZzUwUUhBUDM1b2lFaGRtb2dvU0RNbTEyQno5SUdYZGZYSnZldER1VjB0MVBhaHFVZS1Ma09FSVBZRDk0Q0l3eXZ6LS1vUjZQZUp0eDVpdUpEX3p6NXZfN0tpS3lua1FVcVY5RmpKaHRtdTBnbEN1aVJZR3NwUVY0?oc=5"
-    },
-    {
-      "id": "n-012fb42579d6c035",
-      "title": "Private Equity Healthcare Acquisitions – June 2026",
-      "source": "Private Equity Stakeholder Project PESP",
-      "published_at": "2026-08-22T00:46:36Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Private Equity Stakeholder Project PESP가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeHRTX2xIdlQtTlpRWVhzZFlWQXhNUU56eUxQXy1tVnBBNVR1WXM0N2hEVXd6YkEtLW1qUHFuY18yZlN5UmtlUm82dzY0Z1BRZHppeW5DVExTdnEtOTkzeWM5azd6c2t5M21aZ2E0NjdiZUxkc2p4bVM5cUhqYW9rVVJIRVJsM3M?oc=5"
-    },
-    {
-      "id": "n-1eb1185820e7935b",
-      "title": "Riskified (NYSE: RSKD) director’s fund offloads 297K shares under trading plan",
-      "source": "Stock Titan",
-      "published_at": "2026-08-22T00:31:35Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "Stock Titan가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeDdjNElxbkthcjY1bU95LWpYakZ1UmpBVDB6bUpVNkR1OTNwSVV4MWZILXRpOXZDU2d2NEU4cjVKU21LekpPc1ZQN1JQV29veHpDcUpwNHBqRkc3WHFYVzhGNmVBQkk1MjhQdHJnUnlyQldYSjl5WDdYcXRqcnNfWDRGUVFGeWQwZUF1eXFuenViemhhMlJkMTJmOUhOY1d5R3NDTlFUMC1YTDg?oc=5"
-    },
-    {
-      "id": "n-7513fb326d5a8de3",
-      "title": "Senior Living Dealbook: Inspirit, Venue Capital Combine; Next Level Retained as Carefree Living Manager",
-      "source": "Senior Housing News",
-      "published_at": "2026-08-21T21:13:19Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "Senior Housing News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWjN2YW9DY0lUR3BrRUNydkZaWDh4Rzhob2pMemRFS2pJejFOV29od1gzNEc5NFYyR2NDb3E4YlYwbl9uS2xFLTBmTjVLWUhtRmNCTVRMYjVGcUlMaG4xYUpzNEcwUTh1eldQbnJrdUJOV05WZkU1WHQ0WmdkUjZkM1Z6V2pUMWs5QzY1VnEzbGxycFotM1Y3OG85aVY1ajVNd19iSDhZaEsweVVtOXhhQXZpSFdHZlFzcEFxZ19KRG5rY2hYRWJjcVMzZmVFNGtEZXNfUFA2LWJvdw?oc=5"
-    },
-    {
-      "id": "n-f6285c54ef82abdc",
-      "title": "Private Credit Is Showing More Signs of Distress",
-      "source": "Morningstar",
-      "published_at": "2026-08-21T18:41:26Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "Morningstar가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb1NwV3l0VTExT3g0M0tFYlRLZXdadmhscXZaNE8wNGFHMTliTXg4X2dXTDVvcmstYmZyZVNoZkNETlR4Sm5aLVN2LUNkZzh6V2RQN25yamxTcWlFc3RUWjlTempOMTMyQ1JCMU1mR0ZWX1VScDJRSGxoaUVOMjVIQzFPRDZhUGU1?oc=5"
-    },
-    {
-      "id": "n-a681b226df599eed",
-      "title": "Mbadi to MPs: These are the projects fit for Sh340bn infrastructure fund",
-      "source": "nation.africa",
-      "published_at": "2026-08-21T18:26:55Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "nation.africa가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN3ltUkZNNm9nekRQa01hQWtUS3o3SjJyV25Cb1pJV3ZGYUpKYl8wNmhQU2QyLUUtWjRuTXllSWZzY2ExU00xNEdvMC1rTlR3TUlPMlZCU0JsZVl5djNkTzhkNWtGOUx4VWhNcWNnbHdnVk1GcUVnN0JJYi1xQ2JJbUNMaGdhZUpfUHlqUUJuUW1PQ3VUTGpHYy1qTm4zb09yX0NjNnZha0xxZnJYX1h3MFVB?oc=5"
-    },
-    {
-      "id": "n-2ec18726b9037b7c",
-      "title": "ABF Under Pressure: Capital One’s John Robuck on What Sets It Apart",
-      "source": "ABF Journal",
-      "published_at": "2026-08-21T17:13:09Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "ABF Journal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOblJPM1Fod0liSHdaOTRBSzRNbDRONlhjaER0MFBvMl9NNUo4NU9mRG9SOWF3ZlF2SUpIdG8za2Rpa0JfUjZoclY0UzF6NEZySlFZWUNRdmFlLVdVOEtRdF9BVE4yVG50SFUtV1dHamM1VlhfN1JYTWJiYVVqTEJCSE8xSXpfSnJkSEp0MDItVTNzbUhGN3dQQw?oc=5"
-    },
-    {
-      "id": "n-f1bf43df54856041",
-      "title": "Kayne Anderson Energy Infrastructure Fund Director Carita Walker Acquires 3,400 Shares",
-      "source": "Kalkine Media",
-      "published_at": "2026-08-21T16:46:35Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "Kalkine Media가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb2pWMDVYODdfNEJPNDFsZkRwcTJzQzhHRnF4TGpLekRCZ2x5XzlaWU1wTnpvZF96Qk1MZHljeFJ0REs0TWpVTWprbGlnUjl1TkJrWnhqdW9UeVNIbDJqR1BKSEU2OUdyOXg3T200T3hJUE5KdFlFb1A1S1Q1TVM0TktybnhFaGI1Ri03QW5acU1lV2lXYkk4d2tJLV9tNWpUWXpHbE5ORjhGZ3d0MlljVVRnRjFjZjN3MWg3QTRKUnM3TlhMMFlGeXIzSm4?oc=5"
-    },
-    {
-      "id": "n-94bc162010a1980c",
-      "title": "Kayne Anderson (NYSE: KYN) director adds 3,400-share stake",
-      "source": "Stock Titan",
-      "published_at": "2026-08-21T16:11:27Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "Stock Titan가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNckY4bFNRUUJsVzJkRFJzNkg4ekwwQUJYSnotMURxaVlxR09CbHBfZEFUQTNJS3JmbmJSMUpvWDNEbDJiRzloODA5c01oLUZxX0RFOS10eVRELXcySklWVzJGSmIyNnhscVFtaEliTkNsVXFvcXZrdjN0UHl6a1hjRE1zN1Y4SW1sdkNOaTBfX01hS1hPWXNLZ1hEck0zQV8yT000X3FkUC1ZS0RKWkxWUzlxWm96UzAxblY5Y1QwUVFoLUlqc0pzTmF3?oc=5"
-    },
-    {
-      "id": "n-68158653871861b6",
-      "title": "MasTec vs. Quanta: Which Infrastructure Stock Is a Better Buy?",
-      "source": "TradingView",
-      "published_at": "2026-08-21T15:27:00Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc0hPM3B1UjcyLS1TdzlCcnd1Mk9ZamEycHJ3U05YYUFVZnc0d2sxakNjZm8xelp6ZGFpaHFOVG9QTTEzS2pXYVZFU2RiVG05VTYtbEtSQ2FiWkZ1UV9BQVpJZVVydlAwYVhzd1N1WXFmeENPYXBXenRGVWxCVXJkU2M1N3pGSHp2VW1jTXFOYUt0WmpIZjdYeFRNdURBUlhvS1l0bkFRUkplSzRaWC0zYnlQSTQwQQ?oc=5"
-    },
-    {
-      "id": "n-9844106d9e32ee04",
-      "title": "AIB turns to Santander for SRT tied to project finance",
-      "source": "Irish Examiner",
-      "published_at": "2026-08-21T14:57:00Z",
-      "category": "SRT",
-      "region": "Global",
-      "summary": "Irish Examiner가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90VHBERkJvVDhLbGYxUVRPSjNReDRFQWpkTDZuelpzbTlNZ2NGcGE4NUw3cmZKaGJSV0x4WGg2ZHdIb2owRGlUS3Njc01DTG9odnY5SEVlT1lMekc5TkN2ZG05b3VVQTZXQzBTN05YdmthMTBPNnc?oc=5"
-    },
-    {
-      "id": "n-fd88229d58602451",
-      "title": "US SRTs fail to pile in as structure and economics bite",
-      "source": "Structured Credit Investor",
-      "published_at": "2026-08-21T14:24:54Z",
-      "category": "SRT",
-      "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX1NwcVJKMEFWbE91V3E0UEtSSzNCczZYbU9pZkNWcE1LZGJsUlN3VGk0WUlCV0ZYYWxjNmFvUUlUdl9NNnlDcHNmdnlQNmxwODZ5M3JnX1JPaVJWNEdZX3llZ2hpaDZsSjNkdDlRdm5xeDdJRzJnVlM4ZUo5Q1ljbXg1U0pXRGd4X29sWDFOWDVZd0V5cUd5QTZ1QzA2N3dZeXpmRzhmbHR4Z2ozRTYyR1doYVVRSUstYTZqa1BpMEZGRVA5Q1pIQ3BlRlZCa3lzaHV4cw?oc=5"
     }
   ]
 }

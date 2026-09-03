@@ -1,46 +1,66 @@
 {
-  "updated_at": "2026-09-02T23:20:31.769523Z",
+  "updated_at": "2026-09-03T04:36:38.014956Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
     {
+      "id": "n-377ac58aaf64a1b8",
+      "title": "Ensemble raises $5.97M for continuation fund tied to Principal Mineral",
+      "source": "Dealroom",
+      "published_at": "2026-09-03T01:08:09Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVFfdzQ5bGQ4Vk1MMXBrRk1vZ2ltZzg3amVRNjczUkRhMVlkRjhyZjRlNlpWUzNrb0JDX2tGRTFOakl5Qnh5OWU0c2t0bEVwOXk0WTBhN1lQeDFlLXVGYnZNX0ZCZllZQTM3SjFSN3lMMlFXaXJQNmVRV0l6ZWxmQmdtN2pyMDdwMVcyTG9mMWh3WXFTanB2aG03bjNrdTZIVUt5NUx3?oc=5"
+    },
+    {
       "id": "n-ad9f2db3e185f0b8",
       "title": "Riskified (RSKD) director sells 103K shares in open-market trades",
-      "source": "stocktitan.net",
+      "source": "Stock Titan",
       "published_at": "2026-09-02T21:21:55Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "stocktitan.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Stock Titan가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU1Y5eEpTaGU1ZDg0SHctY2JRWG9mZDluRkdDbXdKTjJlSzhnQnlOdEU5VGJ2ZVU1ZzhPaWhGeV91ZHZNVUp5OE9LTlh0N0lUQzRhcVpGRWVlQ0hhTlRXOEJnQ0ZsZ1VObVVRMG9mUWlpR2Jtd20wVDFEcnA1NDZnUjlWMzY4TndLcENUNUk2LVhYWkZXcUh4dy1Lb2JXSlNuXzgycnNGUE5jUTg?oc=5"
     },
     {
       "id": "n-8de287c89f2bef80",
       "title": "ENSEMBLE CONTINUATION FUND III LLC - SERIES PRINCIPAL MINERAL Completes $5.97M Exempt Securities Offering",
-      "source": "kalkinemedia.com",
+      "source": "Kalkine Media",
       "published_at": "2026-09-02T18:35:35Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "kalkinemedia.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Kalkine Media가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWm9rVEZPTmRtYlVmWTVDOE5HbWVhb3VENVVoeWNNTDNHSmdrVHpMWXMtZ0xrQkdVVlBFNGZ3RGppNlNQTnFZbGNnSWNXc2lESkN5bUw5TjJ3MlFfNEo1aEhXN2ZvY053cUpJZEZaXzR6ZnJkSGlQZlJobnVYeHRmU093aXk0UHAtUFVoblZoTno5Z3lVVl9pdGZqZ19fZFF6WGVJNk5SNF94T3pjbEQydTdxVUZXV2w2SjN1QWdSQk5BWmhOT1pGZm1WQUFYY3loazNTOU51UXJ4bEt1RVZqR1RR?oc=5"
+    },
+    {
+      "id": "n-121ba936a75ca5f9",
+      "title": "US private credit firms mark down more loans",
+      "source": "Reuters",
+      "published_at": "2026-09-02T17:47:25Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Reuters가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0t0TWxwcWRwSWVNd05RNjVhdi01cG96VXkwN2dMb3FqY2lvUC1ESEFma3Y1dXR1TU40U0w5VEZxOURNbkZ6MTBSZmdubGJwQ1RDLUdvdmZDV1czaDgtV0ZrOWJYQzQ0eG9lTTRVR2JqRFk5ZlJsSVNjMkRPWE1lNUZPWWxSMHFITnNMUGFqc1c2TWNubFd4Z0l0ZGpXc1RYUnc?oc=5"
     },
     {
       "id": "n-02f57e8a3007c2d6",
       "title": "How L&G is innovating to build EM private credit exposure",
-      "source": "newprivatemarkets.com",
+      "source": "New Private Markets",
       "published_at": "2026-09-02T17:33:42Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "newprivatemarkets.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "New Private Markets가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUkNxRVlFSjd0UmdSQ2tkanIzSktKV3FraGhnUEhGZFBTUkF2OUFDSEpFZFZuUjQ4QjhkSUJWb21yQ3F2dFI2X3lvaDBlMUw2NUVkZVN2elhWdjF1eGR4RUN3emRHWmQxNzFpemZTWndVNGxKNDFKQl9YNmlicUJxSDJPMFJxWS1sd2VnTFFKanlIYW0yMnc?oc=5"
     },
     {
       "id": "n-8edcd3fa079b2571",
       "title": "The new infrastructure premium: What the Copia Power sale signals for digital infrastructure investment",
-      "source": "McDermott Will & Schulte",
+      "source": "mcdermottlaw.com",
       "published_at": "2026-09-02T14:51:13Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "McDermott Will & Schulte가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "mcdermottlaw.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHVob3FnNmdvaU1tYkw1T1RkTy1Nb2tRVEQ2YlBfLXhXR0F6YXdHYklmaC1zcVlNZ1VFMDdncGF4QlktVVlIWm9tMFFLMFpGbDBsNko2TG1uTlg0eFFtZ0NFVEJvVHRoWFZkcnVyRkJaQTVxdDBIWlRFLTBQNmt4bnp5NEpjR2s2bnpfRWhVeDU2bk1ZZkdFQm1IWVZfYVRLYkNuM2V2NDR1U3lWWlE?oc=5"
     },
     {
@@ -96,11 +116,11 @@
     {
       "id": "n-e4cda8baa050fd04",
       "title": "Research Shows Risks Of Widening Retail Access To Private Credit",
-      "source": "wealthbriefing.com",
+      "source": "Wealth Briefing",
       "published_at": "2026-09-02T07:04:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "wealthbriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Wealth Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbzBBQm90VFFMeWMzTnFFZWczbXNiRVBMc2VaRGFkVDZWNWZibEM3VjVVakRCVl9CRkFmRmppWXhkNEJOSmNjd0QyS3BVU1ZnaVJVelR0QmxhekJWdDFLLTVWS211al9NLW04VFhyTHI4RHhYbXpDdXdfOTdFTm9WZWk0d3RIZ3dkcnVsQmt5OFp2RFc5WFNDTWpGRFlXOWZLajZsTHppeTJtbWxGakpLdEFXYw?oc=5"
     },
     {
@@ -246,21 +266,21 @@
     {
       "id": "n-cf8a910526ad86a1",
       "title": "Kayne Anderson Energy Infrastructure Fund Announces September 2026 Monthly Distribution of $0.09 Per Share",
-      "source": "quiverquant.com",
+      "source": "Quiver Quantitative",
       "published_at": "2026-09-01T12:00:00Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "quiverquant.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Quiver Quantitative가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVmMyQXJ5di1WNjJVN1FuRmhPazZodi1aWjVJb29RM284ZTRSQWxkYzNrTm9tWlFDRDBjSTBWeFhqTFkyLUI2bkdNajhLMHJBZlVTU05hem91QWh6ZElYOUgxZFVfcGJMZE1pQ18weGo0bzcybHRKVlNiRTlLbjhEeXZZbVdXZkd4dnk5M1pfZFdXbGh1VXQ3X1ZTMWsyUHhpbUFtUXRiSVBEM1RHNlJibDlPOFFkWUZ6UVNhcG5CUUpueFNXMnp5QkhNMDBnOEZ0R1JiRzIxLU0?oc=5"
     },
     {
       "id": "n-f949a9b14ec0ba37",
       "title": "BANX: Attractive 8.7% Yield, With Monthly Income",
-      "source": "Seeking Alpha",
+      "source": "seekingalpha.com",
       "published_at": "2026-09-01T11:35:00Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Seeking Alpha가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "seekingalpha.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaXZob2lINm9CZllkOVV6VHFwbUUzN1ktOEYwS0RXRnBsNzB1c21rU0lZYTJKNXlzcGUzMk5CeklvUFZtYmVqandERzJNTUZ4ZDQxbmV6RVpfWkVxOEhfZVEzdUpxQ1J4dnJ2Um5nUEs1dnJQamh4b0JyTDJYZ0FyRW05TEx0U3ZxREk0eW55Y3E0VEJfQjZxc3lB?oc=5"
     },
     {
@@ -276,11 +296,11 @@
     {
       "id": "n-fa5e9f2b2993e4e7",
       "title": "Distributed Solar and Storage Fund Holds First Close as U.S. Power Demand Accelerates",
-      "source": "financialcontent.com",
+      "source": "FinancialContent",
       "published_at": "2026-09-01T10:00:00Z",
       "category": "Infrastructure",
       "region": "North America",
-      "summary": "financialcontent.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "FinancialContent가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGdHNWlTMkRoZDVSWnJScm9Yb1hXcEVMQXhMbnF0STZLbFY0dHFZNHBrU2V3LUdYTWNqMEUxbzVCUnlMVzFoOFB0V3lBU1dJZWxVMWRVLUhYQVBBczd1aEg2bmxBMTV5NV8xQTlQdk8tdHBFMHJhOFZQTk93SlQwdmZNNGJkYTEwNGVyUjVRYUU3QkJlWUFYVmxvdkpIUFp4NVFWQmxwLUowYU9GaFdXaXg3YWdFZXg1RDhuQ3lTNDN2SE9vWmtOOHUyZVpESjRMcEJZY2tPYWM?oc=5"
     },
     {
@@ -312,6 +332,26 @@
       "region": "Global",
       "summary": "TOP1markets가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnZHlZS1p2SWoxbEdQay01eVVCZWpGbjZMdzYzYlNPTE0zSFE1S2FfbGRnYW9LMXFYWE5iMnFpM21jaXJkSFRSbkk5NTZqdjdTNXd1Wkhnc0hQWW5lX2loQkhOZXNyanRUWHlF?oc=5"
+    },
+    {
+      "id": "n-da97dbd1cacfc30d",
+      "title": "Dunes Point raises $467M for Fund IV private equity vehicle",
+      "source": "Dealroom",
+      "published_at": "2026-09-01T07:00:00Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTRDLUdpczgwWm9BazhUVS1Gc3V6eUtFNjNFYVA0ZDM4T0tRcmltS21CUy1kaFo3bEZQUFBYVlR6bWNtMDd4YXR1WTA5UkFzMlkxMFRZdjl1cGduV1JMd3pNRG9ZVFk1b1VMMWxtNUVVTkdBUE85anN5eGx6QWdGN3NINTQ0aG44VkZoUDJHWmtPMHd3LTZB?oc=5"
+    },
+    {
+      "id": "n-9ef4a4c6cc99d9cd",
+      "title": "Seymour Mead joins GPG Capital as group CFO",
+      "source": "The Drawdown",
+      "published_at": "2026-09-01T07:00:00Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMTV2MjhlXzZMeFNFQWowUHNNZmJrT3paa3RfSGo3TkVZdVQ1LVQyQUJGWDNaOG9MLTZ0SWpCNTByOHVnMkU3XzM4eVVIaTIwamlCYUM5Z2dJZThoM2hRZmxzbFdxVnhiY2lfaGdLLVo3TVV3RE14eFdfWEt3WlJ5MjBR?oc=5"
     },
     {
       "id": "n-5fe8dce09c3063bf",
@@ -366,11 +406,11 @@
     {
       "id": "n-38e2a6e80cc4104d",
       "title": "Riskified Director Shachar Erez Sells 456,600 Shares Under 10b5-1 Plan in August 2026",
-      "source": "kalkinemedia.com",
+      "source": "Kalkine Media",
       "published_at": "2026-08-31T21:21:19Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "kalkinemedia.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Kalkine Media가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3YwSURwdjBGS3MxS0xoY1JtMi1iaHVrdXRXYVZHZV9lZ1kzbU42MHQ0d3ZnSGwtWHhjcDgzcnROVTdkbnF6M1dxYnV1OHBvaWRkejFMaXZLTjFBTDdhdUtYZW5nNmNUT0RkNGxOTWNiUFl2LWZzV3VjdUdYS3VHdHk0LVk2Y0VEUnJuOVIteTdOMlR4R0FDMGxPNUNUTThSTkZjajM5QWFBUDNpbUhZTU80REk4NzlEQmk0QkJOeEZRYkxWYjRnc1ZZMA?oc=5"
     },
     {
@@ -422,6 +462,16 @@
       "region": "Global",
       "summary": "Financial Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZnNwNm5BcmpvVzFadnMwZ25QVFlyWFFucFNEbFBhNWRreG0wY2VrTllyWDhfYU5GOGZDQl9NcFZvSEZKS0FhM1BUNDF4UXhxZUhJXy1kcG83ZWNPRUlTb1E4SmhZRWd2bG5icnI5TUtFdkhhZ3Bncy1FQnZseEpTNTRHX1M?oc=5"
+    },
+    {
+      "id": "n-e31ccef5d3cb4e2f",
+      "title": "Houston’s SLB, formerly Schlumberger, makes $3.4B data center bet with Kelvion",
+      "source": "Houston Chronicle",
+      "published_at": "2026-08-31T16:54:37Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "Houston Chronicle가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUJKQ1hfQW5zekxwZlM2TG5Hei1lcXo2aUF6SmxGMTBfemp0MnZFTW9TcF9IWmYybXoyQWNiZjJkdHB4cTFndjZyUXFfaFFMdGNvZUpQWlJuOE5uaWFVQ01aUXVYUlJNdmd5eEJEUGtVUmlFN3lWQ3phSEg3U0FxYXdkRGoybkd0VFRaMlppU2d5RXRHbHJQMXJGWktBbzhiMFhzSTM0MEo?oc=5"
     },
     {
       "id": "n-8ae6fd353284bd9c",
@@ -496,11 +546,11 @@
     {
       "id": "n-351cb17c2d3be1ab",
       "title": "Dragoneer Dangled OpenAI Stake in Push to Build $2 Billion Fund",
-      "source": "bloomberg.com",
+      "source": "Bloomberg.com",
       "published_at": "2026-08-31T13:42:22Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMm5zLUJMQ1B0WDFPM3d0RlVFcU5YMlJGQXNDYjZJRDlkSm5BVlUyelRUQ3pMUlpZN0dTajlRVlRzRy03WDJDWnVMVWx2MUpyQ1c1eDloaHEtazduU3hkaGRkZG45d2pyMnJVd2VFUmVlNnFsSHBGNDc5elk5cmZxa0g2R0Q2ODBWNjMxdjI2VUpaTTdMWHMtZ2RCUTQtWkx0MkppV2pQUjJTN19lVmIxNG5HRQ?oc=5"
     },
     {
@@ -606,11 +656,11 @@
     {
       "id": "n-c6a51053410e5e98",
       "title": "As Private Credit Stocks Rebound, Shared Loans Flag Key Risk",
-      "source": "barrons.com",
+      "source": "Barron's",
       "published_at": "2026-08-31T06:00:00Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "barrons.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Barron's가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOUdjUUtsemMzdHdfZXIyb1NoZEEtQzlhaWxJdG4xN0FRRUV4Z3l5UC0xTkpnbHM1b2VNVEZCYWRGbnE5REhZMmlQdGYtcjJlN3pPT3VxSUJsNmtxdThYS2JZQmF4SWxqXzc5OVo2YUNvN0xDVG1CWEdleEVTQjhXYVRsRTYwdlk?oc=5"
     },
     {
@@ -626,11 +676,11 @@
     {
       "id": "n-98e78b9795596641",
       "title": "Bain Capital’s Private Credit Group Completes $6B of Financing Investments for H1/26",
-      "source": "abfjournal.com",
+      "source": "ABF Journal",
       "published_at": "2026-08-31T02:10:37Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "abfjournal.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "ABF Journal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR0dHaXpXaGFqY1NwbTA5VHIyWTJsbjFWMlpLQkhqUm8tVHJzalhuMUVUbzg5MWVEQUF0eW9USlFjdFU2RXl2ZmpSU25NNm81ZW90WHkzUTZVR0o2THI3bkpFOFkxZTZSNVZURDdjUkk1U1QyODVRcXhoSHFHNVdaR3RTbENXYThnR0M3UDBTSE9ZQUlMVFROTW91M3pEbGZJZHN6T0xOaHliTzEyRXNR?oc=5"
     },
     {
@@ -786,11 +836,11 @@
     {
       "id": "n-97ef53a7069f0396",
       "title": "앤드리슨 호로위츠, AI 인프라 펀드에 11억 달러 조성",
-      "source": "Investing.com 한국어",
+      "source": "kr.investing.com",
       "published_at": "2026-08-28T16:09:00Z",
       "category": "국내 대체투자",
-      "region": "Korea",
-      "summary": "Investing.com 한국어가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "region": "Global",
+      "summary": "kr.investing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZVlpha0tUU3NtOVotVmluVWIzVDJVTDVYTlpFM1RBSjlBcTFKcE15eHFQV0VHV21yNzlwYXh3MllkUXN0cEllZXFmQWRsNkpSRHBOWS00bzhkdUJaUHFqT3Jnb1ZvM19rQ1hBaTZHZElBUmR2V2Uw?oc=5"
     },
     {
@@ -912,6 +962,16 @@
       "region": "Global",
       "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHlPUTN4MkZpUjVxelpDWXVGZzVkNlg5TVZzUy1KX2lnSEtHTERfN2RieHhIS3RZTERMSHFjSU5tRnVmdE9HY0ZqdFc3b01iMGtMLTgwU1NjVzhGeUcxMWZBOURSSFdVMk5taUtvZEs5TzQ4NnFhZ2ZPNnhYWTlPVElGVzA1MDRPTmR1ZlFBeUI0aWRYbUZCWDlOeVlDSEJwOFRLUWQ2RTV4eEFm?oc=5"
+    },
+    {
+      "id": "n-f6ce5c8a5d5ba652",
+      "title": "법원 \"사모펀드 한앤브라더스, 바디프랜드 경영권 행사 못 한다\"",
+      "source": "녹색경제신문",
+      "published_at": "2026-08-28T08:20:37Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "녹색경제신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yc05SWE9FcDg5cWl0bXVtVTFCRDNILTNWNDgtUkJLTGs5RXY5QlM0OUp5bXRQLWdwdlBZYzZEcV93Y0loRExIU3ozSEZwM0k4QjVvbkJ5WEp6Q08yUU54b2NQRVZOeHRE?oc=5"
     },
     {
       "id": "n-7b81f8791205024c",
@@ -1116,11 +1176,11 @@
     {
       "id": "n-a6dd73ca8180c7d2",
       "title": "What’s New In Investments, Funds? – Aberdeen Investments, Weatherbys Private Bank",
-      "source": "wealthbriefing.com",
+      "source": "Wealth Briefing",
       "published_at": "2026-08-27T04:43:59Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "wealthbriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Wealth Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVnJjZzdOOUMxUHUwUmZRNmxZTFM2dGRCNXJRX0lYd2FPU2IxUnNkWFRHaFBRVlIzRGJlNWJMUGpSY3lWdW12czV1RXh0NVJRZHduRzlOa19YY04xT3ladGVGaWJwVUFqai1EU194VVdSYXBRamxlZWlUV0VweUc0OGxJUTRZNjlKVVdXQzRjMUJlTWZpckhtbk5RMlVKV2xHekdIZWhIUXo3Smc1SUg3TjFqQ09za2FtTDB3ZUN6aTZqOV9W?oc=5"
     },
     {
@@ -1146,11 +1206,11 @@
     {
       "id": "n-1a0bbd39df9b8964",
       "title": "First Eagle Real Estate Debt Fund Q2 2026 Commentary (FERLX)",
-      "source": "Seeking Alpha",
+      "source": "seekingalpha.com",
       "published_at": "2026-08-27T01:05:00Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "Seeking Alpha가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "seekingalpha.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUxNbC15RVdPbUc1VzdaS0doRFJWMUFSbExjemlmQ2J5LThQZGRDQ3FIcVY4dFlFUk1tN1BkTmxrUHp2VmxJNGNxX2dfaWRLV2tkOFoyNHF1Zkp1NjA2UTFVeklYTmF0UmQzWWpWTkZfQlR4SThNNk9XS294TGdfVWh3Z0Izalk1SHFqcVo4OC05dC15SFgzcA?oc=5"
     },
     {
@@ -1294,6 +1354,16 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUFpFTTV0NHBBVFlOVlFNZk9nQ1Q1a24yN3d4MllEMFNmS2FOUEhVY1kyQ1Z5UkFnemZJWDhpUWxWQ3VtVjNxSHZFV2JHQ3pvbm51MGVfbFdpN2hoX0NYSDU1dDh4NnE2RWRTUUh3MUY1VmVlblJmSHAtcFJDMndEWGJCY3FpY2FfMFJUTFdYRk9EbDJwSHZVYXhiaW9YVldJSUlRSkdhRGpEeHlUcE1oRFdMdVcwZVRXWm90ZUM4VXVpXzJHWU4tU1lPYXNRUTlqbWJFZzdlOA?oc=5"
     },
     {
+      "id": "n-7a2385b1e00e03b7",
+      "title": "Coventry Hits $1 Billion Milestone in Life Insurance-Backed Financing via LILY Program",
+      "source": "FF News",
+      "published_at": "2026-08-26T13:50:40Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "FF News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOclJSWlA5cXlLUWpRUW1kTFdUUWFlNnNWVjFKc1M0Y3hZc25fbVBRU3p3NzYwYmxNR0M5RlVOZE1sUzVJOERIMl9rM2ZwOGxnOHM0TEw3S1pCM0tENmE0TEZNTDVhVktWQkZyc3k5WUNWZkJpSHRyU2ZtRkFVeXM1bkFhdjNLaUhhdXczbkVKcUxqeDBDclRIa1Frbm1wRjhwZUxvM0Uza09BaUZwT3VVM3NOaw?oc=5"
+    },
+    {
       "id": "n-83023361e7e2d7be",
       "title": "SCI in Focus: Are forward flows launchpads for public ABS?",
       "source": "Structured Credit Investor",
@@ -1332,76 +1402,6 @@
       "region": "Global",
       "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3ZOdlFnSWFJbF9nZ0ZOTUFlR2djNWQxZllYLUF4Uk1sVlp2N0E1azNHQ0l1OS1OQzNIbDF2dVFVdWs2TjJVd01lbDFMOXB3REdwN2RiOUxEUUpWdW0zTnFDWTlqX0ZpUjJqVTdZSk1jT2hHcnl2TzZYaVBqVU8yeEdjdVc3eDhqVTFIVjQtOUhCdEFucVRyZUhsWWpyRnhPejdEakZlV3lLRGFGazJPc251UXlQeTVCQ0hQdFJRbF9YTFNRaXhFeTN4ekZtQldjRzNTNg?oc=5"
-    },
-    {
-      "id": "n-dc2e9a621fa58279",
-      "title": "StepStone Group Closes its Infrastructure Secondaries Fund, Raising $1.7 Billion Across the Fund and Related Separate Accounts",
-      "source": "The Manila Times",
-      "published_at": "2026-08-26T12:26:10Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "The Manila Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPcHE0VXBub1I2R1VVb1YyRjYtMFh1TVBuRzdZWHcxQnB0Zm8ybjZZWm9JY1BYWEN2MkV3VlkyZmpGRG9La1dpZmlURlNZRFJNcmtWOGZFXzZ4Sy1VMlpOMjNzLV9RdmFEeG9EeERnTWs3ci01eTBBa29EM1ZoSUtwY1lGandPYXZweWhka283VTl5T0NxSVQyUmRHNEpWTmlnQmpzc1lWZE5ybWFfbFF3blg5ZmZDYjhhdHZFdm1pWDAzTXBEaXlQa0RPSno5a0VwUE9WMHozZE1uRXZUQk1lWnBLNnMtMUszNWwyTXlNSUh1WWFBZ0hCM0Rfclc4dFZGbEhMTDZxdWRHWTMyQzZGSnNJWGhmNDRyZmdudlVrX0pNSVnSAagCQVVfeXFMTXJHN2ZxbW8yeFBYYVhXUjhkanEyT3NMVjZnSDhnaGYyYVZSR0dPWmY2dDdJR3RObmRfT0h4NFEyTHJiZFN4Y1lfcUQzc2YxUWhmd3pCeXNVT0VaRk5aS0tsUVc5M3o4RmxQRnRqdF9TOTdaM2QwT2NHTlduRmtZRnVpQkZrb1BaS0V5MWxuQWZGR3hlNHBiYWp3VGc1UzBUWWNrbTh2VnJGN3BmM2NqdXhPUDdSM2hZTEhadEs5UEV5aFpDcUhqX2ktSFZMUG14QkczdDFLVjBWdTlNYmVZTFJpdnhuTU5JZjg5MWljSEpQQjlGUGc5ejM4bmVUWUdVVi05LXhCU2UwZGJIMllRWnFaWnJqVzlFQ3JjUEJRWlNJVVdhMVNHWHc?oc=5"
-    },
-    {
-      "id": "n-f1b41fc45ba6063e",
-      "title": "StepStone raises $1.7 billion; its infrastructure fund is deployed across 26 deals",
-      "source": "stocktitan.net",
-      "published_at": "2026-08-26T12:05:00Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "stocktitan.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlIta0VveDlYVnhEWVQ1dmNtYlJySjZ4UUhoR3NwSFhkRGk5Wk9HbzN0UWhTRHV3Q1dPb012VTZHam5QMl84SnFCODBNNFF6WHFLdVBkbFc0VUYtSFpyRUFsM2VCcVhhVzBwQjhDQ2g0YmJKalcxelo3alRYZWN1cV9IalQ2c240VU9KM2lDRktWUnB1aXc5ZUJudERHU2U1dE15dmVIWmd6UlpjYVNNWUx0S2Z4RDZfZVpfV2t4bw?oc=5"
-    },
-    {
-      "id": "n-95bd3f3e2831750f",
-      "title": "Kirkland & Ellis Adds Edward Coates From Latham To Expand Secondaries And Liquidity Solutions Team",
-      "source": "Pulse 2.0",
-      "published_at": "2026-08-26T12:01:26Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYzhVcHRlajFVbkVUNm1iU3lVSlpOTVY4R0dqNHFiN2JKaVJMTU5RMkNaU2ZtWDEwQWlfd2NseThLaEI1c01aTUdrcV9Yd0ZyMjRGbC1WVEpCYjA2aWJOX0FScUNIX1o2WXZvUnkzTHVwaDFpQTRpNVB6S2lIZWlDWVVBbXdVNWxkZnY5WDFNbkJwbWthSVhTaGhtMVVfRy00YkN1eHprZXU3NUdpS2Q1RVhnRHlFSXfSAbwBQVVfeXFMUGpGZEdtUGRGV25HZXM3Q2JtRjZBeVYwQkxwN2lhaWtneVkwWWZadE5SeW9kdktncktuUW56YnJuLTZYcXBiTzZobEgwQlBzcVIxV0xYRnRHaWJzNWZoRFREYlhzWm5DakxZZGhjMkhqSXd6ZjEzVVJWWW11WEs1SEJxeWJTNDJKU2dKSjVlaElqOGhHN2xRa01xeXBYdmd2OVczSW1uWjhkRTNqY3lJWi1JWjl3MkwzMEhvN0w?oc=5"
-    },
-    {
-      "id": "n-6da1096760b05207",
-      "title": "Goodwin Adds Rebecca Lock In Philadelphia As Real Estate Funds Platform Serves 1,000+ Investment Managers",
-      "source": "Pulse 2.0",
-      "published_at": "2026-08-26T11:52:30Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFMtR3hrZ2lzYkxzQ0NXbFJzU3NhNGhGWjhBalV0RXZUNERUVU5WM20tbFpXZXZzRDZRTU01Mm9kZkp5US1QVjEybTNVU3Y3WllSaHotWU1zUlc1Q3Q0X3FJU1c1RUtVQTNYRV9mQW1hb0F0Z2V6bktfSU9oOHBzNGlCVlJBV3VHNmY5Q0R6THlYU1VFWHJFeHpJc0hpdC1IRmZzb09VZ2t1bzd3cmg3TzB0dnozNDlYQ1I2RGhPX3PSAcYBQVVfeXFMTlVzRUFFWVkyc0NKcGtuOTZWWmV6SVhSWjlzNHhZT0VGbTRHZHBjWjBjVlFDXzNpSE5yODB2UHlhdWdBaGRwSDM0aEdvSF93WHFzTVJESS1hZzJ4NWhqZjh4TmZJZm00THRrblpsQWdCRjgzMmludEJ3bXMxTzFleEt2UlR1OTFOcFpSYjdrbHdwU3A2VVUyRTBYMzhXRG5qNlNhRzZGR1IwenJkNWhkWHNLcWNVMFNtNTQtQUlBRTlHcnQtYnVn?oc=5"
-    },
-    {
-      "id": "n-083b258c0df21232",
-      "title": "Ventures Platform reaches $84m final close for second fund",
-      "source": "africaprivateequitynews.com",
-      "published_at": "2026-08-26T10:45:41Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "africaprivateequitynews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdzllRk9GbXIxWVNobTJac3QyeklZUTBjZ1dsZDd0Qng1OTFrRGZJRU5kY3JJbVNQc0ZTZDl5QTc5bGtiUnlDU0RuUmZxcVRGMkdsMllZdDJFVXJKOHBmSTdEOWNpS09rSTdEV2lQZXNpLWVjeXpjNFc0VkVpeGs3LTJENA?oc=5"
-    },
-    {
-      "id": "n-7954912507a68620",
-      "title": "마스턴투자운용, 한양대 부동산학회와 대체투자 실무 세미나",
-      "source": "한국경제",
-      "published_at": "2026-08-26T08:38:48Z",
-      "category": "국내 대체투자",
-      "region": "Korea",
-      "summary": "한국경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DaU1uNkMweE1TcDRZX1R6WVZoRGhfNjZDbE9Ya1dpNXlWMzg1UnBXVTc2ZkxBMzlUZTJaV1FQMDl5M3dRcVpwelhpQVlWNHBOenh6TUhsQjBwdw?oc=5"
-    },
-    {
-      "id": "n-93c6a267ffe60e78",
-      "title": "Sidley Elevates Cross-Practice Data Centers and Digital Infrastructure Platform for the Next Phase of Digital Infrastructure Investment",
-      "source": "Legal Desire",
-      "published_at": "2026-08-26T07:21:10Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "Legal Desire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSnVIdm12Y3VEYnpwNE44MEh4ZjR2OEJORkJldHNDRWdHRGtvNDl3ZTVNTE9BWXprbmczSmluVWtOWlZUSkQ5dHNvcGxKLXBWLWhwd0gxN3l0Rkd6OGZYbGJYUnJlUjN2VjRCaU1NTGUzWi1xYU41Z0NUMldjNzIyS3FGek82Zkx5QkRMLU5meDZERWlTd0NadjIwcDJsMm1pemlfdlRKN3JmNXQzMmtucHlqZ1g1SUp1V2tHNWxDci1lRDNvZHRLREFFaEp4NjlwSUFhVGFNcHY1TXV0YXRLY2FYMHBOYlNiVjVuWmVlOFg5dw?oc=5"
     }
   ]
 }

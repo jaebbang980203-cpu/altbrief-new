@@ -1,8 +1,68 @@
 {
-  "updated_at": "2026-09-07T04:46:01.029269Z",
+  "updated_at": "2026-09-07T12:38:27.023594Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-cdeac70cbbb6c7c3",
+      "title": "Deutsche Bank Reportedly Mulls Significant Risk Transfer Deal for EUR2 Billion Loan Portfolio",
+      "source": "marketscreener.com",
+      "published_at": "2026-09-07T11:41:26Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "marketscreener.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJaV3BhMzdwODlfbUE3TTBxeWljUy02aHlvcngtRXg4cnBxTV82WjhRZDU4WW4zWEYyTEt6R1RUTUNWX2p5bm8yNjIyRTF1bEF2TDI4M3VDTDUyVTB4NUw3NHVlZmZ2M0tWa191WWl0TlJMdllmZ2FjRDlaTHhsbGhucGROTFRKdFZLOEVycVJYT2xOSDYwTmo1RVh5YVVoSGc0NnA4MlctVVlNRUVGdW5aUGtWMHI3TXlhYkhuVUZUbS1pa3RKdmlPX1FTVm1WYV9NZUFaOHhYOERwWXpn?oc=5"
+    },
+    {
+      "id": "n-e590d9deaa068842",
+      "title": "Deutsche Bank expands use of synthetic risk transfers for AI projects",
+      "source": "Crypto Briefing",
+      "published_at": "2026-09-07T11:17:44Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xWHo0b3VFVGRSNXFfM1h2MGdmaE8weFFsTjB1SVhFc2tYcldOeVZsSUNFR3JHUE50VV9UU1h4LUdpc1JnSjctNnEybmR1dENMVW5RRmZnSzhrcXloakRHcHJoUkhLMDVzWkZnOW1PR3BIZU1oMUlVOA?oc=5"
+    },
+    {
+      "id": "n-592c58dfa76165e1",
+      "title": "The Pipeline: Aberdeen's £200m fibre write-down, Hall joins Dalmore, La Caisse’s Indian towerco deal",
+      "source": "Infrastructure Investor",
+      "published_at": "2026-09-07T10:46:48Z",
+      "category": "Infrastructure",
+      "region": "Asia Pacific",
+      "summary": "Infrastructure Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRmxlbjRSbEVHTWRaWWRjNkstN1MwcFZmeExOY21vcEVJZGtoZFhXdm94NGw1U1FjVjFhbkVZeXdTcjlmbFNSVi01TExWNkJtaWw0T1otQ2pkLTVxWVU0T2R3ZUZVaDVTQ19EX2tXVGVXQmp4QldRTDdHRDhPSUJ5NzM1UmlLYjc2NFZTbFJPM3BXWGJtT1cxZ1F4Vnc4eEhmSkk0Wk94cWwwellNcDFJck9DMnMwTUxnUVAwNlp4clBJMnVfQzNHVWVaSTZiSkU?oc=5"
+    },
+    {
+      "id": "n-1350c88fa011925c",
+      "title": "NIIF brings in PAG private equity fundraising head",
+      "source": "AltAssets Private Equity News",
+      "published_at": "2026-09-07T10:03:36Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "AltAssets Private Equity News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc0NDYmJCN2NjdklBall5QlNkV2c4YlBZMlZJNFFXcXRON0VrcTJiUUlOOG5tajRfaFRnYmRQc3JDRzRKdHhrN3RNWU9NY2N2NzNYYkYtSlZIeFZLNmZTUUZ0X2haeGZKZmhMTTFTZk9ydENSeDY4Q2hialJ1T3BtVEgxVzg5SzhIWWw2RENpemozTkRKUXdiajdxM0VwWUgwNEZ4cnBEVGU2ZmpFa0hHS1dSUmRNMEpDZHJGcElWYWg2TFIyWW9jU1JBUnI0N0Z2VWlIMVg4RHExZVQzQnRYVw?oc=5"
+    },
+    {
+      "id": "n-7d830ce437008542",
+      "title": "Centrifuge launches blockchain-based CLO fund w...",
+      "source": "Pluang",
+      "published_at": "2026-09-07T09:31:33Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "Pluang가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTh4Y1lmRFN6ckFyclJabTlHQjNiOTVjY2VkaEc0ZHZhMGhRR0FObWU2TEtGS0tSS2NEeEJCVDlqZHdNQkdNZ004M0hXdFhFOU01OGh5RXdKV0NrYXlkYTllYlAzZGQwSDdLWUhjQmhBcVhJR0tHVFhJalQ3cW9tYzhXQ096VGlOdmF4Z3dn?oc=5"
+    },
+    {
+      "id": "n-ae2e3ddf3dbbf91e",
+      "title": "Literacy Capital appoints Hg’s Latner as an independent NED",
+      "source": "The Drawdown",
+      "published_at": "2026-09-07T08:45:00Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR01mZHdqRHA4Sk1FRUZTRHVPNzZhb2JCblMwa08zemxYajVIRTRxd1VLVVJFcnlwWUlyczgxR1VhQ3BrQVlNbGxMUjc3TXZWYU53SVBoSnU3clo2NVhRUWlGdnBGTzEzV2dpRV9aOVhfbG9HR3NuT1ZRZ25tNlBJa2pKemktSlBLRm94d0luMjVhbGNUZ1E?oc=5"
+    },
     {
       "id": "n-d58bfb164246e047",
       "title": "Banca Sistema de-risks balance sheet with Public Administration NPL securitisation",
@@ -16,11 +76,11 @@
     {
       "id": "n-12a0c69490300e5a",
       "title": "Turkey Requires $80B for Electricity Infrastructure by 2035, Says Minister - News and Statistics",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "published_at": "2026-09-06T11:20:33Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "IndexBox가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "indexbox.io가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUI4MlRlM2FyWGVKS2RaNldKZjRmRkN5dlNmSFZ2LWRVajAzSTU1UDFrUjVnS1F6TFV5bWRTdWU4dmYwcVJSMWJmdDBuRXQ5ZFV0ZXkyQUhUSWZqb3FPa1RVRlBOanFIb1UyRjhmWmhKakIzTjU4LXFXemNwSFAwaDdwejd6cTA2XzM5VjNhX3JYNmlvMjFEQngyMA?oc=5"
     },
     {
@@ -266,11 +326,11 @@
     {
       "id": "n-6de3b654b478ff28",
       "title": "사모펀드 운용사 VIG파트너스, 유신혁 부대표·강성욱 총괄 영입",
-      "source": "yna.co.kr",
+      "source": "연합뉴스",
       "published_at": "2026-09-04T00:50:57Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "yna.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "연합뉴스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ka1lrempQMVpkc29Bd1ZGb3hmSExOZUZZODZ3c0g2a1g5aXVsU21QQXpCc2I0ek1YbV85am5Xc3VibVBGcVc3LS1SdkxnOGNxRDY3a2RxdWFVeDjSAWBBVV95cUxQa0JZWkVpVmR2R0VLSjloTmtVMHdzaHNGY3BfZ1Fwd2NzT3NvT2JHc2lULTRQbGdvRFNGekx3ZHgwOVlHU3E3ekVzNDhWWnMtbjAwTy05MGNyd1VVdG8zWWQ?oc=5"
     },
     {
@@ -296,11 +356,11 @@
     {
       "id": "n-5e65251bd929a04b",
       "title": "Riskified Director Shachar Erez Converts and Sells 100,000 Class A Shares in September 2026",
-      "source": "kalkinemedia.com",
+      "source": "Kalkine Media",
       "published_at": "2026-09-03T23:11:27Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "kalkinemedia.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Kalkine Media가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1RqMExSQVliSHBibkx1a29ONHh0dXNlUXpkVnhhWHZyZWd3a2tRT2M2SzUtcE5pSlNnc0hkamtIMzU2UXdNRTlWWDM2XzRuVEdiUUZVbERFckdBZXlCLUgzWkxvQVRCQTlkVXZXcktXYkE1MFBBbWhUWE1rdk9kWVpvMVNKWDZyOFEtelc4c3lBeEtrNWo1djlMMHFsakVub2xraHhrU3RQY3lveFd0c3YyWWZuUE91Tkc0OTN3cFV4YmNQeXU1dm1oSUVwNlEzeVR3?oc=5"
     },
     {
@@ -326,11 +386,11 @@
     {
       "id": "n-1534deb86d6c6a24",
       "title": "NIIF Infrastructure Fund II Reaches $2 Billion First Close Toward $3.2 Billion Target",
-      "source": "Pulse 2.0",
+      "source": "pulse2.com",
       "published_at": "2026-09-03T21:44:07Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzZJM25BT3VPTVJGS3h6MVktX2t1RXY5ZERHamQ3S25xX3JWMUJmdWRoTmhvREtHWmIwQ2pvT2YydThleVFINFRpOEl6c2p1dk5nVjYxTklBQkQxQ3BlMUwxcHBQTmxzaUlENWNWWlBVTzZnTzZINERjZ3pxMERGZjdiVnJ2Y0NSMlRyN1VxbXJHWld4cEZyT2JmOVlzbThXZi1KUURR0gGrAUFVX3lxTE8wR2ZuQUlrSG1LUjQyUVNvTi00NjR6aWd2RW1JTFdzSEQ5RklheTJBb1VJN2VWREdmOUJ3RWVXMXROQVNLNkJjUmgxbUczUzQ1VkhMcHJfX1lkck9iYk9iVVZ5eEs1VDItbmhodE5aVXV6eHl2ZVk4ZnF2YTlZd1VDaUF4bncySHdzekRpOG0wNVEyaXJQYjUzbHZLM0YzeEJqSzZmc1FxdlpFSQ?oc=5"
     },
     {
@@ -396,11 +456,11 @@
     {
       "id": "n-a14b1eadfee18b92",
       "title": "CVC Secondary Partners Raises $10 Billion For Sixth Global Private Equity Secondaries Fund",
-      "source": "Pulse 2.0",
+      "source": "pulse2.com",
       "published_at": "2026-09-03T18:13:32Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFBqN1RJaGVwLTZOczhSaUZLR1NoaTFXYUN1TmFNcFpFRTdDS0JmZ2ZFV01VWmhmS0FDVEdYQ3VHTU9RSjBXVWVhcnZJc01Fei00c3JxTl9SNUVNT1pOSF82M2g0NDlMZzU5THNJWlhLb2xUS3FQdTVMOGtDTGU0WW9xM1A4Y1RRUWJ0Z0c4cHNnenNZdHJXVS1yZlJlbXYxSzhpVzF3UWlXRlV6ZkHSAbMBQVVfeXFMTU44aDUyXzlhYUFHTUJ2cVF1SXhpYnZFOUtfenNkYXZTTndiQ1ZpdkZFbGtDQzN1bE9Ta3JJdlgtWGFwQjZWZ21QdXVtSEZ6OWhqTllYRUQwUmxPRDNvT3FCek96Z1ZXd2lNQVd1TmktODlaWGpMd05SWEQ0blBoNW5GMmhGbFBiZmdIQlFrTlpNSno0UWM3UV9saWRBdHFTY2QwbzRxSFJhcFBhV3RmN0daUm8?oc=5"
     },
     {
@@ -614,16 +674,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Bb0x6WFJTUFhpMDV6dVpkanJ2UTJHWXFLNkJJLWt2STZEai1jMVV3Q3NRU3ZqaGRXWk5QZmpINjBsS1djZE4yY0lrejNyU3ZqbzVLNVE1MVQ4NUg2RFQwWQ?oc=5"
     },
     {
-      "id": "n-f112b8b6937bff52",
-      "title": "Closing remarks at 2026 Global Business Summit on Belt and Road Infrastructure Investment to Accelerate the SDGs",
-      "source": "Welcome to the United Nations",
-      "published_at": "2026-09-03T07:00:00Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "Welcome to the United Nations가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTlQcTNEZXF6WVVHVmYxN2k3VjFnXzVqQnR1YTQ1dGRGdlNIZXktV2dvemxlUXhUQUNmSjFVOTZlOE9LanF3eGpyUkRmUWdaZW5HUFZHdWwyWGxyVE56cmlnNjJZaFQtVktUdGFGbE9xMW1Sd3M5THBySlo4SS04TUhuaFhRV3FSLXVRWWZKTGltRENGMVUwYUdvNkRoSG1fb3dZNFlOZWJwd1FrVTZoeUlUYw?oc=5"
-    },
-    {
       "id": "n-127019365abf6a79",
       "title": "Mourant secures minority investment from MML Capital",
       "source": "The Drawdown",
@@ -642,6 +692,16 @@
       "region": "Global",
       "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYWEzbXpTZWUxdTVwUFhWME1GNTQ4Y18xOWstMHZaQ3FHTlJzYnI2MTJ4SUtXT1NCTHBDTnJNLTk4d0JvLUd5NzZYNFJ6TlNERW5XaklWcmJCT0twS0t1SzFkZGs1S1BlMVJzOFVvZzBob0JDd05tYTBRRk5VV0N5Q05IZjdCUQ?oc=5"
+    },
+    {
+      "id": "n-f112b8b6937bff52",
+      "title": "Closing remarks at 2026 Global Business Summit on Belt and Road Infrastructure Investment to Accelerate the SDGs",
+      "source": "Welcome to the United Nations",
+      "published_at": "2026-09-03T07:00:00Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "Welcome to the United Nations가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTlQcTNEZXF6WVVHVmYxN2k3VjFnXzVqQnR1YTQ1dGRGdlNIZXktV2dvemxlUXhUQUNmSjFVOTZlOE9LanF3eGpyUkRmUWdaZW5HUFZHdWwyWGxyVE56cmlnNjJZaFQtVktUdGFGbE9xMW1Sd3M5THBySlo4SS04TUhuaFhRV3FSLXVRWWZKTGltRENGMVUwYUdvNkRoSG1fb3dZNFlOZWJwd1FrVTZoeUlUYw?oc=5"
     },
     {
       "id": "n-a12adb5b7e4231e9",
@@ -706,11 +766,11 @@
     {
       "id": "n-377ac58aaf64a1b8",
       "title": "Ensemble raises $5.97M for continuation fund tied to Principal Mineral",
-      "source": "app.dealroom.co",
+      "source": "Dealroom",
       "published_at": "2026-09-03T01:08:09Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "app.dealroom.co가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVFfdzQ5bGQ4Vk1MMXBrRk1vZ2ltZzg3amVRNjczUkRhMVlkRjhyZjRlNlpWUzNrb0JDX2tGRTFOakl5Qnh5OWU0c2t0bEVwOXk0WTBhN1lQeDFlLXVGYnZNX0ZCZllZQTM3SjFSN3lMMlFXaXJQNmVRV0l6ZWxmQmdtN2pyMDdwMVcyTG9mMWh3WXFTanB2aG03bjNrdTZIVUt5NUx3?oc=5"
     },
     {
@@ -836,11 +896,11 @@
     {
       "id": "n-f16ccceb993956af",
       "title": "Private credit in the Middle East: Building flexible structures with Cayman Islands vehicles",
-      "source": "jdsupra.com",
+      "source": "JD Supra",
       "published_at": "2026-09-02T14:44:17Z",
       "category": "Private Credit",
       "region": "Middle East",
-      "summary": "jdsupra.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "JD Supra가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX2llbHo4YUkxSkwzYXI5UjRzM1FlaXI0cmlia2hKV0drVmJ1bEVpaDUwMGVkSW4xWFA3S2hGR29CZkxNeGZOc0U5WTk5ZWxlVDB2aGQ0UGJUdTdCeGE2VHpLT3Bfc091Z2VHVEJYdHVfcXduWDRRTnFhdzFMUnNRN2J3?oc=5"
     },
     {
@@ -1026,11 +1086,11 @@
     {
       "id": "n-b5c67cc074861d97",
       "title": "Paul Weiss Adds Mandeep Lotay As Head Of European Structured Finance & Securitizations In London",
-      "source": "Pulse 2.0",
+      "source": "pulse2.com",
       "published_at": "2026-09-01T17:38:05Z",
       "category": "ABF",
       "region": "Europe",
-      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekhBOE5qSGJfLXM0Q0JYUGJwVlpoUDU2cjBDWlFCMl9zUnBvelFEWlVCcW9kNDAyemVtdFh6S084aFQ2ZTVBNEoyMTJOdExHVElndTlXTFp1SHRTdlg1YVJRdVFNdXdvNG5SczhTakRkMFBYWXlsR2plTVZwVzdDRmV3OS1jTVhuWHJVYlhfenZCVjdlWU5HMkZYWV81NnZZMlQyU0stLVV6YWJqZi1tbUFIYWTSAboBQVVfeXFMUEdHSUlRamRKQURDamdBbFpGSjNXUHhiMWNLcXZPNzRmLVlvQ2dobzhvcTlfQW9qei13LTFod1A5TVItY0tOSmhWa09GY0xXZnpTeEVaUVRDeUlyMm9Hd3JFY2Npc0d2YU5wSUpVdHVYSFd4MnlNVjlXVzJmRXNmcHhyUzQ3LWt1ZHFFRHNzSHlNN2h2YVJFcnZzRWtXa1ZMNzE2bC12QjBtem0tNkpULUF6cjZZaE1XYnhR?oc=5"
     },
     {
@@ -1266,11 +1326,11 @@
     {
       "id": "n-da97dbd1cacfc30d",
       "title": "Dunes Point raises $467M for Fund IV private equity vehicle",
-      "source": "app.dealroom.co",
+      "source": "Dealroom",
       "published_at": "2026-09-01T07:00:00Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "app.dealroom.co가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZTRDLUdpczgwWm9BazhUVS1Gc3V6eUtFNjNFYVA0ZDM4T0tRcmltS21CUy1kaFo3bEZQUFBYVlR6bWNtMDd4YXR1WTA5UkFzMlkxMFRZdjl1cGduV1JMd3pNRG9ZVFk1b1VMMWxtNUVVTkdBUE85anN5eGx6QWdGN3NINTQ0aG44VkZoUDJHWmtPMHd3LTZB?oc=5"
     },
     {
@@ -1342,66 +1402,6 @@
       "region": "Global",
       "summary": "Financial Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTAxazgtWFFaVjFoV3NYUHBpNld6bjhGSUx2SFppNFB3Q3JHT0xXOUtXVzdneXJXRzkxR3BVMC1CdjBTQkhHZzlZNjJyVU85S2RpbFlLZy1td0JONXN5ZGxJTFB5eUFMNHNwWDZyRkk3Y3ZCX2RKbzFnTnh2Qng2X1R1T1I?oc=5"
-    },
-    {
-      "id": "n-60b4c916f565624e",
-      "title": "공정위, 글로벌 사모펀드 TPG의 롯데렌탈 인수 승인 - 조선비즈",
-      "source": "Chosunbiz",
-      "published_at": "2026-09-01T05:32:00Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "Chosunbiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQXzcwZWlQYVBCRnI0Nm40aHZwZFJCQkRBUHdTSF83N1I0bnRKWFhjVExQRGtBMVlDZXF3MlBIbVpaWk9lYms5VUZoREdxRXpsRGJPTFFYN3lpcjhvWVYwYWhuemJxSTZKRFFEMDBBMHJzS29uXzgyRC1oVGFNZDNSUDRLSFd5d9IBmgFBVV95cUxPMVpickYzMkdBSi1RN2lselJESEctNmtQS2t2M2dISVdpY0xzUTl3TFd5X0tSbVN1aU5YVFpzREMwdm5aWExyaTl5Q2tUSGZCZU9LN1hSS194amlqOEo1c0RaN084ZkM0WVhwWXdIb1RudVduT3dMZmlfenNvTGs1elVHXzNyQzFOeDI4MVFUZXlUVW15WWpZbml3?oc=5"
-    },
-    {
-      "id": "n-0501a1738470f2be",
-      "title": "공정위, 글로벌 사모펀드 TPG 롯데렌탈 인수 승인",
-      "source": "연합인포맥스",
-      "published_at": "2026-09-01T05:27:08Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "연합인포맥스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwUmgtcVJGNUVLWUVjVDFCT2htaC0xamE1UFF3Ry1jNjhRT09GeFlzZGJEeGR5NFNnUkxoUVBkcTFyNlM0V3hpUEkzZ2kyTEdPTjZPR2dTT1A5TFlOX1FqQTZVZWR4aVN2WW5oZ0ZPVFQ?oc=5"
-    },
-    {
-      "id": "n-0041ae4a4e3959d8",
-      "title": "Panel - The New Credit Landscape: Private Credit, Asset-Based Finance, and the Refinancing Cycle",
-      "source": "Milken Institute",
-      "published_at": "2026-09-01T03:21:38Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "Milken Institute가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS3czTXIxTlVXZHBzRmR3Sk5uSlAxaDBjcXBZdUpiek5jUS1qcTR1Mlh6YVZIZUhLb3VzbkhZOFhPMVRrdGdyUXlneUpNU0VTOFJMUG9ROGdpNVZ0WmU5R2hRcUgwQXlybXhJQUJsN3I4djBzVXBHLXBPUXFVVGF4YmFrQjlfRGI2MEpDUDNSRXpiaGQ3eVR5YUFoZ1NfMTNELVliTVRvaVI3Q0dxYXczekZyS0pZeDYyOTR6NnhCVlA0d1BjQk1VNTln?oc=5"
-    },
-    {
-      "id": "n-b1e329e7df948c39",
-      "title": "Private equity angst at Oregon",
-      "source": "Top1000funds.com",
-      "published_at": "2026-09-01T02:25:19Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Top1000funds.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjdvcGJxQ0JmcVg0NTdsNEctNkp0MHhhWWlSSGcxRXc0Sm1GTW44THI4emRYeHVjeXc0VmVDT0Jva0JwdjFuM2hlT1VlTks4V1RxQWMwMGJMYXV0RnBabWRqV0xUdUIyU1A2c29tSElQSnVWakhjaEY1RER4V1ZZNGVIVkFueTRBeXFVSzVxNG12Qy02WVlCMllHdy0wOW9uSEdJ?oc=5"
-    },
-    {
-      "id": "n-9bb3b7640cb81bb7",
-      "title": "Troutman Pepper Locke on keeping up the pace in secondaries",
-      "source": "Private Equity International | PEI",
-      "published_at": "2026-09-01T02:00:57Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObTJMVDRsbFBLZk0tSV9RcFF1Vk5VS0lpNldxeFFyRmg5Q2ZMU3NibEJTLXNOdG9ucmRrcEx2X29WNlp5RmhCZldjV1ZJcnBKMXF6anlzVEc1VExHU2hkX0NoamhjUDBwd05oQVl5Z2NOdVJlcHhlZ2Rldm81bXNuYVg1cFRIRmcxSFFlaDVKaDFiVm1GQVNMdkVtWUQwOHpCZ3Y4N2Jn?oc=5"
-    },
-    {
-      "id": "n-3aa8f77d2f780e9f",
-      "title": "Still committed: North America’s top private equity investors",
-      "source": "Buyouts",
-      "published_at": "2026-09-01T02:00:42Z",
-      "category": "Private Equity",
-      "region": "North America",
-      "summary": "Buyouts가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOejNDRXNjX1hnTTBNU19aUEpmWUFuVXl4RXZiQy1RTTZUTXhyY1ZRcGoyM29vbWw5d0xYNmNsdUYtOG1jNk56S19vZVFkMkRfdWZxVHJpWTFCYTZSRGFmMU1pdnpESTI3QjgweXg2ZDVjZFpQWUlTR251TW5fMlFhT09FYnFnMkdTVEdVLTdROEgxd0tGT0E?oc=5"
     }
   ]
 }

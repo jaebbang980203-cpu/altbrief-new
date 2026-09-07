@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-09-07T12:38:27.023594Z",
+  "updated_at": "2026-09-07T19:11:33.374767Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-53693e5d3e502b42",
+      "title": "Deutsche Bank Readies €2B SRT for Data Center Loans",
+      "source": "Briefs Finance",
+      "published_at": "2026-09-07T15:51:58Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "Briefs Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGtfUWlHSjFtZW5IeVpnVWJFemtSQ3RnMHJFUlZqSFBPbXNTRmtoelBDdUczaWV0UU5KYTFxMVM5cUV5eDdwTy1UUHoxR2FGUkNXekczTzF2Z3psWHVsR3NOSTVPTmc1dWVUOUVFZjFXcW9tNmt0aDJlTkdONm5vMkVtZEZUN2pUS003ZXBjaEdDZw?oc=5"
+    },
+    {
+      "id": "n-37b50322ebf16aee",
+      "title": "[열린세상] 홈플러스와 사모펀드 규제",
+      "source": "서울신문",
+      "published_at": "2026-09-07T15:10:26Z",
+      "category": "국내 대체투자",
+      "region": "Korea",
+      "summary": "서울신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnlnQkIzNW5VRjdyN05MUW5qeGVKT05YQkJyVUF4VTNkWS16ZHpRY1ppY3RoenF2RkF4bTMwSFBUOEd1VG40NDh4TmVvS2RDZURFMktIMlJsR3hjMVA4VFV1ZUZkM1FMYldTMTVHNHVBbXhTbUFzaHZFRjJRRnRJLUpiUHhRajA?oc=5"
+    },
+    {
+      "id": "n-6536efcf35bc1b4e",
+      "title": "Centrifuge and Janus Henderson bring $687M CLO fund onchain",
+      "source": "Dealroom",
+      "published_at": "2026-09-07T14:47:09Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ1l5TlFzZVdNNWpMQ181alVBMEZ4OWdkUlgtU0tIR0ZjUE9KQnRlYmdpeVBnU21rSDZ3bTBRUkxBWDZ1QllsTTlMTng2ZURJNml3eTBMbzR4ejdRNENINHRzVEs2VGtISnE3MGk0Sm4wMnNRMjdvcnlUWEl0ZzQyZlBoMWk3TWI3OVhyRngzZ0xHY0ljNjRV?oc=5"
+    },
+    {
+      "id": "n-36f8bbad02d2b9b5",
+      "title": "Centrifuge and Janus Henderson Launch $687M Onchain CLO Fund",
+      "source": "CoinTrust",
+      "published_at": "2026-09-07T14:14:18Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "CoinTrust가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOelR0dmpSeTlHT1plUjY3ZWdVRFVBNkd5bzVlT1JWRy1Wd0VaQlB2eFJ0RWx5bG1LU3BUZ2s2WnN1WTRBeUJwbkhMbk1HTDFBcnN1R2dXQmhtckpua1J1b2NfZExRMnE1X3hiR0hjbGhrc2p1YnA0SG9aXzVyMGg2UHdWbGZNWVdIaWktZDNBNF9QaHJ6OG5PZ0ttYjFIUdIBowFBVV95cUxPTXRMVW14NVQtWG1ZYmt0Umd2a29IdXpsVGI0a3NmYmx1MUpZMlZLczdSa1J5MmdKWGJESUtDYnFubHBlRDJwUWhCUmZXRUZIelF4dTRhVWpZVW5LTFdHVWtLakdHM2F6Zy00dXU2SXZqQTNrSlZKdWlEZkZvRUlTNkxtLWh5UXVKeWdmTVdYcjRUOGVXOHFvUjhBVUtleFJHUzZn?oc=5"
+    },
     {
       "id": "n-cdeac70cbbb6c7c3",
       "title": "Deutsche Bank Reportedly Mulls Significant Risk Transfer Deal for EUR2 Billion Loan Portfolio",
@@ -14,20 +54,30 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcUJaV3BhMzdwODlfbUE3TTBxeWljUy02aHlvcngtRXg4cnBxTV82WjhRZDU4WW4zWEYyTEt6R1RUTUNWX2p5bm8yNjIyRTF1bEF2TDI4M3VDTDUyVTB4NUw3NHVlZmZ2M0tWa191WWl0TlJMdllmZ2FjRDlaTHhsbGhucGROTFRKdFZLOEVycVJYT2xOSDYwTmo1RVh5YVVoSGc0NnA4MlctVVlNRUVGdW5aUGtWMHI3TXlhYkhuVUZUbS1pa3RKdmlPX1FTVm1WYV9NZUFaOHhYOERwWXpn?oc=5"
     },
     {
+      "id": "n-625c4e6c6ad69cd6",
+      "title": "Ineffable Intelligence hires six cofounders from Google DeepMind, InstaDeep, Flying Fish",
+      "source": "cryptobriefing.com",
+      "published_at": "2026-09-07T11:26:05Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "cryptobriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBla0FicF9ubUZIZkt1RV9BOUFLZDRkZjZabWtNcFlsVW9MaVh0U1h3NzM3RERpSVZ3RFNqeWhvczVRQ0dtWFM5dkFrTV9Qa2RtNk10dE9TZEtXU3J5M1BFYnAyNnFfRlBQNVBncHBibE9jN2J4Q1YxRkFn?oc=5"
+    },
+    {
       "id": "n-e590d9deaa068842",
       "title": "Deutsche Bank expands use of synthetic risk transfers for AI projects",
-      "source": "Crypto Briefing",
+      "source": "cryptobriefing.com",
       "published_at": "2026-09-07T11:17:44Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "cryptobriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xWHo0b3VFVGRSNXFfM1h2MGdmaE8weFFsTjB1SVhFc2tYcldOeVZsSUNFR3JHUE50VV9UU1h4LUdpc1JnSjctNnEybmR1dENMVW5RRmZnSzhrcXloakRHcHJoUkhLMDVzWkZnOW1PR3BIZU1oMUlVOA?oc=5"
     },
     {
       "id": "n-592c58dfa76165e1",
       "title": "The Pipeline: Aberdeen's £200m fibre write-down, Hall joins Dalmore, La Caisse’s Indian towerco deal",
       "source": "Infrastructure Investor",
-      "published_at": "2026-09-07T10:46:48Z",
+      "published_at": "2026-09-07T10:48:48Z",
       "category": "Infrastructure",
       "region": "Asia Pacific",
       "summary": "Infrastructure Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -46,11 +96,11 @@
     {
       "id": "n-7d830ce437008542",
       "title": "Centrifuge launches blockchain-based CLO fund w...",
-      "source": "Pluang",
+      "source": "pluang.com",
       "published_at": "2026-09-07T09:31:33Z",
       "category": "CLO",
       "region": "Global",
-      "summary": "Pluang가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "pluang.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTh4Y1lmRFN6ckFyclJabTlHQjNiOTVjY2VkaEc0ZHZhMGhRR0FObWU2TEtGS0tSS2NEeEJCVDlqZHdNQkdNZ004M0hXdFhFOU01OGh5RXdKV0NrYXlkYTllYlAzZGQwSDdLWUhjQmhBcVhJR0tHVFhJalQ3cW9tYzhXQ096VGlOdmF4Z3dn?oc=5"
     },
     {
@@ -76,11 +126,11 @@
     {
       "id": "n-12a0c69490300e5a",
       "title": "Turkey Requires $80B for Electricity Infrastructure by 2035, Says Minister - News and Statistics",
-      "source": "indexbox.io",
+      "source": "IndexBox",
       "published_at": "2026-09-06T11:20:33Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "indexbox.io가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "IndexBox가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLUI4MlRlM2FyWGVKS2RaNldKZjRmRkN5dlNmSFZ2LWRVajAzSTU1UDFrUjVnS1F6TFV5bWRTdWU4dmYwcVJSMWJmdDBuRXQ5ZFV0ZXkyQUhUSWZqb3FPa1RVRlBOanFIb1UyRjhmWmhKakIzTjU4LXFXemNwSFAwaDdwejd6cTA2XzM5VjNhX3JYNmlvMjFEQngyMA?oc=5"
     },
     {
@@ -166,11 +216,11 @@
     {
       "id": "n-e67203c703b17c41",
       "title": "Global AI Infrastructure Investment to Hit $31.6T by 2050",
-      "source": "the Electrical Distributor magazine",
+      "source": "tedmag.com",
       "published_at": "2026-09-04T13:18:10Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "the Electrical Distributor magazine가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "tedmag.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQclRiU1JpTTliRHdEOFlwYTcwdkt4TkxfRnJYRlRUdE1NYS0tYmhLQzBOa0RCdThBYzhXZU5uVjNZWEVvLXpOQ2FrMTBrQ2pRX01VVV9HQ1ZZRTBJaEVzM0t3ZXZsM1VBV1YwclFjcVlLOEllelFzalAzN3U4R19KX19n?oc=5"
     },
     {
@@ -246,11 +296,11 @@
     {
       "id": "n-050061ce1e2f2740",
       "title": "HSBC promotes NAV financing investment director",
-      "source": "The Drawdown",
+      "source": "the-drawdown.com",
       "published_at": "2026-09-04T09:30:00Z",
       "category": "GP Stakes",
       "region": "Global",
-      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "the-drawdown.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc1ZDNDYyWjRkQ1laNjlZU0Rnd0tmZEdUOGIzS0pGRW8xb0lSVFpCOF9UeXBmZFZKQW12ZmdScl80V29jMEMwWlFEWHhZc3RHZVpXVHNERVFRWm5XV2IzVEFLSElUYWRwYlNteDBEN1JSSk1lYl9jRFhvajRBR1AwUXdhQ2RXVjA?oc=5"
     },
     {
@@ -306,11 +356,11 @@
     {
       "id": "n-59aa7b57f39f1ff6",
       "title": "신한자산운용, 잠실MICE 투자 위해 1조 사모펀드 조성",
-      "source": "인베스트조선",
+      "source": "investchosun.com",
       "published_at": "2026-09-04T02:29:00Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "인베스트조선가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "investchosun.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFJaQmgwZEVxcndNcnItOXZySl9fT1RwTGgtTWtueGlqTU9mRFdGMnNQdjhZS2FBSVM0WkhOT1RIdFNWYTdHcDU4ZXRpYTNZSjZpY3BkMUJORW1mOXNjX1VWaVFlOWNJODdDcVB3TlJhLVlVTTEtdGRmM3BSNmZBSjVPMA?oc=5"
     },
     {
@@ -386,11 +436,11 @@
     {
       "id": "n-1534deb86d6c6a24",
       "title": "NIIF Infrastructure Fund II Reaches $2 Billion First Close Toward $3.2 Billion Target",
-      "source": "pulse2.com",
+      "source": "Pulse 2.0",
       "published_at": "2026-09-03T21:44:07Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzZJM25BT3VPTVJGS3h6MVktX2t1RXY5ZERHamQ3S25xX3JWMUJmdWRoTmhvREtHWmIwQ2pvT2YydThleVFINFRpOEl6c2p1dk5nVjYxTklBQkQxQ3BlMUwxcHBQTmxzaUlENWNWWlBVTzZnTzZINERjZ3pxMERGZjdiVnJ2Y0NSMlRyN1VxbXJHWld4cEZyT2JmOVlzbThXZi1KUURR0gGrAUFVX3lxTE8wR2ZuQUlrSG1LUjQyUVNvTi00NjR6aWd2RW1JTFdzSEQ5RklheTJBb1VJN2VWREdmOUJ3RWVXMXROQVNLNkJjUmgxbUczUzQ1VkhMcHJfX1lkck9iYk9iVVZ5eEs1VDItbmhodE5aVXV6eHl2ZVk4ZnF2YTlZd1VDaUF4bncySHdzekRpOG0wNVEyaXJQYjUzbHZLM0YzeEJqSzZmc1FxdlpFSQ?oc=5"
     },
     {
@@ -456,11 +506,11 @@
     {
       "id": "n-a14b1eadfee18b92",
       "title": "CVC Secondary Partners Raises $10 Billion For Sixth Global Private Equity Secondaries Fund",
-      "source": "pulse2.com",
+      "source": "Pulse 2.0",
       "published_at": "2026-09-03T18:13:32Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMFBqN1RJaGVwLTZOczhSaUZLR1NoaTFXYUN1TmFNcFpFRTdDS0JmZ2ZFV01VWmhmS0FDVEdYQ3VHTU9RSjBXVWVhcnZJc01Fei00c3JxTl9SNUVNT1pOSF82M2g0NDlMZzU5THNJWlhLb2xUS3FQdTVMOGtDTGU0WW9xM1A4Y1RRUWJ0Z0c4cHNnenNZdHJXVS1yZlJlbXYxSzhpVzF3UWlXRlV6ZkHSAbMBQVVfeXFMTU44aDUyXzlhYUFHTUJ2cVF1SXhpYnZFOUtfenNkYXZTTndiQ1ZpdkZFbGtDQzN1bE9Ta3JJdlgtWGFwQjZWZ21QdXVtSEZ6OWhqTllYRUQwUmxPRDNvT3FCek96Z1ZXd2lNQVd1TmktODlaWGpMd05SWEQ0blBoNW5GMmhGbFBiZmdIQlFrTlpNSno0UWM3UV9saWRBdHFTY2QwbzRxSFJhcFBhV3RmN0daUm8?oc=5"
     },
     {
@@ -516,11 +566,11 @@
     {
       "id": "n-605766ea4170559b",
       "title": "Osborne Clarke tries luck in Lux",
-      "source": "The Drawdown",
+      "source": "the-drawdown.com",
       "published_at": "2026-09-03T12:59:00Z",
       "category": "GP Stakes",
       "region": "Global",
-      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "the-drawdown.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EQWszdWt6dWlXamdQTXNQNDJobC1sUmNKU3hqdy1FUUE1bzY4dEF0TFp0OF8yNXBzbHNZM1BEWmhNMjdKeWpoaUhwUDlWSUhmZHV4REhMbHJud0ZDM05oMmJDSDZ1dDFORWFvczNheVRoejg?oc=5"
     },
     {
@@ -596,11 +646,11 @@
     {
       "id": "n-d4aa3551fe65b010",
       "title": "Apex Group appoints chief product officer",
-      "source": "The Drawdown",
+      "source": "the-drawdown.com",
       "published_at": "2026-09-03T11:17:00Z",
       "category": "GP Stakes",
       "region": "Global",
-      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "the-drawdown.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rUW5JWk92QVpzNVRuNWtkZkpUdUpNRnRLZXZueTdBVXVRVGphdnZjWlhwczZQZUNHMHprekhDeUtub1NhZHRqSkdzUjFCcE5TbnZCczdULXNGMlI0RlViOU8wYmdVY1k1UFA3Z1NZd1Y4bzdlZXlSSjFJbXhnT28?oc=5"
     },
     {
@@ -626,11 +676,11 @@
     {
       "id": "n-ad375525de6ff95f",
       "title": "Acuity Fund Solutions launches",
-      "source": "The Drawdown",
+      "source": "the-drawdown.com",
       "published_at": "2026-09-03T10:36:00Z",
       "category": "GP Stakes",
       "region": "Global",
-      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "the-drawdown.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pdGZzMjRZa0lXNThDeUFOMHJickJXRUx4NXJOa0k4RUh1aGl0akRyS0hDVFo0UmZObF9jdEVpNXBpM0FXX1dScEkzUi1jMkFfWFZHenBfcGozc0Q0YTVqVHBWOE9Cd1p6OVFlV3ZzOHk?oc=5"
     },
     {
@@ -676,21 +726,21 @@
     {
       "id": "n-127019365abf6a79",
       "title": "Mourant secures minority investment from MML Capital",
-      "source": "The Drawdown",
+      "source": "the-drawdown.com",
       "published_at": "2026-09-03T07:00:00Z",
       "category": "GP Stakes",
       "region": "Global",
-      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "the-drawdown.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3JhY0E1WkdfYm1DMXp3cV80b1dhNGtTOGhvLWMxbGsyYmlzOG9OV196NndJT3JMeTdaUlNCcldmVW9DZ0JBaFhjZHVZdG1YOEFVamI5dFpoWXBlcmEyTkdhQktBcnhiM05JUnl2bVZ2WFN5RmE5ZTlEbEpoaHlxdkd5eFhRcHZoS3JTRl9B?oc=5"
     },
     {
       "id": "n-f4ed5a53c57262ae",
       "title": "Asante Capital appoints two managing directors",
-      "source": "The Drawdown",
+      "source": "the-drawdown.com",
       "published_at": "2026-09-03T07:00:00Z",
       "category": "GP Stakes",
       "region": "Global",
-      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "the-drawdown.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYWEzbXpTZWUxdTVwUFhWME1GNTQ4Y18xOWstMHZaQ3FHTlJzYnI2MTJ4SUtXT1NCTHBDTnJNLTk4d0JvLUd5NzZYNFJ6TlNERW5XaklWcmJCT0twS0t1SzFkZGs1S1BlMVJzOFVvZzBob0JDd05tYTBRRk5VV0N5Q05IZjdCUQ?oc=5"
     },
     {
@@ -966,11 +1016,11 @@
     {
       "id": "n-268917eb7db30ecc",
       "title": "Waystone bolsters Luxembourg team",
-      "source": "The Drawdown",
+      "source": "the-drawdown.com",
       "published_at": "2026-09-02T10:09:00Z",
       "category": "GP Stakes",
       "region": "Global",
-      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "the-drawdown.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ocWtmU1ZKbzBocDZ2MW82SzRkY2psbWJGWk1fb2V1eGQtc2EtSWxYaVp6LXF1RHN1SHJRUDlDSzJnUVlyRnJocE1BX2tKNW1LSUt6bE1iTlNNSU1rLXlZMnQ1RW5VcWEzVjN3VS1XeUJ6ZG00?oc=5"
     },
     {
@@ -1022,6 +1072,16 @@
       "region": "Global",
       "summary": "VanEck가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRllaQUVHNFE3NFprY1NQbHBGcnJ5amQ0OHB6aWNVQkVJX0JmS3ZxSTB1T1d1THZGNVQtV3drVjBablRwV0pFaXhVUk1EclE0TUtER2JlLWtYbUJJb0o0dVV4RElGdWZOdWNjVmdwSVpLbUpNV1U2N3UwR2RkejFWd3I5Rnl1bXF6VktVR1QtYmszOUdVekJyQ21lQnl3MWJMNDFvMGdOZDg?oc=5"
+    },
+    {
+      "id": "n-5b917116512d6639",
+      "title": "'Rich Dad' author boasts $1.2b in real estate debt — experts warn of bankruptcy risk",
+      "source": "헤럴드경제",
+      "published_at": "2026-09-02T06:10:00Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "헤럴드경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KNnVDUUxXeXRtWDJMMkVURDN1LXNrd2dqcjlCRmZlWVgyN29WaV8ybXZKc2NaLVZ1VWtFb3ZfMHlXcGtIX2g5TEtybEtvUGNwazM5MmZyMA?oc=5"
     },
     {
       "id": "n-d4f3d2ff525413d2",
@@ -1136,11 +1196,11 @@
     {
       "id": "n-b66826becb6ffb96",
       "title": "ECI welcomes finance manager",
-      "source": "The Drawdown",
+      "source": "the-drawdown.com",
       "published_at": "2026-09-01T14:51:00Z",
       "category": "GP Stakes",
       "region": "Global",
-      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "the-drawdown.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzMnF1djhaWUJVbkNrMHdsekdFMTFCSnU0WnBxUzc1N3lvWFVwenpyakVWX29IajRJQk1EOGh2NWw3R25Bb2I1Rmx4R3RXaDA0WUExYkEwR2lUZnJ5dWN5RmVYRDBrVDBiT3VLTkln?oc=5"
     },
     {
@@ -1196,11 +1256,11 @@
     {
       "id": "n-06b8071797a9abcc",
       "title": "How well-done are European GP stakes after a decade on the grill?",
-      "source": "The Drawdown",
+      "source": "the-drawdown.com",
       "published_at": "2026-09-01T12:37:00Z",
       "category": "GP Stakes",
       "region": "Europe",
-      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "the-drawdown.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMElnQkdDTUZJeEh3Q2oyZmRSYkhkYWJVRWRUTGFlRld4MGt4RXlGY3Q5MDV4WU1WQTlYVV95Q1l4RDQ0b0htemF4ZUZXWnJGdnY2dHNlSjh6YTdZQ1JpcmFvZGM4cjlzZVhld0hQMXV4cy1YX21LU25VSFFwUDlGUy1SNllYQ0l6djRxa2M1WUZMeVJLNm9hVVJhbF9udw?oc=5"
     },
     {
@@ -1342,66 +1402,6 @@
       "region": "Global",
       "summary": "pei-privatecredit.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HQm5wN2JRMzhaWnRzMkhOYlliWEtad1dpTDJHenNwZ29hZHVHT2VRcVUzQS1vLW9VRHNYcU05NTU1V0JjUHJ4djVkU0EwMnBfbGFzMl83WQ?oc=5"
-    },
-    {
-      "id": "n-9ef4a4c6cc99d9cd",
-      "title": "Seymour Mead joins GPG Capital as group CFO",
-      "source": "The Drawdown",
-      "published_at": "2026-09-01T07:00:00Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMTV2MjhlXzZMeFNFQWowUHNNZmJrT3paa3RfSGo3TkVZdVQ1LVQyQUJGWDNaOG9MLTZ0SWpCNTByOHVnMkU3XzM4eVVIaTIwamlCYUM5Z2dJZThoM2hRZmxzbFdxVnhiY2lfaGdLLVo3TVV3RE14eFdfWEt3WlJ5MjBR?oc=5"
-    },
-    {
-      "id": "n-3c450b1c4c06e102",
-      "title": "SK오션플랜트, 사모펀드 디오션과 매각 계약",
-      "source": "경남도민일보",
-      "published_at": "2026-09-01T07:00:00Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "경남도민일보가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TdjlvNVBqNXdhNnNVRFUwZDNMbEp1TkJfdE1oRkVHM0ZXZnNKbFJQajNKenBpSzVRZk96azZxNVVHdTd1cmwxSW9tOUl3U1d0akR6aW9JMXpHWnh1S3VtZ1R0anZCcWI4LVE?oc=5"
-    },
-    {
-      "id": "n-2a9f8d15676db48f",
-      "title": "Top 5 Private Credit Commitments by Public Pensions in Q2 2026",
-      "source": "dakota.com",
-      "published_at": "2026-09-01T07:00:00Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "dakota.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjRzRUExTXF5YkJvWjVzZjBzMmU5ODdHTmxQUXB2cHhMWU41LXVLbmFKdDVtVFVaWmtfc0daQ1lYYmhxYWdqR1BLUXVNb1pjY05CWlNhdmtIUEN1TWFFQzdJMU1iQzhOZVFQc0JieFAzcmhZRVM1d3g4S21id29QRVVxOWUyNDYyVXhTbUhOZ3F2OUg2SFd0dVRrNDVEbXNrLUE?oc=5"
-    },
-    {
-      "id": "n-5ae70f94b35fb216",
-      "title": "공정위, 美 사모펀드 TPG의 롯데렌탈 지분 취득건 최종 승인",
-      "source": "조세금융신문",
-      "published_at": "2026-09-01T06:27:49Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "조세금융신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYYU4tV2NibVE4SXpKTnhLbnQ4M3pZOU5GSTV2ZVBjc0FjaXhtOEF1ZXFoZkVGczFIUkRRVFNhbTZ2eDVodk9tVTRubVA3cXhKTWJqMTdqRTVpVV9ZMFRzQ2wzQQ?oc=5"
-    },
-    {
-      "id": "n-5fe8dce09c3063bf",
-      "title": "Adia backs India’s latest infrastructure fund",
-      "source": "Arabian Gulf Business Insight | AGBI",
-      "published_at": "2026-09-01T06:20:00Z",
-      "category": "Infrastructure",
-      "region": "Asia Pacific",
-      "summary": "Arabian Gulf Business Insight | AGBI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTNDQ0VGZVZPa3dYRWYxaGkxWElaei1fWVMxTVdrX0psWV9ZZmxCakZZRXpaOUlMXzdJUjVjTWpISjRYNnJrNnFtRXExMVVsVnR2S0RBT2lSUVZYZ0prR0RHZER4RjFDZXNFZHhpbjJITXo2REFIVmw3Rm9PeEVNRG0yQXY2MDJ5QWc?oc=5"
-    },
-    {
-      "id": "n-821923498cfdfddd",
-      "title": "Partners Group replaces chief as fund redemptions weigh on shares",
-      "source": "Financial Times",
-      "published_at": "2026-09-01T06:18:04Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Financial Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTAxazgtWFFaVjFoV3NYUHBpNld6bjhGSUx2SFppNFB3Q3JHT0xXOUtXVzdneXJXRzkxR3BVMC1CdjBTQkhHZzlZNjJyVU85S2RpbFlLZy1td0JONXN5ZGxJTFB5eUFMNHNwWDZyRkk3Y3ZCX2RKbzFnTnh2Qng2X1R1T1I?oc=5"
     }
   ]
 }

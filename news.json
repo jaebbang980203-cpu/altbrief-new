@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-09-07T23:31:34.604140Z",
+  "updated_at": "2026-09-08T04:41:23.544776Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-2551db7f8a0396b7",
+      "title": "[PE는 지금] AI인프라로 쏠리는 '사모펀드 뭉칫돈'…데이터센터·에너지 매물 인기",
+      "source": "아시아경제",
+      "published_at": "2026-09-07T22:59:00Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "아시아경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GS05YSVIzWUlRZFdJbTNXMkdRZGhYd3hlSGNJMlJBZzQ4M3pVaFhPNkhqTlNUQmtYYVh6V202VEtRQVZzbTBPQl92REVhVmUzemRVQXE2TG5NSENIVVV4aA?oc=5"
+    },
     {
       "id": "n-5bd3c19806db4d20",
       "title": "美슈퍼리치들, 금리·변동성에 주식 비중 줄여…현금·대체투자로 이동",
@@ -56,11 +66,11 @@
     {
       "id": "n-36f8bbad02d2b9b5",
       "title": "Centrifuge and Janus Henderson Launch $687M Onchain CLO Fund",
-      "source": "cointrust.com",
+      "source": "CoinTrust",
       "published_at": "2026-09-07T14:14:18Z",
       "category": "CLO",
       "region": "Global",
-      "summary": "cointrust.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "CoinTrust가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOelR0dmpSeTlHT1plUjY3ZWdVRFVBNkd5bzVlT1JWRy1Wd0VaQlB2eFJ0RWx5bG1LU3BUZ2s2WnN1WTRBeUJwbkhMbk1HTDFBcnN1R2dXQmhtckpua1J1b2NfZExRMnE1X3hiR0hjbGhrc2p1YnA0SG9aXzVyMGg2UHdWbGZNWVdIaWktZDNBNF9QaHJ6OG5PZ0ttYjFIUdIBowFBVV95cUxPTXRMVW14NVQtWG1ZYmt0Umd2a29IdXpsVGI0a3NmYmx1MUpZMlZLczdSa1J5MmdKWGJESUtDYnFubHBlRDJwUWhCUmZXRUZIelF4dTRhVWpZVW5LTFdHVWtLakdHM2F6Zy00dXU2SXZqQTNrSlZKdWlEZkZvRUlTNkxtLWh5UXVKeWdmTVdYcjRUOGVXOHFvUjhBVUtleFJHUzZn?oc=5"
     },
     {
@@ -76,21 +86,21 @@
     {
       "id": "n-625c4e6c6ad69cd6",
       "title": "Ineffable Intelligence hires six cofounders from Google DeepMind, InstaDeep, Flying Fish",
-      "source": "Crypto Briefing",
+      "source": "cryptobriefing.com",
       "published_at": "2026-09-07T11:26:05Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "cryptobriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBla0FicF9ubUZIZkt1RV9BOUFLZDRkZjZabWtNcFlsVW9MaVh0U1h3NzM3RERpSVZ3RFNqeWhvczVRQ0dtWFM5dkFrTV9Qa2RtNk10dE9TZEtXU3J5M1BFYnAyNnFfRlBQNVBncHBibE9jN2J4Q1YxRkFn?oc=5"
     },
     {
       "id": "n-e590d9deaa068842",
       "title": "Deutsche Bank expands use of synthetic risk transfers for AI projects",
-      "source": "Crypto Briefing",
+      "source": "cryptobriefing.com",
       "published_at": "2026-09-07T11:17:44Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "cryptobriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xWHo0b3VFVGRSNXFfM1h2MGdmaE8weFFsTjB1SVhFc2tYcldOeVZsSUNFR3JHUE50VV9UU1h4LUdpc1JnSjctNnEybmR1dENMVW5RRmZnSzhrcXloakRHcHJoUkhLMDVzWkZnOW1PR3BIZU1oMUlVOA?oc=5"
     },
     {
@@ -196,11 +206,11 @@
     {
       "id": "n-4daf5003e92f38c0",
       "title": "ABF Deal Digest: Felicitas cuts US$10m RCF, Lenvi launches loan verification platform",
-      "source": "structuredcreditinvestor.com",
+      "source": "Structured Credit Investor",
       "published_at": "2026-09-04T17:07:45Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVHR5d1hHUFdQalJIVF9LVFprTm4tYkc5QlQ5bWRjc3M0NjE2cWNIR1UzX0hZT1dhVWFoZWl3MUNNU3d5cm82OVlPeEFKYXhxNkVXN3NjTGp6R3FjVUV2MEtiZWlGUXZUaUJQQnppSS00TWppbEpzYjJQTjhRTmFLbkpfMTRzTnYyMGNYVFk4WGlfN0N1ZVZyWlZfZFQ4SGxCMHRrM0VMaUljMG0ySlZNcHZCMTVRS0FhVVVVNHpGNmpjMTlhdEFDVE9JSDgyUXR5TjY4ZnJIUFc5U3dqOW1zbXBBcjJuQUVQZ25XYS0teFkwRlhtSHlhd1U3aw?oc=5"
     },
     {
@@ -296,11 +306,11 @@
     {
       "id": "n-02f99f8522850e63",
       "title": "SCI In Focus: AI rewrites data centre capital stack",
-      "source": "structuredcreditinvestor.com",
+      "source": "Structured Credit Investor",
       "published_at": "2026-09-04T09:47:01Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVFlMMzFBSmdaaTVWVkUySEVLVTRzeGN0UzRtVWpjOXBwbktLSzBVR1dVUnhtX1czLUEwMnlpQVVhQWpqNThxTi1tXzNMUVFVRS0wR1JkZ0hlMnNmSGNEQmdrSkFNbTRhUXVZbU5YWXpEX192OWNJdkg3LUtxVkQ3X3lnZjNrYTNkcVRDOVpMeXZ2Qk45TUJZUG1ta1JlcDdrT2IxRUtIQ0ppVjI4ZzRsSlIxOXZudi1Jc18wZ09jVTh2QVFpcFFJVmphenZPUQ?oc=5"
     },
     {
@@ -334,6 +344,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xTThFeXl2YVJyU25xSXN3ZDhNUTRreUliVG1KalNLSzE0c1lTMzJXVmhUQXYxX3pfLXNjbHhxOGJlSlI4czJneVRvVE5uUWRhN2JiQjN3b2pBVFotUmxyV2RSZHM?oc=5"
     },
     {
+      "id": "n-6cbfd42fe8971dff",
+      "title": "Philippine telcos set $2.2B for infrastructure investment in 2026",
+      "source": "lightreading.com",
+      "published_at": "2026-09-04T09:12:08Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "lightreading.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXhqVjR0dmo2TUptNzd6eHNsVnNwMlBaX3gxV25meUgzUndmVUp2T1FfUnVtM0Q1UFdmcWJvekxqcGFuc1BtR19CTUFwNU9qVTBZWEZZVnRHV0F2RmJSNVBKQy1QVm5WMjlZQVg4eEZRc3FnRzVPUjVTcjhCaTJrX2tqMWpXRFR6MkIzaWIzWVM3M2h6bGVkdGJzMHZmVTNPU3Y1Q0F0elk5UXBUVDhkcl80aw?oc=5"
+    },
+    {
       "id": "n-8915c0c3653ef296",
       "title": "Capital watch: Closed-end real estate debt funds collect $15.9bn in H1",
       "source": "pei-privaterealestate.com",
@@ -364,6 +384,16 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQnVhcG5LQVloRnpSVE1KM0JhdmRDMXNjaGNZOHpMeVVpNzQ2d01aZ2RWX09YenVPSzBIbW96b203SVNDWkhFR3dxWFR5QWY2YTFUV0VQS3hnd29CUHI1d3NCMGdDMFJ6Nm1tRTd5Skl4NWlEV0RnWWFJWTY0dnlGbXNiRkM1bm82YS11a2lncGgyMWlrdV9IVjRkNS1zOTZhOG1mMnlKMjRZS3d2aEdlaXl1R3RGTm5YemF1M1NHME1sd3B3aWxKRU14R0J2V1Jm?oc=5"
     },
     {
+      "id": "n-e026566228e8b1d0",
+      "title": "Meta unveils massive Kuna data center with eco-friendly design, $100M in city infrastructure investment",
+      "source": "ktvb.com",
+      "published_at": "2026-09-04T03:36:00Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "ktvb.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSEtDaUVKMGZBbGNBR3FEZjVUM2dFWmJqMGVCRkR1QnRoblFZeHN0SEMwQkU4clg0NHV4U1RsUHVwYm5oRjlqMXdSRHpEZVVnMk5TcnE5Y0dIN2NfRlhCUmktNFk1M2tKZVdYcmlMRHVGc1NJMUVlYmxPTXZjSi01UWVJYUliQ25kQm10VWJaYzZhTVl3WXVKMmhpaHlXdEltN0QtN2djSzYtUS0xdTZhclplaHhRanhKSl91YnA3OHJpNTZmREJEQ1IzRHN3bllIUDdMdWV1R3dZeEZVM3JWY21SSjZvV2lxSEF5NWlvQVNMdjN1VnBfblhEemc3Y0o0eTNYV2h0MA?oc=5"
+    },
+    {
       "id": "n-78bded2c1110feec",
       "title": "Private credit secondaries gain traction as investors seek visibility on returns",
       "source": "TradingView",
@@ -376,11 +406,11 @@
     {
       "id": "n-59aa7b57f39f1ff6",
       "title": "신한자산운용, 잠실MICE 투자 위해 1조 사모펀드 조성",
-      "source": "인베스트조선",
+      "source": "investchosun.com",
       "published_at": "2026-09-04T02:29:00Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "인베스트조선가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "investchosun.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFJaQmgwZEVxcndNcnItOXZySl9fT1RwTGgtTWtueGlqTU9mRFdGMnNQdjhZS2FBSVM0WkhOT1RIdFNWYTdHcDU4ZXRpYTNZSjZpY3BkMUJORW1mOXNjX1VWaVFlOWNJODdDcVB3TlJhLVlVTTEtdGRmM3BSNmZBSjVPMA?oc=5"
     },
     {
@@ -686,11 +716,11 @@
     {
       "id": "n-5d5289994fd08f1b",
       "title": "Felicitas cuts US$10m RCF to single-family office",
-      "source": "structuredcreditinvestor.com",
+      "source": "Structured Credit Investor",
       "published_at": "2026-09-03T11:02:04Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHZybFVPMTVpZ09tcjh3ZHJ3blpTLUR4d2dGUkJDeUZrOWRfRDZEa3F4a1otXzF6WFZnN3VtblpvS1d3Q0tiQldYSXY1LUdmUWJRX01pX2VFYTdTa1gycFFJRmxjVVZrUkFTM3dEOVpoOXRobnlHWmlHdDF4N2Zsa2F2cktvbERCYUdCVS1iaGF4QUhueHZIdUpqdkFWTjRsd1VYdXByUDV3SjNxMi1Cd3FGUFVMd1ZsMldUOFNsYzdveG5WNXVTUVo4SQ?oc=5"
     },
     {
@@ -746,11 +776,11 @@
     {
       "id": "n-f112b8b6937bff52",
       "title": "Closing remarks at 2026 Global Business Summit on Belt and Road Infrastructure Investment to Accelerate the SDGs",
-      "source": "un.org",
+      "source": "Welcome to the United Nations",
       "published_at": "2026-09-03T07:00:00Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "un.org가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Welcome to the United Nations가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTlQcTNEZXF6WVVHVmYxN2k3VjFnXzVqQnR1YTQ1dGRGdlNIZXktV2dvemxlUXhUQUNmSjFVOTZlOE9LanF3eGpyUkRmUWdaZW5HUFZHdWwyWGxyVE56cmlnNjJZaFQtVktUdGFGbE9xMW1Sd3M5THBySlo4SS04TUhuaFhRV3FSLXVRWWZKTGltRENGMVUwYUdvNkRoSG1fb3dZNFlOZWJwd1FrVTZoeUlUYw?oc=5"
     },
     {
@@ -956,11 +986,11 @@
     {
       "id": "n-8edcd3fa079b2571",
       "title": "The new infrastructure premium: What the Copia Power sale signals for digital infrastructure investment",
-      "source": "McDermott Will & Schulte",
+      "source": "mcdermottlaw.com",
       "published_at": "2026-09-02T14:51:13Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "McDermott Will & Schulte가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "mcdermottlaw.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHVob3FnNmdvaU1tYkw1T1RkTy1Nb2tRVEQ2YlBfLXhXR0F6YXdHYklmaC1zcVlNZ1VFMDdncGF4QlktVVlIWm9tMFFLMFpGbDBsNko2TG1uTlg0eFFtZ0NFVEJvVHRoWFZkcnVyRkJaQTVxdDBIWlRFLTBQNmt4bnp5NEpjR2s2bnpfRWhVeDU2bk1ZZkdFQm1IWVZfYVRLYkNuM2V2NDR1U3lWWlE?oc=5"
     },
     {
@@ -1084,6 +1114,16 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWG1kaVlTSGZ1OTd1dHBqSDhHUDBaNTBLVHhtM09ZcTBBQWRzZHhQcW5KelR6R1lqLXdwRHV6ZlJDUVcyRlJ6ZTQwSmFLWkttck9RNXl3UGxmUU85dzdFclZ4bF9QTjg1N0J1TWFDV2g1dGs1bGx5WnM5WlRCb3E1TTExWlYxdDI0V2JvaWFHZkIzSWtoMmNYc01RbWFkMVdKWnhwQl9IbzNyOUE?oc=5"
     },
     {
+      "id": "n-fd17ddc8f3b61360",
+      "title": "US banks branch out into new areas with back-to-back SRTs",
+      "source": "9fin",
+      "published_at": "2026-09-02T07:00:00Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "9fin가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13V2FGMVduVkI4aUVxbHFIRzZuQk1idXpXT1E0Wm8tTWkwbWpTY3pmUWJ3VjNnUVlGeUNHdFdTam9SWDZVamkwa1E3Rjg4NmRRVXpKTG0xV0tsbnlXejVFUlhGYTlfVmNhZDJmaw?oc=5"
+    },
+    {
       "id": "n-3269211d930ff843",
       "title": "Turn Investment Ideas into Actions for the Second Half of 2026: Outlook Implementation Guide",
       "source": "VanEck",
@@ -1166,21 +1206,21 @@
     {
       "id": "n-b5c67cc074861d97",
       "title": "Paul Weiss Adds Mandeep Lotay As Head Of European Structured Finance & Securitizations In London",
-      "source": "pulse2.com",
+      "source": "Pulse 2.0",
       "published_at": "2026-09-01T17:38:05Z",
       "category": "ABF",
       "region": "Europe",
-      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekhBOE5qSGJfLXM0Q0JYUGJwVlpoUDU2cjBDWlFCMl9zUnBvelFEWlVCcW9kNDAyemVtdFh6S084aFQ2ZTVBNEoyMTJOdExHVElndTlXTFp1SHRTdlg1YVJRdVFNdXdvNG5SczhTakRkMFBYWXlsR2plTVZwVzdDRmV3OS1jTVhuWHJVYlhfenZCVjdlWU5HMkZYWV81NnZZMlQyU0stLVV6YWJqZi1tbUFIYWTSAboBQVVfeXFMUEdHSUlRamRKQURDamdBbFpGSjNXUHhiMWNLcXZPNzRmLVlvQ2dobzhvcTlfQW9qei13LTFod1A5TVItY0tOSmhWa09GY0xXZnpTeEVaUVRDeUlyMm9Hd3JFY2Npc0d2YU5wSUpVdHVYSFd4MnlNVjlXVzJmRXNmcHhyUzQ3LWt1ZHFFRHNzSHlNN2h2YVJFcnZzRWtXa1ZMNzE2bC12QjBtem0tNkpULUF6cjZZaE1XYnhR?oc=5"
     },
     {
       "id": "n-1b0a75015b0bb36f",
       "title": "Ares Closes $4B Japan Logistics-Focused Real Estate Fund",
-      "source": "law360.com",
+      "source": "Law360",
       "published_at": "2026-09-01T16:30:00Z",
       "category": "Real Estate",
       "region": "Asia Pacific",
-      "summary": "law360.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Law360가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTJTd1ZpVkZyNjBkREVsdHQ3OWhVWlhRaDVMV2NhRFBoQzY5ZTc5QlhweWZ3ZVZrMjQzZmNFb0JrNXg2UXUtZXo3SFJzcnowZnBTd0ZURDU5c0JjY1hXcjFlWlB4dlNrblRweC1xYy02bHlvcUJiZjJralBySFBUdWdDdGs0TWIzcFVUUnZLMnN2Z2NpRUllSXdlVVhtLVBzeWxyTW54ay02Wi0tSjZhSmxIcnVha1ZS0gFzQVVfeXFMUGYyb2FUMkxlbzk3WWhucS1abTAtN1Fxc0kwcjFra2xWaV9udGNLSDdXZmJTNTRBZ2o3OGV3Qy0tMHJ6eTJzQUkzRE50cnZ3YWVRc2dkd0RDUG85WEJYeGJuNkhoRDg4Y2E0UVNCMkR6YVdPcw?oc=5"
     },
     {
@@ -1362,46 +1402,6 @@
       "region": "Korea",
       "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXB5YkRNOFBtM0Y0MWo0Q3A5SE5mZVN6T3ctZjhaTjlrV1hMelpsbVhzc0xQUjhGT2xwME9OZ2VkU1dYUlJjNFViV25kVVhtRHNWUEsyQVp4TFdHdW9vSXpQU2ltR0UwazZ6X1NNdFoyTWJmUENmNGRhM2Y5WU82Vm82ZDAwWUVROWR0WVphdW1iWENTdjlfMFFaU3hlN0ZGY0E?oc=5"
-    },
-    {
-      "id": "n-c6132031e9a8f65b",
-      "title": "Repentant private equity firm's new approach to keeping juniors happy",
-      "source": "efinancialcareers.com",
-      "published_at": "2026-09-01T09:42:27Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "efinancialcareers.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc05iMnpxWFRoQmtXZXZWTF82c2RjS3JGY211R0xxZTZCV0tnZ1dUZE1XNkhGS1hYV28zeGhhVXdqYUdNVkJtaUdTb3hzSlFmMWhCLUFkM3lhZzhxcFdMenB4TTVwUnVpMXpIMmxGeF9nbzY3YmJnNTZOSE03UEM1TFFuVno?oc=5"
-    },
-    {
-      "id": "n-88764764ac80db0d",
-      "title": "美 사모펀드 TPG, 롯데렌탈 인수...어피니티 무산 넘고 성사",
-      "source": "스트레이트뉴스",
-      "published_at": "2026-09-01T08:02:53Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "스트레이트뉴스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xd3RKRVhacGhtbjV6SGExQWt4QVRxMExHV3luQXNOVUVsUjNnZlRIakQ1ZTVjV2VFR0hOazB6ZHhnZ2ZPajRqSmR3c2dkUHp0YmR6RFZtTm5XdWNjMmhFSmV0VFpTRHFhcXNaTmVzVnRmM3PSAXdBVV95cUxQa242eVA4Sy13cHBxaWN5WGJfMWxSZ19IT1NkSE1aN0swdDZuWk52bGhfSF9OcU9JUmFYeG9ueGk5cGlvMHg0SVp3UTFncVI0NWNvREE5NHN3aFZSN01CRnFBX05rNXNQREx3OWhNNmdicVE1aHNwcw?oc=5"
-    },
-    {
-      "id": "n-68f760da69912ac2",
-      "title": "PG&E Now Trades Below Book Value. Is That a Floor?",
-      "source": "TOP1markets",
-      "published_at": "2026-09-01T07:38:55Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "TOP1markets가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnZHlZS1p2SWoxbEdQay01eVVCZWpGbjZMdzYzYlNPTE0zSFE1S2FfbGRnYW9LMXFYWE5iMnFpM21jaXJkSFRSbkk5NTZqdjdTNXd1Wkhnc0hQWW5lX2loQkhOZXNyanRUWHlF?oc=5"
-    },
-    {
-      "id": "n-b7bfd8a4d9eed632",
-      "title": "공정위, 글로벌 사모펀드 TPG 롯데렌탈 인수 승인(종합) |",
-      "source": "연합인포맥스",
-      "published_at": "2026-09-01T07:24:10Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "연합인포맥스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YQ1l3RERFZFpQeWtVeENkdjcxMS1FM0lvU3IzUjFjYk1BMnl3aDhwMVlJSzFzeXVlX0dXTXFCZjFCN0pvYm84TWQwWEFKa25YaTdHRUFjTmgya2lIQkNuRGo3SlRVekhyeTNqTWF6bS1lSnFI?oc=5"
     }
   ]
 }

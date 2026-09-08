@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T21:11:53.643066Z",
+  "updated_at": "2026-09-08T23:25:01.010016Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -16,11 +16,11 @@
     {
       "id": "n-cd4d54681d5dfb2b",
       "title": "Blackstone private credit fund continues to restrict investors selling shares.",
-      "source": "investmentnews.com",
+      "source": "InvestmentNews",
       "published_at": "2026-09-08T19:17:24Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "investmentnews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "InvestmentNews가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWFLXzUyR2hKdmp3U1hWZVREUkIwNXVtSWExT01wVlRMR0lELTU2THU1alVnVnJ4WmFDbkxsem95SnFyN3IzRWFYRU1JYWp5WlNacFBEaFBGUklKZXhhVDN1ZHVBclB6TG01UHRRSlgwS2FYUnMxRFMtWW1UUTZ5eVZmMHpIdkRBVU5sQzY1T3NRaHVsMTdKZWIzakxzVk13bUc0OHVTekJEeFFyVk9uWnpnVVh6NWFqYWFFWTV0SXhhSllHQ1ow?oc=5"
     },
     {
@@ -146,11 +146,11 @@
     {
       "id": "n-1bfa50cd27c30aa8",
       "title": "China targets CNY 3.8 trillion in information infrastructure investment by 2030",
-      "source": "dig.watch",
+      "source": "Digital Watch Observatory",
       "published_at": "2026-09-08T10:03:04Z",
       "category": "Infrastructure",
       "region": "Asia Pacific",
-      "summary": "dig.watch가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Digital Watch Observatory가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tOUc2eFhyQlFYWmNKV2F5YWJNQk5URE5vbjJtYzJ2cE1kN2twajM2MDRYVi1pamtQTFR6WGYtZFlhMXB3OW5QT2pTNHJnSmJzaXU3eHYwdlZVVldRM182WGVBQzlNNzVaandHeENWWkR4VS1Cc3Nyc3k3cW0?oc=5"
     },
     {
@@ -174,6 +174,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNElNM1dDQWI4ZUJnTXJpeVZHWlFUa3FSZklQdGs3QXhFbkE3SHBPQlRVNExkSUhzeDdQTmo2cWpVWDdBZEdHVUU1Wk9TNGZGZ0JpRGlKWEZPODR0LXN6R2FlaUVlT3NZdVRrVWFfZTFob0M2cTNReWVoMm1LMHp3Q04zSGprS0RWNjRqTTNVNllDM1NZYjFsQnNneHF3blk?oc=5"
     },
     {
+      "id": "n-697eb38c533e89ca",
+      "title": "\"일반투자자도 사모자산 접근 기회 넓혀야\" 나오는 이유는? - 머니투데이",
+      "source": "머니투데이",
+      "published_at": "2026-09-08T07:49:02Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "머니투데이가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HM3pwelN1bzZVeDBFM0Z5d0hXUjJvdGlRZUI4NFo1YmktSWJzYUgwdHd6MG5SU193bC1vT2V0UUQtaDZ1aFNrUXY3QUNEb2ZYMnE0Z2NKSU1kNnNXNGZjc2N0Q2F1Q1J0aGJWampR0gFuQVVfeXFMTUczenB6U3VvNlV4MEUzRnl3SFdSMm90aVFlQjg0WjViaS1JYnNhSDB0d3owblJTX3dsLW9PZXRRRC1oNnVoU2tRdjdBQ0RvZlgycTRnY0pJTWQ2c1c0ZmNzY3RDYXVDUnRoYlZqalE?oc=5"
+    },
+    {
       "id": "n-e9ab3b9cdb0c9698",
       "title": "NH투자증권, 엄선한 사모펀드에 분산투자하는 공모펀드",
       "source": "한국경제",
@@ -192,6 +202,16 @@
       "region": "Global",
       "summary": "Seeking Alpha가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObENFSVlhMmJPaW1FeWVqMUI0RGxWVXdQU0hjYWczSHdGUl9EV0ZqVlRoUkZNZU1yZmlKeVkteV9KWWNaUVpuNldGWmZMekpjbm5xRUVtQUt4OW13T3BpRE01cXZ5bnVueXozb0pILW1ReDNzSmhRelJ1Qm5XVG5nbVF1WmxiMy10b3VZMUNTMHJlakVlNzNUN3YwTmdhUTNhc2YyZlZpUkF2NlpCZmoxT0lPcw?oc=5"
+    },
+    {
+      "id": "n-dbd4dedf8644c784",
+      "title": "PGIM Jennison Global Infrastructure Fund Q2 2026 Commentary",
+      "source": "Seeking Alpha",
+      "published_at": "2026-09-08T06:10:00Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "Seeking Alpha가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX3d5SWJiVlVBYmJ0aU5RQ09ERUFzeVJBZHAyaGF3VjRVYk9FM0FndUUyem5YWEVibW5Pb3A3aFV4VXUyeUhqaVRUU1NVYjJfamxGTUwxUllIMnF6ZDYxcHZxdFUyWW1Fd1U1dmFzTGQwY3J3end5eHZXWW5Vek1RMEFZT1lQWkEtZVh3M0FwU041MXRyaGVJRlZSUGdSMTRxc3c?oc=5"
     },
     {
       "id": "n-a2031397aa5ba174",
@@ -266,11 +286,11 @@
     {
       "id": "n-37b50322ebf16aee",
       "title": "[열린세상] 홈플러스와 사모펀드 규제",
-      "source": "서울신문",
+      "source": "seoul.co.kr",
       "published_at": "2026-09-07T15:10:26Z",
       "category": "국내 대체투자",
-      "region": "Korea",
-      "summary": "서울신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "region": "Global",
+      "summary": "seoul.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnlnQkIzNW5VRjdyN05MUW5qeGVKT05YQkJyVUF4VTNkWS16ZHpRY1ppY3RoenF2RkF4bTMwSFBUOEd1VG40NDh4TmVvS2RDZURFMktIMlJsR3hjMVA4VFV1ZUZkM1FMYldTMTVHNHVBbXhTbUFzaHZFRjJRRnRJLUpiUHhRajA?oc=5"
     },
     {
@@ -306,21 +326,21 @@
     {
       "id": "n-625c4e6c6ad69cd6",
       "title": "Ineffable Intelligence hires six cofounders from Google DeepMind, InstaDeep, Flying Fish",
-      "source": "cryptobriefing.com",
+      "source": "Crypto Briefing",
       "published_at": "2026-09-07T11:26:05Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "cryptobriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBla0FicF9ubUZIZkt1RV9BOUFLZDRkZjZabWtNcFlsVW9MaVh0U1h3NzM3RERpSVZ3RFNqeWhvczVRQ0dtWFM5dkFrTV9Qa2RtNk10dE9TZEtXU3J5M1BFYnAyNnFfRlBQNVBncHBibE9jN2J4Q1YxRkFn?oc=5"
     },
     {
       "id": "n-e590d9deaa068842",
       "title": "Deutsche Bank expands use of synthetic risk transfers for AI projects",
-      "source": "cryptobriefing.com",
+      "source": "Crypto Briefing",
       "published_at": "2026-09-07T11:17:44Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "cryptobriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xWHo0b3VFVGRSNXFfM1h2MGdmaE8weFFsTjB1SVhFc2tYcldOeVZsSUNFR3JHUE50VV9UU1h4LUdpc1JnSjctNnEybmR1dENMVW5RRmZnSzhrcXloakRHcHJoUkhLMDVzWkZnOW1PR3BIZU1oMUlVOA?oc=5"
     },
     {
@@ -916,11 +936,11 @@
     {
       "id": "n-d4aa3551fe65b010",
       "title": "Apex Group appoints chief product officer",
-      "source": "the-drawdown.com",
+      "source": "The Drawdown",
       "published_at": "2026-09-03T11:17:00Z",
       "category": "GP Stakes",
       "region": "Global",
-      "summary": "the-drawdown.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rUW5JWk92QVpzNVRuNWtkZkpUdUpNRnRLZXZueTdBVXVRVGphdnZjWlhwczZQZUNHMHprekhDeUtub1NhZHRqSkdzUjFCcE5TbnZCczdULXNGMlI0RlViOU8wYmdVY1k1UFA3Z1NZd1Y4bzdlZXlSSjFJbXhnT28?oc=5"
     },
     {
@@ -1216,11 +1236,11 @@
     {
       "id": "n-f16ccceb993956af",
       "title": "Private credit in the Middle East: Building flexible structures with Cayman Islands vehicles",
-      "source": "jdsupra.com",
+      "source": "JD Supra",
       "published_at": "2026-09-02T14:44:17Z",
       "category": "Private Credit",
       "region": "Middle East",
-      "summary": "jdsupra.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "JD Supra가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX2llbHo4YUkxSkwzYXI5UjRzM1FlaXI0cmlia2hKV0drVmJ1bEVpaDUwMGVkSW4xWFA3S2hGR29CZkxNeGZOc0U5WTk5ZWxlVDB2aGQ0UGJUdTdCeGE2VHpLT3Bfc091Z2VHVEJYdHVfcXduWDRRTnFhdzFMUnNRN2J3?oc=5"
     },
     {
@@ -1382,26 +1402,6 @@
       "region": "Global",
       "summary": "ET CIO가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmJwaTFHNnhUa2dEMm9jZkVYZnV1WGJXZk5KU1dlVEhiZ292dkQxRWdrT200N29nNHR4aVBzTjRqVG1SOW51ZVkwSXN6bVBEU0dqVDh2M3BBQWJvRmNPX1JBcjRKYnRaY3BwblR6OHd2cEhHV3FMaDFjN3VCNF80OFhIb0JlWDVXcHNGZnVSTXJVRVlxYnd3TDR2dHdfcmxNSGVmSG1YbHhZdkRGSGduT0c3R2MyU3BsUjkxUGVodFk4SW1mS1JkVWVmajBBajZ0aEVEeVZ4UGZTRWQ1TDlCVk5NOEbSAeoBQVVfeXFMT2Y5OUx3T19LNkNuR2VFem05M1QtTTVTTHB6ZFZ1QS1Ha21XeElPR29VakduRU5lVERxNE9jeDdfUHFCYWZTSXp1UHBRMkhLMmZ0M21NME9JM0wwWmNTTkxjbFJ5YlZRclotb2FWcnBub2JRSDlwSW5fcDM1RVhqbHZYU0xhQ3hSS2s3ak53emRVYVhsNUU1T25TYUlDMzhiRnNhZ0pRd3ZMRWowNHliMEhvQVIyamdKLV85UkJvcjMwcTdqQ0lFR0w2WWJFUW44UFpxdWJ1UlVIVEZxQzNZNk0yeERBTmxKNEhR?oc=5"
-    },
-    {
-      "id": "n-048555a15c5cad3b",
-      "title": "국민연금, 호주 사모대출 운용사 지분 9.9%로 확대…‘GP 투자’ 보폭 넓힌다",
-      "source": "녹색경제신문",
-      "published_at": "2026-09-02T01:20:18Z",
-      "category": "국내 대체투자",
-      "region": "Korea",
-      "summary": "녹색경제신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2d1FTU2NaQmhxZ2ZSaGhobUxqSndCdjBxVEc3TWRoUW9CcVV1ekNWMy1WZDdEWHpGRFRVd0tocERoWWdSNXFXQXpTa1ZOeGJ0Nk1feWdad0FPV19tRDRJaDFWRnZyTHRa?oc=5"
-    },
-    {
-      "id": "n-2e0400598f3ae8cb",
-      "title": "Private equity confirms a timeless principle: Purchase price matters",
-      "source": "McKinsey & Company",
-      "published_at": "2026-09-02T00:00:00Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "McKinsey & Company가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMHpYS2sxWlR4cVA5UnFpaUZSazVKRzg2S3dQSmlVM0pGb25SMkRBSDJIQ2tyRzdMcDFsUHE4ZTJReVhaVnQ2YllxcTBvRWRpbVc0NWdVRG1QU2FrRndZbDhJVGhyUmFkYWI0Q2Y3LXA4enhFVk1kdTVXX2F6NHlDQmM1R2pwSV8zRk15N3lHOVlGYm5ZamMxc25ydFN1Yy1jdFhUSGNFY2ZMa0dwZGpOSG54TmpUdUdIbV9zajVfUERpS0dlRm9Nd3hiU24?oc=5"
     }
   ]
 }

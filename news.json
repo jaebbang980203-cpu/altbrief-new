@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-09-09T20:58:10.694810Z",
+  "updated_at": "2026-09-09T23:17:41.209110Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-59de3891f1161f4c",
+      "title": "Mississippi PERS Re-Ups With TPG Angelo Gordon Real Estate Fund",
+      "source": "connectmoney.com",
+      "published_at": "2026-09-09T16:54:55Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "connectmoney.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWZOd1V1SW1KYUtCN05reXFDa2RTelA5cDNyNTBvSmJMd20tN0JVTWtPWnBuVXJaUFN2Nks4VzdhNGdmRWFMVnNKMWtVM3pYN1VZamM4VnhZcUpUa0h5X2N0LVJxWTVETV9WUE8tZHMzTWZPQUxuR2Y1VFF5dkVqZXZkVk01MVNJUE5Cd0JjUXhkTHdfS2x5cEQ4dkJWYVN5UFd3?oc=5"
+    },
     {
       "id": "n-9f5ae07fc865ad5b",
       "title": "Fasanara and Tether roll out $400m private credit fund",
@@ -76,12 +86,22 @@
     {
       "id": "n-2cda0bdf5a93c885",
       "title": "J.P. Morgan Asset Management Closes Inaugural U.S. Net Lease Fund with $1.1 Billion in Commitments",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-09T13:00:00Z",
       "category": "Real Estate",
       "region": "North America",
-      "summary": "tradingview.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTVNRamV6TEZla3R3eV9FTXZxUWpRRUdZUVg5dzJKNDU4bmZaQTVmTDNjN2g5dXJFQ2llOElCYTdlTVZ6T0ctRlJKeXJXdGZ2QUZSTjJNSGdDYUlkU3IxbzhpNzBJSG5ZOWR3Y0t5WHQtUUd0MU1uWEg5dnJwY0R4dWRzYjRud09OaW95dlB5OFNXVEl1anpzN0QwN0dIV0lXem1EdEctc3dNZml1ZHVsekI5VEVWRDJTM1pKRDhJNG1UaEFoZ3VMRXNEOFRpdWYxTWMxY2RhNzlKazdkMVYtdWhKUkRYcEt5c1VybA?oc=5"
+    },
+    {
+      "id": "n-7b4630f8ed887b1a",
+      "title": "SEC wants to end pay-to-play prohibition for private equity",
+      "source": "Axios",
+      "published_at": "2026-09-09T12:55:23Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Axios가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0TmduVnRPZ2VGM0FwX1JnTDItaUsyQmxzUXZEWGItT09nLWdpNHpvaWpfM3FhSmpWb3o4RFpuVGxZc01oTS1idEpNMDhrbzA3aFRPbldZN1FoWXlObDhVRjdaU1QydmNzblFPYkNKN18?oc=5"
     },
     {
       "id": "n-18548e65ff5e207e",
@@ -116,11 +136,11 @@
     {
       "id": "n-899b3d4fc61d06bc",
       "title": "Oregon pension fund dials back private equity target in allocation overhaul",
-      "source": "Markets Group",
+      "source": "marketsgroup.org",
       "published_at": "2026-09-09T12:12:42Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Markets Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "marketsgroup.org가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0xmZExGLUQycEs5UFZjcHN2UHNPdEFCelNvelQ2dGpNQm51WVdVTTNCalpXSEZ6eEEwYVB4QkJCVXh0b0c5d1k4OERVVHBBb2o4TGlSbHJHaF9wUmwtRVhQMGtxVUV6M0lVdi1DRUNwSnRkNUg4RUxRX01qSmFZU2tHTkRIOVpFYkpNZi1YX3lQWWhlc2hSZ3R0NHlBcXVLR21uVnAwSl9Eb3Btb1E?oc=5"
     },
     {
@@ -196,11 +216,11 @@
     {
       "id": "n-108e67e36032511d",
       "title": "해외 부동산펀드, 설계부터 조인다…과거 손실·'최악 시나리오' 공개",
-      "source": "metroseoul.co.kr",
+      "source": "메트로신문",
       "published_at": "2026-09-09T05:31:18Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "metroseoul.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "메트로신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BV3YxQi1fSkpqbGVrLXlOdkhkUEdCa3lTbFg1X280Q2ttam50a2U3Uy0yN3pMQVRFOXVKT3R5dUc2UURyNU8xaDVIazFxUHVKTWdnUFJRb0tLQ3NLVFlmWQ?oc=5"
     },
     {
@@ -364,16 +384,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2lFNkJRbnJMY2RGcDVISTJWWnlzZGtYbHJmM0ZTandGc0thQXp4Njh2ODczWkRtUjg3cm1IcnpiTi1jNVFPNXkxWEc0SEpZYy04bng3RGp4cHJVTWtxMFI2aldLUllYcnlVSlR1Ym0zTFFXdExoaUZST3BEWGxvNEpuNkducks5N0NVUG1zZkUtNy1WalA2aEtQYTlhSWVWQXdKX1Jn?oc=5"
     },
     {
-      "id": "n-7b4630f8ed887b1a",
-      "title": "SEC wants to end pay-to-play prohibition for private equity",
-      "source": "axios.com",
-      "published_at": "2026-09-08T15:54:21Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "axios.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0TmduVnRPZ2VGM0FwX1JnTDItaUsyQmxzUXZEWGItT09nLWdpNHpvaWpfM3FhSmpWb3o4RFpuVGxZc01oTS1idEpNMDhrbzA3aFRPbldZN1FoWXlObDhVRjdaU1QydmNzblFPYkNKN18?oc=5"
-    },
-    {
       "id": "n-2cc0312aa8ba40c5",
       "title": "Gainline closes oversubscribed continuation fund for Core Health & Fitness, led by StepStone",
       "source": "Dealroom",
@@ -436,12 +446,22 @@
     {
       "id": "n-031fcf8fd7ecea5a",
       "title": "The company behind StairMaster gets fresh funding as StepStone leads",
-      "source": "stocktitan.net",
+      "source": "Stock Titan",
       "published_at": "2026-09-08T13:07:45Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "stocktitan.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Stock Titan가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQejYzWGhLUnJ4WkNhMmIwZ2M2UVdIcHN5MU1oclpteERXS01PMHdUaTBGdW1mT0VHQ0JPclFCRFJfZVRhaU5mcXI3TE9wNTk4N3Bra05qcDBjMy1iUG56ZVVVdjRCQXFVLWs1UjdRcVNSdE5yNG5HY2pCN2tfcV9DdHQzU2w5b1VULU9VRjdmUjk5VHVPOHNrekoyLUE3M3owQTNjc1JBenA4M0owaXdpY2k5RlVmdw?oc=5"
+    },
+    {
+      "id": "n-06ee4e44eda15d2a",
+      "title": "Apogem Capital Raises $597M to Close its Eleventh Private Equity Fund at its Hard Cap",
+      "source": "Business Wire",
+      "published_at": "2026-09-08T13:00:00Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Business Wire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSmRhZGxkZFJiTzNsSU9GekNzZUE2SS04d1R3RjM1V1FBQ3NEWnFhMHVHRVkxdXFiY2x2djJtR3YwNlBtNGVpeThvWEdIdDVSOVBVZ1pzYlh1S1N2ZHBGenUxOFNxSTlGTGRtaVJwM1BSUVljSnZPUS1McFhram45SmRhOWlrUDRkT2VRZUJPSHpVMmJKSzBUaUNhczFRMjZjZm9jeEpGVzdLTnU0RlpCMVBfT1AtX3VoRFlpcTUzNWNQbDZxcG1oaS1ya0V3RnJKWHhsSmFSbHhBdHJh?oc=5"
     },
     {
       "id": "n-0543727b08f0d068",
@@ -456,11 +476,11 @@
     {
       "id": "n-13880785c1714473",
       "title": "PennantPark Collects $745 Million for Credit Continuation Fund",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-09-08T11:00:00Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemFpYjVCeUVRWXQ0eGplbzN5dVRxNWFEdV9jOE5mMk1KMTNuTklsZW43Qjg3SDV5THhyVFQ5X3NkdWhfdllRTGFuMkdUQ1ppN0FHN0w4LVhGbHBnaDNqU2c1QkFsRmZnVkQ0Vkp3NldJOXA5MUN4NlRnRmhWQVp3S2NzUTlKNjlVaDV3QUZTTFZoWW9mYkxZR2dyRU50eFJGZDFSQlh6d2ZGQ09NMVNvS0dn?oc=5"
     },
     {
@@ -706,11 +726,11 @@
     {
       "id": "n-7d830ce437008542",
       "title": "Centrifuge launches blockchain-based CLO fund w...",
-      "source": "pluang.com",
+      "source": "Pluang",
       "published_at": "2026-09-07T09:31:33Z",
       "category": "CLO",
       "region": "Global",
-      "summary": "pluang.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Pluang가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTh4Y1lmRFN6ckFyclJabTlHQjNiOTVjY2VkaEc0ZHZhMGhRR0FObWU2TEtGS0tSS2NEeEJCVDlqZHdNQkdNZ004M0hXdFhFOU01OGh5RXdKV0NrYXlkYTllYlAzZGQwSDdLWUhjQmhBcVhJR0tHVFhJalQ3cW9tYzhXQ096VGlOdmF4Z3dn?oc=5"
     },
     {
@@ -906,11 +926,11 @@
     {
       "id": "n-c33cef4dc8203cc2",
       "title": "KKR Private Credit Fund Redemptions Cool After Hitting 5% Limit",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-09-04T09:46:34Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnJGMm10YWNic3V4TUV3TXBIMmpaTFNqeUthZWdzMFBCOGw1cGw3U2V2VnVqNm9fVGlobkstWGdmSmZsN0ROcW01WHU1NlZBT1JxZUhIY3ctaFFQUXc0bU1Nb2M5NXVQYmlER3U0MmpNUTh2MjdLN2hfX3o2V1pMMHI5ZlhxdENXcnJOSUpmcmVkaDVBSWZrd0lWbnp6Q3F4YzNTandvRV9ITDJRd0loTjctcw?oc=5"
     },
     {
@@ -1086,11 +1106,11 @@
     {
       "id": "n-1ba573cf03d38a22",
       "title": "Cliffwater Caps Private Credit Fund Again After 16% Want Out",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-09-03T20:18:57Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWg5VUVIeE1QcVdVZ3VpTWRUTFE1LWlSWE1KU0JpUHRrZW54RG1NVEpIdFh1aFE0enVlWEpSMS1NVTM4dTJWejI4cW5fRVRwcmdhcFZLLUVqRnM0NnIzVHAxWmZmN0Q1VWZLMGNIaTFSYXd0LVBfTFc0MGt5SlZQdlZnek5Db2R3bUZxNUVQXzFPd053M0JJWDh6b3c4SGNRS0lROEpvYzFiN2tENGhLYXpWX1A?oc=5"
     },
     {
@@ -1382,26 +1402,6 @@
       "region": "Global",
       "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYWEzbXpTZWUxdTVwUFhWME1GNTQ4Y18xOWstMHZaQ3FHTlJzYnI2MTJ4SUtXT1NCTHBDTnJNLTk4d0JvLUd5NzZYNFJ6TlNERW5XaklWcmJCT0twS0t1SzFkZGs1S1BlMVJzOFVvZzBob0JDd05tYTBRRk5VV0N5Q05IZjdCUQ?oc=5"
-    },
-    {
-      "id": "n-127019365abf6a79",
-      "title": "Mourant secures minority investment from MML Capital",
-      "source": "the-drawdown.com",
-      "published_at": "2026-09-03T07:00:00Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "the-drawdown.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3JhY0E1WkdfYm1DMXp3cV80b1dhNGtTOGhvLWMxbGsyYmlzOG9OV196NndJT3JMeTdaUlNCcldmVW9DZ0JBaFhjZHVZdG1YOEFVamI5dFpoWXBlcmEyTkdhQktBcnhiM05JUnl2bVZ2WFN5RmE5ZTlEbEpoaHlxdkd5eFhRcHZoS3JTRl9B?oc=5"
-    },
-    {
-      "id": "n-a12adb5b7e4231e9",
-      "title": "Charities To Boost Private Equity, Hedge Fund Allocations",
-      "source": "Wealth Briefing",
-      "published_at": "2026-09-03T06:45:20Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Wealth Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWm5YZDVQQ0wtaWJYVHczUVc1c0x0MHR3cjJNUDBGU0FIOWpCNWRaVFRUZnpQVUdUV3BUX24yWUdWUUROOXo0TG1XRWFhQW4xNFhnNFZBcnJncVZQb0tDTVdGUWpnb1lnZDQxWnJHRVpfOGJOMEFsUnhsby1lWEZnMGhDY0xydU9GcWQyZTZVN1lLanFnaHNRN2ozYnRlNHBWUi1yb3h4ZzI3T0E?oc=5"
     }
   ]
 }

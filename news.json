@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-09-09T23:17:41.209110Z",
+  "updated_at": "2026-09-10T04:46:46.031939Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-d28a0a11336838a5",
+      "title": "테더, 스테이블코인 사용 확대 위해 사모대출 펀드 출범",
+      "source": "한국경제",
+      "published_at": "2026-09-10T03:48:48Z",
+      "category": "국내 대체투자",
+      "region": "Korea",
+      "summary": "한국경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51UXg2VEVObjFxbmJqbFVJVmJXU0k3VUpuQXdOTjkwZUxVWG1CcEpacW95dVBrbDJwNWtFaDZDVkxWYndvbFhIcnp2ZUc5elFMa2ZkZVlEdzRoUQ?oc=5"
+    },
+    {
+      "id": "n-5ddd2bb47f6f649c",
+      "title": "3 Firms Build Peterson Partners' $510M Continuation Fund",
+      "source": "Law360",
+      "published_at": "2026-09-09T23:17:00Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Law360가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wR05iekZqcDU1ZTZDemdxOV9saVlyUDdGLWFka2xyVXdFTUtvLXRKY3BPWURDM19pX2NTUnR2dHBTaFkwRjYxSGgxa01sNktLV01IamFn0gFWQVVfeXFMT3BHTmJ6RmpwNTVlNkN6Z3E5X2xpWXJQN0YtYWRrbHJVd0VNS28tdEpjcE9ZREMzX2lfY1NSdHZ0cFNoWTBGNjFIaDFrTWw2S0tXTUhqYWc?oc=5"
+    },
+    {
+      "id": "n-4b40bbcbf4aa460f",
+      "title": "Fund Veteran Says Australia Private Credit Should Be Less Opaque",
+      "source": "Bloomberg.com",
+      "published_at": "2026-09-09T21:00:00Z",
+      "category": "Private Credit",
+      "region": "Asia Pacific",
+      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWFNHcnppOVVKdmxXM2REVDV4elJ0REQ3Z0ZpUVVBdFF0bGZPeWtsVG16dnJPNG5vVmV0TXZ5MDdUaEFhSGctTU5lcUMzUjNnMmlPQzJJWWNoMFBMTG8ydERUbF9tVFNLZVRObC1tcmU5SHJNNzdEeFhJVzVjYXl1MUVMRVdVMXlYbk9QNG9IN29WM25YY29jWVE0LVdIeEFCTXFwdWdUYnJCNWdqaGkwQ1ljV2Z0QQ?oc=5"
+    },
+    {
+      "id": "n-c19bd5e1e45e6edf",
+      "title": "J.P. Morgan Closes $1.1B Net-Lease Real Estate Fund",
+      "source": "connectmoney.com",
+      "published_at": "2026-09-09T17:30:03Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "connectmoney.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMC1JeGM4U25Fc2Ftb3FRYXl1Tm9vbXhNUjg2X1NZMVNzcnZLSXh6Yl9OdEVSYURZZzJHcjNhQ3p3blZBeHZCcDlkR0hSNzZhWU1Bd1RMNFRGTkpJNjN1V05pdXUxbmdXY21wTnZhaktOX0gtbFFOU0lKOS1Fa1MwZ3hPVkdNUzFRaFJwOUlzQW0?oc=5"
+    },
     {
       "id": "n-59de3891f1161f4c",
       "title": "Mississippi PERS Re-Ups With TPG Angelo Gordon Real Estate Fund",
@@ -86,11 +126,11 @@
     {
       "id": "n-2cda0bdf5a93c885",
       "title": "J.P. Morgan Asset Management Closes Inaugural U.S. Net Lease Fund with $1.1 Billion in Commitments",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "published_at": "2026-09-09T13:00:00Z",
       "category": "Real Estate",
       "region": "North America",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "tradingview.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTVNRamV6TEZla3R3eV9FTXZxUWpRRUdZUVg5dzJKNDU4bmZaQTVmTDNjN2g5dXJFQ2llOElCYTdlTVZ6T0ctRlJKeXJXdGZ2QUZSTjJNSGdDYUlkU3IxbzhpNzBJSG5ZOWR3Y0t5WHQtUUd0MU1uWEg5dnJwY0R4dWRzYjRud09OaW95dlB5OFNXVEl1anpzN0QwN0dIV0lXem1EdEctc3dNZml1ZHVsekI5VEVWRDJTM1pKRDhJNG1UaEFoZ3VMRXNEOFRpdWYxTWMxY2RhNzlKazdkMVYtdWhKUkRYcEt5c1VybA?oc=5"
     },
     {
@@ -136,11 +176,11 @@
     {
       "id": "n-899b3d4fc61d06bc",
       "title": "Oregon pension fund dials back private equity target in allocation overhaul",
-      "source": "marketsgroup.org",
+      "source": "Markets Group",
       "published_at": "2026-09-09T12:12:42Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "marketsgroup.org가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Markets Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0xmZExGLUQycEs5UFZjcHN2UHNPdEFCelNvelQ2dGpNQm51WVdVTTNCalpXSEZ6eEEwYVB4QkJCVXh0b0c5d1k4OERVVHBBb2o4TGlSbHJHaF9wUmwtRVhQMGtxVUV6M0lVdi1DRUNwSnRkNUg4RUxRX01qSmFZU2tHTkRIOVpFYkpNZi1YX3lQWWhlc2hSZ3R0NHlBcXVLR21uVnAwSl9Eb3Btb1E?oc=5"
     },
     {
@@ -182,6 +222,16 @@
       "region": "Global",
       "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2cxdFpRWDhxXzRhckxvUnNaLXFOR0xOQ0I2ZUZ0a2psb3ZvM0FXYkdYeDVtMUdPRHJYZ3RkN1ZIUUZRZy1aaEV6S3VKS1hJcDNobUVJZ2ZyNVhFSlVCZERrLTF4MmE1aHRJekY4ZU9wMDRQTVZ1NTJkNnN0M0w3Y3R2aTJaMS1EOFNsWTZ2VWlkQnIyWlRpSFRaT3NDektFdkItcGhxVDdITXhFaGNuUFJKZGVJSEprREJN?oc=5"
+    },
+    {
+      "id": "n-aaa17e9349bf465e",
+      "title": "Peterson Partners raises $510m continuation fund for Kelso Industries",
+      "source": "pehub.com",
+      "published_at": "2026-09-09T08:53:25Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "pehub.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3pVUW1rZHY0UzhvbW41UXFhdUFRUGtXS0dXTE1SRDRicmZ1NVVyRDk5UXNoNlVZTmQtaFFiRXJqR3YwaDdEcGR3NnVfelFsalpCSzB3YTN1c1lZTzRPS09fQk5ibFJPSWVLNzFobGdIUl8xRUN2ZWdRMThTZVE2X1pUSVFxZ2NnbVBpdzBmNS1lemNySUE?oc=5"
     },
     {
       "id": "n-672facf43df6c32b",
@@ -476,11 +526,11 @@
     {
       "id": "n-13880785c1714473",
       "title": "PennantPark Collects $745 Million for Credit Continuation Fund",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_at": "2026-09-08T11:00:00Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemFpYjVCeUVRWXQ0eGplbzN5dVRxNWFEdV9jOE5mMk1KMTNuTklsZW43Qjg3SDV5THhyVFQ5X3NkdWhfdllRTGFuMkdUQ1ppN0FHN0w4LVhGbHBnaDNqU2c1QkFsRmZnVkQ0Vkp3NldJOXA5MUN4NlRnRmhWQVp3S2NzUTlKNjlVaDV3QUZTTFZoWW9mYkxZR2dyRU50eFJGZDFSQlh6d2ZGQ09NMVNvS0dn?oc=5"
     },
     {
@@ -886,11 +936,11 @@
     {
       "id": "n-fd45afb41f734e32",
       "title": "UniCredit Bank Romania completes 667 mln euro synthetic securitisation deal",
-      "source": "SeeNews",
+      "source": "seenews.com",
       "published_at": "2026-09-04T11:48:39Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "SeeNews가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "seenews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTTVRMjlkTmszMTJrd1MzZjlDU3lGUGJTNlh0UF9SNGp3NWItTDVNZjduWGhSNFJTTTVKNnhFcEJ1Y3E2MlhGbEhpbFBxWmlsLUhzazhpY09XRXV6WGtXZXlBVVk3RVMwQnZjME5vd3FjNm9qM05mSVlNTG4ycjYyYWhDd1pmdkluX1g4WEkyZU5xdVlVS1BOdGVUSHJtT2JIRlNtSkxBbmhBaVVB?oc=5"
     },
     {
@@ -926,11 +976,11 @@
     {
       "id": "n-c33cef4dc8203cc2",
       "title": "KKR Private Credit Fund Redemptions Cool After Hitting 5% Limit",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_at": "2026-09-04T09:46:34Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnJGMm10YWNic3V4TUV3TXBIMmpaTFNqeUthZWdzMFBCOGw1cGw3U2V2VnVqNm9fVGlobkstWGdmSmZsN0ROcW01WHU1NlZBT1JxZUhIY3ctaFFQUXc0bU1Nb2M5NXVQYmlER3U0MmpNUTh2MjdLN2hfX3o2V1pMMHI5ZlhxdENXcnJOSUpmcmVkaDVBSWZrd0lWbnp6Q3F4YzNTandvRV9ITDJRd0loTjctcw?oc=5"
     },
     {
@@ -1106,11 +1156,11 @@
     {
       "id": "n-1ba573cf03d38a22",
       "title": "Cliffwater Caps Private Credit Fund Again After 16% Want Out",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_at": "2026-09-03T20:18:57Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWg5VUVIeE1QcVdVZ3VpTWRUTFE1LWlSWE1KU0JpUHRrZW54RG1NVEpIdFh1aFE0enVlWEpSMS1NVTM4dTJWejI4cW5fRVRwcmdhcFZLLUVqRnM0NnIzVHAxWmZmN0Q1VWZLMGNIaTFSYXd0LVBfTFc0MGt5SlZQdlZnek5Db2R3bUZxNUVQXzFPd053M0JJWDh6b3c4SGNRS0lROEpvYzFiN2tENGhLYXpWX1A?oc=5"
     },
     {
@@ -1266,11 +1316,11 @@
     {
       "id": "n-f66d24253c10b780",
       "title": "ABF Deal Digest: Felicitas cuts US$10m RCF, Lendi launches loan verification platform",
-      "source": "structuredcreditinvestor.com",
+      "source": "Structured Credit Investor",
       "published_at": "2026-09-03T11:42:29Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPOFhtU1lDME5BYktpRkNZWDhtMFVFRXVkT2tYVHdYelpUbHNxTTh3akZDaGtlb2dFYTZaZlVQMVZ5N0J0WjNmem8wY1pvYTRFWUxRXzJDVUZzam1obkhRRWk0ZEJtT1hRWU92cEZyWXUwdmF3UF9HSGxnNlc4bWxaOFBDTG1XLTZSV1NLemhDWE15T2xNSFNwcUJCSnFBNkJnNG0xWDFCOHkwRHg5MHlMaGNUSG9JSkJsNFpnZFN4NGRRanctaU9jaTRSSWY3bjZydTJUcDNFazgyZGJXU0lNbGI0Ri1sM1VJMzdHNHdHUlk0SVc0MzJYV1FLMA?oc=5"
     },
     {
@@ -1352,56 +1402,6 @@
       "region": "Global",
       "summary": "Stock Titan가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4OU9UVjkzNzdUVlBnWGdUbzVHdk1tUF9helllNFRwYlFLcS10Y3NVNXBHdXpxYUZheFlYYVpHcXJrQS1LZEZBVW1pcmhwdmJKbWdWTjlCZ0cxY1hFbTNUdXU1Uno?oc=5"
-    },
-    {
-      "id": "n-1d9de02abc735c09",
-      "title": "Data centers can catalyze infrastructure upgrades: APDCA",
-      "source": "TNGlobal",
-      "published_at": "2026-09-03T09:47:36Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "TNGlobal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0V0UWRBZHhoZnpaM0dIbHdfNVJiSGlocTd0Zm5BYjVXYlJwbmRSTDh4bUV2bi1nRUdGcjZ1QUkwVUVpMkdxV0o5ZnltZFpvNnM4WUFBa2ctczdHdjVJN0t4WUVZX1VJY1R2bDdwMjQyaFRMLVpjN2d3QVNmZk0ybnNBbWdQYmdCZE9JLVlQeVNvYUlXU0E?oc=5"
-    },
-    {
-      "id": "n-1b7d5233350c9a85",
-      "title": "No, YOUR customer",
-      "source": "The Drawdown",
-      "published_at": "2026-09-03T08:20:09Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10NGZCZGxqX2RTQXdCc3V3NTVtaUlJaXJXMENBQmdCQ3BnSTB0aXJhaDNURER6OFpnOHRhQUh1SVYyR3NSOTJEcEo4WUV1M1djSnVSeE5XT1RmbWthOEE?oc=5"
-    },
-    {
-      "id": "n-209c791f8fbdb25b",
-      "title": "National Infrastructure Bank: Proposals in the 119th Congress",
-      "source": "EveryCRSReport.com",
-      "published_at": "2026-09-03T07:22:05Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "EveryCRSReport.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Bb0x6WFJTUFhpMDV6dVpkanJ2UTJHWXFLNkJJLWt2STZEai1jMVV3Q3NRU3ZqaGRXWk5QZmpINjBsS1djZE4yY0lrejNyU3ZqbzVLNVE1MVQ4NUg2RFQwWQ?oc=5"
-    },
-    {
-      "id": "n-f112b8b6937bff52",
-      "title": "Closing remarks at 2026 Global Business Summit on Belt and Road Infrastructure Investment to Accelerate the SDGs",
-      "source": "Welcome to the United Nations",
-      "published_at": "2026-09-03T07:00:00Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "Welcome to the United Nations가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTlQcTNEZXF6WVVHVmYxN2k3VjFnXzVqQnR1YTQ1dGRGdlNIZXktV2dvemxlUXhUQUNmSjFVOTZlOE9LanF3eGpyUkRmUWdaZW5HUFZHdWwyWGxyVE56cmlnNjJZaFQtVktUdGFGbE9xMW1Sd3M5THBySlo4SS04TUhuaFhRV3FSLXVRWWZKTGltRENGMVUwYUdvNkRoSG1fb3dZNFlOZWJwd1FrVTZoeUlUYw?oc=5"
-    },
-    {
-      "id": "n-f4ed5a53c57262ae",
-      "title": "Asante Capital appoints two managing directors",
-      "source": "The Drawdown",
-      "published_at": "2026-09-03T07:00:00Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "The Drawdown가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYWEzbXpTZWUxdTVwUFhWME1GNTQ4Y18xOWstMHZaQ3FHTlJzYnI2MTJ4SUtXT1NCTHBDTnJNLTk4d0JvLUd5NzZYNFJ6TlNERW5XaklWcmJCT0twS0t1SzFkZGs1S1BlMVJzOFVvZzBob0JDd05tYTBRRk5VV0N5Q05IZjdCUQ?oc=5"
     }
   ]
 }

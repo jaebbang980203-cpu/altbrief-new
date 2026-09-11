@@ -1,17 +1,27 @@
 {
-  "updated_at": "2026-09-11T16:30:59.586156Z",
+  "updated_at": "2026-09-11T20:59:54.242015Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
     {
       "id": "n-f7a5a10b2e41aa0d",
       "title": "Why asset managers are pursuing specialist M&A to add alts strategies",
-      "source": "Pensions & Investments",
+      "source": "pionline.com",
       "published_at": "2026-09-11T16:16:00Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "pionline.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYXhkbnRzZWc2Mm9XeVVEYk5aOEFSaXNVTFNXbWIyLVRrUUExdXUydjlJYWxIbHdydzdodG9qaVM0aXU3OGtjd3FuSDItSnZKV29TamRGdW1IRl9MbzJaQVl0aWJNTS1UT2xjNHp5c25QLVJfRmI4N0lUZXRuYW5NdE8yUHpkU2ZOTnVyclVfdjNrTGIweXh1Z3Rjb0lPNDRPd3RYa3otSFNqdkV2?oc=5"
+    },
+    {
+      "id": "n-021f157cfc730d26",
+      "title": "BlackRock private credit fund redemption requests ease in third quarter",
+      "source": "Reuters",
+      "published_at": "2026-09-11T14:48:50Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Reuters가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUthWGFLV0hpbDF5VkYzRDJVc093bEI5UGM0Y1lLMkVwQnJyRDhCSlRKVmEtYnVkSEJEczgyQ090ZHU2MXZ1R1JLck50cEhuWjVQRFJkV2dOSVppdUdPdndlZ0RZT1NXZkljZkpOczZlSDk4aFFmVkI2MTd1ZEpsY2EzcXdORGdHb09ycVJ1NDhwRVE0WnpnVExKcUYwTVVaekdpbUZab0s?oc=5"
     },
     {
       "id": "n-9d281e0bbbc9e003",
@@ -32,16 +42,6 @@
       "region": "Global",
       "summary": "ETF Database가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0U4T090N0EtWFgzRVpyek42NmUtZk82eHAzMDc0NWd5S1BwTVdPaHppS0NOQnZ0Ukxha0NyMmN3QVRsZl9nV245YmQwaU9fU3pPNnlnQUY2T2luaW9XOUsxOUhUQk1GeVhtbWJJUjlPLU1sTWtXajBSTk9WQWRiZmliNHdURGc?oc=5"
-    },
-    {
-      "id": "n-ff3968b50fb6f3d8",
-      "title": "BlackRock private credit fund redemption requests ease in third quarter",
-      "source": "Euronext Markets: Real-time Stock Market Data | live",
-      "published_at": "2026-09-11T13:21:07Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "Euronext Markets: Real-time Stock Market Data | live가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWI4azZOai01WVFSWG1ZVzJ4STZyTmJ1S1RkbU1VbU1QN21XS0VxdExuRjdmMmxsdklVZ3dsejM5ZnJ6cl9qLVM3elhBN1lqd3BMZDRFTTdLcUI4a1J5N19hR0R0NVhmUmFlZ0JmRDA1MEZjUm5ub2E0R0I5djNFY2l2UTRJZUlLa29Kakc3cUt3MTRJMWtkWWwwcXBIRl95UVg3TVhWSmJacXZKdHJWNkV3?oc=5"
     },
     {
       "id": "n-9511b18ccaf6243a",
@@ -66,11 +66,11 @@
     {
       "id": "n-7713d81ff1f97708",
       "title": "How Spain’s draft data center rules could transform digital infrastructure investment",
-      "source": "aoshearman.com",
+      "source": "A&O Shearman",
       "published_at": "2026-09-11T11:27:43Z",
       "category": "Infrastructure",
       "region": "Europe",
-      "summary": "aoshearman.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "A&O Shearman가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUt0cmVHX3NIeUw3ZWRZOEsxYm1tUm1FOVRwdGJFY3dsRjcxRFM1NWpTcS1PdGJ6ZUpFMnJGRmFHMlFVeGFmbExFeXA1WDJhNkhJTF9sRHpJcFZVSVA0WUhLdl9qV09nTHZyNmtVWkdyOEpwOEcwQVdoNFh1Nk5SOEItMElROVQ1VWxtRUJBaHFuYVNGV0FNX3p6MEdfR2h5VF9UMWdUZExrU2FvSWc4cnI1b1BaYXNwVURVOFl1RXY?oc=5"
     },
     {
@@ -246,22 +246,32 @@
     {
       "id": "n-3089d7fa7864d4d0",
       "title": "Arini Nears $4 Billion Final Close of First Direct Lending Fund",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "published_at": "2026-09-10T07:40:57Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWklSWVVMSUJfcWN1cWprYVdLR3p1dEFrUlFWbndDUTlHd01IN1FYU1RPRTNTZzNzb2NMZlA3cDFPWFFNVml5cTFmaEd2WEZDR2o1M214bTR6QjlfcEJDdmpDSjhEUGc4U1N3ekMwaXJFNy13c2YxLTNJWHNMYlkwbjNCUElQbFBqQXdpNU5SWlUwbFV1UTNiRnFDRFNBSjRSYTFmX1JGejRCbktFSmdCQktZSQ?oc=5"
     },
     {
       "id": "n-a3aca4d6d8a05783",
       "title": "Nigeria Shifts From Regulation to Market Enablement to Attract Digital Infrastructure Investment",
-      "source": "techafricanews.com",
+      "source": "TechAfrica News",
       "published_at": "2026-09-10T07:29:30Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "techafricanews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "TechAfrica News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWlwZ1Nxdl92Ny1JY0tUaXM4bG85R0hESmRtM1JGNHY0R25FbEJqY09ZMzF3Y0VvOWlzSzEzWld6SWFBOEtuNEdYUUxoVjA4RUpDTEI5YjdqNENHbzBNSnlSN3U0T0Ytb25ELXZuWFhxSE9fLWFTeThVZzljaGVGS0taWnpKQmZDYTJsdmNSOXZFRkFvQkR3cGhsMEgxc0p5TU1iOVNvMkU1MjFCVDlKcUctRUY2eW8?oc=5"
+    },
+    {
+      "id": "n-837f0a35adf29e9a",
+      "title": "Bain Capital hires head of real estate debt capital markets",
+      "source": "Green Street News",
+      "published_at": "2026-09-10T07:04:54Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "Green Street News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFJPYU5qMTZVYW5oRVlZbXRvdUF2cmplWGNDXzhoV1AzTzdyNjNjOFM0NkxKVHNMTm5ycEZOMF8wTnZFVkxBVVpoX3dpbUtlbnJzS3g1NFU5aUt6elRFaXZLTnpnUlhzcElhNXUtanJGM3hObnZTSXVYRVRnNEp0TWtDcUNKZnhacERhMjJmc3BndmVDc3pPUzVYQW0?oc=5"
     },
     {
       "id": "n-cf324b34b2bed9ef",
@@ -396,11 +406,11 @@
     {
       "id": "n-5691d9ce94902b02",
       "title": "Tether pushes into private credit with $400 million fund with Fasanara",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "published_at": "2026-09-09T15:51:25Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "coindesk.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "CoinDesk가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUE9oZmFhZlZWRjRaWENXamd5V3VjWEozYnBlR0plSVUycDYxak91M0FCeWFhNE5xSTM5c2NiT2lJekpudkxzeHVkZEx6QVl3TU8xVTB6Z1FVY3h2SDlTaFE0Y015Z3h2Q2hzckQ3a3hFM1d5aWFrTElYaGhmZG02MzlvX1FndVBTNG5kaERVMlRVRWxKOUphY3VjMmF0Skh2Q01ESW9uV1BUdWVjU19LSl9zVDhNNEJa?oc=5"
     },
     {
@@ -456,11 +466,11 @@
     {
       "id": "n-18548e65ff5e207e",
       "title": "Ghana and France Discuss Telecoms Cooperation and Digital Infrastructure Investment",
-      "source": "techafricanews.com",
+      "source": "TechAfrica News",
       "published_at": "2026-09-09T12:48:45Z",
       "category": "Infrastructure",
       "region": "Europe",
-      "summary": "techafricanews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "TechAfrica News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTkJHMFpIUnhhMVFRb2Q5d3pVMXdSVXNpTWlvVnkyck82M3EwdTBzQV9VTFQ1Rnk0a2dxSzJmM251RkNmR2NsR0l5cGVCMDA0OXVFeTBWUnpIM01vcFFZM3U4UVRkUUxiNUVONXFvOFZYVGpMX3BocDBQTXlKNDBwNzR6T2RZZ1p2S2N1ZC1DYl9BSVNJMGhIOXBwLW5GREgzRUF3c1RGNTFFVzZVOUJNSTVFdXc?oc=5"
     },
     {
@@ -486,21 +496,21 @@
     {
       "id": "n-899b3d4fc61d06bc",
       "title": "Oregon pension fund dials back private equity target in allocation overhaul",
-      "source": "marketsgroup.org",
+      "source": "Markets Group",
       "published_at": "2026-09-09T12:12:42Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "marketsgroup.org가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Markets Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0xmZExGLUQycEs5UFZjcHN2UHNPdEFCelNvelQ2dGpNQm51WVdVTTNCalpXSEZ6eEEwYVB4QkJCVXh0b0c5d1k4OERVVHBBb2o4TGlSbHJHaF9wUmwtRVhQMGtxVUV6M0lVdi1DRUNwSnRkNUg4RUxRX01qSmFZU2tHTkRIOVpFYkpNZi1YX3lQWWhlc2hSZ3R0NHlBcXVLR21uVnAwSl9Eb3Btb1E?oc=5"
     },
     {
       "id": "n-0d3c406a09ad8622",
       "title": "Tether and Fasanara Capital Launch $400 Million Private Credit Fund to Expand Stablecoin-Enabled Real-Economy Lending",
-      "source": "Tether.io",
+      "source": "tether.io",
       "published_at": "2026-09-09T12:02:08Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Tether.io가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "tether.io가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQjBrWUo1MW1kblJwUUVBeldpYWI0MHhxYy14b0U2MWlXVW82SmF3QVh6Qm1DWGY4MVJSSG90dWJHem5EdVN0QVR0N01OdTFsdS1nQlVWaTE2eGpSU1I0VXRYZ2VNTEItZ3ZyYThfald4OVFBZUNfZmk0OVpJMUo1aHdONFRPT1dSLVA4UmFVczJvRWhXX1FobzdnZHh5TWNfZThqMmpBdzl2LXlETGpUR1lPQjRDYmpSRlV2SWRsLUlJYzdkaE9zYy1RWU8zTldPVVNUeV9xcw?oc=5"
     },
     {
@@ -696,11 +706,11 @@
     {
       "id": "n-ca4fe309ffee20ea",
       "title": "임대료 나와도 전액손실…금감원, 해외 부동산펀드 ‘엄격 심사’",
-      "source": "조세일보",
+      "source": "joseilbo.com",
       "published_at": "2026-09-09T01:00:00Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "조세일보가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "joseilbo.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PcV9rMTBJaUVWVVVIdmF3em5mc0VJWEk0cUxOTFItVnctVHVTSHBmYXdGNDJ3NER0Zzk0dTV0TTdjTENRY0pWWEU3NmVfNHRQQ1VVWFQzUlpyOHVSSmQzZHlGWXRsMmlDLTNEQ20wWQ?oc=5"
     },
     {
@@ -716,21 +726,21 @@
     {
       "id": "n-43c3371df00dd858",
       "title": "Apogem Capital Closes Eleventh Private Equity Fund At $597 Million",
-      "source": "pulse2.com",
+      "source": "Pulse 2.0",
       "published_at": "2026-09-08T19:21:15Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "pulse2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZGJqbGw0S21yd2xmN3RLdGVnU0o5VFVYQS1GcHJkQldfYkYwLXItYVJFbmw5d3pJZm1NNkpfNEw5SFF3b1VCb1cyVTBYaDhYdW9jMmU1X3c1dnZSV0ctU3pNbnRSbFJtRmtwV2U2MHllQnVpTThhLVlvZW1mSHBQdGY1a09PVTRtSU5QN0Fn0gGTAUFVX3lxTE1IUjRCYUUyVEpOcUtsYVliY0g1Yld3WjMxeWZJcC1SQjk3eEFhMXA1RWQ0VURudjlrclBxM09KMzBCV1U0N21hM1lOdldUNnJQZkU0VWEwZGVvbTJBMndvbWdBSnY5MUhzUmlpdHpJRzdWWkpEbnd2VFZVZk4zd041MTJTYzR0R0JZZWVDbFVwRThxSQ?oc=5"
     },
     {
       "id": "n-cd4d54681d5dfb2b",
       "title": "Blackstone private credit fund continues to restrict investors selling shares.",
-      "source": "investmentnews.com",
+      "source": "InvestmentNews",
       "published_at": "2026-09-08T19:17:24Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "investmentnews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "InvestmentNews가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOWFLXzUyR2hKdmp3U1hWZVREUkIwNXVtSWExT01wVlRMR0lELTU2THU1alVnVnJ4WmFDbkxsem95SnFyN3IzRWFYRU1JYWp5WlNacFBEaFBGUklKZXhhVDN1ZHVBclB6TG01UHRRSlgwS2FYUnMxRFMtWW1UUTZ5eVZmMHpIdkRBVU5sQzY1T3NRaHVsMTdKZWIzakxzVk13bUc0OHVTekJEeFFyVk9uWnpnVVh6NWFqYWFFWTV0SXhhSllHQ1ow?oc=5"
     },
     {
@@ -856,11 +866,11 @@
     {
       "id": "n-13880785c1714473",
       "title": "PennantPark Collects $745 Million for Credit Continuation Fund",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "published_at": "2026-09-08T11:00:00Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemFpYjVCeUVRWXQ0eGplbzN5dVRxNWFEdV9jOE5mMk1KMTNuTklsZW43Qjg3SDV5THhyVFQ5X3NkdWhfdllRTGFuMkdUQ1ppN0FHN0w4LVhGbHBnaDNqU2c1QkFsRmZnVkQ0Vkp3NldJOXA5MUN4NlRnRmhWQVp3S2NzUTlKNjlVaDV3QUZTTFZoWW9mYkxZR2dyRU50eFJGZDFSQlh6d2ZGQ09NMVNvS0dn?oc=5"
     },
     {
@@ -1116,11 +1126,11 @@
     {
       "id": "n-1350c88fa011925c",
       "title": "NIIF brings in PAG private equity fundraising head",
-      "source": "AltAssets Private Equity News",
+      "source": "altassets.net",
       "published_at": "2026-09-07T10:03:36Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "AltAssets Private Equity News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "altassets.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc0NDYmJCN2NjdklBall5QlNkV2c4YlBZMlZJNFFXcXRON0VrcTJiUUlOOG5tajRfaFRnYmRQc3JDRzRKdHhrN3RNWU9NY2N2NzNYYkYtSlZIeFZLNmZTUUZ0X2haeGZKZmhMTTFTZk9ydENSeDY4Q2hialJ1T3BtVEgxVzg5SzhIWWw2RENpemozTkRKUXdiajdxM0VwWUgwNEZ4cnBEVGU2ZmpFa0hHS1dSUmRNMEpDZHJGcElWYWg2TFIyWW9jU1JBUnI0N0Z2VWlIMVg4RHExZVQzQnRYVw?oc=5"
     },
     {
@@ -1306,11 +1316,11 @@
     {
       "id": "n-b49bcda1032b2f09",
       "title": "A Growing Risk in Private Credit and How to Assess It",
-      "source": "morningstar.com",
+      "source": "Morningstar",
       "published_at": "2026-09-04T11:16:01Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "morningstar.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Morningstar가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNHhsMk9ld2Q5UEtTTThWS3lfd0dPNjRqcERtNTlIdGtVZVhWaXBIanVNM0QwbUVvbC1WeVdQSTFjRVotSkFnbF9NTE1WdmFjTHUxRm9UaFdJSGJ6VzZ0b1hBV2JlR0F6Zy05MGlXRzNOMlZOODNKOHBXSG00Y1VYdkc1a1JyVFpFQS1PSXVKeHVkcklVdFZwWg?oc=5"
     },
     {
@@ -1326,11 +1336,11 @@
     {
       "id": "n-c33cef4dc8203cc2",
       "title": "KKR Private Credit Fund Redemptions Cool After Hitting 5% Limit",
-      "source": "Bloomberg.com",
+      "source": "bloomberg.com",
       "published_at": "2026-09-04T09:46:34Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnJGMm10YWNic3V4TUV3TXBIMmpaTFNqeUthZWdzMFBCOGw1cGw3U2V2VnVqNm9fVGlobkstWGdmSmZsN0ROcW01WHU1NlZBT1JxZUhIY3ctaFFQUXc0bU1Nb2M5NXVQYmlER3U0MmpNUTh2MjdLN2hfX3o2V1pMMHI5ZlhxdENXcnJOSUpmcmVkaDVBSWZrd0lWbnp6Q3F4YzNTandvRV9ITDJRd0loTjctcw?oc=5"
     },
     {
@@ -1392,16 +1402,6 @@
       "region": "Global",
       "summary": "The Daily Upside가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQnVhcG5LQVloRnpSVE1KM0JhdmRDMXNjaGNZOHpMeVVpNzQ2d01aZ2RWX09YenVPSzBIbW96b203SVNDWkhFR3dxWFR5QWY2YTFUV0VQS3hnd29CUHI1d3NCMGdDMFJ6Nm1tRTd5Skl4NWlEV0RnWWFJWTY0dnlGbXNiRkM1bm82YS11a2lncGgyMWlrdV9IVjRkNS1zOTZhOG1mMnlKMjRZS3d2aEdlaXl1R3RGTm5YemF1M1NHME1sd3B3aWxKRU14R0J2V1Jm?oc=5"
-    },
-    {
-      "id": "n-e026566228e8b1d0",
-      "title": "Meta unveils massive Kuna data center with eco-friendly design, $100M in city infrastructure investment",
-      "source": "KTVB",
-      "published_at": "2026-09-04T03:36:00Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "KTVB가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSEtDaUVKMGZBbGNBR3FEZjVUM2dFWmJqMGVCRkR1QnRoblFZeHN0SEMwQkU4clg0NHV4U1RsUHVwYm5oRjlqMXdSRHpEZVVnMk5TcnE5Y0dIN2NfRlhCUmktNFk1M2tKZVdYcmlMRHVGc1NJMUVlYmxPTXZjSi01UWVJYUliQ25kQm10VWJaYzZhTVl3WXVKMmhpaHlXdEltN0QtN2djSzYtUS0xdTZhclplaHhRanhKSl91YnA3OHJpNTZmREJEQ1IzRHN3bllIUDdMdWV1R3dZeEZVM3JWY21SSjZvV2lxSEF5NWlvQVNMdjN1VnBfblhEemc3Y0o0eTNYV2h0MA?oc=5"
     }
   ]
 }

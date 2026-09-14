@@ -1,23 +1,33 @@
 {
-  "updated_at": "2026-09-14T19:51:23.753720Z",
+  "updated_at": "2026-09-14T23:53:04.059944Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
     {
+      "id": "n-af3fa2d7a5b59365",
+      "title": "Mountain Point Credit Adds Former Citi Executive Matteo Nadalutti to Trading Team",
+      "source": "citybiz",
+      "published_at": "2026-09-14T20:05:37Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "citybiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2N3cjRsVlB1UXpEZFowRU9Fdm5aWVlHLTJGYkhJN3NuekhjdGV0bEpTNEhoOE1zRzFBdHNLS05uQ2U3THJ4b3Y4Z1liRXpfWjNzdnFHOXBTaG1RYVVwSGZ6dWsxMERnWXo1bDhHQWtFOUxMemVBUGoxVnBXX2hKWmkxVVBjbklnbENjdFE2VUVBMTNnZUNNc3NNN0tlTnh5aElUOW8waVhGT290aThFazU4a0Z6WUpxVDVaag?oc=5"
+    },
+    {
       "id": "n-2d73a828dcfa9b63",
       "title": "Battery Global Advisors closes $208M digital infrastructure fund, beating its target",
-      "source": "Dealroom",
+      "source": "app.dealroom.co",
       "published_at": "2026-09-14T19:43:39Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "app.dealroom.co가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS25yRUx0YWw5VWphUG0zSllieUYxUnRMZXN6ampvc213RHd6WDVQTWJpUk1rcUoyZHRuQXM0Qlpwd01veDI2dFdtMHo0dHRKSnpFV2trQkRLRUlhU3R4VEMwZGsxblhIZEpIVldhZndEZ1lDeTdrLTJVYnVsS3VBVTNLMk41UllMWGc3amlZcGdoMUliUkF1eXNfUzdFN0M4NXp6MGRyM2xSbmszZXp2M2J1ell3MWs?oc=5"
     },
     {
       "id": "n-fc59bc07d7fa7159",
       "title": "Blue Owl Real Estate Fund VII nears $8bn en route to $9bn hard cap",
       "source": "IPE Real Assets",
-      "published_at": "2026-09-14T17:52:10Z",
+      "published_at": "2026-09-14T19:21:06Z",
       "category": "Real Estate",
       "region": "Global",
       "summary": "IPE Real Assets가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -26,12 +36,22 @@
     {
       "id": "n-2e997993c8d2b9ae",
       "title": "Ukraine proposes energy truce with Russia, awaits Moscow’s response",
-      "source": "Crypto Briefing",
+      "source": "cryptobriefing.com",
       "published_at": "2026-09-14T16:12:53Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "cryptobriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjh3QW1OdnZrSmpoUHZISGJLMVpvQktFX05BZUJnWHNDRGtlWXQtZDhrLUtfZXU1WTEwVms5T2poOGtENEdJdU1vb1BvVWNUelhSN1ZWS1AtTlVIWFVWUW9CbHhQU19vNmEzVWdRWi1LWkQ1aVIzOTNFNnU3SkJERThKU1IxRXNHVzRURl9PM1RCaDEzaEZXRw?oc=5"
+    },
+    {
+      "id": "n-a4fc6465c21b2608",
+      "title": "European banks ramp up $17.5 billion in synthetic risk-transfer deals",
+      "source": "cryptobriefing.com",
+      "published_at": "2026-09-14T16:09:04Z",
+      "category": "SRT",
+      "region": "Europe",
+      "summary": "cryptobriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yN2ZILTd0eG5Hb0lwd0JKY3dhajRqU0tGWUw3MWh6QTQ5ZUJCcUFXQjVwUDVlN2ZJNnRzQzRsb3l1Qmc1WUR5Y3ZvQUx6SEVxbHhPX2dIN0ZrMlMwbWp5UWFHdXhmakhaQjFqSWdWMENoV3d4MzFoT3V2Zw?oc=5"
     },
     {
       "id": "n-a4fc6465c21b2608",
@@ -44,24 +64,34 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yN2ZILTd0eG5Hb0lwd0JKY3dhajRqU0tGWUw3MWh6QTQ5ZUJCcUFXQjVwUDVlN2ZJNnRzQzRsb3l1Qmc1WUR5Y3ZvQUx6SEVxbHhPX2dIN0ZrMlMwbWp5UWFHdXhmakhaQjFqSWdWMENoV3d4MzFoT3V2Zw?oc=5"
     },
     {
-      "id": "n-a129d154caaa4d24",
-      "title": "Barings Names Ankit Aggarwal Head of Global CLO Issuance and Capital Markets",
-      "source": "citybiz",
-      "published_at": "2026-09-14T14:44:28Z",
-      "category": "CLO",
-      "region": "Global",
-      "summary": "citybiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2xlZ1JzT1BsYUFUdXdlVG5VYjJSRG5MZmdDeER6M2xkcFJOaG41LUxWTVNnUzRYeFlXeVhQLS0tZ2hsYlF3ZHBzcjFrQkd6TWtjYlBqVkxfRi1raTZ6d1Rla0lrWG9lQVY5cXc0eUtYMjBDUmN6ZjVVbHFfXzcwc1dzeUhwQTQ5ODB5LUdqekFkaUhmcFNQSzc0UDZRcXNzcVJ0UklZbFRJS3Zic1RLeWxmVF93Zw?oc=5"
+      "id": "n-686acfbadf67000f",
+      "title": "European Banks Line Up Loan Risk Transfer Deals",
+      "source": "Finimize",
+      "published_at": "2026-09-14T14:52:36Z",
+      "category": "SRT",
+      "region": "Europe",
+      "summary": "Finimize가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSGpOMmNWbWhTRmZHZmhyaGpwLU5nUHE4YmFlWWMyVEctVFBkcDcweTAwWkJTOE1Da2hiYng3Z1JLX09sbGRXcWVIMWY1MFRYckJMUU5xNlF2VE1WS3BJM3EtVl8wQmx5QTZRb2xGTkIwNUltR1BzcHp5Z090RmxocnJn?oc=5"
     },
     {
       "id": "n-b9b747004196b84a",
       "title": "European Banks Line Up Big Risk-Transfer Deals",
       "source": "Finimize",
-      "published_at": "2026-09-14T14:40:29Z",
+      "published_at": "2026-09-14T14:52:29Z",
       "category": "SRT",
       "region": "Europe",
       "summary": "Finimize가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZUVrUEx0d25IZUE2LWNKX1RDSF9kd3RiUDhRYUFETS1acE1GRnpySDRmZVVqcE1MX2FaQkFFWlJwZDJMV1dJYkNZRUNubnNxdG5Wd1FDMFBaOFZrVmRyaDNGYms0eTcxQ1hfNmZtNkNNSmpzVExBU2JQelZVdlA0Tw?oc=5"
+    },
+    {
+      "id": "n-a129d154caaa4d24",
+      "title": "Barings Names Ankit Aggarwal Head of Global CLO Issuance and Capital Markets",
+      "source": "citybiz",
+      "published_at": "2026-09-14T14:44:43Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "citybiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2xlZ1JzT1BsYUFUdXdlVG5VYjJSRG5MZmdDeER6M2xkcFJOaG41LUxWTVNnUzRYeFlXeVhQLS0tZ2hsYlF3ZHBzcjFrQkd6TWtjYlBqVkxfRi1raTZ6d1Rla0lrWG9lQVY5cXc0eUtYMjBDUmN6ZjVVbHFfXzcwc1dzeUhwQTQ5ODB5LUdqekFkaUhmcFNQSzc0UDZRcXNzcVJ0UklZbFRJS3Zic1RLeWxmVF93Zw?oc=5"
     },
     {
       "id": "n-50b27a18ba4dfd39",
@@ -72,16 +102,6 @@
       "region": "Global",
       "summary": "Proactive financial news가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQazZMOXhweE5iTzJHanU3UnBheG01R2ZEcFh2WGdyell6enZ5bzBoVUJVOFczd01YZnVxNTFjcjFHZTFVSDBTY2t0ZDJpRl9rektXak1SX0llaGxyVXViRURPT2VDMjRvT1VMbnFvbUx1RmpINS1adXlhU1FRMHd5NTl5ZXo4NE1MdGNQaUFTS2hhMkllT3NEUVc4ZWVJMUFQTjJzTTVoY1BvQmtVVjhTakszQ2JoakxURjFvdmp5cU5uZ1pkUEYxbl9UR19tSV9NZ0RtMzRxdW9rSjA0SUJoQUNjREt5Q3V5OEg0?oc=5"
-    },
-    {
-      "id": "n-686acfbadf67000f",
-      "title": "European Banks Line Up Loan Risk Transfer Deals",
-      "source": "Finimize",
-      "published_at": "2026-09-14T13:52:34Z",
-      "category": "SRT",
-      "region": "Europe",
-      "summary": "Finimize가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSGpOMmNWbWhTRmZHZmhyaGpwLU5nUHE4YmFlWWMyVEctVFBkcDcweTAwWkJTOE1Da2hiYng3Z1JLX09sbGRXcWVIMWY1MFRYckJMUU5xNlF2VE1WS3BJM3EtVl8wQmx5QTZRb2xGTkIwNUltR1BzcHp5Z090RmxocnJn?oc=5"
     },
     {
       "id": "n-018e80e77005dfc7",
@@ -126,21 +146,21 @@
     {
       "id": "n-a6b2ec931424b552",
       "title": "Financing the digital economy: the role of private credit",
-      "source": "bis.org",
+      "source": "Bank for International Settlements",
       "published_at": "2026-09-14T11:21:43Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "bis.org가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bank for International Settlements가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVV0SGw0U2xXbG0wbmhmeVNSeDhoVzl4dVBrUkJQbFBkWnNRaTdka0F5Z0Z5LXQ4Q3VDek9HOGlMM19zWjNSQ3RLMmthZkpNNVoteUNBRDc1U2RkYmlnbzFRUHBoYVI1Q1QxTGVGVU85bjlXaHc3bFNZMVBBYXhOemhOVDk2M0tnay1KOEhZcDNrQQ?oc=5"
     },
     {
       "id": "n-b7e42f27ad5754cb",
       "title": "The mid-market's liquidity fix",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-09-14T10:40:45Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3FuX1Y2ZkxJWmJFRjROZ0FpNmtad3hoUTVvMXBBd2gxNzJoQUZONUdaSEJDZ1RtZGp3RFBiM2JYem5iLVk1WjktWEg2YnIyZzFmdnZHV0VlbVJrbHlScmE4S05NU3hGWUt0ekJaUkxHZWh4UkFVa3R0WUNzM1F4WUpyNUppVUtnRjl3bGRfdFdWS1pXRTBRNElfVTNFZ0Fycy02S3ZqT3RMRW1WOWdIRWF3?oc=5"
     },
     {
@@ -152,6 +172,16 @@
       "region": "Global",
       "summary": "InvestmentNews가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVVuWWRUSmw4OVF6dGNLMDI4M2MtaG1LUUVkYVdockl0R1NtbEJGaXBlUTBNNmdMaGYzQ3VKN3JmaXJ2eV9ZUGE1U2NxVU96d2RQc2lINVRwZ2ZZblJzT2FrQVlnVTlfaU5RSHktWDgtU2R3Mm9kdFZsVFRscGZJWEZtdEhVdGdxMGRjZXY4S2I2blV6NDVOVnMtZTM5VmYtb29PZEpIS2xmMDRxSFNHR0NtSFRwX3pqZHc?oc=5"
+    },
+    {
+      "id": "n-d3c22cdcea045404",
+      "title": "Opaque Private-Credit Leverage Raises Risks for Investors",
+      "source": "WSJ",
+      "published_at": "2026-09-14T10:00:00Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMjNPdTNlZE5vV2Q0dV9pMWdWbjR4UVdyY2tTTlJUSFNZVHU4RnpfeExYLW5RbEFYOE42dmRUQVYwVUZHZVBDM1JUbnNtOHhGdWNKT2l0M2ZuMGwyaTdNZEw5T3daQzNHWWRYYnpGMEFkVnJFb0x5TkJEZzhySXV5eDIyNXVfWFE2X2U0b0s4ZWIwWGtRcjM2R1hZU05CdGJPR0Q3eXpYcHc?oc=5"
     },
     {
       "id": "n-eca84f5ed7dd5531",
@@ -256,11 +286,11 @@
     {
       "id": "n-f7a5a10b2e41aa0d",
       "title": "Why asset managers are pursuing specialist M&A to add alts strategies",
-      "source": "pionline.com",
+      "source": "Pensions & Investments",
       "published_at": "2026-09-11T16:16:00Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "pionline.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYXhkbnRzZWc2Mm9XeVVEYk5aOEFSaXNVTFNXbWIyLVRrUUExdXUydjlJYWxIbHdydzdodG9qaVM0aXU3OGtjd3FuSDItSnZKV29TamRGdW1IRl9MbzJaQVl0aWJNTS1UT2xjNHp5c25QLVJfRmI4N0lUZXRuYW5NdE8yUHpkU2ZOTnVyclVfdjNrTGIweXh1Z3Rjb0lPNDRPd3RYa3otSFNqdkV2?oc=5"
     },
     {
@@ -276,11 +306,11 @@
     {
       "id": "n-9d281e0bbbc9e003",
       "title": "New details emerge on Morrow Bank's NPL sale",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-09-11T14:27:01Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEdYV2MwaGR2TkpMWi02MHJUZDBZdHhJM0liQ3dOMkRmN1d3NVhUSzdNWXhGdklrUjZnUlhkeWZybTJlQldpRW95M0YyWV90V0hKVjVkU0JhaTVoVEJfckVBSXFJNHcwWWtwWWVyWExDV0IxRXJhdG5vMTdpR2x5XzVqMlpNWURmRVBfaWs0SDhSM1U5SG1xdjByeFZ3N3VZUnFOUlBMNzFkT1RsWkNkdy1vcTNxdzM0?oc=5"
     },
     {
@@ -326,11 +356,11 @@
     {
       "id": "n-aeebcca79fd7e4d4",
       "title": "Aera finance director set to depart",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-09-11T11:25:53Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclpLRE9mSVFjWm5mdlh4dXNJMlFucWFybnk0WkNFWl9GazJlOEVESlhjd2tqeXdtNU9sa1JoMDN4ZWYxVmtBeHgwZjU3WHlCOGc0NU4tZ01QenlXQU5WUldlT1dGUkxITnZvT1pER0xNM0hKeVdxRTZiQWhQSjQtV2gwM0xaMm93Q3h4U2d3VWVKbExlTjhDUjJZZkptVDNMbDdfUVFLaTJaZUNsN0hZcl85cmJUT0NZ?oc=5"
     },
     {
@@ -356,11 +386,11 @@
     {
       "id": "n-f8a14e0cc61b58e8",
       "title": "Kartesia completes €304m ABL fund with helicopter deal",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-09-11T10:31:19Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3FKYjVhTWJpSWVtZ1J4Wlp3OHJHZmVpZFZyajFNLVJkcXo3MGNFbGRPWnJINmFaSlYwUEJpV1loeml2VDF0N1lrMnBiUVZEZDNoSkFSRFhpbXo3d1RrVU8wZjdrT2NwcUFJVkJ0V2dMaDFOelVVbEltMUFSUzM4cVQyb1E3VlBYTTNrYk0yV2ZOSVNnZzB6N0xkMWNpZklNSExOOE5Ed3hBX1NuM1BWcUV0MG8tak1pWXMyNzhvNHJpRVZ2Y01VaWJtcmd3ZlNNeGNOVVYtS3ZWNUtl?oc=5"
     },
     {
@@ -486,21 +516,21 @@
     {
       "id": "n-7dcfedaf45ac93c0",
       "title": "ABF Deal Digest: Tether, Fasanara launch ABF fund, while MidCap cuts US$10m facility",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-09-10T11:14:52Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOUJoblY5NmJMT2RyRmw0MnFxcUxNWDVWd2pNd28yWVNzSXJvUzRKWFBBOTZMT2pkSHBILXE4Rk55LU9KWEpSaTlld0VKOFEtOV9rMl9TQU5NYmVPeUtGUml6ZjhKRWZoQ2ZQY1FFSDNLeXd2bFhsR3VzNThYa1o1T25zS0pxeEM2YmtwMlNhLXdkTkFzQktibmYxWkMya1hiYVllVkJYYkxUZ29waU5lZ0pLaWZpX0lhUEtmN1RSbzlUdFRpU1BkajVYWkdqSDFnY1VMMjlVMFU1RVhlN1F4RTBTV3RCQmtKUjU2X0tIZjNZZVRJTXNodGFB?oc=5"
     },
     {
       "id": "n-8980141ff08f85e1",
       "title": "The gap and opportunity in real estate NAV lending",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-09-10T10:33:40Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVG90RE1mRFRfZWQ5OHVHNFZmbEtPZnBidjB5RjBGellfelVYekFXaFFiSFM2UnFIbUZoeHRLZ0t6czdscDZSSlZreVp3bmpNYjBvZmRHenFtbE9kWWVxcWhyc1BGcDczSGhrVU9xREJaVjNJdmUyamNHQ09jQVBuQUFHTmh4Tnlzc1pGQUl1Q3NkR18wZTBEQ2ZnVXpGMkJWTHdxbTBrWURPeng2dk85LWNLdUE1VmpSSXpNOVlYcHVXc3lvS3NzVXBDNXk?oc=5"
     },
     {
@@ -596,11 +626,11 @@
     {
       "id": "n-38de3a49a61567cd",
       "title": "Choosing your private equity point of entry",
-      "source": "Vanguard Corporate",
+      "source": "corporate.vanguard.com",
       "published_at": "2026-09-10T04:00:00Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Vanguard Corporate가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "corporate.vanguard.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEJaTVFNYW5WQWdSR3FqMlVhVW9fR3lDT0JKZjJIN3d1NlhVb01VNzlaSFhYV2VmY2N0QS1DTVdkcFFLOUMzck0tTmpVNGw3dE13Z2ZVcnQ1NEMxU3o4ak9mUWNkczQwLVE5TnJDZ2tXRFMzaWN2UGg1aVNjOGRBS2lNQUtEN2hhbEZrWm8wTkZoT2l0T29ZRHlKdjVKOER5M2syc3N2TkFfalZTek9UaGNLTW1IaDdnWmFVZHdR?oc=5"
     },
     {
@@ -806,11 +836,11 @@
     {
       "id": "n-0d3c406a09ad8622",
       "title": "Tether and Fasanara Capital Launch $400 Million Private Credit Fund to Expand Stablecoin-Enabled Real-Economy Lending",
-      "source": "tether.io",
+      "source": "Tether.io",
       "published_at": "2026-09-09T12:02:08Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "tether.io가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Tether.io가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQjBrWUo1MW1kblJwUUVBeldpYWI0MHhxYy14b0U2MWlXVW82SmF3QVh6Qm1DWGY4MVJSSG90dWJHem5EdVN0QVR0N01OdTFsdS1nQlVWaTE2eGpSU1I0VXRYZ2VNTEItZ3ZyYThfald4OVFBZUNfZmk0OVpJMUo1aHdONFRPT1dSLVA4UmFVczJvRWhXX1FobzdnZHh5TWNfZThqMmpBdzl2LXlETGpUR1lPQjRDYmpSRlV2SWRsLUlJYzdkaE9zYy1RWU8zTldPVVNUeV9xcw?oc=5"
     },
     {
@@ -836,11 +866,11 @@
     {
       "id": "n-f16b2781331b00ca",
       "title": "Upper90 eyes US$500m for new venture debt fund",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-09-09T09:18:41Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2cxdFpRWDhxXzRhckxvUnNaLXFOR0xOQ0I2ZUZ0a2psb3ZvM0FXYkdYeDVtMUdPRHJYZ3RkN1ZIUUZRZy1aaEV6S3VKS1hJcDNobUVJZ2ZyNVhFSlVCZERrLTF4MmE1aHRJekY4ZU9wMDRQTVZ1NTJkNnN0M0w3Y3R2aTJaMS1EOFNsWTZ2VWlkQnIyWlRpSFRaT3NDektFdkItcGhxVDdITXhFaGNuUFJKZGVJSEprREJN?oc=5"
     },
     {
@@ -872,6 +902,16 @@
       "region": "Global",
       "summary": "MTN 머니투데이방송가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVX0NGUzlwdlc2ZlZTWHhoaVhUVkNIbm13LXpTZ2JDMjJZLTlPUnlsemtNTFV5WGVkZWEtUk0zWG9OcVYzQ1dpSFpxOGtReUtKTDdsbVFiemtZMkhQUmJfQ3NUaG8?oc=5"
+    },
+    {
+      "id": "n-f6ff18b51c802ae3",
+      "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
+      "source": "CNBC",
+      "published_at": "2026-09-09T07:24:56Z",
+      "category": "Infrastructure",
+      "region": "North America",
+      "summary": "CNBC가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSVlBVDVfVTQ3WGd1MlRsZ2NaZjB4V2pxUnQtM3hmS1RXZ3loTmw3NGdFdzI4R2JRM2xodnFickRXb00xbTBya0tKVnpCQmUyQTIzejh0RmNBZG5QQVRJTGNJbHRGeWt2OG1wLTBXbTlpT2MzUzBidGkyR2NEY2xIUlYzajFfaXPSAYwBQVVfeXFMTndMOWU2SmdmUGZ4UjNzU1g3WXlSTmZKZmdrakhYZlkyZDRFZzdnTHd5YzN6STNWVnlRTWxLcEhjZUlNUXl1WVhrQ1lpc3lTLVhWRHVtVHVsWll6SE41aER6ZnpHR1dONjhUbkJwanRVeFVyLUV5ZlY5eHNYYThqX24wLS15bHJnNUFpbEw?oc=5"
     },
     {
       "id": "n-d04d0aae563914e8",
@@ -916,11 +956,11 @@
     {
       "id": "n-de01ca201b95e43e",
       "title": "해외 부동산펀드 ‘후순위 투자’… 설명서에 리스크 기재 의무화",
-      "source": "문화일보",
+      "source": "munhwa.com",
       "published_at": "2026-09-09T02:47:51Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "문화일보가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "munhwa.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GWXRNR0kwTmJVMEMzX0pjSmtvN0NxMUxhOXhqTl9kaWNfemVXYVNGbVMxVDJtUTlJMEkxR0Q0ZlRBeGhSNlUxLWJHRno0aXBY?oc=5"
     },
     {
@@ -1186,11 +1226,11 @@
     {
       "id": "n-0543727b08f0d068",
       "title": "Fortacre bolsters team with Shawbrook, Glenhawk hires",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-09-08T11:23:17Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSGNwRUFJOUc5RUtNNjdlOXhkb0g4aFZJT0lXM21qQXV0RnVUWVQ4Z29kWGtxWEJiUG5fS0tCcW9VcW1xVmlqQkJ6S2NOU2Z3Vkw4TW9TTDhOdkUzUHktbmRWNFFDQ3ZiVzZrQlZ4ZEkybkxjd1Zmc05mU1ZKRjVlQ3F3a3E1ZkNNWk1rdnFtMkpkcG5vU1F0eGxsa1JsMlJXeXJWbkg0WVc0TmN1a1VwQmJ5MzJBSzdISGVKUGxaRjl4U2kt?oc=5"
     },
     {
@@ -1362,46 +1402,6 @@
       "region": "Global",
       "summary": "아시아경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GS05YSVIzWUlRZFdJbTNXMkdRZGhYd3hlSGNJMlJBZzQ4M3pVaFhPNkhqTlNUQmtYYVh6V202VEtRQVZzbTBPQl92REVhVmUzemRVQXE2TG5NSENIVVV4aA?oc=5"
-    },
-    {
-      "id": "n-b41b15a5e7c39360",
-      "title": "美슈퍼리치들, 금리·변동성에 주식 비중 줄여…현금·대체투자로 이동",
-      "source": "연합인포맥스",
-      "published_at": "2026-09-07T22:43:21Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "연합인포맥스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCb3M0OTVrNnJUcE1sVnltbWk1S0tiYkdRTHZJOGtkUEtaZTNUOG4tRHRyRkxoX29GdkQyQU1EOXVZZUtOeHRFVE5xTzloMldFaEo5MkJSNXhSSEJNUWZ5SjBlT1d5ZDRlUVpXeXZDOFdoS1Na0gF0QVVfeXFMUEJvczQ5NWs2clRwTWxWeW1taTVLS2JiR1FMdkk4a2RQS1plM1Q4bi1EdHJGTGhfb0Z2RDJBTUQ5dVllS054dEVUTnFPOWgyV0VoSjkyQlI1eFJIQk1RZnlKMGVPV3lkNGVRWld5dkM4V2hLU1o?oc=5"
-    },
-    {
-      "id": "n-23178c1dc1f476be",
-      "title": "불공정 잡으려다 ‘거대 자본’ 판 깔아줘… 사모펀드 먹잇감 된 병원 유통",
-      "source": "의학신문",
-      "published_at": "2026-09-07T21:00:00Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "의학신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SZ2FnME9ER01vZUQ3UlM0NU9EcVJlUGdMcUx6SWtWR0VnSktnNHZBNFVwdnFXbFVRcmkwYi1FS1FzdWs1eF9ReHZTUGdtYXIxS3RFSnl0SzVxZVUtN1cwcU9LMV96WVlMVUE?oc=5"
-    },
-    {
-      "id": "n-53693e5d3e502b42",
-      "title": "Deutsche Bank Readies €2B SRT for Data Center Loans",
-      "source": "Briefs Finance",
-      "published_at": "2026-09-07T15:51:58Z",
-      "category": "SRT",
-      "region": "Global",
-      "summary": "Briefs Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGtfUWlHSjFtZW5IeVpnVWJFemtSQ3RnMHJFUlZqSFBPbXNTRmtoelBDdUczaWV0UU5KYTFxMVM5cUV5eDdwTy1UUHoxR2FGUkNXekczTzF2Z3psWHVsR3NOSTVPTmc1dWVUOUVFZjFXcW9tNmt0aDJlTkdONm5vMkVtZEZUN2pUS003ZXBjaEdDZw?oc=5"
-    },
-    {
-      "id": "n-37b50322ebf16aee",
-      "title": "[열린세상] 홈플러스와 사모펀드 규제",
-      "source": "서울신문",
-      "published_at": "2026-09-07T15:10:26Z",
-      "category": "국내 대체투자",
-      "region": "Korea",
-      "summary": "서울신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnlnQkIzNW5VRjdyN05MUW5qeGVKT05YQkJyVUF4VTNkWS16ZHpRY1ppY3RoenF2RkF4bTMwSFBUOEd1VG40NDh4TmVvS2RDZURFMktIMlJsR3hjMVA4VFV1ZUZkM1FMYldTMTVHNHVBbXhTbUFzaHZFRjJRRnRJLUpiUHhRajA?oc=5"
     }
   ]
 }

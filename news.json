@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-09-16T21:20:42.573689Z",
+  "updated_at": "2026-09-17T04:56:09.126519Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-4afbab65be42df15",
+      "title": "Fed Rate Hike Squeezes an Already Stressed Private Credit Sector",
+      "source": "Global Finance Magazine",
+      "published_at": "2026-09-16T19:50:17Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Global Finance Magazine가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLTV0b1F2UFNfVW5wRDRIS3lqLUFnZmRYUHNVUzJiempqei1jZ0lQV2U5eTB2Z3RkeHJmYVVhUnBfb1RqYU9JSFNHVkotVHRkZmlLQ05CNHpqVTQtWEpoMEcwM2RuenllRjkxUDlsSU9jTXpGcEFfckxrTWt3Qk9YZEtTQmZvWTZNUVBpaFA3bm9ZRmR3SDJZeHVqUTlXNUE?oc=5"
+    },
     {
       "id": "n-5c95e0370ce6501c",
       "title": "Baron Real Estate Fund Q2 2026 Portfolio Activity",
@@ -104,6 +114,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdm92d0poTi1hTE1EQVN2TEgyV1ViZWV5dy1NdWRveWtpNXFqSjF2aDhLbWJVTElUTkUzYkxIcHhZeFB6cTcyZ19IbXpaeUZ1MnM1U3Y2NW9SZVgyUzVzbkZSYmh3OUQ4Z0tzdnRCZUlBSm10ckUwUnpYZ01zZk1HOTZ0RHV1TGE0Rm5SRjVWNERISlJWbFRUVHFwZ2FBOU5D?oc=5"
     },
     {
+      "id": "n-a1f93a8ccf8df301",
+      "title": "Net asset value of the EfTEN United Property Fund as of 31.08.2026",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T05:05:00Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM21GQ05xSkJfV1VPRXloNGltN3JieVFuNDIyNElOTU1LOVg0V25vUTFKLU9Kd1dkNy0tOUFfNG96azZkUXlieUQ4R2w1NVg0b0NrZkYtSEpLc25xU2tERnU4WUV2SDRhZ3dnWkQ2bjgtVWdjVmp6UnRIdzl4RnJMcXY2SnA0R21MUU5JNEpwNkZpY0RZ?oc=5"
+    },
+    {
       "id": "n-4d5860dd393fcd31",
       "title": "Hartford AAA CLO ETF Q2 2026 Commentary (TRPA)",
       "source": "Seeking Alpha",
@@ -116,11 +136,11 @@
     {
       "id": "n-69c7312d7ee738dd",
       "title": "Partner Insight: How a K-shaped economy affects opportunities in asset based finance",
-      "source": "Professional Pensions",
+      "source": "professionalpensions.com",
       "published_at": "2026-09-16T02:18:40Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Professional Pensions가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "professionalpensions.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObkd4bnNyZ0lLSVZYVk93N2ZqT1dDMl9hbDZkbFlvSW1wUmRCR0xCSF9kaG1XZ1lVbUkxUFY4NkN4ZF9jbGR4X1RoeEg0T2hmZEFyR3NNMnZIZjBJQUFKcFA0T1hyenBqaFR2M2xUSWpQdjU2d25kd3VISDJPSkEtMkxRazFQNXhmWEVQSEE1TWNQMXcycFlCRUJwYk1MLVZtMTNKallHaGtpZ0QyRjhpWFkyWnBWUzh6RHM2Q2Rn?oc=5"
     },
     {
@@ -152,6 +172,16 @@
       "region": "Global",
       "summary": "CairoScene가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTnFPS2h6cURrYmY1aEpkZXdrclpNRExraHZCWngxS1MxMlFNcDJBelV3c3dKZEE0SVJiU0owSzRvUS01S2djYVpsMEZoQ2p1UWFoQm44Ymw4WjBoRDdyYldSMG94aFBuNkltR1hiNTh6SWRMWlFtMkk3dlJHSUdtZWVTMHFubUpPeGdxUm8yVVlqeUVRcnlwMjNabUFvMk5uLXc?oc=5"
+    },
+    {
+      "id": "n-2bb28451c18af3fd",
+      "title": "Big Banks Are Offloading Billions In Corporate Loan Risk",
+      "source": "Finimize",
+      "published_at": "2026-09-15T18:26:43Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "Finimize가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZi1qeWhDUzVkYzFaVTE2ajNDaDZDNHJOTERHOFZrcE9PRkZsWXpaRlIwY0dKSmpYUmxqM0QzbXc3ZDJxWXU4S0hsLWYyWkFOYUFrUGZTMjVlSkVfMURTTlpRdjZjRF9IeVRLLWdnVG0yb2Y4bEhkQkNYUjBiQWJWVmlCVmR3THFRMVpnR1V3?oc=5"
     },
     {
       "id": "n-dd4796d8dcc3b15d",
@@ -214,16 +244,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkx3aUVwQjV0SUt2RWE4N09seFJ1NUJPQTk5UFpFTFI0YmxOTEdlQjdBaXpkekF4RWNici1sekd5bEFhb1dxc05ZQ1ROblR0Vm1kVGFzSjEyWHV3OEotTmNfSW4xUXE5NjBfZVdHUV9VN2ZCU0dZTVNYUUlpdGFHMTI3bDVFYWhwNGVWRkhkVzY1cFpMSkxhdkhQYWRfVjlBV1hfbUoyMm50V29hek1XVW55SUNaMFR1VTJv?oc=5"
     },
     {
-      "id": "n-2bb28451c18af3fd",
-      "title": "Big Banks Are Offloading Billions In Corporate Loan Risk",
-      "source": "finimize.com",
-      "published_at": "2026-09-15T15:26:43Z",
-      "category": "SRT",
-      "region": "Global",
-      "summary": "finimize.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZi1qeWhDUzVkYzFaVTE2ajNDaDZDNHJOTERHOFZrcE9PRkZsWXpaRlIwY0dKSmpYUmxqM0QzbXc3ZDJxWXU4S0hsLWYyWkFOYUFrUGZTMjVlSkVfMURTTlpRdjZjRF9IeVRLLWdnVG0yb2Y4bEhkQkNYUjBiQWJWVmlCVmR3THFRMVpnR1V3?oc=5"
-    },
-    {
       "id": "n-81cf79ebaaef34ee",
       "title": "Goldman Sachs Alternatives closes $11.7 billion private equity fund",
       "source": "qz.com",
@@ -236,11 +256,11 @@
     {
       "id": "n-d7c23d28a67911b9",
       "title": "KKR: Private credit and asset-based finance are expanding rapidly, supported by strong origination and sector tailwinds",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-15T13:52:49Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "tradingview.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQNmxZYlNPZHV6UXZrckVGXy11aEpBYjJVZWw2MzM0Z1FVQ0dYdFJDU1lva0RjNlNKbDltYUxDbWVBaDNpcEZieVRNR205bmF0TTNNU3ZxVVdCVjNpdDBUM1RIMmhYYV8xWnJ5MVNUSlNWeTNOQmdJMjdLaUJTbVZWTlhiMHBVYk9kc0JpTjBvRVBTVWtfdnRXb2dCc1Y3ZU4xTl93NTJlVXg2ZDJPakYyQWM5UUtzY3hPQnJmVy1tVC10b1FzS2xta25KTEtFTGZuZ2pWU0dubEhVbTIzMEx5eWFhcElCcktEbTlpcmowb3JVenpPVnpjRmI0ZWZ1WDZ5V01ZNEFNZmNONGtIZ1JNLVNSLWp3azk2cGJsQ3pOMGc2TXFrOEs3NGwwMHE?oc=5"
     },
     {
@@ -254,14 +274,14 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHozbHRmcXloWmxjdHJCRTRBb2VPX1RjVXZVQTZPUEV5Ti10aEY3NzJfbEpPVXBKQ2hsV1F5bmtwZHBoc1FzVW9QUnljUGE5NGVzMEZFOGEyWnRGS1pTRTRqT3p6NTN4TU1KcVRHb2RiZ1BrYWtRRF8tdEpnMU5wemk5VGpUV0pPYUZZaVAwUTR0SUM0WjRCNjVUbnd0UXZsTWxnVE9Fc3dqS3JGbFo2RjBKUDI?oc=5"
     },
     {
-      "id": "n-9bed70b52ea65bb8",
+      "id": "n-f453b2dec25607f8",
       "title": "GTIS Partners Rebrands as Brightshore Capital Following Transition to 100% Partner Ownership",
-      "source": "PR Newswire",
+      "source": "Yahoo Finance",
       "published_at": "2026-09-15T13:00:00Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "PR Newswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT1JpUW8wS1VGMnM1dlJoeFhSTFVab3ZmQnZyYjVZdllCdUlMa2dpY2VFdGxCMUJPcEdxSDBZS2JZN0pLbkxqUTUyVXVnRU5QTTZ2OVhaS25wbVB4RlhUVDVjQ1B6SXJObVhKTTctUUw0NlpsTnY5NDNCdWNVZUlFVmd6anZmTGlKbmg2QXlSakZ4MUlvWGtWc3hBN2VSbTBUQjlPTDdRcmpzTmt0dEJlR3N4MlZLd0ZFYXRSQ2EtbFQ5aWxKa3Q4U1FieDllNnZuck1PaVNZMnA0MWwwSDVJMA?oc=5"
+      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkFUWEpfRllQTHlneVlfVjJ3MmFLUGd0c2o5ajBTQmdRZ1pLU0RhblRmQlE1Y0VlNVMwWWtQVlNid0NSMFMyaVNRZ1d5V1N5YjRxMFlYYllKbmFsWWVYczZoc0Y3M3hFSU1OakdpSkVlZzdoN044ckp6TU1lQmJsTWVzRTVIcmFVZG92TTZ2TnJFN3N6Sy1BOTNTR1NvWmNDUzFfN0IySQ?oc=5"
     },
     {
       "id": "n-1da1fe38d79f5a08",
@@ -284,14 +304,14 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV240WFhWQ2pMOFpBSzB6SGVITG1Dbk5UMlVYUkViUVY1ZXZRbTFhWlhpZkNqb1lCTjJITVNNVWREZVppZmk0ZlhmWE1QemgwTGltMDlYa2tKRFRBU0FGQXNjRUJzWmtENXlGMUtDQ0VRNnNFM2FXdmNHNnkwblA4aWx6TmZTYW8yR1ZoeVdkOE5PNEJOYnMwM2k4M05GX243WE54ZGMzSdIBpwFBVV95cUxOY0tyOUZJSnFlOG9nTHgxS3ZrVDBmb2ZGVmNLY3MxSlQ3X1BldUdNekFJaklzQlJXM2l2UVo3em1CNU9IUzRiRHhDVS1wZVhKeG9LckhYRjJDV05PU3RqSDNpbTQ1RFMtNWVCRDRnQXdEcVpneHdDQjljWDRsMUhINHJ1ZFN2RHpqdWNqeElpLThJYkwyQjMydjFoNm81dnJRVVhPb1JYcw?oc=5"
     },
     {
-      "id": "n-b4fb91acb9c0fd0d",
+      "id": "n-a76396b5afeec882",
       "title": "골드만삭스, 약 16조원 상당 사모펀드 자금 조성",
-      "source": "asiae.co.kr",
-      "published_at": "2026-09-15T11:41:19Z",
+      "source": "v.daum.net",
+      "published_at": "2026-09-15T11:42:50Z",
       "category": "국내 대체투자",
-      "region": "Asia Pacific",
-      "summary": "asiae.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBicVRuRTFFYjhYVHprVTNUTDVDbzBENWtoZGRwQ296RDRJaTV4aDlfSE9oLTlEYmRDczRUU0E5LWxJN0M3cUM2ZlNnOElEZ0pjVmdJbDhydVV4R2s4VFdyNg?oc=5"
+      "region": "Global",
+      "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IR2JpamVGbGFvV2h3eURYcjZTMDlVMlhFa25ZZlpYQXdHNG9INVJaU0tsS244bVBQbVk3cGRTZkoxQjB4MWFaZm1YUW5sTG8?oc=5"
     },
     {
       "id": "n-1b9bb5e2ed8e081f",
@@ -426,11 +446,11 @@
     {
       "id": "n-b2072505860282fc",
       "title": "OWL: Rapid AUM growth, strong credit and real assets performance, and AI-driven data center demand fuel expansion",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-14T16:09:29Z",
       "category": "GP Stakes",
       "region": "Global",
-      "summary": "tradingview.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQaW54YjhmenY2bGVfbnljNmlqWUpYSHFrOE92dHNNREZPRElzUndXRmhKWEQ1TERKYmdDbEl3Wjh0eUJvNkZmZE9ScFBBczI3RXA0WlBjT3pwNjhrWDI4VWFtZ1cwTS1sb2pHT1ZrRktYV0VmR3U4YW1pZkM3VFZuNDJBM21oLW5MUmNrUVJGRUp4RHhKc1Viemg2MXFHNWd2NHhLOTVUQ2ZuX0dVcWZLLVJhSkdVQ2ZwSW1La3JyOUc2aTlvWDh0cVljZE4tTmZHN1NyVUs2UUxlTVRmSGlLb3kzTDMtVnh6OFNPbk9fWTZJc2lyUmMtQVMzQkJ2aGU5Tm9fWTVRY1VmZUhCSGpleHVKODdlNDFBMlJGVTVyYm0yOWM?oc=5"
     },
     {
@@ -456,21 +476,21 @@
     {
       "id": "n-686acfbadf67000f",
       "title": "European Banks Line Up Loan Risk Transfer Deals",
-      "source": "finimize.com",
+      "source": "Finimize",
       "published_at": "2026-09-14T15:52:36Z",
       "category": "SRT",
       "region": "Europe",
-      "summary": "finimize.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Finimize가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSGpOMmNWbWhTRmZHZmhyaGpwLU5nUHE4YmFlWWMyVEctVFBkcDcweTAwWkJTOE1Da2hiYng3Z1JLX09sbGRXcWVIMWY1MFRYckJMUU5xNlF2VE1WS3BJM3EtVl8wQmx5QTZRb2xGTkIwNUltR1BzcHp5Z090RmxocnJn?oc=5"
     },
     {
       "id": "n-bca6da8954cab35c",
       "title": "OWL: Record demand for data centers and strong credit performance drive robust growth outlook",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-14T15:32:30Z",
       "category": "GP Stakes",
       "region": "Middle East",
-      "summary": "tradingview.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPQWFiQmtpZ05ndzBkLUZPbmZlTVBUQzhEeHNuM3haWnVzRG1XczRqN3NraTM2VHJmVEpCWmpKX3RVYmVDSWdxQ19nS0VmWHBRNkhLcnpDMmxIcklTNjdlaTNjcXFGa1ZhUDY0SnBXai1SVVBjTFpBNzlvR01QS28wMG1JZGdvVDRKaXNwMkJpMk10ajJBRmc4b25tQ3ZialVVNHlndGpoMERkSUkwejF2OWxuaEdBaG9wS0VPNUNqWFJJWjV0bkhZSnI0bDZrMm94dHF4MW00VjFRQUQyakNSZjdyZHE5T0NkYkVheVZwbDhQX2pvdWExaUhzeTVhaTJ3Vi0wOGp3MkdZRkU?oc=5"
     },
     {
@@ -626,11 +646,11 @@
     {
       "id": "n-a0baeb598f7778ad",
       "title": "Kayne Anderson Energy Infrastructure Fund, Inc. Revenue Breakdown – BOATS:KYN",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-13T18:45:54Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "tradingview.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qQ2U0OHRqLWNFQnctenJOMkJVOG1HX2R2Tk81SHowRENYSUhteEs0M25UZXF5U2xhYmF4NEdaSXBNWmRRb0MzcEdWMXVDdTBnNXZ3WWlnMmpPYkJOYkhwdmVwc3NaZUQxLVlDWTZ3aEU3cGJ3?oc=5"
     },
     {
@@ -874,6 +894,16 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1pORk4zZmlocEFKc3V0V3NXaHFlMklnVWdNazNZOVRqLU1iSjlZbzhUUVd5UXNQLWRSczhzN01udnh5b25IZGZKU3hCT3hZNTBfZU43eEFKRGZnaWxpY0QtY3ktQ2ZFSWlXLU5JMG5mSVRNYjhVYUx1UXpZdWUxYy1TWGVXbGlKRWNVVjg3ZGM0WGlWdVNfeFFaQjBfUXIzNHJ0RHNYV3VxcFBUUkZzMlpCaUZXTHZoem95bFdJYVQ?oc=5"
     },
     {
+      "id": "n-e836f2498158a29a",
+      "title": "Represented Ardlussa Capital and Barings as co-lead investors in InXpress",
+      "source": "Winston Taylor",
+      "published_at": "2026-09-10T17:33:51Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Winston Taylor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMXJuamxVaXhaVy10S2tVUUhrUy1RWi1GSURncTZOMEtuN1ZTYnd0Zk5nVmVZcnc0Z2VGMEkxRGNNek0xVmx1c3NfcXkxQUJJdnB6Y1VBLUNsUDFBRGNjcDZRMWJ1M1NNX2tMeVlEbWMxZDF3NFlvakF5THBkVVkyY2hWM3R6dmNQR202dkRVRE9CMEFaSlh1RjdGWUo2UmNNOU51aGIyVG1uLXRkRlRZaldR?oc=5"
+    },
+    {
       "id": "n-1cd4883b550af7e8",
       "title": "2026 Elite Private Equity Leaders, Part 2",
       "source": "Markets Group",
@@ -932,6 +962,16 @@
       "region": "Global",
       "summary": "Business Wire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQWRzNGNSbWxKTWh3ZXBVV3c0ZWt0elU0VGRWZWdVWGRYNHJsMFFuU3BfWkpxUHNWdEdtSlJqR0FSLUxVV1pZcHRRMkl6Y1VKaDdnazNWaGxPb3NmdlozanBSaUttbkxwT3BhV3BMSGw2a1oyaGk1QjRVcFhrUHNzZW51TThBczdUOGVVYnpGd3diUlRaTjhNRmp4LWNDMlpRQmhleFJ4QU92VzNpdWg1VHJMa3JMVHowNmd6bDJrRG5MVnR4dk5xVUMyUVFqVUpDMkc1cFI0YXJPVkcyXzRxRg?oc=5"
+    },
+    {
+      "id": "n-f8da4b17edbbb4c6",
+      "title": "Basque Government: New 400 million euro infrastructure investment pro…",
+      "source": "diarioeuskadi.eus",
+      "published_at": "2026-09-10T11:35:40Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "diarioeuskadi.eus가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQ2VqSGdQRHVNeWl6NmdyN1ZLVENwSVhpSF9wOFFpcnpWSTdBSTJTMTdSR1hfZjQ1b1hPUDRKcF9pbGRwMThHWG5aZ0RYT0hxaXNCdjFjOWFZZkJ6N19vN0o5eUUtaWlqUmpNNm8weUg0TUxOTDNqS1Z2eWRJNmNDZFNaSEo5NWpCd1FtM3RwOTFxUjBWM0M4NWpNS1dBWlY2Z0I2b0JSSl9yVG8wSGlDVmJWd3RyajBDYlZEUm96LWZTdjdtNF9qc2lXTVlEb0hQOThrUzk4RXR4b1VqeldrdWd4WlVWV0J0TldmRFVQb04ySjJjMUJLYTFlMFU?oc=5"
     },
     {
       "id": "n-7dcfedaf45ac93c0",
@@ -1116,11 +1156,11 @@
     {
       "id": "n-a9869b09112cb469",
       "title": "Antin considers CV for Norwegian wellboat operator",
-      "source": "secondarylink.com",
+      "source": "SecondaryLink",
       "published_at": "2026-09-09T18:46:24Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "secondarylink.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "SecondaryLink가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON29lb3J2VUNyRUNldkY4LWkxalYzeGUtTWFxajFDV1BJTlFqZ0tfV1FJZ3ItNTlURDJqQzZpQVljYkhpcUtpRDRIanFOdTRFWXNMX0RwOFROaGQ0Znp3OXZ2Szc3NGstUlp3eVNybnlMZkpTRk54bHpnelhvSk5nelgxenZja29QVVp5SkNRY3EzM0RISXVCb2RBZm5kajY4blZxWFNYMkF1QQ?oc=5"
     },
     {
@@ -1216,11 +1256,11 @@
     {
       "id": "n-2cda0bdf5a93c885",
       "title": "J.P. Morgan Asset Management Closes Inaugural U.S. Net Lease Fund with $1.1 Billion in Commitments",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-09T13:00:00Z",
       "category": "Real Estate",
       "region": "North America",
-      "summary": "tradingview.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTVNRamV6TEZla3R3eV9FTXZxUWpRRUdZUVg5dzJKNDU4bmZaQTVmTDNjN2g5dXJFQ2llOElCYTdlTVZ6T0ctRlJKeXJXdGZ2QUZSTjJNSGdDYUlkU3IxbzhpNzBJSG5ZOWR3Y0t5WHQtUUd0MU1uWEg5dnJwY0R4dWRzYjRud09OaW95dlB5OFNXVEl1anpzN0QwN0dIV0lXem1EdEctc3dNZml1ZHVsekI5VEVWRDJTM1pKRDhJNG1UaEFoZ3VMRXNEOFRpdWYxTWMxY2RhNzlKazdkMVYtdWhKUkRYcEt5c1VybA?oc=5"
     },
     {
@@ -1356,52 +1396,12 @@
     {
       "id": "n-d04d0aae563914e8",
       "title": "Healthcare fund manager files for continuation vehicle",
-      "source": "secondarylink.com",
+      "source": "SecondaryLink",
       "published_at": "2026-09-09T07:00:00Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "secondarylink.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "SecondaryLink가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFJwcFdlRDlIV3dtVklVRHRYcHRZVk1ZYWJZY1hiM0FzLTNQejUxbk00MUtpU3NvMTdjWG04VjJseGIzNmpMZWZiRXlvaXhoT043cU5yRDV6S05kdmk2eE1nMy1jREVSTEdEdG9lakNIZVM5emxKZWtCdm1fYkxmanhXMVZYdDNjeVJZUTZnVmhmY0JHblVyQ0h1OHRfVDlIZ3F5UzhFT29qUzVrSjdz?oc=5"
-    },
-    {
-      "id": "n-154c2a6e67a88957",
-      "title": "The Financial Supervisory Service ordered the asset management industry to closely examine the possi..",
-      "source": "매일경제",
-      "published_at": "2026-09-09T06:43:19Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "매일경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jYWdnQS1PdTBMQThwUkg1dFdWR0dobTVRbDhmVGpCN045TXhqTG5rbjlGZmNIY1JPRVhSWmRocDRheWI5amw5Z1BnQTJPelk?oc=5"
-    },
-    {
-      "id": "n-108e67e36032511d",
-      "title": "해외 부동산펀드, 설계부터 조인다…과거 손실·'최악 시나리오' 공개",
-      "source": "메트로신문",
-      "published_at": "2026-09-09T05:31:18Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "메트로신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BV3YxQi1fSkpqbGVrLXlOdkhkUEdCa3lTbFg1X280Q2ttam50a2U3Uy0yN3pMQVRFOXVKT3R5dUc2UURyNU8xaDVIazFxUHVKTWdnUFJRb0tLQ3NLVFlmWQ?oc=5"
-    },
-    {
-      "id": "n-abef86dd76a5d717",
-      "title": "청년 고용률 하락과 사모펀드 봇물 등 이시각 주요뉴스",
-      "source": "연합인포맥스",
-      "published_at": "2026-09-09T02:51:48Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "연합인포맥스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SUEl1RjF1SndKdkNMX1RjWmVHdzdIcFMyV20xZjhac21WcGhCdVRiUjN2dmdLUTRONDVHckZqQzBFcDg1V1l0QThOYlVHbjRQWmlJY1NaeTBHZUd0eFp6eG1TeGFUUExDZmVlWFQ1b1XSAXRBVV95cUxQbVVXc0h1cFA0MkRxVmdqcUE5Ml9scE1CbWNMS2NieDJmV2x6MG4tdWR4QWVnLTN6QlQweGJGalV5S09qRFdSN3ozSXUtU0hHbTRqUjFVWTljZWZBcDdpWmZYS210MVRFLVpwck1lajRjUF8tNw?oc=5"
-    },
-    {
-      "id": "n-de01ca201b95e43e",
-      "title": "해외 부동산펀드 ‘후순위 투자’… 설명서에 리스크 기재 의무화",
-      "source": "문화일보",
-      "published_at": "2026-09-09T02:47:51Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "문화일보가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GWXRNR0kwTmJVMEMzX0pjSmtvN0NxMUxhOXhqTl9kaWNfemVXYVNGbVMxVDJtUTlJMEkxR0Q0ZlRBeGhSNlUxLWJHRno0aXBY?oc=5"
     }
   ]
 }

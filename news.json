@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-09-21T12:53:14.482867Z",
+  "updated_at": "2026-09-21T19:59:53.204448Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-e2fc0cdeef59eeeb",
+      "title": "Principal Asset Management Adds Drew Fung for Debt Role",
+      "source": "Commercial Observer",
+      "published_at": "2026-09-21T18:52:57Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "Commercial Observer가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSkhoMkFSVUdTMXRVSVJQM2xrMHhHNE1ORVgtc1B1VG1kMDE4VWNfX2J3SWt2c3dOTFY5ako0NDRya3JISHBfOC0tN1FfTE5xZTY4ZXBBOG53d3FEc3p4eEwzYm91VEFZY1VSN2NhYTc2UDM0cHJ4VHdtQ0pYdDZ4aHRn?oc=5"
+    },
+    {
+      "id": "n-d7ca071830cc2693",
+      "title": "Lesotho: New study proposes cost-reflective electricity tariff reforms and greater infrastructure investment",
+      "source": "African Development Bank Group",
+      "published_at": "2026-09-21T17:02:44Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "African Development Bank Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUXVMX0JDUG9XZjBhVDJMYmpJalNfYWM4ODJ5a1E0eTMyZy1sQS1iU0lVTm4xLXlSYm9VSElUOFdJeE1SVEg4TkpRNzk1SlJ5MWdFNElXU1ZvWXhjbS1IcGRXOUg0UVBmeWdYeFNsSXl6ZUdnbUFRNXdiMV96X2pISERhZHMwX0w0LWlrZUEyeDlOMkdCNTBNU3VhWkhWUUZsV1I5eFF6RjFFeS0xX2hhbUd2QnAySDctTk9keG8xMXNWSnBfRzhvZ1QyWDhCS3RsNUo5MVR1THlBUGkzVEoyMWwyemt5UkJm?oc=5"
+    },
+    {
+      "id": "n-dbef52aa6516ec8c",
+      "title": "사모대출 펀드런 한풀 꺾였다",
+      "source": "마켓인",
+      "published_at": "2026-09-21T09:52:18Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "마켓인가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lam9tUE1JNG9TU2xiUGlBSlRqOTlwdnFDYTJtUWZMWVAyT0ZkRTJfWEtnVlAxWDhqTTQ1R2NRbWR1d2V4Q01LWkY5d3NqQ3NsUDBSRC1jUTJyM1NKdXN2SkczbXdjOWRRbUV6dUZRX183dw?oc=5"
+    },
     {
       "id": "n-b703dc4f155531c7",
       "title": "Morgan Stanley again limits investor exits from USD 7bn private credit fund",
@@ -327,7 +357,7 @@
       "id": "n-bdeff58a7a12fba0",
       "title": "Private equity turns to financial engineering to lure insurance billions",
       "source": "Financial Times",
-      "published_at": "2026-09-18T04:00:09Z",
+      "published_at": "2026-09-18T04:01:00Z",
       "category": "Private Equity",
       "region": "Global",
       "summary": "Financial Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -336,11 +366,11 @@
     {
       "id": "n-3559d64b7680a8c6",
       "title": "The Rise of Private Credit: What Real Estate Owners and Borrowers Should Know",
-      "source": "JD Supra",
+      "source": "jdsupra.com",
       "published_at": "2026-09-18T03:21:24Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "JD Supra가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "jdsupra.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2RUb0FpRm1QUGQxdFhNdTlyYzRZYlhidE5UbzVTbE9PWjdOcFNqNHNySk5SMW90dmtOWmZiX0ZlMHQ2Si1TemM1UnVVRUdEcjQ5TUY0YWRCYXhTMTBGekx6U0Mwd01KVHotRXZ5aS10OWJaODNMeldLbjR0SGF2TWNWekFhZw?oc=5"
     },
     {
@@ -442,6 +472,16 @@
       "region": "Global",
       "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTaHJFdzBtbWVObFEydFY0Uk9rcHRjeThITnlWbXhTSVFxY09VY3hjRTJsYklkcHBTdEZXN3pqWllQSkZEVGVVZXFQTV8ySm5jeFRJUE4ycUJFRm9YbmVXZ3NCMTFGNVp2ejJVOG5laEdlMVpTSkRtMUlsOGE?oc=5"
+    },
+    {
+      "id": "n-744f0ce672a8f2a9",
+      "title": "These utilities stocks have strong valuation grades",
+      "source": "TradingView",
+      "published_at": "2026-09-17T13:55:45Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkZLSjdsMDZnY2ZLVEpUcldQOVJTYlA5bWxvWEx5Xy0yRDlIRThrN3BOc093UzJsUThWNHhWaTJBNmMyVkZlZmRmdy1ka2xyMGl1SWJHRWpRVzNoNVRwVi15YTNNY0xYV0JGY25JUGc3b0JINVYxelp6MXBkb0x5WVY2TXNISmxHTk4xWnZTZVRiVjhnRkp0dHRTYzh5QVNLVlNvaW9fMUlseS0ySlFua1ZCRmM?oc=5"
     },
     {
       "id": "n-3d05af17c58aeb2a",
@@ -726,11 +766,11 @@
     {
       "id": "n-e047d0fbf4125fcc",
       "title": "Who Actually Gains When Private Markets Open to Retail Investors",
-      "source": "ifa.com",
+      "source": "Index Fund Advisors, Inc.",
       "published_at": "2026-09-15T22:34:15Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "ifa.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Index Fund Advisors, Inc.가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWZnNDF6dGptcThqMC1QWVJTU0pYMVdFN25Hck1oeWU5NnB2SzFraF81c1BUdUVmTGN3ZVRBY0lNbUZvQk5nUVoycFVzZ1d4REJtSnV5NGN6UkZSLUdabUV0RkFlcGp4ZEpkZkdNWnMtMkJJNUVLNDJOR0JvWVJESVMyeWhXbzV0UVZ2OXk4dw?oc=5"
     },
     {
@@ -984,16 +1024,6 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVU5wM0pZRm13TFI1SmFRTGQtTVo5UUpwX0xjYWN0U1dRSElNUVBzaXdwUWFHQUVqWlljNmc2MXg5dFRrbWwtX0hkeHpZM0RCRmNrcXZDSHlkd1k4WHFBVloxcVd1dml5bWxaMThoN3pQN3NPTkdOTnV0azMzWE9TNjZYZFFNMmd1RFd0X3d4UjFpNlpVVmhBRUdDRzM4TTVyc0tRZklwdUlVVnlkTlhaUzIxSHc?oc=5"
     },
     {
-      "id": "n-36209ad769768cf7",
-      "title": "AI is turning sustainability into an infrastructure investment test",
-      "source": "PA Future",
-      "published_at": "2026-09-15T07:00:00Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "PA Future가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObllQekN2cEtLVExwaXJFb2dhTDNYaG1RdVZvWUNuVXNFa25LZTFYLUd4SFowZVdBaVJ3WW5qZEl6V3JnYWR0OGJlUmFuekdoUU1RRGFqcVlORFhfZG8yNVlzN2MzWlNhZnlpaEtDMXlRRldrN3VHZ1M0MGNQTmFaMkF6czYwdy1WNUVqRU1JSUtyV3pRWFRFZlJGYXJCMUtpeDFBRnl1SEs?oc=5"
-    },
-    {
       "id": "n-ead941e680a02d61",
       "title": "CARDO AI Revenue 2025: $13.1M Est. ARR, $15M Raised",
       "source": "GetLatka",
@@ -1002,6 +1032,16 @@
       "region": "Global",
       "summary": "GetLatka가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01MktkZktuQUpTX3hlQlM5T2hHRUNyU1hzejNZaWhpWFhBMS1VNWFEdGRqb1FKaTVySFlOVW1RM1ZHYzJ3eE1zVF9pY3Z0ajJZNHhWTQ?oc=5"
+    },
+    {
+      "id": "n-36209ad769768cf7",
+      "title": "AI is turning sustainability into an infrastructure investment test",
+      "source": "PA Future",
+      "published_at": "2026-09-15T07:00:00Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "PA Future가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObllQekN2cEtLVExwaXJFb2dhTDNYaG1RdVZvWUNuVXNFa25LZTFYLUd4SFowZVdBaVJ3WW5qZEl6V3JnYWR0OGJlUmFuekdoUU1RRGFqcVlORFhfZG8yNVlzN2MzWlNhZnlpaEtDMXlRRldrN3VHZ1M0MGNQTmFaMkF6czYwdy1WNUVqRU1JSUtyV3pRWFRFZlJGYXJCMUtpeDFBRnl1SEs?oc=5"
     },
     {
       "id": "n-220cf200c22ec0b5",
@@ -1026,11 +1066,11 @@
     {
       "id": "n-fb92495fbd04e050",
       "title": "Apogem Capital Closes Eleventh Private Equity Fund at Hard Cap",
-      "source": "peprofessional.com",
+      "source": "Private Equity Professional",
       "published_at": "2026-09-15T02:54:31Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "peprofessional.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Private Equity Professional가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVmNZOWxjOWVCa3pEbzZiZmowemwzNFM1WVIzbTFMSFRUV19hV005OFVuXzBkYzRBdE1mUmFWWXAzWnRJZFJDY0RWMDQxd3YtTHd3MnJJdlJfSUZFcHZqMnNyRFhKT0g3Wlk0TTRoMW1TQjlPX1l4cUQyRG9RcXB0ZE9Gb1doMGJqUW4wOFdtd1dyZTFnSHFoUmhBRm1aTk0?oc=5"
     },
     {
@@ -1362,46 +1402,6 @@
       "region": "Global",
       "summary": "Briefs Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlhtVmJVekNPblo5Q1lwWlpmRkhyVDk5WHFaTi1VblNrX3l5NXdLXzVWajlzS29hRTMzOVB5NlVvQ0dkbEdyaVNHcnI0OVpCdnpTc0FQcmxfckhoem1keElYaXplTkthNWVsUW5TcU5Ua0paY1RFaEYzdzFPZnFlcTEyNUlnWVdlSGtjb3p6NWlHQQ?oc=5"
-    },
-    {
-      "id": "n-c41690efa8ab7fc6",
-      "title": "Peterson raises $510M continuation vehicle for Kelso Industries",
-      "source": "Utah Business",
-      "published_at": "2026-09-11T21:39:40Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "Utah Business가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGxnZFNVSzFuREp1dzNmZnUxX2xjUWVLb21ab3A2Y01RZTc1RThJWWF1aVpDUVdoNnZhNWQ1djZiR0FNeXJLQlFLSjhHX29mNThKNHJuVGJLMWVaMTRKdk9fdE5qSzR1T0FsMGZSQnlyMlJyMWFDNEJBbXB5OGgyeHdtMkkwTXRrZHloX0ZfRzJRTjB5X29sRW5VX1NkZTcyZXJDZnhJblAyT2dVMGRacWVn?oc=5"
-    },
-    {
-      "id": "n-3c630e55272e7533",
-      "title": "사모펀드 결국 이럴 줄 알았다...개미는 어쩌나",
-      "source": "v.daum.net",
-      "published_at": "2026-09-11T20:31:32Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "v.daum.net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5saDJGVXVnek1QS1NGWlNvN01lMWdmUll2SVFneUxZTkFzWV9WbjFqOTNOYTlBNzN5NGlDYzZ1dXphTlNPdUE?oc=5"
-    },
-    {
-      "id": "n-f7a5a10b2e41aa0d",
-      "title": "Why asset managers are pursuing specialist M&A to add alts strategies",
-      "source": "pionline.com",
-      "published_at": "2026-09-11T16:16:00Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "pionline.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYXhkbnRzZWc2Mm9XeVVEYk5aOEFSaXNVTFNXbWIyLVRrUUExdXUydjlJYWxIbHdydzdodG9qaVM0aXU3OGtjd3FuSDItSnZKV29TamRGdW1IRl9MbzJaQVl0aWJNTS1UT2xjNHp5c25QLVJfRmI4N0lUZXRuYW5NdE8yUHpkU2ZOTnVyclVfdjNrTGIweXh1Z3Rjb0lPNDRPd3RYa3otSFNqdkV2?oc=5"
-    },
-    {
-      "id": "n-021f157cfc730d26",
-      "title": "BlackRock private credit fund redemption requests ease in third quarter",
-      "source": "Reuters",
-      "published_at": "2026-09-11T14:48:50Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "Reuters가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUthWGFLV0hpbDF5VkYzRDJVc093bEI5UGM0Y1lLMkVwQnJyRDhCSlRKVmEtYnVkSEJEczgyQ090ZHU2MXZ1R1JLck50cEhuWjVQRFJkV2dOSVppdUdPdndlZ0RZT1NXZkljZkpOczZlSDk4aFFmVkI2MTd1ZEpsY2EzcXdORGdHb09ycVJ1NDhwRVE0WnpnVExKcUYwTVVaekdpbUZab0s?oc=5"
     }
   ]
 }

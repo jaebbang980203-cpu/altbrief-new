@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-09-22T05:01:00.985627Z",
+  "updated_at": "2026-09-22T11:43:01.112115Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-27d0b42ad77c970d",
+      "title": "TCDRS adds over $300m to real estate debt, PE",
+      "source": "Alternatives Watch",
+      "published_at": "2026-09-22T10:56:00Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "Alternatives Watch가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzJhbEhiYTNrWWs0QldEcnY5ekk5dXA5QXNBSnhLMkNtVTJsQlJzUE8xei1YaFRsY3R4Z0h1Rk1YT0JUV18xbXh4VHlfMTBZQWctN1hQbFBhbXNVc0QzMUJGVDczTkJMSTYtY3gtMmxVbEpHdUFCSEpPZ1NHemduVnFoSnVVWmktWFJlbWMwNkJobGM?oc=5"
+    },
+    {
+      "id": "n-afa843d6d863fa58",
+      "title": "U.S. Still Leads Private Equity Fundraising as Investors Expand Into Europe",
+      "source": "finchannel",
+      "published_at": "2026-09-22T09:56:10Z",
+      "category": "Private Equity",
+      "region": "North America",
+      "summary": "finchannel가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2lMLVFkS1NENHUzZEtxcjlZSV8tMHdEZFY5TWMxMWVkSDcyNURVUFAyRVAyekpITDcyTXhIbXZOTXdjenU0U1AyZXlheUhOZWJWYWY3RHk0NVVjLWwxVjdIWHUtdEkyVUhER0JjdFhoZFU2bFVpZlNFbGpQa01zR1U2MW5ySVc0MnFVTnpibFNGTDYzcWhKQ0JLNE9iUmZYZTZQM2hUMTU3RzQ?oc=5"
+    },
+    {
+      "id": "n-3d0002a2c7d63e35",
+      "title": "Central European infrastructure investment – opportunities and growth",
+      "source": "euractiv.com",
+      "published_at": "2026-09-22T05:05:23Z",
+      "category": "Infrastructure",
+      "region": "Europe",
+      "summary": "euractiv.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWpGNW16RTZuSGM5M0p6dEJOeGJORTRGOFY3cUZlQ0g4NmxFTXhUVEV0dkRZN3BOOVQ3WDVDZ2kwSE54aGs4dkc0WF9hVVBZaXBuOXpBUlRLakNuRkNtLTV0MEt2UGRBQ1dSLXdjMDZLNlU5dVo0SFBWZTZOaEpXTUNMcnBaZ1RCSC1vbi1vMUxPMDJFM01vc3pNbw?oc=5"
+    },
     {
       "id": "n-c05526ecf3cd60d9",
       "title": "Janus Henderson Global Real Estate Fund Q2 2026 Commentary",
@@ -12,6 +42,16 @@
       "region": "Global",
       "summary": "Seeking Alpha가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHJWUWFpR3JkVzQtSGNfM2hVX28yb3doUkVYakNDQ0ZPa3pNTG1TSktxdXdIaWZYamR3ZFl1Q2pIYWs5Q2pvVHZHNnJSNlR3bGZwZTFRT1g2TW94aW5jaWJuV1BYakY3bThFdF9OYWN1UHFZT04tNU5FZEJqSW5mY0NKU0xwSG1lemZNaEdoYlBlS182c3lBZ3E3Z0lzUXNm?oc=5"
+    },
+    {
+      "id": "n-47df11e8faebbd14",
+      "title": "New York State pension adds over $600m to private markets",
+      "source": "Alternatives Watch",
+      "published_at": "2026-09-22T01:37:03Z",
+      "category": "GP Stakes",
+      "region": "North America",
+      "summary": "Alternatives Watch가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQODNTM0FRWU1QVWljNV9LREF1a0xtWG1YSVoxTWNsallmWEtMLURwaVBQelVHQ1RyZ3Y2WDFPcnh4VWpZZFM1cTFkSEIxeDBqRjJqMkRMQjdyTk1oS1pqNmt3OFBQZlNRZFlxcXlHc2tEMHYtVXMxMmI2WThkZjVFdW5WUVRSYWJvYUJEaG93OS01dmhPMTNiQy0xN3RaWVVWLWc?oc=5"
     },
     {
       "id": "n-501647f0cf1e359a",
@@ -36,11 +76,11 @@
     {
       "id": "n-0e1b014abef95be7",
       "title": "QuadReal expands global real estate debt platform into Europe",
-      "source": "QuadReal Property Group",
+      "source": "quadreal.com",
       "published_at": "2026-09-21T21:17:14Z",
       "category": "Real Estate",
       "region": "Europe",
-      "summary": "QuadReal Property Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "quadreal.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUzhqdHVxSDlEejV1TWRuWXZCSTdsM3FmcVlmUVE1ZUJERjlpYUh6REltRks3ZTFyNDRaUUI1ZzZJVjdheVNDcU05M0txNVgwdy1yVVM1ZE9VT1psRUZlb3VLVFc3MEk4c3FlZ01zX25qcEVmNGZlTlRNN3BCSkxlaWRmelp0WGZKRksw?oc=5"
     },
     {
@@ -147,7 +187,7 @@
       "id": "n-2aa39d3b5975d23e",
       "title": "Accel-KKR closes $1.9B continuation fund to extend isolved partnership",
       "source": "Dealroom",
-      "published_at": "2026-09-19T21:54:44Z",
+      "published_at": "2026-09-19T22:05:44Z",
       "category": "Secondaries",
       "region": "Global",
       "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -326,11 +366,11 @@
     {
       "id": "n-8cf894ac1cb19166",
       "title": "SFERS commits $415m as private credit, real assets lead gains",
-      "source": "alternativeswatch.com",
+      "source": "Alternatives Watch",
       "published_at": "2026-09-18T11:27:00Z",
       "category": "GP Stakes",
       "region": "Global",
-      "summary": "alternativeswatch.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Alternatives Watch가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR3hNQ3M5RGdrQnY1Q2NmeWRPdk01RGcyQWFjRjBWUy1GMm84RUNObkJ4eDZUNUgyemZ4R2xUaWktdEc3X1lkaGtQREhYSUoxcWVjUU03bHFKdmhPazM0VXdfZG5iNXJVYjBUNWR0WFZ5OG5GdDNzRnFfZ2pOUzV2Q0tqZmphWkJKYUtsUTZDbzhpZ1NJZ3pTeld5VHVoN3lBckhJQURjSVM?oc=5"
     },
     {
@@ -506,11 +546,11 @@
     {
       "id": "n-99928d774d7f18c4",
       "title": "Tenka closes pre-seed round led by Maven 11 to build asset-backed finance infrastructure",
-      "source": "Crypto Briefing",
+      "source": "cryptobriefing.com",
       "published_at": "2026-09-17T14:11:30Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "cryptobriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTaHJFdzBtbWVObFEydFY0Uk9rcHRjeThITnlWbXhTSVFxY09VY3hjRTJsYklkcHBTdEZXN3pqWllQSkZEVGVVZXFQTV8ySm5jeFRJUE4ycUJFRm9YbmVXZ3NCMTFGNVp2ejJVOG5laEdlMVpTSkRtMUlsOGE?oc=5"
     },
     {
@@ -716,11 +756,11 @@
     {
       "id": "n-2ef49692f6c013d7",
       "title": "Stockdale launches real estate credit platform",
-      "source": "Alternative Credit Investor",
+      "source": "alternativecreditinvestor.com",
       "published_at": "2026-09-16T11:45:26Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "Alternative Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "alternativecreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXFCQmJIR3c2QzhmekM3eVdQaEt1bVBpaldWUEkwd2ZEQ1hUZ0E1em8yYlNyRkRKeFNQRzJxSXpqLThqMzctNkk2Vmg2RlJQenZHNXlOSlh6ZnVteEl3dl9FZUxCeExES1U3bF9WV1pfVGs0Y082MEVwNlgxMHJBeGxweDQwRnBYUl9TR0ZpdC1iVGIxQVpxMWZVV3c?oc=5"
     },
     {
@@ -816,11 +856,11 @@
     {
       "id": "n-9d79a16f8ad5fc49",
       "title": "세계 20대 사모펀드가 투자한 자산...年 15억톤 온실가스 배출",
-      "source": "newstree.kr",
+      "source": "뉴스;트리",
       "published_at": "2026-09-16T02:07:06Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "newstree.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "뉴스;트리가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1meF83SFJxUlFjZTZjN1hTTmx0V21ac1JyMWJkUXdJcjBHNTFRMmcxRW1iWktGTDFOeDdENUVJMDlZeEFKZm42QnVfOTU5ZDV0NDVLSzBrN3otSVk4?oc=5"
     },
     {
@@ -836,31 +876,31 @@
     {
       "id": "n-9865e1a6c49d4c71",
       "title": "Saudi Arabia Expands AI and Digital Infrastructure Investment Through PIF",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "published_at": "2026-09-15T22:20:41Z",
       "category": "Infrastructure",
       "region": "Middle East",
-      "summary": "IndexBox가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "indexbox.io가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb05Ia3Atck1VWXlWcjhHc3VJZVp1dmFQZzN3aHNaZU9rbE9yRGl5cDRHX1JkSHhEeFNRNmRBOHp0SFdjUkI2RU5Ia3ljRTYtRG1TVWl2cGMyZThNUDZvX2Vxb1RJV1hmWlJrNlN3TnJUMUF2RE9mc3gxcV9hNzVra3JQX3hZenZJTkhDMTI1TjhuSGZGX2w4cWtWWlBabGVzR2o1aHpB?oc=5"
     },
     {
       "id": "n-39e368d81da2b862",
       "title": "Blackstone Seeks $8 Billion for Green Infrastructure Credit Fund",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_at": "2026-09-15T21:55:24Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWpiM1EyMkc1WWtTNnE2Wmd6R2hVN08yeWg1UGV1X2VpcWRMT19VUVpaeTJTUUVRUlVBbE4yTG5QV0x0cktEQXhqcDhhRXpXY0Q5V2NJU2VpS0VlSGx0d3JxVzVSUUxvbVVBY01nNHFKSGFQZHVkUkFEcFRmdlNFeWtkRWZPQTFZaF93OEJDUUxBUm9UdEFDZzZST3JaVV9YSnU4NEFhZVBQX1prV1FMNDNjcjk?oc=5"
     },
     {
       "id": "n-b160beb5ff773e49",
       "title": "Illinois Police pension trustees review non-core real estate finalists",
-      "source": "alternativeswatch.com",
+      "source": "Alternatives Watch",
       "published_at": "2026-09-15T21:29:18Z",
       "category": "GP Stakes",
       "region": "Global",
-      "summary": "alternativeswatch.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Alternatives Watch가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbmlwTkFSQng2bElQQ1FTczhhc3VfV3R1ZlVIX1ZMRmdfWVRPOHdCZmUzZUdTeTFvSTVtendSM2Ribkp1TmYxUWZrYnV0T2k2QTFPYVBxYzRLY0dhRk1XeHZXTGJrdVVFUXZqc0JzSF9SZ0c1VU95SVdOcG5Fblg2ME5OaUswVmVGZnM1VjJsRG13Q2VrcXIyU3NJQVFfNG5wV2dmTU5MLUgzWVU?oc=5"
     },
     {
@@ -954,13 +994,23 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbGd5SXNpVVZCSHgyLUp4d2o4SU1ZbFY5WTNscGJUTXk5cS1WOUU4YjQtZHBndjhYcGhXekFqb2lrVnJQaFFUUW96c0tlZ3NpU1pzV0xfM3JUS2VOZHIyNFdsTFZIZmpkbklBcWpUZHZjdGd3Y3psMWxhdlFsMlJocG9DQ0VVYzltQXlfQTliblp6RUsxYUNRVnZpMFJVTTR1a1IzUzFqOVpMaWlQOFhJSmk2cGZvdnl0RFh0ZlNhR3J1ZXE3ZmhlaWZzNE5PUngzcDJoOQ?oc=5"
     },
     {
+      "id": "n-91d189c71f3e88d2",
+      "title": "The rise of the Cayman Islands SPVs in credit risk transfer transactions",
+      "source": "caymanfinance.ky",
+      "published_at": "2026-09-15T15:23:44Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "caymanfinance.ky가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSjhhc3VaWFpsV1pYNzhUYVBlMGw5SXBKOHphTm5DU293c0V3ekpNRVBHcVR4OHBTSE9OTVl1aHVpcXhtOWdFT0ZpR3MzdzJnaWZBMXlQVVJhek0yOFJfMV9xNnpreUFQSU94UVRjMTlib0RkYW50T2JwTVNHMEV6ZnVOelBjZnFHWERpbGF5cHhhZ2FTbnZhdjJzcUZfMXVEY040S2hXd0REb09oQ2c?oc=5"
+    },
+    {
       "id": "n-07c6602d4f2ffad1",
       "title": "Update: Market Chatter: Banco Santander, BBVA, Deutsche Bank Working on Several Significant Risk Transfer Deals",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "published_at": "2026-09-15T15:19:32Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "moomoo.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Moomoo가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZUFtZTItR2pRTVduVkRENHk3WTFtVDE0TU5rYjctLXRqSUFtb05UaUltN2JoQndjSzdGQmM2QW80NFFxdTc3aHFZMHRYTE5RNlJIZ3hXZF9pZWpUWGUyMWNnS09PUHUySGJZdXBNSzAwVEEzYWgyNm9BVjhaVWY3QzVER3JxYzVIck9fVGZiRG5wOFhJWklITFEyYUpfVmlJTmJvY1hCR3JJNVd2eUE?oc=5"
     },
     {
@@ -1016,11 +1066,11 @@
     {
       "id": "n-1da1fe38d79f5a08",
       "title": "Brightshore Capital Launches $250 Million Property Platform",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_at": "2026-09-15T12:51:31Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUVnVFdvbTVKYVYyRnFPWWdCUC1vWTRoMzhReVU2anZaWk1LZDNMcHlNbVhhM0VxNmYwUW8wUFBVRmxMYmlOUUZZMzkxN19vMzJUV3BVOEdaYnFDTGNQZ0oyZlFrcUFKZnVaUHBiX0loZ20tQ19UODV4Slk0TUpfNTVoc1o1RVpGSUNTWFdnZkgwQjR5a0tNRmoxblBuUGt1eFBVOWhuUF9qZ3F4TU1jcmJZNUU?oc=5"
     },
     {
@@ -1046,11 +1096,11 @@
     {
       "id": "n-1b9bb5e2ed8e081f",
       "title": "골드만삭스, 117억달러 규모 사모펀드 자금 조성",
-      "source": "연합뉴스",
+      "source": "yna.co.kr",
       "published_at": "2026-09-15T11:00:01Z",
       "category": "국내 대체투자",
       "region": "Global",
-      "summary": "연합뉴스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "yna.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93YXFzRkp2Y0xMYjJ3WU84MFJTTzhQS0ROUkZlMFR0ZmdaclotQUEyWWl4OHp6VTRHZy1NdGVMRndhTlZhRGNMWVhSUWNkZGhrRlZGcDNqM2JIeUHSAWBBVV95cUxPZW9xVEZFS2JsWDlqTDI3YTcwVnMxNDlqdmg0S2N4eUNLQ2hpc0UyMG1PR0ZXd1E2RXRIZGxOODB6UklSb2xRaWhCNHNabW5pWjJvZzAyalNjQVVteGhCUGg?oc=5"
     },
     {
@@ -1216,21 +1266,21 @@
     {
       "id": "n-a4fc6465c21b2608",
       "title": "European banks ramp up $17.5 billion in synthetic risk-transfer deals",
-      "source": "Crypto Briefing",
+      "source": "cryptobriefing.com",
       "published_at": "2026-09-14T16:23:34Z",
       "category": "SRT",
       "region": "Europe",
-      "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "cryptobriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yN2ZILTd0eG5Hb0lwd0JKY3dhajRqU0tGWUw3MWh6QTQ5ZUJCcUFXQjVwUDVlN2ZJNnRzQzRsb3l1Qmc1WUR5Y3ZvQUx6SEVxbHhPX2dIN0ZrMlMwbWp5UWFHdXhmakhaQjFqSWdWMENoV3d4MzFoT3V2Zw?oc=5"
     },
     {
       "id": "n-2e997993c8d2b9ae",
       "title": "Ukraine proposes energy truce with Russia, awaits Moscow’s response",
-      "source": "Crypto Briefing",
+      "source": "cryptobriefing.com",
       "published_at": "2026-09-14T16:12:53Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "cryptobriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjh3QW1OdnZrSmpoUHZISGJLMVpvQktFX05BZUJnWHNDRGtlWXQtZDhrLUtfZXU1WTEwVms5T2poOGtENEdJdU1vb1BvVWNUelhSN1ZWS1AtTlVIWFVWUW9CbHhQU19vNmEzVWdRWi1LWkQ1aVIzOTNFNnU3SkJERThKU1IxRXNHVzRURl9PM1RCaDEzaEZXRw?oc=5"
     },
     {
@@ -1352,56 +1402,6 @@
       "region": "Global",
       "summary": "InvestmentNews가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVVuWWRUSmw4OVF6dGNLMDI4M2MtaG1LUUVkYVdockl0R1NtbEJGaXBlUTBNNmdMaGYzQ3VKN3JmaXJ2eV9ZUGE1U2NxVU96d2RQc2lINVRwZ2ZZblJzT2FrQVlnVTlfaU5RSHktWDgtU2R3Mm9kdFZsVFRscGZJWEZtdEhVdGdxMGRjZXY4S2I2blV6NDVOVnMtZTM5VmYtb29PZEpIS2xmMDRxSFNHR0NtSFRwX3pqZHc?oc=5"
-    },
-    {
-      "id": "n-a6b2ec931424b552",
-      "title": "Financing the digital economy: the role of private credit",
-      "source": "Bank for International Settlements",
-      "published_at": "2026-09-14T11:21:43Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "Bank for International Settlements가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVV0SGw0U2xXbG0wbmhmeVNSeDhoVzl4dVBrUkJQbFBkWnNRaTdka0F5Z0Z5LXQ4Q3VDek9HOGlMM19zWjNSQ3RLMmthZkpNNVoteUNBRDc1U2RkYmlnbzFRUHBoYVI1Q1QxTGVGVU85bjlXaHc3bFNZMVBBYXhOemhOVDk2M0tnay1KOEhZcDNrQQ?oc=5"
-    },
-    {
-      "id": "n-b7e42f27ad5754cb",
-      "title": "The mid-market's liquidity fix",
-      "source": "Structured Credit Investor",
-      "published_at": "2026-09-14T10:40:45Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3FuX1Y2ZkxJWmJFRjROZ0FpNmtad3hoUTVvMXBBd2gxNzJoQUZONUdaSEJDZ1RtZGp3RFBiM2JYem5iLVk1WjktWEg2YnIyZzFmdnZHV0VlbVJrbHlScmE4S05NU3hGWUt0ekJaUkxHZWh4UkFVa3R0WUNzM1F4WUpyNUppVUtnRjl3bGRfdFdWS1pXRTBRNElfVTNFZ0Fycy02S3ZqT3RMRW1WOWdIRWF3?oc=5"
-    },
-    {
-      "id": "n-2506af53012f604d",
-      "title": "Canyon raises $100M for US real estate debt fund",
-      "source": "Dealroom",
-      "published_at": "2026-09-14T07:54:44Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTl8yUXBFTHFiRzRSNDBILUlSeExRZmFWMG5LM1FVZnVTNXpVSWdyVDdEWnozajl2TlFIelJ4N2Y3d3hhOUVTRUhKQi11dUdPUWxmdklkZHJzYmZZM0xMdTlZVklkenpneTlfYkV5T3ZqcXVqUXZLWC1sQk1jVzZaeGhtQ2RCeGU5?oc=5"
-    },
-    {
-      "id": "n-eca84f5ed7dd5531",
-      "title": "Banking & Finance Quarterly: Private Equity’s Two-Minute Drill",
-      "source": "Los Angeles Business Journal",
-      "published_at": "2026-09-14T07:53:50Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Los Angeles Business Journal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUTAxQTdiM01mT19md1NkVC1vbF9LOVA5cWJ0UDBFY3dVSldsQkpZWE9iMjRpX2ZMV2c4aWFlU01QdEJSTHpiZVY4V0JEaXlzdWYzNDhpVDd4N25MeFBjMkE2NXdQUHJ3Q2dtWHAyTUNTUjdCQURMdUlCN3EzZlRQRmZkbHJIQUZHS3dfb0o4S2szenJlZWcxbEtzZ2VKcDI5QXFOYkdoeko?oc=5"
-    },
-    {
-      "id": "n-e4a0e4e2eda0b9dd",
-      "title": "First Sentier Global Listed Infrastructure Fund review",
-      "source": "RankiaPro",
-      "published_at": "2026-09-14T07:53:16Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "RankiaPro가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUFhQSi04U2wzSTBYWURLZmQ3OUJhdnBUR2FJZy15NVNBM3BuRjZlaFhDaTVHWVkybDVDVDhuY3BwS19vYWFlTU5qSnFSVnNSZm1vQXdrbUU3YkpMYWVqRVhxOUczSHBnSGJrVk9PT3EyUXFfRDREaXZzSWtBNnV2Y2t5WkJNYjRyZWVUNW1Tc1NHVE02QjhqcFNscWs2dUhEVHFoUzJqOA?oc=5"
     }
   ]
 }

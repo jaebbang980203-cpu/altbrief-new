@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-09-21T19:59:53.204448Z",
+  "updated_at": "2026-09-22T00:08:40.200595Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-cecae456419e6482",
+      "title": "New Georgia Chamber alliance forms for 'responsible infrastructure investment' in data centers",
+      "source": "WABE",
+      "published_at": "2026-09-21T21:47:46Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "WABE가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXpaczktTkxTNlVLX25odTZOUVd2WFlVTDBmcWFlUlB5a0hVaU9HblVaeEQzaE1JWmhucG91WFkxLU5KWDZiNGhnRWxLdEt4RkItbEptc2IyZXlHdTN3QlVlUGdBRVVXd3RzYlQ2MC1MZkJXbUZ4NGNiVnQ3VzlsQkVHTnVEdU1RUGVSSnZoTDB2SV8xTVNyWGRSUDYzc2dvRVRxVDlEMmRISk10Z21LakZHck0?oc=5"
+    },
+    {
+      "id": "n-0e1b014abef95be7",
+      "title": "QuadReal expands global real estate debt platform into Europe",
+      "source": "QuadReal Property Group",
+      "published_at": "2026-09-21T21:17:14Z",
+      "category": "Real Estate",
+      "region": "Europe",
+      "summary": "QuadReal Property Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUzhqdHVxSDlEejV1TWRuWXZCSTdsM3FmcVlmUVE1ZUJERjlpYUh6REltRks3ZTFyNDRaUUI1ZzZJVjdheVNDcU05M0txNVgwdy1yVVM1ZE9VT1psRUZlb3VLVFc3MEk4c3FlZ01zX25qcEVmNGZlTlRNN3BCSkxlaWRmelp0WGZKRksw?oc=5"
+    },
     {
       "id": "n-e2fc0cdeef59eeeb",
       "title": "Principal Asset Management Adds Drew Fung for Debt Role",
@@ -17,7 +37,7 @@
       "id": "n-d7ca071830cc2693",
       "title": "Lesotho: New study proposes cost-reflective electricity tariff reforms and greater infrastructure investment",
       "source": "African Development Bank Group",
-      "published_at": "2026-09-21T17:02:44Z",
+      "published_at": "2026-09-21T18:12:30Z",
       "category": "Infrastructure",
       "region": "Global",
       "summary": "African Development Bank Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -76,22 +96,12 @@
     {
       "id": "n-b9466961ffed1899",
       "title": "From Balance Sheet to Specialty Lender: Capital-Light Corporate Models and the Verified Scale of Asset-Based Finance",
-      "source": "ABF Journal",
+      "source": "abfjournal.com",
       "published_at": "2026-09-20T18:39:23Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "ABF Journal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "abfjournal.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZnNYSmVCUmVCS1kyVG5aSlNkbHkzT2ctR3M2eFBfM1d2Y3pYNlZuRlA4VGgtYWFsMURHakFZc0VPbmlyVjBoT0lUdmtVVTFabHd5UHZXVGRidDFUYWVvRG9XMDROZDZZbnp5Zzk5TlhwelpvQlc4amh1NHlLQ2prUDFXV0FRaFRaZURYM0FKczF6VlJJQTU4MGVFcUEwdkQ3N1o3Y2xzVGg3YW4yWnhPcERzUDZHU2NuT29leERJRktfaWlzYXBMYzlVYjkxSlZHcTA2eGMxQVdlR28?oc=5"
-    },
-    {
-      "id": "n-0e1b014abef95be7",
-      "title": "QuadReal expands global real estate debt platform into Europe",
-      "source": "QuadReal Property Group",
-      "published_at": "2026-09-20T17:03:55Z",
-      "category": "Real Estate",
-      "region": "Europe",
-      "summary": "QuadReal Property Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUzhqdHVxSDlEejV1TWRuWXZCSTdsM3FmcVlmUVE1ZUJERjlpYUh6REltRks3ZTFyNDRaUUI1ZzZJVjdheVNDcU05M0txNVgwdy1yVVM1ZE9VT1psRUZlb3VLVFc3MEk4c3FlZ01zX25qcEVmNGZlTlRNN3BCSkxlaWRmelp0WGZKRksw?oc=5"
     },
     {
       "id": "n-92edf89150adccb5",
@@ -246,11 +256,11 @@
     {
       "id": "n-bbef67c316cb2e38",
       "title": "CVC Marathon Promotes Karen Lau to Partner",
-      "source": "citybiz",
+      "source": "citybiz.co",
       "published_at": "2026-09-18T14:58:40Z",
       "category": "CLO",
       "region": "Global",
-      "summary": "citybiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "citybiz.co가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUXBEUWNDM0tlQXZjWjhrVHhJaDF2d3Y1WURybUhYYzZJb0dMTnpSRWtyRmUwTXMzWVFYZ3paczVaQVpTMFJXYlRVb1dHM1F3X2cxVWtXRVNVcFZqVVZOYW9Eams3VUY4bWdmNzhsMUNzWFVpVTFzVE9WMFNHaG8tbEk2eGJadXJC?oc=5"
     },
     {
@@ -266,11 +276,11 @@
     {
       "id": "n-9d2da6e5f8448d52",
       "title": "Moody’s: Insurers set to boost private credit allocations",
-      "source": "Alternative Credit Investor",
+      "source": "alternativecreditinvestor.com",
       "published_at": "2026-09-18T13:53:26Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Alternative Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "alternativecreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3VIRTU5eEcybTNGN05pRDZqbFdCSnpCZnA0Z3VTa3JoM3dqUUdVRkV0eGhVMy03aU1TNDFjclk4TGtEUWctaWpXWkpyZmNEQ25abWNMSTdSTFJhR3BQanlkRFBXT0tNTlUwdXc2ZWhIdkZhRVFveVlJX2pmLW1QaWRvQ29iYk5BNEpTcko4TGxYV2x2a3lndFJLQ05yOEwyVEpFTks0bVc?oc=5"
     },
     {
@@ -306,11 +316,11 @@
     {
       "id": "n-7bdbdd059addc7d7",
       "title": "European MDB eyes repeat €1bn SRT in 2027",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-09-18T08:59:39Z",
       "category": "SRT",
       "region": "Europe",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVG45R2lOY1picnpTeDcwb2R0a0ctRE9ldVpsaGNYMWRKalhiNmZlRjVRRTBCdXZMQ1NxWjlTU1BhWW5OYzVUNTBfc3NnMXRRVDJmWldjM0llTGFjMDJ0Zm5fRkRqckFqUnB4ZW1fWGgyeG5wNEFuQ3E0dU5wZ0V5UFdOeXBlQklMNnBhTnRvNndtdllhdUdKNGduXzN4SHA2S3JDQUlNN3QtNU1NN1AtRzFRSDdmRHJkOVJaVFpnTXNzRTgydVVYWlNXNV9pZGtaZ1E?oc=5"
     },
     {
@@ -366,11 +376,11 @@
     {
       "id": "n-3559d64b7680a8c6",
       "title": "The Rise of Private Credit: What Real Estate Owners and Borrowers Should Know",
-      "source": "jdsupra.com",
+      "source": "JD Supra",
       "published_at": "2026-09-18T03:21:24Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "jdsupra.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "JD Supra가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2RUb0FpRm1QUGQxdFhNdTlyYzRZYlhidE5UbzVTbE9PWjdOcFNqNHNySk5SMW90dmtOWmZiX0ZlMHQ2Si1TemM1UnVVRUdEcjQ5TUY0YWRCYXhTMTBGekx6U0Mwd01KVHotRXZ5aS10OWJaODNMeldLbjR0SGF2TWNWekFhZw?oc=5"
     },
     {
@@ -506,11 +516,11 @@
     {
       "id": "n-d15cf134a18c9063",
       "title": "Goldman Sachs West Street IX Private Equity Fund Close",
-      "source": "Funds Society",
+      "source": "fundssociety.com",
       "published_at": "2026-09-17T11:47:48Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Funds Society가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "fundssociety.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNclRMazR3Z1pwaEpEMlNMMktpQ3dhZkZ0Q3N5N3htZWVQWU5sV1NMLVZEWkQwLTZSaGF6Skg4Q1I5a2h4WDFtVmRHYzF0VU9xUFRRRVZya05jZE1GUVpHSFVuenBsaWpoWkF5ZjdTVGllSXd5TTZYbVJVUGtpRnBHWndLTF9nak8xZ3pRaTBJVUpMMTdidjBoRHZMcjJtSzdkUTRDbl9OZFBKODhsdXNlUEpjdnJIY3hieEozcVhxTDM2VkxkSk9OSmVWcGkxLVJ2aXE2bkVsWjA2RjNRSGd6ME5tLTJuM0N1elh2TlJranJhSjRGYXhEb2NqTUp2aE9NNXBTcQ?oc=5"
     },
     {
@@ -634,6 +644,16 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSEgtNlBKWjZiX2wxaHFwcTNzTHQ0Q2Fmekg5eXA3a2Q4azA3c1BJUDlPYzJoZkd1Nk5FclE3d2ZqWlpiZldfMnJUYnU2U0psenF3NVhUYTlub1pBVDgtSTFhMlFpR1J5RGdnRUlRa3BGMTVKQWpMelh1SE1iQ2Y2ZEZsbjNzcE5IaDJ2S2xvYUFRejlyeGlQM3lXTG9nS3p5NWsyRngtbG5teTA3N1NJ?oc=5"
     },
     {
+      "id": "n-08ecce7aa4e48679",
+      "title": "Exclusive: Tare raises $13 million from Blockchain Capital to manage private credit transactions on the blockchain",
+      "source": "Fortune",
+      "published_at": "2026-09-16T14:45:00Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Fortune가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWZ6bmJENms4Ynpob1pxYTZjcERhb1VTU2lHWWFwZi0xdUpQT2JNMWRxRkQyUDA3a1BjdVpQc18yaDA0OE5IaDdmMmtuZlZhMmhNczc2ZmNmNXFZamR1aEZleWRXc21ZTmJIb2xQMk5mYU1ZQmlkNVJHaDc5SmJ2YzZUTFF1alFxUVVSVGNLSnI0bGlBdWNVYU81RkdXR3RIVHQ2ajZmamI0M1dQQkxJUUdQUnJ2QQ?oc=5"
+    },
+    {
       "id": "n-28eeadbb0dfcd586",
       "title": "헤지펀드로 돌아오는 기관 자금…사모대출은 '옥석 가리기'",
       "source": "마켓인",
@@ -656,21 +676,21 @@
     {
       "id": "n-2ef49692f6c013d7",
       "title": "Stockdale launches real estate credit platform",
-      "source": "Alternative Credit Investor",
+      "source": "alternativecreditinvestor.com",
       "published_at": "2026-09-16T11:45:26Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "Alternative Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "alternativecreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXFCQmJIR3c2QzhmekM3eVdQaEt1bVBpaldWUEkwd2ZEQ1hUZ0E1em8yYlNyRkRKeFNQRzJxSXpqLThqMzctNkk2Vmg2RlJQenZHNXlOSlh6ZnVteEl3dl9FZUxCeExES1U3bF9WV1pfVGs0Y082MEVwNlgxMHJBeGxweDQwRnBYUl9TR0ZpdC1iVGIxQVpxMWZVV3c?oc=5"
     },
     {
       "id": "n-8e87f830b77f8ee3",
       "title": "NAV, GP lines and the new fund finance toolkit",
-      "source": "Structured Credit Investor",
+      "source": "structuredcreditinvestor.com",
       "published_at": "2026-09-16T11:44:43Z",
       "category": "ABF",
       "region": "Global",
-      "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "structuredcreditinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMGhkLUJMRG9yTmVxZG5lZ29zc3pydUNlZjZWcHFqZnhScTVoSV9oNlVNSEJPcE9uZnhCOGI5Sl9TSHI5ZWdzVG1LSVVhS3lwWGZXNHYwdmZOM1UyMUZXblRyOURVSmRPLXd3cE40T2o2bmRudWhkZEZhUUNDTFdaWVQ3aExTMG4yUTFnQnZrMEpBRnVoc3N2bEZsUWw3ZGRlZ2ZCNllGaUpsZXFPaFVNandINDJnUDBUdlFPRHdINVF6RXdvc0RKQl9NRmZMMHVObnBtOVpwV0RlWW1VMWpR?oc=5"
     },
     {
@@ -1066,11 +1086,11 @@
     {
       "id": "n-fb92495fbd04e050",
       "title": "Apogem Capital Closes Eleventh Private Equity Fund at Hard Cap",
-      "source": "Private Equity Professional",
+      "source": "peprofessional.com",
       "published_at": "2026-09-15T02:54:31Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Private Equity Professional가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "peprofessional.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVmNZOWxjOWVCa3pEbzZiZmowemwzNFM1WVIzbTFMSFRUV19hV005OFVuXzBkYzRBdE1mUmFWWXAzWnRJZFJDY0RWMDQxd3YtTHd3MnJJdlJfSUZFcHZqMnNyRFhKT0g3Wlk0TTRoMW1TQjlPX1l4cUQyRG9RcXB0ZE9Gb1doMGJqUW4wOFdtd1dyZTFnSHFoUmhBRm1aTk0?oc=5"
     },
     {
@@ -1116,11 +1136,11 @@
     {
       "id": "n-af3fa2d7a5b59365",
       "title": "Mountain Point Credit Adds Former Citi Executive Matteo Nadalutti to Trading Team",
-      "source": "citybiz",
+      "source": "citybiz.co",
       "published_at": "2026-09-14T20:29:58Z",
       "category": "CLO",
       "region": "Global",
-      "summary": "citybiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "citybiz.co가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd2N3cjRsVlB1UXpEZFowRU9Fdm5aWVlHLTJGYkhJN3NuekhjdGV0bEpTNEhoOE1zRzFBdHNLS05uQ2U3THJ4b3Y4Z1liRXpfWjNzdnFHOXBTaG1RYVVwSGZ6dWsxMERnWXo1bDhHQWtFOUxMemVBUGoxVnBXX2hKWmkxVVBjbklnbENjdFE2VUVBMTNnZUNNc3NNN0tlTnh5aElUOW8waVhGT290aThFazU4a0Z6WUpxVDVaag?oc=5"
     },
     {
@@ -1226,11 +1246,11 @@
     {
       "id": "n-a129d154caaa4d24",
       "title": "Barings Names Ankit Aggarwal Head of Global CLO Issuance and Capital Markets",
-      "source": "citybiz",
+      "source": "citybiz.co",
       "published_at": "2026-09-14T14:44:43Z",
       "category": "CLO",
       "region": "Global",
-      "summary": "citybiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "citybiz.co가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ2xlZ1JzT1BsYUFUdXdlVG5VYjJSRG5MZmdDeER6M2xkcFJOaG41LUxWTVNnUzRYeFlXeVhQLS0tZ2hsYlF3ZHBzcjFrQkd6TWtjYlBqVkxfRi1raTZ6d1Rla0lrWG9lQVY5cXc0eUtYMjBDUmN6ZjVVbHFfXzcwc1dzeUhwQTQ5ODB5LUdqekFkaUhmcFNQSzc0UDZRcXNzcVJ0UklZbFRJS3Zic1RLeWxmVF93Zw?oc=5"
     },
     {
@@ -1382,26 +1402,6 @@
       "region": "Global",
       "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3pJTi1lTnQyYmlOdkFxVV82X2RPOGo0UHJ3dkM3WXJXMnZvQ1hlRGJseHBnT2d6c2xFMEdrcVNvQ2NrdmRhU2RwVTJtTFA5ME5DVDNvbXZ5M2QtWTJWMTRLaXNYWmdZUlUtWnlQTGtmMXMwV0F4N2dQNlJwd04tRFdPdHNIb2tvUnJHZUNkWkNVOGZ0bk1ocmFJYi16bVk?oc=5"
-    },
-    {
-      "id": "n-1478560d2a05f579",
-      "title": "After Unitranche: How the Middle Market Capital Stack Is Being Pulled Apart from Inside",
-      "source": "ABF Journal",
-      "published_at": "2026-09-11T22:10:26Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "ABF Journal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVVdQXzFtT3pmOXBnNmxuVmFWdHgxbG9LUm00d3lZQXRpRGdfTzFTZ2hfZWk0dFh6TF82NmlNZmxNVUo2eXhYSGk2cWJVZXRDMVVZNkVoVDNQejZHdzBUd1FzQUZuOXlzTFd3NUQ3dVRDN3M3clBIQlRHdGR0dS1hWHItaGJUcm9XQmtBSk1CVVVUYkxPZmdpUVNOY2ZrQVBfb0lJTk9jU0xRUWlUUWdWcVNVQko?oc=5"
-    },
-    {
-      "id": "n-6d10ff3e72aa5b52",
-      "title": "Aareal Bank eyes €2.5B risk transfer for growth",
-      "source": "Briefs Finance",
-      "published_at": "2026-09-11T22:10:00Z",
-      "category": "SRT",
-      "region": "Global",
-      "summary": "Briefs Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlhtVmJVekNPblo5Q1lwWlpmRkhyVDk5WHFaTi1VblNrX3l5NXdLXzVWajlzS29hRTMzOVB5NlVvQ0dkbEdyaVNHcnI0OVpCdnpTc0FQcmxfckhoem1keElYaXplTkthNWVsUW5TcU5Ua0paY1RFaEYzdzFPZnFlcTEyNUlnWVdlSGtjb3p6NWlHQQ?oc=5"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:28:43.381947Z",
+  "updated_at": "2026-09-26T16:26:26.455746Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -104,6 +104,16 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT0VYcFlWamFkU250aThIbU04Nk9TTDBOWUNqV0xUVFJuOTZJSWs5NFZSZG9Ea3JiQUM0emtPSDFleEpJbk12R1c3cGpCeWh5aC1ZWmthUVEwNGdqek9PMEdWX2FlUUZSeWJ6UnZjaW9pWk5vSHlqRXdOTGdoSjUxaEh6bHZVN00yT3dwRTdtb0dNanZFZ1M3SS00UUJkMUdHZzFXRzMzYklwZWxfc3pCLVMwVm1vOGVtY202SjJDRFpmaXVGOWUxcHItaDJKaXBOSzNXZXVLMWl5bGlXOUhlQUE5Vzc?oc=5"
     },
     {
+      "id": "n-03450aa767640bd0",
+      "title": "AI infrastructure investment seen surging to USD 769 bn in 2026 amid growing safety concerns",
+      "source": "TradingView",
+      "published_at": "2026-09-25T07:56:52Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVDFkNEFxMDF4cTdKd0otREw1M2tMMUd5ME0wYXdOOHNRclZFaUxpMUJBVjUyNDV4WEZ0TVJnSjBsMWdIeFBEX19zRkxLYk8xazdqN3FONndhVzhQdzlrRWlMV21uYlUxRDJNTmxWMWtGSE5vVXVWMVFTNzF4MzVjd2pqN2FzdTFCb09mUzRPVXJHa1NQTVpJUnZvc0xRTldkUWU4RGZTejFMdEF6Qm92cUctTDRjUnFMcklqZlZZNHpIMlpvMkRZN2hXYVB6VUQ5VFM1R3JVdEMzbkQteldkeFo5MA?oc=5"
+    },
+    {
       "id": "n-acce2821cf4f6f3c",
       "title": "Anchorage Capital Advisors Expands CLO Platform with Acquisition of 11 CLOs from ORIX Advisers",
       "source": "ABF Journal",
@@ -156,21 +166,21 @@
     {
       "id": "n-636c5a8c4394a440",
       "title": "Patria Investments Infrastructure Fund V and Ashmore sell Puerta de Oro Solar Park",
-      "source": "cuatrecasas.com",
+      "source": "Cuatrecasas",
       "published_at": "2026-09-24T16:33:00Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "cuatrecasas.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Cuatrecasas가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0ZuOENhbmFlWXVBeHBRcDJjeGxmVFI1RU1HLTducG54eXNnN1d3a3FhR3o0bzVGZTNEdWRWR3JtdGtfMktNVnB4M0EwaXVYSWtnY2ZWYzdMZTRfSUFtZUlMeWRKdFdOM0RIUWJuR3llbFZoR1h3YWFETDJDUEw5ZHZ4Ry1lTHpmWWFlTUVYcmFmbjJ2SDVVa2tPbHBnTVZfV2poMDhYM2dkWnoyeTlteXJ1RDR3V2s?oc=5"
     },
     {
       "id": "n-0e1b014abef95be7",
       "title": "QuadReal expands global real estate debt platform into Europe",
-      "source": "quadreal.com",
+      "source": "QuadReal Property Group",
       "published_at": "2026-09-24T16:12:56Z",
       "category": "Real Estate",
       "region": "Europe",
-      "summary": "quadreal.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "QuadReal Property Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUzhqdHVxSDlEejV1TWRuWXZCSTdsM3FmcVlmUVE1ZUJERjlpYUh6REltRks3ZTFyNDRaUUI1ZzZJVjdheVNDcU05M0txNVgwdy1yVVM1ZE9VT1psRUZlb3VLVFc3MEk4c3FlZ01zX25qcEVmNGZlTlRNN3BCSkxlaWRmelp0WGZKRksw?oc=5"
     },
     {
@@ -474,14 +484,14 @@
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOak9aYjNLWEM1SjFzQ3dFdFlpMmJYTi1lajZwN1ZOdWY5ZjU5SVdTeTVsNzV0cUJRR2pfVnZUMUNlRDJaYTdTdW5fTzRYZjByZHBhM2RqbWlaaFVfWWI2TDB5cE9EcDlybjlPM2RQd0xmSE9pNGIwSGM3VzVxQ084QVkxN3J5N3I4NHpRMHkzWWNQaGgtTUpUejkzUEpyUGs4cFF4czNkRUdoRlowc0xMd2llTk94MG93RloybzlkTndncUxJYU1sWGhYNU56VVNwQUZ0YUFvQ0ViTWtWWFNpc0kwRDFEcEs4VW1neVhQYXhwMHQzRXU0Ukd6U21ZRVVxXy1xTDU2eUpVZUJkUkF4ZXBENU9UZHR2aHJr?oc=5"
     },
     {
-      "id": "n-872b1cf48df1beb4",
+      "id": "n-4efa9f2e8638fbbf",
       "title": "사모펀드 배상률 0.9~100% ‘극과 극’…라임·옵티머스 40명 아직 미완료",
       "source": "뉴시안",
       "published_at": "2026-09-23T07:00:00Z",
       "category": "국내 대체투자",
       "region": "Global",
       "summary": "뉴시안가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYY1A0dzhONHVmcjZ3aGFjU0ItQkV1bmpUSnJ2SHlFdFJvT2pFS1AzT2tTR0xybjNtWGxBZUx3T1NoNWxteHBTcURna00tbF92cVRLNEJ4bWdIVmlpMkVKV0E5MzV6bEhVeVo00gFuQVVfeXFMTW9EbDJRNzk2NmJfdW9LNEJDOUdkMVVnNE9hUzg5WU8xQ3ZGTUV6ZE5uWnpFSFpLVHRBWmdBNWJrVXhCR092dlVMSkhvU0NnUEtsdXpONnA3SlFBTnBOS0Y1dlB4cV9wMnh3MTFubXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95U3NCM2FRREhfQTl4bU4zR1VURkI0MEgzbFdYLWFYVmFkUnNaTk54MnVqME5xeWhpSV9Ma3RXM1B3VWJGRUJERzVFNG5icmc2TXB4SV9rYTJ5eXFhbUpOamg3T0RldjJQbkHSAW5BVV95cUxNb0RsMlE3OTY2Yl91b0s0QkM5R2QxVWc0T2FTODlZTzFDdkZNRXpkTm5aekVIWktUdEFaZ0E1YmtVeEJHT3Z2VUxKSG9TQ2dQS2x1ek42cDdKUUFOcE5LRjV2UHhxX3AyeHcxMW5tdw?oc=5"
     },
     {
       "id": "n-e067d3615f27c06c",
@@ -566,11 +576,11 @@
     {
       "id": "n-5bdb0737716900ff",
       "title": "Apollo private credit fund redemption requests ease in third quarter",
-      "source": "reuters.com",
+      "source": "Reuters",
       "published_at": "2026-09-22T21:53:14Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "reuters.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Reuters가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbmU0dk9mX090N2hYdDhuWFh2OWVWUWRJUjg5YnlMeXN6TVpYbmhQeG90ekNUaVpJMF9fdE0zT2lKTzFfdkpTd3R6Zjd3RkhaWWpIZHZSX3NIZEh0Y1dCbmpUNDI2NzRsUS1NNkYwQ1A5RFlVN2tabEVVWG1PcjlQNEt1bFBYNXpqUlJZaTBqRXktc0pYNnlwYmdPcXdPbHhpMGYzU2NhTkZSVlI3SmVr?oc=5"
     },
     {
@@ -766,11 +776,11 @@
     {
       "id": "n-1912f5c83f3e45ca",
       "title": "Private equity, foreign investors fuel Aussie M&A activity in 2026",
-      "source": "reuters.com",
+      "source": "Reuters",
       "published_at": "2026-09-22T07:00:00Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "reuters.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Reuters가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVh4ZHJSU3RjQThaTGtqUU1nV0VnOVFlM184RTZOaUZGZDJpNVk4UnZTYlpBZXJERUI1Q1lDcGlnR1lFamE1SmM3ckJVcVR1LVVRLUVkb1FEWmEwWHhOQ0VldTZmd1I2emYyNTlsLXp0MTlXMmJReGlPNGxTMVFQNDlCWFo4UzB6LXRYWEZ4aF80RnhSZUtteE5pOW93VElWendIS1JCYUNRamJuQjBzT3pITmlSZ3pz?oc=5"
     },
     {
@@ -816,11 +826,11 @@
     {
       "id": "n-6b61923ae6a5347e",
       "title": "\"올해 사모펀드 韓투자 벌써 50조\"…4조 베팅 KKR \"한국, AI 중심\" - 머니투데이",
-      "source": "mt.co.kr",
+      "source": "머니투데이",
       "published_at": "2026-09-22T01:49:46Z",
       "category": "국내 대체투자",
       "region": "Korea",
-      "summary": "mt.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "머니투데이가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02dGtPOVFYRXVUU3E5N3BHNHJ2cXhaNkY5ZjdVeEphM3VLQXVGVmk0RURYbnJMQXZPbVhKTXNPeHJOWWtTMUJ3MVYwdmZubkNqZWl5emVsTHozX0lkVVFFdjlOVklpREdv0gFuQVVfeXFMTTUyM3RaeURPUTBLNTJQZVN0bHNoTmh2al9rT09uU210dDJfbzVibzhFdUljdDRvZ1JyLVNQd01FUnUxV25nUGpuekJWdFl6aDVMa0pOZzNjUTFzQ0YyOTJWWGdLVVZ2ZHFxY3BYUXc?oc=5"
     },
     {
@@ -856,11 +866,11 @@
     {
       "id": "n-cecae456419e6482",
       "title": "New Georgia Chamber alliance forms for 'responsible infrastructure investment' in data centers",
-      "source": "wabe.org",
+      "source": "WABE",
       "published_at": "2026-09-21T21:47:46Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "wabe.org가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "WABE가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXpaczktTkxTNlVLX25odTZOUVd2WFlVTDBmcWFlUlB5a0hVaU9HblVaeEQzaE1JWmhucG91WFkxLU5KWDZiNGhnRWxLdEt4RkItbEptc2IyZXlHdTN3QlVlUGdBRVVXd3RzYlQ2MC1MZkJXbUZ4NGNiVnQ3VzlsQkVHTnVEdU1RUGVSSnZoTDB2SV8xTVNyWGRSUDYzc2dvRVRxVDlEMmRISk10Z21LakZHck0?oc=5"
     },
     {
@@ -996,11 +1006,11 @@
     {
       "id": "n-d6943cc9473f8624",
       "title": "Banks play pass-the-parcel on risk for big return",
-      "source": "thetimes.com",
+      "source": "The Times",
       "published_at": "2026-09-19T18:00:00Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "thetimes.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "The Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVmRFT0hJZ0xjQ2hDTXM0UTl1bFgtam54ek1oYThVQzZLeDZBY2dhQ1IwZG02V0VpWm9Cb1lob3pKV2RhZ0xCZzdOenhfOHk4OWFlekJWbGU0a2h1MFh1cmhxbzR3d1ljVjNabDJwbnlJd19vVWFxZGNSQ1BsdEZzWDZxX3pLaXhVTElua2NjQmpJTUdpUU1pZFZWeUFSWElBYmc?oc=5"
     },
     {
@@ -1126,11 +1136,11 @@
     {
       "id": "n-097ae7813c8a362b",
       "title": "ADIPEC 2026 to focus on energy security, AI and infrastructure",
-      "source": "CompressorTECH²",
+      "source": "compressortech2.com",
       "published_at": "2026-09-18T17:00:41Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "CompressorTECH²가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "compressortech2.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTI4MFNBMUJFRURvQjhIejBQN21mTERlelo5OTRUX3VKNWpWZ3J5bWsyVGN1WGl5WWh6ODZVb2R4dW0tZjdLUWZ0UW5odmVfSzZUUnNmajZZcnNJN3E0Tk1iT05yZXd2NzU4SjZyMlhXNGJHRlFoLVZzSFJENnNkZnNMZ181WVZWMFlqd0YxcnJISUdwM0VaLUpKVzlhQ0xnbU02UW81QkZ4RExRQW54Y2M3UjQ?oc=5"
     },
     {
@@ -1392,16 +1402,6 @@
       "region": "Global",
       "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa1hYdVlZRlBvc1lWUHNVbV9OM2szdEd2dUVvcFRNdG9xcElITlVmSjl0VEVkZGYyeUNNM3Y0SlI4eXJ2Wml3Nkt1a3FVTllVeXhNV0NIZWRvX214VFJaTjBiSFF2MHV5ZmRIb0R0N05wcml3TjFRYXdaV1lRM25aNkZUVDFWTjY4NUdTeGtEanFLa09CNGQzSjhxRnlVbkVZQ2hxckNNX0FoUQ?oc=5"
-    },
-    {
-      "id": "n-99928d774d7f18c4",
-      "title": "Tenka closes pre-seed round led by Maven 11 to build asset-backed finance infrastructure",
-      "source": "cryptobriefing.com",
-      "published_at": "2026-09-17T14:11:30Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "cryptobriefing.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTaHJFdzBtbWVObFEydFY0Uk9rcHRjeThITnlWbXhTSVFxY09VY3hjRTJsYklkcHBTdEZXN3pqWllQSkZEVGVVZXFQTV8ySm5jeFRJUE4ycUJFRm9YbmVXZ3NCMTFGNVp2ejJVOG5laEdlMVpTSkRtMUlsOGE?oc=5"
     }
   ]
 }

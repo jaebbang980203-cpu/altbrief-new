@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-10-07T06:04:23.349429Z",
+  "updated_at": "2026-10-07T13:29:04.459497Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-1993d9a21bce3ecd",
+      "title": "Folksam backs CIP's new energy fund",
+      "source": "AMWatch",
+      "published_at": "2026-10-07T12:15:00Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "AMWatch가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xQklDeThMTGoxTlVJRTVSOTlVNzFrOENnWF9faDdsWlBqMFdULXlKRnhLTWRMYmp0RHRiLWhmdDhfX3l6RFctNF90UlVQQ3RPbHV1TXlWWXRDcWs0Mnp1UHFRTQ?oc=5"
+    },
+    {
+      "id": "n-9f47861f24c80b50",
+      "title": "Japan Steps Lightly Into Private Credit",
+      "source": "Global Finance Magazine",
+      "published_at": "2026-10-07T06:01:00Z",
+      "category": "Private Credit",
+      "region": "Asia Pacific",
+      "summary": "Global Finance Magazine가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJR2lpTFNPX0tGODc4VEVPRXItTFpnRlJDT0FNSnNSUllwTnlZZ1c2U3dvLXFSWG5IWDhNSWVKOW52TWRrVGExWUFrQkU3RjU3WHUyMUJvZ05zbnc5VnhIMWdzQThfRkRXUGU1MDZ1SlFLWms?oc=5"
+    },
     {
       "id": "n-f9b684f4a23fcf8c",
       "title": "골드만 \"사모대출 시장 어려움에도 대체투자 수요는 여전\"",
@@ -234,6 +254,16 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFA3bEg5R01mM0ppRFg4Q3lLT2Nuajg3QmxjNGUtM21SU3JTeFh3RUZLVWZzclg2YkczeTJhY2lyOFFudnpIUHpxdFBxemdNWmZ6c2U0VURZS21BWV9xWjJoYmxxWUJUTjk0SW1RWndoMjVhb216YmxhVmxKRXlwVGs0ZVVybDQxWm1kOXhB?oc=5"
     },
     {
+      "id": "n-12c8d4af526b4221",
+      "title": "Latham & Watkins Advises ECP on US$834 Million Continuation Vehicle for Next Wave Energy Partners",
+      "source": "Latham & Watkins LLP",
+      "published_at": "2026-10-05T19:11:05Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Latham & Watkins LLP가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNzlXSDhNOGJWOTRSc0s5X1hxZEtZT0llTmV5LUkyU3I5YTNzVXBBN2YyZzg5aGNrR3ZUdUhkb2NFRFhIOWZQdUcyV1BxMVEwNXpxWlY1VkdsSUxVRXl4dUhrQnB5RGtrNjRwOXc0SnJNY1pFSjVOX3hMcng2dWJkNTQ3R2tsbGhGVFhYRE9xQUhuSjVHdGFNY3BmM1o0d3ZnTVZsWVlQSllWZHJKelNVOFB3N21sQQ?oc=5"
+    },
+    {
       "id": "n-6c50249496624e66",
       "title": "Private credit roundup: Blue Owl redemptions ease, tech and refinancing risks persist",
       "source": "Reuters",
@@ -312,6 +342,16 @@
       "region": "Global",
       "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdHR3ZHFvRXQ1WGtEVlhtWXhubHM5aWZHSVlEUWFHQnRCS2NNYnNBQUZMVDYyTVA1RXZGdzdHYlpkS1lJdUI5ay1aODJzRlhGOVBtdjJ0cUpKRUU4U1RLMko5cnpxSFk4VkF3dnRiamtrWGhLQ2JtaUNEMA?oc=5"
+    },
+    {
+      "id": "n-1cf17af7dade0515",
+      "title": "Jamie Showers Joins Edgar Matthews & Co. as Managing Director and Head of Syndicate & Sales",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-05T12:00:00Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjJVeXF6VE9DUVp2YndpVVI5RzNlT0RYb3E4UEFFU2xrUVlLb3dYMXlYNDRNX1Y1dlFyTThoM21QRkdwclUtVG1Ncy1tQUxvZkIxUXFLLXkzNWswYWVQSjAwRV9YeVZmT0RORFVKbTNleEtoX092RmVQZXBGSmV2dlNBYV82Tk9hT1pNVW5sTGM2WjAxdEdZOW44YmlJRnhv?oc=5"
     },
     {
       "id": "n-664ca97177bfd6d3",
@@ -846,11 +886,11 @@
     {
       "id": "n-2d6166bba5cb1034",
       "title": "Lawmakers re-introduce bill to regulate private equity in skilled nursing, other industries",
-      "source": "mcknightsseniorliving.com",
+      "source": "McKnight's Senior Living",
       "published_at": "2026-10-01T09:35:06Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "mcknightsseniorliving.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "McKnight's Senior Living가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZUQzQlFjV2Zzb015SnVtX2MxUDBiM1ZsamxJWnNQNEkybFQ5QjZvbzRlcTNiNzBtcXhCLWVjaUV1eURQQTVHUWFpSnRGaGxWRW5zUjNpQXZKa1NsUGNBOFVORE9oYzVVQmhvWklqU1JqOU52R18wamJJVlVZWmkzZklxeHRDaEI0VXVVNWw2a0pSTWY1S3hUVHpGZ05XZmYxX0VYOGRraVpRYy0zQ2xEeDRxRnBldGpVTWpxb1p2Ny1DX015Ujk2MUVIeUdXcmM?oc=5"
     },
     {
@@ -966,11 +1006,11 @@
     {
       "id": "n-13034477193ff986",
       "title": "유럽 대체투자社 헤이핀, 서울사무소 개설…“韓 기관 협력 강화” [시그널]",
-      "source": "signalm.sedaily.com",
+      "source": "서울경제",
       "published_at": "2026-10-01T05:43:27Z",
       "category": "국내 대체투자",
       "region": "Korea",
-      "summary": "signalm.sedaily.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "서울경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04MGVPQThJSS1NQkV0WFRZeTd2UFF2dG1KcDNDMWlxeEVlQTM1S3MyVGY1TWpuaE4yTmJ4aC1VY1lmajFNQnFySE93SnpzcVE1cEhRREpObw?oc=5"
     },
     {
@@ -1362,46 +1402,6 @@
       "region": "Global",
       "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jdTdHSUp0WU9DWVJ0V2hDNDRQNUc3aVBIUnhQY3lvRkVzUEtjUkVIV1ozYV9QbmF2WEV6V3JCckhNR19ZaWk1Nno4dVlSUEJGSWVIMGxuTXVLYlNSTHh2VWVlaS1vakswOV8w?oc=5"
-    },
-    {
-      "id": "n-f90d79ce3355293b",
-      "title": "Iowa PERS the latest pension fund to face private equity challenges in fiscal-year returns",
-      "source": "Pensions & Investments",
-      "published_at": "2026-09-29T18:32:00Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRDl2Tk5xUjZRb1BZUTB6dWEzMk41WDNVSzlrVjVfb09ENWxEWkRUMEFzR0Y2VEY4ckdPUnNReEVSa0VxeTI0bXBDQ19qX1VnOUJYZ1FJTHgxdElYYjZUVkpxN0xuMTI1bEY5LXlSWC1yQnpyZ2t3Y2s0aDEzclAyLThZa1BlaFpLaG0zX1NlWFg5cWJRam9qRExYbEE2OWZ5UlZlRzhuOVB5XzVnN0R6U0pUZTF5ME94UkJoYU1heWRNMmFkTmc?oc=5"
-    },
-    {
-      "id": "n-bc754a6aa0fb5e40",
-      "title": "Summit Private Equity Fund II takes 40% stake in Virtual Farmer",
-      "source": "africaprivateequitynews.com",
-      "published_at": "2026-09-29T15:57:48Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "africaprivateequitynews.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQTNNZ2FrTnVNYjdXcXF6eXRwQ0o0UzJOQTlTdzNQcUZBMU5pT1VGX1pucjRQUTRMYVZjZ2lteFJUS0REY3Z4MnQ3Tmk0aHk4N1VOTGFrUzdrYUVzNTZ0Y21yWlJTY2tOR2RHdTItSkdPeDJOTGc2NVp1Zi1OMnFlYkVQOA?oc=5"
-    },
-    {
-      "id": "n-44f8d5e96d61d584",
-      "title": "Marquette's REAP closes $4.8M student-run real estate fund",
-      "source": "Dealroom.co",
-      "published_at": "2026-09-29T14:51:36Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "Dealroom.co가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0RXdUFieVY5VzZ0TmQ4VGNwMEE1Rk5oYk9lVVVMV2ZSZWJPVndHRjJ5S0NTOWlhNnlfajhrb3JEY0xOemdEaGxCU2RnUjBHbllDaXRXbllCUmM1SEN1YUxQUmdKa3FrM3VQMDZqaHpSVmhrR1BkRThVR0c2U3BGT3VQRVQ0SlRLNU1jeDVpcHBOenlVX0E?oc=5"
-    },
-    {
-      "id": "n-c2c32ea59b7c283a",
-      "title": "Kayne Anderson Energy Infrastructure Fund offers 8.1% yield with strong NAV growth but trades at a 12.13% discount.",
-      "source": "Pluang",
-      "published_at": "2026-09-29T14:34:50Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "Pluang가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yai0tbS1wbk8tYWRmTWt6Q2tEZ044bE1renNCNDVzMnFhVGJmbHNVbENIc3czZ2tZRHBDVWRZSDE4RG1yYlZVQnBJV0JjUHdCeDY2X1VyYVU4MjFZXzV0bEM0X3lzQnRiNTYtTUJTX0stZjA?oc=5"
     }
   ]
 }

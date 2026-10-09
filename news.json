@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-10-09T01:14:18.979350Z",
+  "updated_at": "2026-10-09T10:38:14.354501Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-562b368185413795",
+      "title": "Partners Group opens private credit fund targeting double-digit income",
+      "source": "Dealroom",
+      "published_at": "2026-10-09T10:17:51Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemFxRjBFYnZlXzB4UlFaZ2RaRzl1ckZ4NFpkQTRxektjbmNka01fQWdPTnROSnlUTW1SZU5DZWE3eDFGd1FtXzR3RkJVYWdwT1VNOUpSMWYzSXNYOFE0ZlJxMWgzWUZ6QVpqYlpBa0pqN1FoRWJUUEs1U1NSYWJudl9YR1RFd29oNGdTUmw0VVEtb01UcnFURmJyRmFoMHlybklVekpRRQ?oc=5"
+    },
+    {
+      "id": "n-199ea2852668529b",
+      "title": "Brightwood Capital Prices $253.55MM Collateralized Loan Obligation",
+      "source": "ABF Journal",
+      "published_at": "2026-10-09T06:37:47Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "ABF Journal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUQ4WnhtOWs4amY2NEhobENkbWk5S0Fha3ZrNVZwRzhYb3REbTJ5ZU5Rb01RVmpsTENsLTUxdkUwZU9sYzVaVUgtanJacHROMjV3SE9VaEF4LVJNdE1xd2kyLWJEdFlJcUFvbloycDVlNWxVcVBrQjZhRkowWFpSQlh3cjRMbC1qY0pSa1JzTTRkU0RWSVJpcA?oc=5"
+    },
+    {
+      "id": "n-dfe96aff63a67c82",
+      "title": "KKR (KKR) Ties $1 Billion To AI Data Center Buildout",
+      "source": "Simply Wall Street",
+      "published_at": "2026-10-08T21:40:18Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "Simply Wall Street가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa0NEZTBDUF9aN2FPdk1nWXgwbUZBV0Y1MHd1VTQxaHRFam90SlFIRGhVRUFRWW9HMlQtbTh1cW5uWkwxLUdDUkFyakZ5Z2xxaXdFdGVGcElWbjJqaGZlRWZ4azhDRHA1eXBXRWo1Vm10bDl0dl9UYmhJblpuVE9HakpLaFYzei1MWWgxM3NaWmxpLXV2UXpDQ19KZUVBa2FNa1hiUXA2YkNhNlNscHFwOEpIWllCd1Y3SFFyZ3dCb9IBxAFBVV95cUxQcWYyQ2FXaUFOaG5fZHJyR2UwdlkwV1VZNnZrX2RTeXZKYXRSR3R2QlNBcGNuQzNQUjlFZl9jYkdQMXZkR2pHUjB2Rk9xaGpzZmFkaHpRa0VRQWVMcXhVSUZ2ZTZqTHcwMTlWa0ZSNmVwNGg0dUw3NGJ0TzdWNDVibWp1MjEwRlhvTG1rMzVvLVdOMXlCV25hZHdNRGpTOWRISmF4czM0VmxBeXFYUGgyekFnNG5LbzNGLVNFd1dGVXRKV21F?oc=5"
+    },
+    {
+      "id": "n-763db773cccbc3f5",
+      "title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
+      "source": "EnergyNow.com",
+      "published_at": "2026-10-08T21:20:12Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "EnergyNow.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM?oc=5"
+    },
     {
       "id": "n-6bbe27485ab86f87",
       "title": "SEC Staff Statement Highlights Valuation and Disclosure Expectations for Private Credit and Other Illiquid Assets",
@@ -134,16 +174,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjRUTkIwNHQ2dW1LU0JTU2tCc1ItSzRlR3NSRkRRNGZYQUpjb1ZlY0RVc1BMZFhENnMxYnBsN0JHNWdRWmtGRThtNHBXSzBqbHpGa3JjMWVHcjFBUHNpaXJORXM3TVBZZTNaa0p4bTk0Nl84aUpiMGVBcEoxNmdzSUROLTU3M1FaekVUeTFNZW92U0ZNaHBFakVSMlVXR3ZacjVMUlR0MTV3aTFVQUdKOURoUGFjV1p6TW1tVA?oc=5"
     },
     {
-      "id": "n-763db773cccbc3f5",
-      "title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
-      "source": "EnergyNow.com",
-      "published_at": "2026-10-08T12:28:35Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "EnergyNow.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM?oc=5"
-    },
-    {
       "id": "n-7ac0c91b1f249cec",
       "title": "CPP Investments, Temasek back Nuveen’s Australian real estate debt strategy",
       "source": "IPE Real Assets",
@@ -224,14 +254,14 @@
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtLTdlaVE0ZWxSNGQ4czdEaHYtQ2NZWk0xTndsS285RXNUZ2dYSC0xZ2V3MlVTVExrTWk4WlkxVmpEdUI4Zmxz?oc=5"
     },
     {
-      "id": "n-f80b644fdd3ec0f8",
+      "id": "n-1e92251875cb7b2f",
       "title": "Bluerock Private Real Estate Fund Announces Monthly Distribution for October 2026",
-      "source": "PR Newswire",
+      "source": "InsideNoVa.com",
       "published_at": "2026-10-08T00:20:00Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "PR Newswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd3JKNnp5YnRUM2lXWkpuLVMyU3Vsa0VzWUZ6dVg4andlazYwbkpDZklWNWVhSk1IcFJtbzFBS3p4ek5RdTkzNlZQY1pYWTljby1YSVBYeE5EQU52c3NVeHJTRzVDSjhIUmlJQko3bDdyR3JkcEJEX0sxNm9pV0VxMURGTlFqcmUyMzJYcmNMM0JtSjdFc1hUMW1XZ0pPWU1LQmtxTWtKWUo0eHl0NUdhc3VlenRqdTFjOVhqYnlkZHJHU2h0NWVRYlRzelU1ay1tZl93?oc=5"
+      "summary": "InsideNoVa.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOR0R2VVgxS0NfQmJ1c0gxUmxGM25FQTJQb0p3QTNzWWlmN2paaldGMi03bGJqQm9mbDl6UGFRaTFTQWxMM1ZFbXdCbV9wSkt1bUFFNjJvamhic2ZScDluTHZHNjYtUGNMam4zTG1HTXljaVNyWWtsN3FqZFBpZ3BoSnpjTXhmREYxZXFfVW5DVFpYWGh1STh2SHhOQUVPeVRSTVNlREV2NE9uaG5HbjNzcC1kbGt1Z0t0cmNXNk9hcTgxM0R6Mm0wU0VVUnlxQnNRSTlJVHU2dkFLUnMyQVByQS1iXzhXNEdJTFRhenVPdmNrUExpczRZYzFLQzFwV2RuVVhMQ1ZYU292UXJtNjRYMk1UTHdQYlh3?oc=5"
     },
     {
       "id": "n-84e13a8bcf8d745c",
@@ -344,6 +374,16 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10ZThHaXhNLVllRWpJNjRmdjdVSEF4ZHBPR1RQUmx1NTlsaHgxa0Q4SnFxa1ZnVkUySmIwb0tNNzczVVFndnAzZjFnOGlrN0dwSDZQQmNabnJqZVZ0QWRpa3ZhZ1kxeW1WcjRtS2RTMEMtRHIzRFNzTXhB?oc=5"
     },
     {
+      "id": "n-9fdb6dfc45241dab",
+      "title": "ZAWYA: Egypt: Beltone Asset Management, Amtaar Capital target $38mln multi-issuance real estate fund",
+      "source": "TradingView",
+      "published_at": "2026-10-07T09:01:52Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPTmhOazlKUnNYQmJSQVdkZzdQa0tPMTRBX0NtdnBhSExmcFdiRlBpSkZRTjNJMDRlS1JVRGhlSF8yX0JNTGEwV1dGZk1VaWpzMXhWbko4YUtMN21HTW1IZjRZN2pMalNMUWQ2S2JuSE40Rk16OFhGQ3NxY25VV3B2a281X2dTWUNGWTZzdXpNcHZ5X2tHMmtnWnJhcWxBeWI1b09RdC1NaC03SGlTdVktbUMyTlpESFBUM0tuNzgwemQwQ28tSnVDczFJbDUtNDZ5d2RTeENKczBxa0xUT1p5ZGtGelhHZ19lTlZ5X0JReGRhSU4yOEN1clJDOHVFZGJMNWc?oc=5"
+    },
+    {
       "id": "n-9f47861f24c80b50",
       "title": "Japan Steps Lightly Into Private Credit",
       "source": "Global Finance Magazine",
@@ -442,6 +482,16 @@
       "region": "Global",
       "summary": "Genome Web가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdk40MTBoeWZJY21rbHFHRS1xNDdBa25RVy1uelhwLWx3eUFvUGNyNFdxUGtaVUEzdl9hQ0JJZ0RkNmtsY19MbThjZWVxVDJyZlUyMGJHaTJCcUlsNTZXZjZFcHBmU0p0RDBwZEtEUXlQSjdiakY5R1dHWF9wcnktUWVYbFVLMVFnb0hsbkk3aW13ZW9fM0FhZ2hQTV9aZ2xSOW5pVmdFY3hoTG5Mdnc?oc=5"
+    },
+    {
+      "id": "n-50a627b08a66b593",
+      "title": "LS Power closes $6bn Fund VI",
+      "source": "Alternatives Watch",
+      "published_at": "2026-10-06T14:28:07Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "Alternatives Watch가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNzg1X1I3dldHaVJoZi1TSTE0YUF0QTFPU0VzZjdjN0dnN1RjclBKaDMzei1uVFFOVnRrMjhkS0RxM3lWXzRrbE8wTmxLWFZmUWFpMTV4WTFPOHU2SmNuX01VNGlqT1d5aW10bmx1V0NMdEI0QklrVnRWMWktRDNKOTYyRXdlUDdwWDlocnVUZ3RfcV9Kd1djc0J5VFp6R3U2YWNLV19aOXBRRGk5ODE4?oc=5"
     },
     {
       "id": "n-4b1dd119beac3acc",
@@ -1352,56 +1402,6 @@
       "region": "Global",
       "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hM1FxTlZIQTBPaERJUjFYbC13RXR0bDhrYXpyb2NoVk9ZS2JJX19zaVF3VDhiMDhXVk80OVlMT2FxTlRUMTZIV1VJQmR2MER3bXJtVHVWQnJqQl9lRWhsOGZvMzg2bWpEQUtjYTlXaTJZd3VmeHc?oc=5"
-    },
-    {
-      "id": "n-2d6166bba5cb1034",
-      "title": "Lawmakers re-introduce bill to regulate private equity in skilled nursing, other industries",
-      "source": "McKnight's Senior Living",
-      "published_at": "2026-10-01T09:35:06Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "McKnight's Senior Living가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZUQzQlFjV2Zzb015SnVtX2MxUDBiM1ZsamxJWnNQNEkybFQ5QjZvbzRlcTNiNzBtcXhCLWVjaUV1eURQQTVHUWFpSnRGaGxWRW5zUjNpQXZKa1NsUGNBOFVORE9oYzVVQmhvWklqU1JqOU52R18wamJJVlVZWmkzZklxeHRDaEI0VXVVNWw2a0pSTWY1S3hUVHpGZ05XZmYxX0VYOGRraVpRYy0zQ2xEeDRxRnBldGpVTWpxb1p2Ny1DX015Ujk2MUVIeUdXcmM?oc=5"
-    },
-    {
-      "id": "n-0bd79e90c21de7c5",
-      "title": "US Market: AI credit surge tests lenders as future revenues remain uncertain",
-      "source": "The Economic Times",
-      "published_at": "2026-10-01T09:14:51Z",
-      "category": "CLO",
-      "region": "Global",
-      "summary": "The Economic Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVldYWHJCcU9OajJya1BLV0dacGVWVGxua0l0X3I2ajRaTDU1ZkVpX3NBUHd3OFNUVkNSd19CaUZzRWw3bll1ZWFZeFBPelY4NzlvUG9rV1RFZ3JEcFcyQ1ZKUjhDUnNrSU15bFUyN2N2Wi1FVTZ0bGNLQmR0N3Y5NHJMS3l0M0ZJdU95UV9pbXVNSkVPQjRNT09ZdmpWQ1JaT1Rrb3pkZjVKQ3pQd0EwOHVHbnBiZ1B1RDVrOERLenExa2lVSEkzLVJPTi1Gcl9VYThPdFFvdF90MFNnRGJrQTVBN0lCY0FBUUh0ckdtRnNyOEx3b0Z2RtIB_gFBVV95cUxQa2p6cmJ5cjVvMTI5REd4VExzalpreUtUcTJISUhFQkhhM21nQk1MdjJUTFU3a3VsQnpUNWNucG54ZENwQ2Q4QmZaVHpzSnNTaUE5YVVIcWoyeUtKcDB0NjRvc0tXcG9mSm1rcnpuZVhud0FrZ0FwRWlxS0tObjROMVBXVnJ6QkJtSHc2M1F5dDh4aWJVdG5XOE1OWUt1NTBraUFUTFRYYTZnZVh0WEJsWFMxNDhWZlpVX2dzckFiZDRMVk05U0hUQnV5TE1SXzZlME81bzFtRGM5OXBZdExKUEFncUFTSjFQejJrc3pwb0QzekFJTDN1Vjl1QzBoZw?oc=5"
-    },
-    {
-      "id": "n-6d7be977e08b0ae3",
-      "title": "Audax Private Debt grows direct lending fund 80% with $5.4bn hard-cap close",
-      "source": "AltAssets Private Equity News",
-      "published_at": "2026-10-01T09:00:25Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "AltAssets Private Equity News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNZjFMQ1NwMVg5cEF6YTBIb0NEZndJMGJiVHdtZEEyYmVscnIwTHlYOE5jbk9JNDB6Z0hZS1JIV1BtX2gzYjNLMWJhWnBoYVBQS19nMXB4Sl9QTW5FcXR5Mng5d2ZKdFYtZ1lqSmJCcjAzcUxVV3NtTnJHdTBNd01adHA2dldKcGxCTlRqSUdOcGhSa3REMmk4am95STVkaTJra1FNMmVrRWt2NXNuQ0JldGtkLVZ1ZW9hQVF3aWFQT2hzVUJOa1BzRHdrUW9Ic09tX1VjeEVWSDl4emhlem9xR0phNHFYV1dRNHJ3Vzd1dVhrMmRuZWxTSjJDLVJ0b2J5MDFSSlNjNzlBYVVhMThaOGRFd3oxSTBLeUMyMDJpcmY0dw?oc=5"
-    },
-    {
-      "id": "n-e5ce73cf2cf7750a",
-      "title": "AI 인프라 힘 싣는 LG CNS…美 사모펀드와 '투자 동맹'",
-      "source": "한국경제",
-      "published_at": "2026-10-01T08:49:42Z",
-      "category": "국내 대체투자",
-      "region": "Korea",
-      "summary": "한국경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51MVZ2d2pjX0hYaG5OMExEZWdBYl9LQ0p5NEVQMDdYdElBa2ZtUU9iX19DaU1ucGt1NjYyT21HNU1YTTBJTXZsQkVtUWhUQ2dGNG12NG12dm1JZw?oc=5"
-    },
-    {
-      "id": "n-44264072b277cb23",
-      "title": "Oaktree Raises $2 Billion for First Asset-Backed Finance Fund",
-      "source": "Bloomberg.com",
-      "published_at": "2026-10-01T08:30:00Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0dXbE9hcTJIVlZ5QjBXZWpQTXN6MkFfZHBySEFvR0NjbnZRZG4yMFlyNVc5bmlqTW1mVXViWUxwYUF6WWdKdEN2TU0zMGFwbmg2djY3VFFPLVVVVHVwcE43WnZzVkZsakZMZ25DUS01b2JVNWZwb0xUVnVaVkNVXzFiVmZqcFJqVzdkSkJ5Ymxxd3htZXdPbFNVVmVFNk4ybFJramdhQ3RLTFEtOFVGZA?oc=5"
     }
   ]
 }

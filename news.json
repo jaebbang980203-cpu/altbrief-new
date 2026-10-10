@@ -1,8 +1,58 @@
 {
-  "updated_at": "2026-10-09T18:22:51.767446Z",
+  "updated_at": "2026-10-10T00:54:43.674925Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-7cb39c27dcdb9c9d",
+      "title": "Private Equity Daily: Audax Gathers $10 Billion for Direct Lending Deals",
+      "source": "WSJ",
+      "published_at": "2026-10-09T21:45:35Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVZlRkxIR1BPYUNhSUowckJmTk03MUdpdlNNVGFGOTh5ZGhQaW5jTGYzR3lRRFdUN3hlUWY2cWE5alNVSmI0dnBVUGhUVV9QNVpybzI4WF9OYXg4bUpqbDNJUHpfa0loV2RuaTJCbWhHNXNHbklPTDFMR2YtZGRGaWV1Q0N2cG1ZOVdjeWJRdHV5bktXX0dwQktXWDlLbXFZR0xJVjE0ZExSLUxabEREamZraTVQMXFNYlE?oc=5"
+    },
+    {
+      "id": "n-8f3bb7e57104386c",
+      "title": "Blackstone’s $1B Deal Comes Amid PC Secondary Boom - Blackstone (NYSE:BX)",
+      "source": "Benzinga",
+      "published_at": "2026-10-09T20:13:04Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Benzinga가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV05KUGhKYlJqOVNQck52R0dYY2NIam84eThVWDJVbEY2VjJ6ZkUzX3RXZGlzeDlETFVGX1FZY2xjM0J0aUxQYVh3bWs3Q3d2X0hrVjBHX1owUDZPTUVlZWxhYnpBSFNqcXZET0cwVFA3aC1JMW5Fb3dnNUlUdWVmc3MwOGRabG13NTJZR0FJUVVhbmdFZzh0ajdXalEzbEstdTQwQ2Y3V2dJWDJlNFpiSS1NNmVUUmM2bjNxN0tCY0ZPRTV6aHZJQzVxOHhlNWQ0aE5MaXZsb2ktcHItc0hxRXZ3?oc=5"
+    },
+    {
+      "id": "n-ce6092ec0bae8e64",
+      "title": "Brightwood Capital Prices $253.55 Million CLO",
+      "source": "Pulse 2.0",
+      "published_at": "2026-10-09T19:55:25Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZZHVXSjMxQl9rcFRnOTdFdy1wV2JxWkpPeGVmQ1N2UnF4NERUQjRrS0lQUUk0OWN2c2NpM0NYazNmeTNKemFCSk9ZSmdQczJ0VTQzbl9LNEhPbFhyS3hibFpuTDJrc25xaUl0ekliMW1fUdIBd0FVX3lxTE9Yc3J5T1F0cjJwTWFwT0VpZUZEaG5RLXVfSUE3X3pPdU1mZDZ3MGN2Mm02d3RrQ1d6clV1NXNzUmxQVExQXzBDQTNNUjZ6Z0JCUlNhNGZKeUJKU0NTZXFoVnZKUU96VHF2WG10WFVzUUU1TC1NOHB3?oc=5"
+    },
+    {
+      "id": "n-8e9efeb0a8a4d682",
+      "title": "Taurus closes third fund-of-funds at $301 million",
+      "source": "SecondaryLink",
+      "published_at": "2026-10-09T18:06:41Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "SecondaryLink가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjgwX2VreUxpTjJXTHdTVGNWSGlQUFpCT1JBWmdiWFQzanFiLWJZanFvLVhkQno0aVNLbzdRNDJzMXBKR1BVUTd2ODNiN21FLWh2NG1qWmNQN2RPMmJZWHJMRjhCTmNEdjBlOFQ3X3dLT1Fmelk5ZXphRzRfZ1VZQ3JEcDRBV1lSX2Z1TzZpWjdtdnpWWDBrbnc5UFR2S2wzekZCVUFhZw?oc=5"
+    },
+    {
+      "id": "n-130aa18a3d275c58",
+      "title": "Armen takes minority stake in Freshstream",
+      "source": "Dealroom",
+      "published_at": "2026-10-09T18:00:08Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMm9vX216QUpGUXBlcnMyb05MRmFUWUtFZUExTkJiSlo2MVc1TExVUnU4OE01d3hCSUhuY0YxVFBZc1Z4dGNidTl0OWNpdHR4MDZ6bXhoaDZSb09XZlAwcE1fUzZqNGtwMGJBc0stQ21vWDd5OEdxeEJ2UjRiY1lxag?oc=5"
+    },
     {
       "id": "n-79761364f9410498",
       "title": "Inside the Fastest-Growing Corner of Private Credit: Asset-Based Finance",
@@ -12,6 +62,16 @@
       "region": "Middle East",
       "summary": "ACG Insights가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQVJ5aUhUaEkybURxVnlkSWNxLXdKWEczelpEMUlHU0ZvTWZ4X29rbzNKWUs3aGVlNzVOZklUems3YXhIZGg5NkJBZmFBQ2s0Uk1lZ3ZoSExwWjU4LTVNTzdrYU1fa25OR2pTLW1mcGJQZzZlVmw3SmVFVGt4WDFEWjdJQlo?oc=5"
+    },
+    {
+      "id": "n-5754be57da7f5b1c",
+      "title": "Blackstone raises $1bn for private credit continuation fund",
+      "source": "Private Equity Wire",
+      "published_at": "2026-10-09T11:34:40Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "Private Equity Wire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZWw4U0ZLeVI0RjA0RmtEbFp2VEpEN2hMU3lqekE0QTUwR3U2cVNSR2ZjRFNFT2tiZDBOd0ljSkR2RTJ3cTlpWnhlNEZ3WFUzenBlNWZFY1J4RDQ3MTBielVkUGM3YXRSc2V4Mm1HU1YtRWhhV2lucEFyRHRocUlTOUsxZklfZFZOUDlTeVNCdFA5b3lwV0p3VVlWWQ?oc=5"
     },
     {
       "id": "n-553d2e4f9adf42fd",
@@ -212,6 +272,16 @@
       "region": "Asia Pacific",
       "summary": "Institutional Real Estate, Inc.가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPT0k5N2VQNHpZclVReDdncjZacG5UZDRSenJadGhDTVJrV05qT29JTENOR1JoWWZrUDY5Rzh0bHRrV1hNdmdZUnAzOXJZa0RQUEMxejllNHVHaXFoWGNtMkJtU3c2UUN3enJSOC1GdDZGMnBCNnRHWi1xTUk4NHEwWXBEczM1a0JpX1gyU2piTXdFLW1qOHI5UHQ5Wm10U1dhaEc5TEI5SlBhMmRXMDFUMDNUaG1QakV5eVhJMmtpMW93S05LQ05YbmxKd0cwQk5jSXdwdDBWbk4?oc=5"
+    },
+    {
+      "id": "n-c7d8f102f8635068",
+      "title": "Apollo S3, Strategic Partners and Five Arrows co-lead on $425m continuation fund",
+      "source": "PEI Secondaries Investor",
+      "published_at": "2026-10-08T13:57:49Z",
+      "category": "Secondaries",
+      "region": "Global",
+      "summary": "PEI Secondaries Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1l6UkpWUG9aYldPSjJrbERIYVIwTG05eGVtdV9tMzhwQms4OExkRmJ3UkxxNlduOEUwNVRQVmRINUhwQWJKWTZwSHhWeUUxYjNOcGFhbzFzbWhVdWJ0blpfYWxoV1Q4NC14UW8zLU0xSTBpUUFOWTJpMVBfbGRZbjZZVGdPUmpORGg1U3hyNEthV3BhU29IZkI2VkQyOXh1T2l3TVViT1p6YUR4eWZ5WXo2OEMzSEZYd2NR?oc=5"
     },
     {
       "id": "n-ef8642e1583183aa",
@@ -1194,6 +1264,16 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXB5MmhKQUE4NXlsanVKTHh0Snh2UVdLRnZHT1FfcHBzN0MwYTRnTXlJS0JKQmN4MDlKMVpVMHBjanRoM0lMR05QRF9Sd1BEMzNxS1pxY0RmRWkzckhTcGZsMGI5a1dJXzUwRkpsdC0wcEp5VGVLQlJ3QnJSd0c4d3ZEM2M?oc=5"
     },
     {
+      "id": "n-7ef4afe4e3efb5d0",
+      "title": "HanseMerkur targets €500M for sixth real estate debt fund",
+      "source": "Dealroom",
+      "published_at": "2026-10-02T11:41:03Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVXdMTnF1WlRGQ1J4SFV2UlgxMnVHaXlzOFIzeERnTXhiWVlhNTNwX0pYbDZ4N2kyN092MElCeGl2Z3hIUWNENXFFS0libGlyQ2xTUjlreUw5blp0N3F5cjZrZFJaUmMtd0laelkzdXhXdnR1czBDQTdReHBvMlZKUTlKTDFuNXBSeHhWNjI5eEczQzJZ?oc=5"
+    },
+    {
       "id": "n-32f9cf3b6118730d",
       "title": "Apollo Reportedly Caps Private Credit Fund Withdrawals; Stock Dives",
       "source": "Stocktwits",
@@ -1274,16 +1354,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdXNVOVNvcEpqelhCaDJpUTJLOXJ0enh1OG5STDhZSUcwcjZsMmRFVlV5S2Z1OWtMY18xT0x3eTYwUEJtWkNEMFhBTFIzNDM4Qm1xYVlZcENLWWM1QzI1TnRBVkM1RWprcEdieUlEZktveE4yUnhRYnM2QUpHUHJid1EzYkd0blgxb0FYNjN0Y1k4Zw?oc=5"
     },
     {
-      "id": "n-7ef4afe4e3efb5d0",
-      "title": "HanseMerkur targets €500M for sixth real estate debt fund",
-      "source": "Dealroom",
-      "published_at": "2026-10-02T02:21:06Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVXdMTnF1WlRGQ1J4SFV2UlgxMnVHaXlzOFIzeERnTXhiWVlhNTNwX0pYbDZ4N2kyN092MElCeGl2Z3hIUWNENXFFS0libGlyQ2xTUjlreUw5blp0N3F5cjZrZFJaUmMtd0laelkzdXhXdnR1czBDQTdReHBvMlZKUTlKTDFuNXBSeHhWNjI5eEczQzJZ?oc=5"
-    },
-    {
       "id": "n-d2c2c48bbaddd8df",
       "title": "유럽 사모대출 앞세운 헤이핀, 여의도 사무소 열고 한국 기관 유치",
       "source": "넘버스",
@@ -1332,76 +1402,6 @@
       "region": "Global",
       "summary": "Stock Titan가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0s5YnZjemxxOWlETFVTMU1NQ1l3a0dXWGpOT1hfVnpiQmo2ZHZkT1YxREhwVE5sTTR0RnNSRmxUYmI3ZkpGQWxMR1BUbW9wMTlTdmtFNnNub09vb01rajBwMUhNVFVfd1FpczdhcEpwOFVJU3d0TElVLXpCTlhsa2lvdDNJdG5WV0ZOd05Ma2g3d1B1Q3JtakFyUTZINXlkNVBiTWxsWXB5VUpvd2RjV2pvUy1WU2FFOE4wZXRmaw?oc=5"
-    },
-    {
-      "id": "n-33ca550f2e8e70b2",
-      "title": "Investcorp Raises $1.22 Billion For North American Private Equity Fund II",
-      "source": "Pulse 2.0",
-      "published_at": "2026-10-01T20:42:49Z",
-      "category": "Private Equity",
-      "region": "North America",
-      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWFdRQ0JxSXdEZW5nQTBEU3lKcVhNcjFLUndZOFRLdjNBelpERHpza2J6VC1wQnVpRzdNeVRXUm5tbW1nZDQxZkc0VXg0VGZiQWw1TW1Kak5TdkxkS1N3TlI2VkZyM0t0anBia1RVUFVjaUFQbF82cjRZZDUzY3JXcVNBM2VYZ1JaYmpkTjg1Ql9OTEFrOG9V0gGcAUFVX3lxTE9xaXZQRWNneHJNbFBXUW5XR3QwT2JOd2FMWVg3Xzl2TDh4WG43cHRGUk82UzZyTlRXcXJUVmhhM3N1VUhUVzlyY240Tk9OWTdtU1dFNElGaDl5MEwyb0s5bldnVTNSTmFKSnRYN2t4M3lpaUlBcXBRYjhMNHpvRDZiR2N6a1puRnRnbTJ6UE9tVnRCd0lkMG5CSktfNQ?oc=5"
-    },
-    {
-      "id": "n-632ce522203054b3",
-      "title": "Ares Raises $4.2 Billion For Inaugural Global Structured Solutions Strategy",
-      "source": "Pulse 2.0",
-      "published_at": "2026-10-01T19:39:44Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaE9XUFJTMDJzV1hPVVBZbzNkMWc5cmNobHZTUUlSMm1vSFNIdW5mdWRqNDNQbFh6Nk9jTUtrOFp4c3JEd3BMNmxZWjE2Qmg4emhwQVg3QU9MUUJIeXNsTHRSSzRvWDFpdENpWGhLems1Zl9Sa1B4amhNWU9xM2QwcUswVGY3RVR4Ny0xdzhtblNia2lab2dxalZ30gGfAUFVX3lxTE9SV0o4UDNSR3IwMEhjeU5OOHNOX3Z2azZDWjFjN0VFYUdnQzE2RGpnazJWWGFZUUtqTlkzT1l1ZG0ydk9WMjBzMUx1azFSZDhneXJWUWFLSW1qY2daN24wYnFDSWpsRDJlNVlIa2FkSWVsVGo2RFlTSFp4OG1tZ1BOeWRaeTVqbFBjR0g0LW1GOGU4OTVVbkRLcHlRc1ZMRQ?oc=5"
-    },
-    {
-      "id": "n-a917b9b7663574ea",
-      "title": "Investcorp closes second North American PE fund at $1.22bn",
-      "source": "Alternatives Watch",
-      "published_at": "2026-10-01T19:31:49Z",
-      "category": "GP Stakes",
-      "region": "North America",
-      "summary": "Alternatives Watch가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVhfYUh2S3J3U2d6T3d1bHdvdUJnc1ZaVU52cUIzLVZfQ0NSbmdwMUVyYVNTUkVEOGYxa1JhTGk3ekF0ZFFiak5IdHZvYU5KSFZRSzdoaGVsVjdUOEdqbjlpQ2xiNDlYOEtnTmVjUmQzWTNobm5LTU5QdzZlYlRNb0Iyd2ZJZFYxcEhKU1BMSHhySE1CODdGYWhBVENtOGlwVnh3?oc=5"
-    },
-    {
-      "id": "n-ccd49b7def74626f",
-      "title": "\"AI붐 꺼지면 시장 휘청\"…세계 3대 사모펀드 KKR의 경고",
-      "source": "Daum",
-      "published_at": "2026-10-01T19:00:02Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "Daum가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TNkx3M3hCUTV4bkE5RTFxb2pzQ2hiQ2czdi1xSU14ZWYzSVFwdC1LZGxveVNrSDU1OFdEMzJFbkEyNE5MUFZLSXhGcldvLVk?oc=5"
-    },
-    {
-      "id": "n-88226d67eb926e29",
-      "title": "Ares raises $4.2bn for debut structured solutions strategy",
-      "source": "PEI Secondaries Investor",
-      "published_at": "2026-10-01T18:14:12Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "PEI Secondaries Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWVZaHZMTndqUG5ONTVZSE03SDZkTHNZSkpSTlMyeE9WRDkwMTY2Rk8xM0ttTG1iTnNBVFR5cGpiLWpIME00RjBiaVN0MldlQ0JTa2U4QlZqZVNDY2dESXQ1MkNqQXFqNXpWa2p4VTduOEFRdmlKY2ZOYzFaTkVSWE5mM2JnQkFmQkJ1QWVjUVkzTWtURUxQcnlDRXl3UVE?oc=5"
-    },
-    {
-      "id": "n-9644756f32008119",
-      "title": "Next OpenAIs and Anthropics may come straight to retail market. Here's what to know before investing",
-      "source": "CNBC",
-      "published_at": "2026-10-01T16:50:28Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "CNBC가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTC11QUNoZnU0ZmdMLWtzLXZKWS1pWThtMjlPVE8yQlQyMUEzdG82ci1kRkFxbldmUHllVXVvY3VqcENGU3hSY2h4Wm5VUzlwYjk5SnZCTElKWDZtLVBRSVVGRk1wVmVwRGtpVmdINlV0azIwLVhaWkJKRzNyUmdpSi1WUUdMWU5xNThSMl9fR03SAZABQVVfeXFMTkwtdUFDaGZ1NGZnTC1rcy12SlktaVk4bTI5T1RPMkJUMjFBM3RvNnItZEZBcW5XZlB5ZVV1b2N1anBDRlN4UmNoeFpuVVM5cGI5OUp2QkxJSlg2bS1QUUlVRkZNcFZlcERraVZnSDZVdGsyMC1YWlpCSkczclJnaUotVlFHTFlOcTU4UjJfX0dN?oc=5"
-    },
-    {
-      "id": "n-2fd0f23db8842b0e",
-      "title": "Continuation Vehicles Under Scrutiny: Fairness Opinions and GP’s Balancing Act",
-      "source": "McGuireWoods",
-      "published_at": "2026-10-01T16:29:49Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "McGuireWoods가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcVpaa19BZ0JVZUQ3c0gzTzlpbUFIaldmV0RyV0NWd2JtQzZsbFk5ZHF2LVVrbFg5OXJncnlZeU52Z3dIYmpHZWl2UHY0c3FGWWxrRG9aYi1oT19SWnhLbGVvcVBTS0lFNXRXX05SSTByemFYUm1iemRoV0NwRzZQaURvbm5Lb0xRclM1MDQzakU3bnBoMkI0SEM0WlZSelpFRkxtVlNnMk5xZ1VjY2lwQlBBb0JnaV8xTWNhN24yWkJidXp5Vi1LbXF2c0hhcTUtSXRrSg?oc=5"
     }
   ]
 }

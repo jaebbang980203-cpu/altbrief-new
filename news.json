@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T09:54:21.803674Z",
+  "updated_at": "2026-10-10T17:21:37.555771Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -42,6 +42,16 @@
       "region": "Global",
       "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZZHVXSjMxQl9rcFRnOTdFdy1wV2JxWkpPeGVmQ1N2UnF4NERUQjRrS0lQUUk0OWN2c2NpM0NYazNmeTNKemFCSk9ZSmdQczJ0VTQzbl9LNEhPbFhyS3hibFpuTDJrc25xaUl0ekliMW1fUdIBd0FVX3lxTE9Yc3J5T1F0cjJwTWFwT0VpZUZEaG5RLXVfSUE3X3pPdU1mZDZ3MGN2Mm02d3RrQ1d6clV1NXNzUmxQVExQXzBDQTNNUjZ6Z0JCUlNhNGZKeUJKU0NTZXFoVnZKUU96VHF2WG10WFVzUUU1TC1NOHB3?oc=5"
+    },
+    {
+      "id": "n-763db773cccbc3f5",
+      "title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
+      "source": "EnergyNow.com",
+      "published_at": "2026-10-09T19:40:19Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "EnergyNow.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM?oc=5"
     },
     {
       "id": "n-8e9efeb0a8a4d682",
@@ -112,16 +122,6 @@
       "region": "Global",
       "summary": "Alternative Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQXpPX3BSU1E1MnYxMGxVQlM1VDVtNm1VTklHUWJqR3NTck5UWnpuUzdWMFlWTnBnc2hWTUNiYzNDVkJyTktjbDctY0NUcVNyaE5OZGV0QW1PS1NZbGNqQ25EWVZ0Tk5rRXZRN2RzeE9oaTZxWDlQbWFaOERNQjRScE10VmJMRERiem43QTYxWXNwalZNVEpKZ2Y5b1RMV0J3RlE?oc=5"
-    },
-    {
-      "id": "n-763db773cccbc3f5",
-      "title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
-      "source": "EnergyNow.com",
-      "published_at": "2026-10-09T09:23:01Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "EnergyNow.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM?oc=5"
     },
     {
       "id": "n-e41a69208731a3eb",
@@ -404,14 +404,14 @@
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtLTdlaVE0ZWxSNGQ4czdEaHYtQ2NZWk0xTndsS285RXNUZ2dYSC0xZ2V3MlVTVExrTWk4WlkxVmpEdUI4Zmxz?oc=5"
     },
     {
-      "id": "n-1e92251875cb7b2f",
+      "id": "n-f80b644fdd3ec0f8",
       "title": "Bluerock Private Real Estate Fund Announces Monthly Distribution for October 2026",
-      "source": "InsideNoVa.com",
+      "source": "PR Newswire",
       "published_at": "2026-10-08T00:20:00Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "InsideNoVa.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOR0R2VVgxS0NfQmJ1c0gxUmxGM25FQTJQb0p3QTNzWWlmN2paaldGMi03bGJqQm9mbDl6UGFRaTFTQWxMM1ZFbXdCbV9wSkt1bUFFNjJvamhic2ZScDluTHZHNjYtUGNMam4zTG1HTXljaVNyWWtsN3FqZFBpZ3BoSnpjTXhmREYxZXFfVW5DVFpYWGh1STh2SHhOQUVPeVRSTVNlREV2NE9uaG5HbjNzcC1kbGt1Z0t0cmNXNk9hcTgxM0R6Mm0wU0VVUnlxQnNRSTlJVHU2dkFLUnMyQVByQS1iXzhXNEdJTFRhenVPdmNrUExpczRZYzFLQzFwV2RuVVhMQ1ZYU292UXJtNjRYMk1UTHdQYlh3?oc=5"
+      "summary": "PR Newswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd3JKNnp5YnRUM2lXWkpuLVMyU3Vsa0VzWUZ6dVg4andlazYwbkpDZklWNWVhSk1IcFJtbzFBS3p4ek5RdTkzNlZQY1pYWTljby1YSVBYeE5EQU52c3NVeHJTRzVDSjhIUmlJQko3bDdyR3JkcEJEX0sxNm9pV0VxMURGTlFqcmUyMzJYcmNMM0JtSjdFc1hUMW1XZ0pPWU1LQmtxTWtKWUo0eHl0NUdhc3VlenRqdTFjOVhqYnlkZHJHU2h0NWVRYlRzelU1ay1tZl93?oc=5"
     },
     {
       "id": "n-84e13a8bcf8d745c",

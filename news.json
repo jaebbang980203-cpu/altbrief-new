@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-10T17:21:37.555771Z",
+  "updated_at": "2026-10-10T21:47:09.143382Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-763db773cccbc3f5",
+      "title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
+      "source": "EnergyNow.com",
+      "published_at": "2026-10-10T12:35:15Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "EnergyNow.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM?oc=5"
+    },
     {
       "id": "n-7cb39c27dcdb9c9d",
       "title": "Private Equity Daily: Audax Gathers $10 Billion for Direct Lending Deals",
@@ -44,16 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZZHVXSjMxQl9rcFRnOTdFdy1wV2JxWkpPeGVmQ1N2UnF4NERUQjRrS0lQUUk0OWN2c2NpM0NYazNmeTNKemFCSk9ZSmdQczJ0VTQzbl9LNEhPbFhyS3hibFpuTDJrc25xaUl0ekliMW1fUdIBd0FVX3lxTE9Yc3J5T1F0cjJwTWFwT0VpZUZEaG5RLXVfSUE3X3pPdU1mZDZ3MGN2Mm02d3RrQ1d6clV1NXNzUmxQVExQXzBDQTNNUjZ6Z0JCUlNhNGZKeUJKU0NTZXFoVnZKUU96VHF2WG10WFVzUUU1TC1NOHB3?oc=5"
     },
     {
-      "id": "n-763db773cccbc3f5",
-      "title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
-      "source": "EnergyNow.com",
-      "published_at": "2026-10-09T19:40:19Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "EnergyNow.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM?oc=5"
-    },
-    {
       "id": "n-8e9efeb0a8a4d682",
       "title": "Taurus closes third fund-of-funds at $301 million",
       "source": "SecondaryLink",
@@ -72,6 +72,16 @@
       "region": "Global",
       "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMm9vX216QUpGUXBlcnMyb05MRmFUWUtFZUExTkJiSlo2MVc1TExVUnU4OE01d3hCSUhuY0YxVFBZc1Z4dGNidTl0OWNpdHR4MDZ6bXhoaDZSb09XZlAwcE1fUzZqNGtwMGJBc0stQ21vWDd5OEdxeEJ2UjRiY1lxag?oc=5"
+    },
+    {
+      "id": "n-0ed2e9e26d9ea21b",
+      "title": "Milwaukee pension fund hits pause on private equity and may not invest again for years",
+      "source": "Pensions & Investments",
+      "published_at": "2026-10-09T17:20:00Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQjdkajdkTFhnT2lFX3lmTVp4bldHOXlGNTVlRnhQZ09YOFJkX3pUUUN1SmtHVDNfWDlidVdpYTV1cjdPTURrVU5vQVZiSC03aGpqUVZDZTljam5rSzZheFNfcUJWY2xnd0FJNEx3azJCV3N2akp0ZU1rYW15ODF6X1dHS2tCMDFNM0JDc2hNR3JFa1BLaHZKUTZiSXVGZVVpbVBVMFhqY3FRdW90MFUwZDlabFVmM2N6SGF0aTBGa2dHMWNo?oc=5"
     },
     {
       "id": "n-79761364f9410498",
@@ -157,7 +167,7 @@
       "id": "n-14a683b681578244",
       "title": "Institutional investors challenge PE fund model with direct deals",
       "source": "Financial Times",
-      "published_at": "2026-10-09T04:01:29Z",
+      "published_at": "2026-10-09T04:01:51Z",
       "category": "Private Equity",
       "region": "Global",
       "summary": "Financial Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -322,6 +332,16 @@
       "region": "Global",
       "summary": "IPE Real Assets가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjRUTkIwNHQ2dW1LU0JTU2tCc1ItSzRlR3NSRkRRNGZYQUpjb1ZlY0RVc1BMZFhENnMxYnBsN0JHNWdRWmtGRThtNHBXSzBqbHpGa3JjMWVHcjFBUHNpaXJORXM3TVBZZTNaa0p4bTk0Nl84aUpiMGVBcEoxNmdzSUROLTU3M1FaekVUeTFNZW92U0ZNaHBFakVSMlVXR3ZacjVMUlR0MTV3aTFVQUdKOURoUGFjV1p6TW1tVA?oc=5"
+    },
+    {
+      "id": "n-81e2fd5fe12c10cf",
+      "title": "Nuveen raises A$1bn for Australian RE debt strategy",
+      "source": "Alternative Credit Investor",
+      "published_at": "2026-10-08T12:31:45Z",
+      "category": "Real Estate",
+      "region": "Asia Pacific",
+      "summary": "Alternative Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMmo2MGplLWp2WmR0R2ttUlo1NFByR1NVMkQzbTQ0SlAzTzhkVG1RS1R5bUx1NlNENDNPb0twWHJmTElJTVFWbjBsblFmZzhnRE5yQmlLcW1EandHX1UycklyWXN4djJoUWVSTHJzMGItWFpoRm52MnJzbmVzUnpnRFcwSEZRZjFtbXZxdW8wWVNZQkg4M041N3lON090YWdGTmc?oc=5"
     },
     {
       "id": "n-7ac0c91b1f249cec",
@@ -974,16 +994,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3FraDcyc3A1b0ZOMG5ZZi1GUjlFS0xFMWVXd3c1X3dhMW1zLWM3d0l2R3pxekpFSDZhMGNtdFZCOFVpcWJ4NnI0Z2ZNNlEtc2d3T2FxWG9oTk5md0FXREdhZFdGUUF1TTNGaWtBYTh0OEJDUzAtRDhHN3FaVWthcnZOMFZpb2tIWUZMeGxKT29XTGNXSXRVaGV3?oc=5"
     },
     {
-      "id": "n-ba0c4fe885618dc5",
-      "title": "Data snapshot: Regional and strategy differences emerge amid fundraising slowdown",
-      "source": "Private Equity International | PEI",
-      "published_at": "2026-10-05T12:00:27Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2E4VUotakh1VzllQm5fajZJVXZQXzBoTk1YOXZ4cm1xdnZnZlE5QXVuUjlxd00xc25nSG5sM1FBLTA4SjhpSUVnaW94Mzk3RWdBZFFRYldSXzBSRTlhcUtfdXczN1FvV2NnQW5yeGNMNnI0cFoyTE5zVm1Ib18zZXRDeTZVbUtuWURDT1k5YUlERFNCcHRpcHBfV0dTYVdJNnprZjY0cjlZbldiejlabnlPY1UtN1locG5ZWnN4MG4wUQ?oc=5"
-    },
-    {
       "id": "n-4e8b1b360fc626f4",
       "title": "Side Letter: Rare stakes",
       "source": "Private Equity International | PEI",
@@ -992,6 +1002,16 @@
       "region": "Global",
       "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41S0p2X2lGUEdMNzJLMVRfTDkyTGlJeWxJcXU5OFFRbjkwOG9zU2tVY0d0aVAxcDdqSkJ6bHhVeDk5eTlCT281NDJ1LVRacUh6WWNIQ3ZsQzBvZDJBVjhEYnRwTXhpWldmMGdQYV9MT2NKN1I1NXc?oc=5"
+    },
+    {
+      "id": "n-ba0c4fe885618dc5",
+      "title": "Data snapshot: Regional and strategy differences emerge amid fundraising slowdown",
+      "source": "Private Equity International | PEI",
+      "published_at": "2026-10-05T12:00:27Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2E4VUotakh1VzllQm5fajZJVXZQXzBoTk1YOXZ4cm1xdnZnZlE5QXVuUjlxd00xc25nSG5sM1FBLTA4SjhpSUVnaW94Mzk3RWdBZFFRYldSXzBSRTlhcUtfdXczN1FvV2NnQW5yeGNMNnI0cFoyTE5zVm1Ib18zZXRDeTZVbUtuWURDT1k5YUlERFNCcHRpcHBfV0dTYVdJNnprZjY0cjlZbldiejlabnlPY1UtN1locG5ZWnN4MG4wUQ?oc=5"
     },
     {
       "id": "n-19b107618b3681ca",
@@ -1382,26 +1402,6 @@
       "region": "Korea",
       "summary": "넘버스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtcTIzbGNGdXJiZUZsNmtfUlJjVTNGbjRucGZYQjZ6N2pEbEREY2syWkYwdHZIQVhjZG1qN01GbFNwR1cyRHptZUVyaGo3aTdVUjZ0TVQ5RUhrM1gxbDljWTEtNmo3WG1VeGFn?oc=5"
-    },
-    {
-      "id": "n-572ac8be1a48b2b5",
-      "title": "Kayne Anderson Energy Infrastructure Fund Provides Unaudited Balance Sheet Information and Announces Its Net Asset Value and Asset Coverage Ratios as of September 30, 2026",
-      "source": "The Manila Times",
-      "published_at": "2026-10-01T22:40:12Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "The Manila Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNZlhnOUVtOURLa1o5eHhtLUtmSGRkMEgtT1ZjbE5xQkRBcnVGMTN5cnl3U2NTU204a2NqaVJoY3h4aVdOVEdSNkRBd3ZkNkZOWWVLSVNrTE9TdTkzbks2cFZnWXVJNV9ZMUtoZmNybXBFR2dCaF9sNVg3ZnpCSkdBdFFjamVYQXBsMFJkM2Q3TXdoMzVTRWR5eEQxc2VBV1pIWlg5LUk1UTZNSTRqaVQ0M09WazNjOW1vSldRRlVKN0NvMDNzV3JrdGZteGswSUhRZTJta0hzZTl1WXljMlVWb3F1VmR6Q2FDTnhXcnlMNUlTZEV3YTQ4SG1BcnhlTjV6VkpvZFhWckdhWl9Lcm9ubXkwYjBRNnpXS3h3dVVHclA2YkszUGVxaXg2bmVSRVRMZWoxMXNVSWRCcHIxOFNaWHY3OTYxR0VZMkZXYXJsTnNlWmw0SWdyMVV5cURKSGhJMHfSAecCQVVfeXFMUEZiYkVUMkhpMDlfdXowOHVEX1Fha1ZrREdtTHRlVTh0NTdudW5jems2V3JzRFdtMHpHRDFPeVNnQUF3MVZkbDZ3OVJvekJjbmhwUmx3RmtpZHFxRWJCb281R0plQ0pOM2VVcWo2OE10eXRUUkJWLUtuWVVidndNdEkwLUVQaENXVHN5TU00bnpSa2FKU25KbXhyYTE3aEtseURpTjJfS0dxLW5JYW90RmZ5OU1lcnFVUXZPRWZ5aVFQVkk4S0M4YnlWYXRDS2gydWpXMDVrQ1lMSW1PODdiWUhkY1IyTnludmpYRU13ajlUOXMwUzdCZGJESGhWYzhOc0tBZzZGalp4LXhTRWlkLWpjVldXVXBVaE5TbWd4OEhQRUJGNklISkpBVnBnNE1pMmtqNlBwd0s0ckpSN0MtYUl2NllSbDRWMDFQMURTMGtMUFZXZDVJeWY4ZUhtNGlnMWNLUnlsZXc?oc=5"
-    },
-    {
-      "id": "n-62c51e94d77846f4",
-      "title": "Kayne Anderson Energy Infrastructure Fund - Net Assets $2.60 Billion, Nav Per Share $15.42 As Of Sept 30, 2026",
-      "source": "TradingView",
-      "published_at": "2026-10-01T22:31:44Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOV0hVXzJpU2cwV2tUTXpDQ2xxY0pRRkl4NHROV0JiUk55bXE2UVdraFVNcHVXNGJrSXRpQUstWkMyWkNULThKWUd4TnFIa1RwbjcxR3FEazNsenp5Nk5mUi1udWczcHJ4Vjg5SUJrUHhnaEZQNXJ3MHpzMGhpZ0M5V0VJNVd6ZGMtN01MSGY5MkJCMWhmOXVNbENXNHRtQnp3clByMHRGV0JHTWd1cktHVVVaQlc0eERfQ1NPaXRmMkgzRURNQ3pEYWtJWFo2cDNaZ3J4WDNNME90bWZDTTI3ejdBRHRMbnluaGhZdkVQdEZUajIyQWNJSVNySXljd0liTDYyQg?oc=5"
     }
   ]
 }

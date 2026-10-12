@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-11T19:34:29.345121Z",
+  "updated_at": "2026-10-12T00:35:16.536292Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-38d3b49b9ec5fbc9",
+      "title": "[단독] 한투, 美에 대체투자 운용사 세운다",
+      "source": "한국경제",
+      "published_at": "2026-10-11T08:37:30Z",
+      "category": "국내 대체투자",
+      "region": "Korea",
+      "summary": "한국경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zZkVxeEcyNk5mMDV3TnNBTEN1WDM5SmVXQTBtQUhjX2xjRy0tRUJLZ3VGZG8xWk5ubV9XS21FR3NmRjlGZlZNWGF0ZlRsMkJUQ3hnRkZ5Wm1DUQ?oc=5"
+    },
     {
       "id": "n-763db773cccbc3f5",
       "title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
@@ -694,6 +704,16 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2NvWG8wTDJoME5OQUdiQ0hmYnpVWmZiT09NTXRmSlFWMFlzYmIwM3hiVTlxRERkaEd3LW95SjAwQkZmX2o3S2J4cnRfZ2NfNW5qUUpzbWhHb1VkNHJjRUYwU1FBbzZQc2pCRHVUVnBEMWIzcEZhRGhwYWhadlFoUEFKcFFhWDZXcTBQb29uV3JUX2ExRXVjUEtn?oc=5"
     },
     {
+      "id": "n-b911067ad7799b18",
+      "title": "KBRA Releases Research – Opal Group European Private Credit & ABF Summit Recap",
+      "source": "Business Wire",
+      "published_at": "2026-10-06T18:45:00Z",
+      "category": "ABF",
+      "region": "Europe",
+      "summary": "Business Wire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaG9DYzNYc0p2NVRKY2Q2TGl5SldlaHlBUVFxb05Db05CTzlXMktMYjRqOTJVX1dRLWdPY04zVDNWcGFFY2I2amtuZEFENEJaVmhhYzY5VTRzaVctYkRLWHlJVFl6WjdmTmlWOTBoVl95eUxSZHY5N0pRaGVfRXZ5dWNOalJFSko2NTdQdWFQV2c0UkpRY3lIS2w3OUFucEl3cFNYMmUzUU5iYnd3Z2RJbHgyVUI2Ql9sZGlHZ0o2dW1DUFBoYm1pUm5QOA?oc=5"
+    },
+    {
       "id": "n-c2d57385f769cf58",
       "title": "Barclays Upgrades Qiagen Partly on Prospects of Private Equity Acquisition",
       "source": "Genome Web",
@@ -1064,6 +1084,16 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3FraDcyc3A1b0ZOMG5ZZi1GUjlFS0xFMWVXd3c1X3dhMW1zLWM3d0l2R3pxekpFSDZhMGNtdFZCOFVpcWJ4NnI0Z2ZNNlEtc2d3T2FxWG9oTk5md0FXREdhZFdGUUF1TTNGaWtBYTh0OEJDUzAtRDhHN3FaVWthcnZOMFZpb2tIWUZMeGxKT29XTGNXSXRVaGV3?oc=5"
     },
     {
+      "id": "n-19b107618b3681ca",
+      "title": "Boka targets $300m for third defence fund",
+      "source": "Private Equity International | PEI",
+      "published_at": "2026-10-05T12:00:27Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmtjNWZfaEZXaEVHMnJvSVVEYjVEdFVUa255a25mcE1PdzI2Y3R3c2diTnAwYVctY29SQ2FQQlZ2X0JxR1MwdEc2VVdwMkRDZHNkeDBZdS0zVS1fY0xGUlhTVmRDNkFTWXlncVI4czZSOHA1SUI3R3AydHFoTTUzbnlrdmY3QVdVRldkag?oc=5"
+    },
+    {
       "id": "n-4e8b1b360fc626f4",
       "title": "Side Letter: Rare stakes",
       "source": "Private Equity International | PEI",
@@ -1082,16 +1112,6 @@
       "region": "Global",
       "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2E4VUotakh1VzllQm5fajZJVXZQXzBoTk1YOXZ4cm1xdnZnZlE5QXVuUjlxd00xc25nSG5sM1FBLTA4SjhpSUVnaW94Mzk3RWdBZFFRYldSXzBSRTlhcUtfdXczN1FvV2NnQW5yeGNMNnI0cFoyTE5zVm1Ib18zZXRDeTZVbUtuWURDT1k5YUlERFNCcHRpcHBfV0dTYVdJNnprZjY0cjlZbldiejlabnlPY1UtN1locG5ZWnN4MG4wUQ?oc=5"
-    },
-    {
-      "id": "n-19b107618b3681ca",
-      "title": "Boka targets $300m for third defence fund",
-      "source": "Private Equity International | PEI",
-      "published_at": "2026-10-05T12:00:27Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmtjNWZfaEZXaEVHMnJvSVVEYjVEdFVUa255a25mcE1PdzI2Y3R3c2diTnAwYVctY29SQ2FQQlZ2X0JxR1MwdEc2VVdwMkRDZHNkeDBZdS0zVS1fY0xGUlhTVmRDNkFTWXlncVI4czZSOHA1SUI3R3AydHFoTTUzbnlrdmY3QVdVRldkag?oc=5"
     },
     {
       "id": "n-e251f1d5d0755302",
@@ -1382,26 +1402,6 @@
       "region": "Global",
       "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVXdMTnF1WlRGQ1J4SFV2UlgxMnVHaXlzOFIzeERnTXhiWVlhNTNwX0pYbDZ4N2kyN092MElCeGl2Z3hIUWNENXFFS0libGlyQ2xTUjlreUw5blp0N3F5cjZrZFJaUmMtd0laelkzdXhXdnR1czBDQTdReHBvMlZKUTlKTDFuNXBSeHhWNjI5eEczQzJZ?oc=5"
-    },
-    {
-      "id": "n-32f9cf3b6118730d",
-      "title": "Apollo Reportedly Caps Private Credit Fund Withdrawals; Stock Dives",
-      "source": "Stocktwits",
-      "published_at": "2026-10-02T11:02:13Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "Stocktwits가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWWNfeXRRMGJFcmVNRU44MHY3STR6dWFWOHV2clpWSUpSZndBRl90UDczY0s4dWRLTVd1Q0p3ZWQwWGVvLUpqRlpqcTBBVEF5UElWX1JmX3FDcjRyMkgtTlB3a2N0TDV4UkhqNExTeVI4Q21IMm8zZnhKQzdoOGktSUpVXy1QeUxPdERFWEo2VFl6dm12WVhORGtMR1VLdnFzWlFwOVZnaFBheVFYVWNUUFhqVHJoMWZWMkE?oc=5"
-    },
-    {
-      "id": "n-698af56479ec697b",
-      "title": "Private Equity Daily: EIG Bets on Geothermal Energy Market With New Fund",
-      "source": "wsj.com",
-      "published_at": "2026-10-02T10:37:41Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "wsj.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzFnQWk3Vjdjb0FoRFZRb1hqN0dsVHRfemltLUFnc3NwLXlMZ1U5Tnl1cGJyYlh4RW9TcjNhOWFQcG9nY0t6VEZxTHUtd2p5ZzQ5VUdOT21rbGZHMGlJMVdzNGNORml0YlBNMFFNLUpaTGFUUHFJNmNqSnE5UWRSV2dzYVZXN0VyOW5kQXZMQl8xcFFodmh3X194U0VmLV9TTDR1d2kxdjlFZkpEckpfU2dDVmFBWXNRUkJB?oc=5"
     }
   ]
 }

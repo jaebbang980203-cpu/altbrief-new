@@ -1,13 +1,53 @@
 {
-  "updated_at": "2026-10-13T16:58:11.655046Z",
+  "updated_at": "2026-10-13T22:47:59.285727Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
     {
+      "id": "n-5df898c0628dda04",
+      "title": "Board Approves Investments in Research Innovation and Energy Development",
+      "source": "South Dakota State News (.gov)",
+      "published_at": "2026-10-13T19:46:37Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "South Dakota State News (.gov)가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMElVVElfbE5haUkyVlRERDhxeVhHRVZ2UjFuRjlYa2psU0ZpQ0pMNkVrWDJORHJVNEdRN0JrLWVySnNpS0phNl9xQ0FnVk8yd1ZETG5mV1VMOTdaMjktamh3VE5rQm5mcHV2ZTA4aHU0c1RUSElZMTQzc1NQd1NxOFFZS0pIcGVmZ3BZQjlWR01hdw?oc=5"
+    },
+    {
+      "id": "n-044f73fb478daf9a",
+      "title": "When Duration Stops Working: How the Rate Cycle Has Rewritten the Fixed Income Playbook",
+      "source": "Apollo Global Management",
+      "published_at": "2026-10-13T19:32:15Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "Apollo Global Management가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWHdsZkVENXoyaWIzOVJVZkU4bV85ZFAxMVE4MVljTlBxY0NfRF8yemFodlBXVWZyajVIRkFQNV9vTW94QzhsOXg0SEY3czJnajY1ZHltWGdfYzRzZTVaVHEySkw1RWxiSXUweG5sZlQ0dGlweXpUUjFEM2tJcHl6ZmVpNjNPNEJZVHBxN2RDWHRwbnB2N0piaUdEY1hHaFM0VGFRVlJXa2UtblA2UjFXV2JkZWl2anVORmFlLWZiS2xNUmc?oc=5"
+    },
+    {
+      "id": "n-16e8494cbba2750b",
+      "title": "Raimund Grube (F’99) lectures on investment and the future of renewable energy",
+      "source": "Tufts University",
+      "published_at": "2026-10-13T19:10:38Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "Tufts University가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUx4WVRFbjBaMzFLb2dzZWtENExLUS12S2FfakdxcWhMajJLRXZvbE5lRDRfZU9SWjJ1cFVjWGlXakljLWZtWGxnRmdFbEZMd2RXTXFQM1dDWDdQWUg5ek8xRmxBbUtBd2YyR05aS0tJeWM4S3hJbjRLRlIxRXpwRld6UDFSSTZuODA1WmRON29vUzlqckNHVUkzeXA2X1JGMzBkaVotalI?oc=5"
+    },
+    {
+      "id": "n-45fd5e5ba5c70913",
+      "title": "\"고금리에 상환 부담 커진다\" 사모대출 부실 공포 재점화 - 머니투데이",
+      "source": "머니투데이",
+      "published_at": "2026-10-13T18:50:00Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "머니투데이가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzd0pBZjVmQm91T1M1Y0xvSzNKVUVXZHVaemk0LTJFWk1NbzgzUTRaaXJtZW1lLWdhTkdYQUoyRTBRZl9FcHJSYUQtRnlRYkRQMWI2SThuU2hJZTdvVFJtemowTndRQzBL0gFuQVVfeXFMUExXVktuXzBYTVI3blJWdnF3RzJNUDduVDlPdmQwS0xfa00waHN2SFlCYlhYbmt2MFZxNnF2XzlXRThsc3JQSGJhcTBfa3hpdHZVbzhJSjlfRFJ5MkNyQUJvMFVxNDh4R1g3QlFxR3c?oc=5"
+    },
+    {
       "id": "n-96861337aa152962",
       "title": "Higher Rates Are Coming for Private Equity—and Smaller Firms Are Already Hurting",
       "source": "WSJ",
-      "published_at": "2026-10-13T14:00:00Z",
+      "published_at": "2026-10-13T17:30:00Z",
       "category": "Private Equity",
       "region": "Global",
       "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -32,6 +72,26 @@
       "region": "Global",
       "summary": "Business Wire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ1Z1SU5ydDJTNklPWEdsdGh3dUtHbU1KY0xXVjNBbnlFQnplR3h5em1ITEo0UUxMWkFNWEdxR29mY2FjRDg3M2tGTGVlNW5KOXkyNjhNVlVvdW1lUzZIS0RDcG11TmRQeEc4aEpXZG1kMm1KQy1kZVd6NFVBSWFWZnNJSlhFbFppMkNOd0dRejN3WXZIRmhBSEJFYk5ucjdjTUZXaHBVR05YNHJHZnpqZVFxTHFYbGI0RC0tVUdsUjlELWNQUjRpVElKelVzT1RLLUpMcll0bC1mOEZMaHhxajlWaw?oc=5"
+    },
+    {
+      "id": "n-763db773cccbc3f5",
+      "title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
+      "source": "EnergyNow.com",
+      "published_at": "2026-10-13T12:47:12Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "EnergyNow.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM?oc=5"
+    },
+    {
+      "id": "n-c09d4c34c93371d1",
+      "title": "Franklin BSP Realty Trust PFD Series E Rates A Sell (NYSE:FBRT)",
+      "source": "Seeking Alpha",
+      "published_at": "2026-10-13T12:00:00Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "Seeking Alpha가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN283eE1NWG1hU1JwQlprR25ZZ25INUJVdE16RGctN29QYWYzWW5USEpCWVJOMFpwWTdLNGVZekZEbHZfdzVjM0p3NXo5QnNTVUFyOWZmT1VfS2pKTjNRWm41MUFLekhWeEZ6NHZ3Ti02MFNDZXRveXJ0azBaVmhicEpZQ1pXajBUTXJvekhOTlh0TDl3REdv?oc=5"
     },
     {
       "id": "n-04eeeb25cd18dc39",
@@ -92,16 +152,6 @@
       "region": "Global",
       "summary": "https://www.connectmoney.com/가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdlMxTW1IX1hBbU9icXg5cEhBOFZPLXE4LU11NG11WkhjdWxfN21OX3ZDb1V3UTlQODV1dks0eTF0dl9ZOVp2VkJ2STJDQzgxUDFEWktOV3VaT0MwVzhKb1g3Y0E3amNQd3dnbmpaM1A3MTBsVkhIcmhVZG53ZVJKZFBFRUdUOWdkRmV5UDBkdllHMDVJT1ZOS0gzTWo4eGsyQWtwbHpfVm8?oc=5"
-    },
-    {
-      "id": "n-763db773cccbc3f5",
-      "title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
-      "source": "EnergyNow.com",
-      "published_at": "2026-10-12T19:54:33Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "EnergyNow.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM?oc=5"
     },
     {
       "id": "n-2efa2c9ef33c6586",
@@ -352,6 +402,16 @@
       "region": "Global",
       "summary": "PERE가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVWpZU2szZVk0NEV3MW5yTGY2YWpHc0JJNGRjMU9ZNlEzRi1NWndTRUZ4Q2FxLS1PZ05vZ3VKaklJb3Y0dXd3Qmo5SXh0M3ZnZkN5cGpkRVhOaEpPMnI3bjE2cUxpcmowckJybkt5c3FlbEh4anhwYVFWemJxMXBFRGppeXU2NTFsS3NSTVFjXzgwVkFkRVFub01xMDNtZw?oc=5"
+    },
+    {
+      "id": "n-f7c2518a76f1fec6",
+      "title": "Private equity’s newest transaction: the ‘DPI trade’",
+      "source": "Buyouts",
+      "published_at": "2026-10-09T10:22:51Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Buyouts가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0x0Mzhva21KM29pYm5EZVlaN2FiYzFKWTdpQTN6b3VxZ09WbUFGWU5TQk1vaExZYTVlYldIZG9kems5YjlDUUN2SHltNUhaNUNXUTVmQS16SS1fWUpqYWw2YWFQN3hxeFdFbm5TSEFZNzNWV1BEZ0ZTS1JjMlJiekpWdE9HRTg?oc=5"
     },
     {
       "id": "n-562b368185413795",
@@ -1342,66 +1402,6 @@
       "region": "Global",
       "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3FraDcyc3A1b0ZOMG5ZZi1GUjlFS0xFMWVXd3c1X3dhMW1zLWM3d0l2R3pxekpFSDZhMGNtdFZCOFVpcWJ4NnI0Z2ZNNlEtc2d3T2FxWG9oTk5md0FXREdhZFdGUUF1TTNGaWtBYTh0OEJDUzAtRDhHN3FaVWthcnZOMFZpb2tIWUZMeGxKT29XTGNXSXRVaGV3?oc=5"
-    },
-    {
-      "id": "n-ba0c4fe885618dc5",
-      "title": "Data snapshot: Regional and strategy differences emerge amid fundraising slowdown",
-      "source": "Private Equity International | PEI",
-      "published_at": "2026-10-05T12:00:27Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb2E4VUotakh1VzllQm5fajZJVXZQXzBoTk1YOXZ4cm1xdnZnZlE5QXVuUjlxd00xc25nSG5sM1FBLTA4SjhpSUVnaW94Mzk3RWdBZFFRYldSXzBSRTlhcUtfdXczN1FvV2NnQW5yeGNMNnI0cFoyTE5zVm1Ib18zZXRDeTZVbUtuWURDT1k5YUlERFNCcHRpcHBfV0dTYVdJNnprZjY0cjlZbldiejlabnlPY1UtN1locG5ZWnN4MG4wUQ?oc=5"
-    },
-    {
-      "id": "n-4e8b1b360fc626f4",
-      "title": "Side Letter: Rare stakes",
-      "source": "Private Equity International | PEI",
-      "published_at": "2026-10-05T12:00:27Z",
-      "category": "GP Stakes",
-      "region": "Global",
-      "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41S0p2X2lGUEdMNzJLMVRfTDkyTGlJeWxJcXU5OFFRbjkwOG9zU2tVY0d0aVAxcDdqSkJ6bHhVeDk5eTlCT281NDJ1LVRacUh6WWNIQ3ZsQzBvZDJBVjhEYnRwTXhpWldmMGdQYV9MT2NKN1I1NXc?oc=5"
-    },
-    {
-      "id": "n-19b107618b3681ca",
-      "title": "Boka targets $300m for third defence fund",
-      "source": "Private Equity International | PEI",
-      "published_at": "2026-10-05T12:00:27Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmtjNWZfaEZXaEVHMnJvSVVEYjVEdFVUa255a25mcE1PdzI2Y3R3c2diTnAwYVctY29SQ2FQQlZ2X0JxR1MwdEc2VVdwMkRDZHNkeDBZdS0zVS1fY0xGUlhTVmRDNkFTWXlncVI4czZSOHA1SUI3R3AydHFoTTUzbnlrdmY3QVdVRldkag?oc=5"
-    },
-    {
-      "id": "n-e251f1d5d0755302",
-      "title": "Barings expands private credit naming global head of asset-based finance",
-      "source": "Pensions & Investments",
-      "published_at": "2026-10-05T12:00:00Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OdHR3ZHFvRXQ1WGtEVlhtWXhubHM5aWZHSVlEUWFHQnRCS2NNYnNBQUZMVDYyTVA1RXZGdzdHYlpkS1lJdUI5ay1aODJzRlhGOVBtdjJ0cUpKRUU4U1RLMko5cnpxSFk4VkF3dnRiamtrWGhLQ2JtaUNEMA?oc=5"
-    },
-    {
-      "id": "n-1cf17af7dade0515",
-      "title": "Jamie Showers Joins Edgar Matthews & Co. as Managing Director and Head of Syndicate & Sales",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-05T12:00:00Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRjJVeXF6VE9DUVp2YndpVVI5RzNlT0RYb3E4UEFFU2xrUVlLb3dYMXlYNDRNX1Y1dlFyTThoM21QRkdwclUtVG1Ncy1tQUxvZkIxUXFLLXkzNWswYWVQSjAwRV9YeVZmT0RORFVKbTNleEtoX092RmVQZXBGSmV2dlNBYV82Tk9hT1pNVW5sTGM2WjAxdEdZOW44YmlJRnhv?oc=5"
-    },
-    {
-      "id": "n-664ca97177bfd6d3",
-      "title": "Capital watch: Debt loses ground in H1 2026 fundraising",
-      "source": "PERE",
-      "published_at": "2026-10-05T06:12:48Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "PERE가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWlBlU2dMQkxfUVJNWVhoQUNmaE1wQjFlSms0QVh1Q21mSjhnTm5lNUJBeUFIcWJoU0FQaThTUEZFZmpTYkVMNFlZZUlua05aOW52aGc2V2pUemE2blBKdVB6aFV2RWdkSzAwN25qSEthdjhabTdFUGJxRzhqZGN2LUpBSlFDUHVLem1GWmFnbUtYRGR3VEpIeXdLRUt5bEZoOHc?oc=5"
     }
   ]
 }

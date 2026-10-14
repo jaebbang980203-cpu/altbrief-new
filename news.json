@@ -1,8 +1,48 @@
 {
-  "updated_at": "2026-10-13T22:47:59.285727Z",
+  "updated_at": "2026-10-14T04:57:33.055013Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-ae7a3f3fadd295db",
+      "title": "Investors Claim Private Equity Fund Won't Redeem Cash",
+      "source": "Law360",
+      "published_at": "2026-10-14T01:58:59Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Law360가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV0hadnVKRWNRdWx3Q0l6VFRvR290UUE2WHN4a1BTUjZET0RZTmM3OVJsQWd0eGY1WmRLR0FvNWZSR2dLTDVwbFZNM194OEJBMThBQnp3TTM5cy1HY2t1UzRQYzN5dEdqS3FqVFA3bElaWFlFLUpzUzQ5S1hNTUVBSnBLNkQ4WVJaWk5ITlVJZnRTN3ZTYjZWdWZ6SGxXVmd4bnMtZ040aVJXWHEyUmRJbkJyeHVVcjZza3ZVWmZ5OU1ZSTJr0gFzQVVfeXFMTlBwNU1wRmVVdWkzdTV6RWtOYzY4NjFOd1ZDZW14eGhSTjgxV1JGYmRWZFE0MkF0Y0RjWVhERGV2dThyb0VhV242QlJGRnBrbGlRZ21oaHNLbFJfNkw0VXdIa2ZabnZEa2F2ZHEtX3h1VU1jaw?oc=5"
+    },
+    {
+      "id": "n-aa30b9f6c1a049fb",
+      "title": "SWBC launches second private real estate fund targeting $200m for multifamily investments",
+      "source": "Institutional Real Estate, Inc.",
+      "published_at": "2026-10-13T23:21:30Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "Institutional Real Estate, Inc.가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSkJTb2hySEpIb01wazJGV3dUV0V3VkxwNWtJdzJOYzMxY0pqMjVVY1RIYmJBdlFkeGxmREF0QjhFTUFqYUJEcU1GczBIdFhqeGtyVzU5d0R6YV8zeFoxVTNILVItWTNBYlZDdDFWUjhTR0F2eFlkY21zdE9mY2hKWGFlSVNTNWNOcGw5aG9PMTZSZ3FKTURIYkhQbGxUbS1MNUNaTHZlVGdsOGYwRXlBaw?oc=5"
+    },
+    {
+      "id": "n-78ae4c5c2cc68541",
+      "title": "[단독] '한때 잘나갔던 가로수길인데…' IBK證 부동산펀드 전액손실",
+      "source": "아시아경제",
+      "published_at": "2026-10-13T23:04:00Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "아시아경제가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCVkFIeFI3SEViYXVsck5BLTE4ZkdOYk5MZW1qUnBoeUprRUZDd2ZjQmxwUmVSNGNoU0Q0NDNfMXcwVHVSb2Q3Y3hMdWIyb3dmNDQ3SGhSdmROaW9lTmVzNw?oc=5"
+    },
+    {
+      "id": "n-78d76a40d2652a09",
+      "title": "Ohio Police & Fire to Invest up to $100M in Industrial Real Estate Fund",
+      "source": "Chief Investment Officer",
+      "published_at": "2026-10-13T22:59:54Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "Chief Investment Officer가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX1ZHMUoySTAwNHFhWDM4NEgxMXFoMkZuUVR5MU05cXBtQzZFSkRHc3BFdlg5WUNtY3h6akNOUHBCR1JVQ3hyc0ZJSDAxd3NDUjhXRVhlZXhrNWZfazM1NXo4dWFDQlhGbUFTemJCRHVGUElFVjdwUXF5MXNicnpzSjZlbjZaejZFUmtxaHdFMUF5WnRwSGhFOERpTHE2UQ?oc=5"
+    },
     {
       "id": "n-5df898c0628dda04",
       "title": "Board Approves Investments in Research Innovation and Energy Development",
@@ -54,6 +94,16 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMlNRUnppVHd6bHpld1hMWGJXaUFvVVFpMDg5YllzVmJQZ2owMGVnaDVjWW82UnNhY29EZ2dzZVZaQnFhb0N4V1daOVczbExsR3l1ZEt6UUxZX1pGRnF6SVI5akQ3NzRqSndsSnRnekhiTkxTV1hBRS1TdkI4ZVJkYTgwcHFCWUtfR0hFU2RXNlQ0cmhUY1JSOW5kOHFvMTZ5bE81NU45aHlVeF9jcjM3dm9pYzdQcDlvQXNyTEJFcWRSTGJ0?oc=5"
     },
     {
+      "id": "n-cc2b87198ebf14bc",
+      "title": "Audax Private Equity sets $6.25bn target for latest flagship fund",
+      "source": "Buyouts",
+      "published_at": "2026-10-13T16:22:42Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Buyouts가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMExfUE40czJoclBVb3ptYkd4eXZCQ2l1SU5kMmdGTlc1SWFaZ0U5M292ZHAydkdRUTcxYjhUU0hkRUstalRoYUp4US1Fbk5TWlp5NEx0SEFrajdsaWdrRkhONVZsQTYyR3c1NFc0NmVBanV6TFE2T3JGaV9TT21ZMTFnc3JybXczTkNoMjZpVl9WTXdnUmRtajA3bVk?oc=5"
+    },
+    {
       "id": "n-be3cfd45b2ce1af7",
       "title": "Tackle CLO Momentum With Actively Managed ETF Exposure",
       "source": "ETF Database",
@@ -62,16 +112,6 @@
       "region": "Global",
       "summary": "ETF Database가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWsta2FURTRxWmtEMmRLSFp0LTRVYVl2RkpjWDV0cENoVW9wVnNxQjhqdXVTVmZ3cW12dTdYYUZVUXBKSmYyNTVXM2JoYWRyQk5ULTNocV9aQ1RiU3czT3N5UHBzay1ENDZWcjdvRWphYmR6b0RORlFjSkJVamFhNThFVzJNekx0X2hzTEVnYnQwWXhQVHdsWA?oc=5"
-    },
-    {
-      "id": "n-8eb87d773e0cab01",
-      "title": "SWBC Launches Second Private Real Estate Fund Targeting $200M for Multi-Family Investments",
-      "source": "Business Wire",
-      "published_at": "2026-10-13T13:30:00Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "Business Wire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZ1Z1SU5ydDJTNklPWEdsdGh3dUtHbU1KY0xXVjNBbnlFQnplR3h5em1ITEo0UUxMWkFNWEdxR29mY2FjRDg3M2tGTGVlNW5KOXkyNjhNVlVvdW1lUzZIS0RDcG11TmRQeEc4aEpXZG1kMm1KQy1kZVd6NFVBSWFWZnNJSlhFbFppMkNOd0dRejN3WXZIRmhBSEJFYk5ucjdjTUZXaHBVR05YNHJHZnpqZVFxTHFYbGI0RC0tVUdsUjlELWNQUjRpVElKelVzT1RLLUpMcll0bC1mOEZMaHhxajlWaw?oc=5"
     },
     {
       "id": "n-763db773cccbc3f5",
@@ -288,7 +328,7 @@
       "title": "Private Equity Daily: Audax Gathers $10 Billion for Direct Lending Deals",
       "source": "WSJ",
       "published_at": "2026-10-09T21:45:35Z",
-      "category": "Private Equity",
+      "category": "Private Credit",
       "region": "Global",
       "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVZlRkxIR1BPYUNhSUowckJmTk03MUdpdlNNVGFGOTh5ZGhQaW5jTGYzR3lRRFdUN3hlUWY2cWE5alNVSmI0dnBVUGhUVV9QNVpybzI4WF9OYXg4bUpqbDNJUHpfa0loV2RuaTJCbWhHNXNHbklPTDFMR2YtZGRGaWV1Q0N2cG1ZOVdjeWJRdHV5bktXX0dwQktXWDlLbXFZR0xJVjE0ZExSLUxabEREamZraTVQMXFNYlE?oc=5"
@@ -724,14 +764,14 @@
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBtLTdlaVE0ZWxSNGQ4czdEaHYtQ2NZWk0xTndsS285RXNUZ2dYSC0xZ2V3MlVTVExrTWk4WlkxVmpEdUI4Zmxz?oc=5"
     },
     {
-      "id": "n-2c71685e61fcae87",
+      "id": "n-f80b644fdd3ec0f8",
       "title": "Bluerock Private Real Estate Fund Announces Monthly Distribution for October 2026",
-      "source": "Laurel Leader-Call",
+      "source": "PR Newswire",
       "published_at": "2026-10-08T00:20:00Z",
       "category": "Real Estate",
       "region": "Global",
-      "summary": "Laurel Leader-Call가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQaFhkS2RjNmtpYlhQLXpJYUphTkJjbHhBVGNTQjlocWQ4TV9xanlld3YzaVE5MDRBTm9fVkZHRzg1SFN0UEtuT05oQnpQT1RJOXVBOWJvN1Njbl84ek83ZFczcVgyVEZ1OWRMaGg3NzdEdF9XNnhrXzROZDJMTGtFd1d0UkE1YmNYaHJBbkdwYkRhWTVpZWlaVEZXZXQ1YnFyT2JvR0F4VFNFRGhRVEMtX1VVcUJuM2JNbFI5c1V3OFZjZjdLZy1IcHpBbVNJdmE2YkpVMkpsTVpWaUtvWnpnUy1Wbk81cG1PT2dxOTNZZFdGNEFoMXBHV1dGZnVIMkdwUTF1aktqQkVhQjhQcGdUYXlmQ19XQnlsdnc?oc=5"
+      "summary": "PR Newswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd3JKNnp5YnRUM2lXWkpuLVMyU3Vsa0VzWUZ6dVg4andlazYwbkpDZklWNWVhSk1IcFJtbzFBS3p4ek5RdTkzNlZQY1pYWTljby1YSVBYeE5EQU52c3NVeHJTRzVDSjhIUmlJQko3bDdyR3JkcEJEX0sxNm9pV0VxMURGTlFqcmUyMzJYcmNMM0JtSjdFc1hUMW1XZ0pPWU1LQmtxTWtKWUo0eHl0NUdhc3VlenRqdTFjOVhqYnlkZHJHU2h0NWVRYlRzelU1ay1tZl93?oc=5"
     },
     {
       "id": "n-468757033522c33a",
@@ -1214,14 +1254,14 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42MzVEcUhNbmdMR3AzN3dJaTBrSklpTWk1QXhkUXltWnRUZXJvZU1mbnhXYTJVMnNvazZVeXBCYWxLakhfTHpHRTBRS0xGbmtD?oc=5"
     },
     {
-      "id": "n-382220ea1701f0af",
+      "id": "n-13d047391f5478f9",
       "title": "The return of M&A is affecting the continuation fund market",
-      "source": "PitchBook",
+      "source": "Yahoo Finance",
       "published_at": "2026-10-05T21:26:37Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "PitchBook가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEJldTRIbVRmbFU1S0x1Y3RidDMwUHA3VHVwR21RWFMwRmpmbU8tV1ZfNzlhQ2prZ0FtcGNoLWtncVJWSnIxSDcxbmVMREhYZDI4bGNzRDRBa3VJcHZBU1ctOVFNOG5EMzVFVHJ3SFlhNmM0UkpEV2N5RHE4TTlJcTRiX3pySTROczFUNDNIMGZaVlNPRzdacU5Fbw?oc=5"
+      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSzBOQkZhbndicVcyczY0UjNuSUM0X1ZsTW1xRzlRSzlxa19VQ3ZfRG9zMEpjbnZORmVPUmJSQld0NnBBMGFlQmJLODNwYzlVeUpsYngxME5La2NrbXBjdjR3eHNjcXhVLVdXQ3Vpc054R1B3cnhmOFZJWFJ0SUV6TmlKY3hkTTFUNXhVNUJwWnZlOE8wSDQtdnZlMlBJWHRlMnFF?oc=5"
     },
     {
       "id": "n-1930be9f4381cfdf",
@@ -1362,46 +1402,6 @@
       "region": "Global",
       "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY3hWZHBPd2JMTXdDRHlfY19fbk81Wm9hTjRHbmxVQU5VMHNjMHJGdGtzeEhzcEM1bjlCbFVkMzZsNnY5aGp4ZHN5MjJmZ0sxQWxoSVhFaC0wMWtkRmZ0b1FPVWd3ZzJzTWdBMEpkVWNVYjk0akpTWDc2S01EeWVBRG16Y2lDM2tUbjFKT1JrTlkxaHR0d3k2X1l0dEotejlyOWNDZ0g0ZFBWMlpaQWdtS2s4TjNLMnppeUlpRDB5U0VFdzVwR3ljVWl2OVZBRlBocU5CWXBjOFgwZ05wSTNjSWhpdw?oc=5"
-    },
-    {
-      "id": "n-8a878a5b00448933",
-      "title": "Edgar Matthews Names Jamie Showers Head of Syndicate and Sales",
-      "source": "citybiz",
-      "published_at": "2026-10-05T16:11:00Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "citybiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTTQ5YWF5ZDhlUlFsWWRJNTFVUHM4aTBsU0NJb0lRU04weXZidC1VZ3N2SWVwZnVCakl4ZjdnaDRsUUhaWUpoeHNxY0h5VWJ0TGxFM2twU0lqaHpRS2Rod0ZOODNUTDFsaWdCSHI2djZ3dFVhOWRrU0VCUDB1RFJ2YlZpRXpYblpYV3lJVW9UcTBuSzBtM3UxbTBEUUo5RXVwYWZn?oc=5"
-    },
-    {
-      "id": "n-d29f66b7cf9dbce6",
-      "title": "[이철민의 마켓 나우] 프로스포츠 구단 지분 사는 사모펀드",
-      "source": "joongang.co.kr",
-      "published_at": "2026-10-05T15:04:00Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "joongang.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vRGY1UE1KWnRYVXlRamNlTG50X05mUjgyZlRqMXV4LXlzMnJaUkNYNFZNZnpYa0tCdEtCWUQxUTBwdU5lSi15bTFNcGE2WmgzOVhHTmN3?oc=5"
-    },
-    {
-      "id": "n-658dd73659fbee28",
-      "title": "Real Estate Trends 2026: Fundraising Subdued as Non-Core Demand Grows",
-      "source": "With Intelligence",
-      "published_at": "2026-10-05T14:10:42Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "With Intelligence가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wdXpxNkRNRTJKOFFKTXFyd1NVUXhvUFo1Q0pPaDEycndCVUlSOC1IcVk4NThXSUdBNk9EZEpTc1MwXzdQanJMb0hycTJFVk5EV3dZaE5mSGVUaDRRZ28zMEFKV0tfaUxDSHBQYjNRbkU0TUxM?oc=5"
-    },
-    {
-      "id": "n-9a760a133fe66177",
-      "title": "DOWNLOAD: Private equity fundraising turns a corner",
-      "source": "Private Equity International | PEI",
-      "published_at": "2026-10-05T12:00:27Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Private Equity International | PEI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3FraDcyc3A1b0ZOMG5ZZi1GUjlFS0xFMWVXd3c1X3dhMW1zLWM3d0l2R3pxekpFSDZhMGNtdFZCOFVpcWJ4NnI0Z2ZNNlEtc2d3T2FxWG9oTk5md0FXREdhZFdGUUF1TTNGaWtBYTh0OEJDUzAtRDhHN3FaVWthcnZOMFZpb2tIWUZMeGxKT29XTGNXSXRVaGV3?oc=5"
     }
   ]
 }

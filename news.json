@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-10-15T17:04:23.887673Z",
+  "updated_at": "2026-10-15T21:26:07.302822Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-0a53fbd0d95d0841",
+      "title": "Franklin Templeton And Benefit Street Partners Expand Asset-Backed Finance Platform With $480 Million Encina Transaction",
+      "source": "Pulse 2.0",
+      "published_at": "2026-10-15T20:43:07Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "Pulse 2.0가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa09xTEJsbzg1ckljSkIzSzd4NEhlSXZXNWpFR3dYSE55NGlQVHE2eE9KRUd5ZHdTMzR2endYMDR6S0xrUVFsTUFWZHI0SVJ5dFE4SGhqTGJfSVBMei1sS0wwOWlUS1pfcVF2MjZHVERoMlVjM2dHeG9oQUNwQWluZG1UQ0Qtdk8tWE1FcTJmTUJQYnpmQmFnVWlPR0UwVVVmVkdtZGg2aWlRUk93Z1B5MWpsU0RqQzBNdHF2MW1zb0FWcE1YTDRfY1hiYndobFh3QWduYUtn?oc=5"
+    },
+    {
+      "id": "n-69b3517d794419bf",
+      "title": "Simpson Thacher snags six Weil partners in private funds expansion",
+      "source": "Private Funds CFO",
+      "published_at": "2026-10-15T19:28:21Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "Private Funds CFO가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa0hNdkRSbFZsQXB0dl9JZEFKTnhqSGl3dVZZcWJXM1RvWVZ6OXB3UEhvTzZCQmtONmJCeDFTdGtXVDBSdWtsaEtyTzlhdmRzSU9xMWVlUTVkUmpwaWFWdGk3RDFCOVN2TGh0aTVFUXB1V3Q0ckw3ZnE4LWUzc0padlZlQWVtVTdlMW9yLS16WUVTV203SXNVUkdKUEJHZUlp?oc=5"
+    },
+    {
+      "id": "n-f81930722a3b8fc7",
+      "title": "Private credit faces deployment squeeze as fundraising hits record",
+      "source": "Reuters",
+      "published_at": "2026-10-15T18:33:47Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Reuters가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdW8zUF80MHpiNi1RMHVNa3NjWGFxZHlZRlZNaDFUQm0xeURIbDRELTBhd2VWQV9IZWhTc3JsUENxcVYxM2RfWV84ZGlBd1hqVlVYQnI5UnQwcFVWZHBNRUxxVGRmZWdZMUV4UGVjV1FZUGpwWk9QQWJ0V1hybXVDYzVHbTNBWmVsc01oWVhyZFd6dkFSbmxvckNaVk9meUtkd2I0cGttR3ZvUEdOWHJBc0xoVXZWZ3NYNXhB?oc=5"
+    },
     {
       "id": "n-6d1c2986597b2a05",
       "title": "PACT Capital takes minority stake in Sterling Investment Partners",
@@ -22,6 +52,16 @@
       "region": "Global",
       "summary": "GlobeNewswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOHYtbG1xLW5maTZNd2lKWWxoMm5wNTFzZTNMSnhkWXpuUnl1YmxPd0ZFQTlkQ1FfUFVJMF9rNnRGUkRKRlBPN2hNVklwb0RDQkFpZG1fVGxsVkxmUWIzeVVpLTE4bTFZTGIwOUd4Z1ZVcFRySHZKTzBlcUtBSm1XVkhWR0VuNFM2MXk5NE93ZWR5RXhkRjh5dmFwVjFZaWMtaDFLdmM2QUFmT3VFRmI3N294SGEwajJVaHRhc2EyMGw5T054WjBR?oc=5"
+    },
+    {
+      "id": "n-763db773cccbc3f5",
+      "title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
+      "source": "EnergyNow.com",
+      "published_at": "2026-10-15T16:11:02Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "EnergyNow.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM?oc=5"
     },
     {
       "id": "n-8b466d4d29ac0d2b",
@@ -112,16 +152,6 @@
       "region": "Global",
       "summary": "ABF Journal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeUVJc29SYzV0WlVaU3JScFRJVEZoLUszLWo2MTc5Q0tUS1hhSjA1dzgzTXN0TGFjLUszNHRIRlFpZ2pGMF9xNko3MlVmUzlCcHhkXzZMb2Y2YVZFazQ3QXpEVVh2czRHSlAtaUp2STNZM2NycHcxRTE4cjRQUGx4OXAzVm1OZkVyTGFBRGxHZE1VWXdfUDhqSU9aMnZxVFNlQjlqZ1J5UW9CR2pwX3ZIaEk1M3hjNFpyZktHcHU2bnYwaGdSek1QRkM3THVaOU83TkJr?oc=5"
-    },
-    {
-      "id": "n-763db773cccbc3f5",
-      "title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
-      "source": "EnergyNow.com",
-      "published_at": "2026-10-15T03:14:33Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "EnergyNow.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM?oc=5"
     },
     {
       "id": "n-e8f3f320b3442946",
@@ -1372,36 +1402,6 @@
       "region": "Asia Pacific",
       "summary": "Infrastructure Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWhpQ2lWbzhUX1ZyR2hzMmNiV0s3aGNjd2dGUGY1YUtNczJUUk5CUGR2S1RGNTdMQkNINDAyenRhWTRqczN3MjAteTMyUHdBS25FdVJ3dlFzVFdwcDgwYXphNDN1OHJvb0lZQXpVeU1qYWRtODZWMGlUeWxjVmRYYVlkS0w0TXptVGNGZjcxNXVnXzJSRDFibFNUNTZoMzg2NEdWRUVqODlZY1dST0RoZnJfVnZvUQ?oc=5"
-    },
-    {
-      "id": "n-c92582c20e020307",
-      "title": "[People&Planet] 대체투자 자산운용사에 왜 ‘사회공헌추진단’이 생겼을까",
-      "source": "더나은미래",
-      "published_at": "2026-10-07T23:00:00Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "더나은미래가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GeDNwbjNzbTZQdGlFZ0FOOW41T2d2TVZxTFNBOWZaZTZFUERsVmh1cE1EeVI3dHhla0I0M0tvRE5VLTd2cVhydWpHLUMweEVnR3c?oc=5"
-    },
-    {
-      "id": "n-44568e9be1f1792a",
-      "title": "스페이스X, 엔비디아 칩 위해 53조 자금 조달…'사모펀드 팽창' 경고 파장",
-      "source": "글로벌이코노믹",
-      "published_at": "2026-10-07T22:56:38Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "글로벌이코노믹가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLWw2Sk9hclNlRWZkd3lPTWdWajNQQXMxT3kyNWVBWnBnTThRUnZZZFVJSndrTEVXUUg4N2NsQ0w0MkVGNm5qUElkWWhEa3R0R25LbDhHYThTVjBlUGhZcmxpOTgzVzN5MUtuc0FXSjN2N05URzB0NjFSRnRmMTRYTDVjUHdzcWp5?oc=5"
-    },
-    {
-      "id": "n-e8fc2188f58cde69",
-      "title": "Another Quarter, More Growth for Secondaries",
-      "source": "William Blair",
-      "published_at": "2026-10-07T20:47:57Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "William Blair가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVnZuRE1pQTc4NWE0VU9DTmtpNFp4eEpuNWI0SjVNUHdqY2EwbXItN2toYmtuQnVQeVlOVVc1d3R3bW9Eb2xIa2Y0eDFqWWhialBfa0pVUE9qZmY3Y0VhQ1RxRjQ5SlRZaXNoc29YOGh1dXZmZzI5c2xJV19KRkNJVGpRcWNBbDNT?oc=5"
     }
   ]
 }

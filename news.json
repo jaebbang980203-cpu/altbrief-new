@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-10-20T08:36:28.878108Z",
+  "updated_at": "2026-10-20T14:19:44.803609Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-d8b25b869f1669ac",
+      "title": "Marquette’s student-run real estate fund gets $4.8M upgrade",
+      "source": "The Business Journals",
+      "published_at": "2026-10-20T11:41:00Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "The Business Journals가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTkZ6a1hFN2lQckF5ZHp3RklyNlhVZVZ6clgyd1VGODZEYktZN0NWdU5xSWF3ZVV1Sld2czBSZU5jSlcxcE1fWWxoWU44UWE0LTU2eEtLU3BnMVNZS25mcnMzbUZSdXZjb3ppQTRSSHZPOFhPTmY4WVlIT2gyYTZaT0ltajBMRkZ6NWlJRQ?oc=5"
+    },
+    {
+      "id": "n-394f0c5c1ff59c82",
+      "title": "Polaris to launch $630m private credit fund, one of Japan's largest",
+      "source": "Nikkei Asia",
+      "published_at": "2026-10-20T09:29:00Z",
+      "category": "Private Credit",
+      "region": "Asia Pacific",
+      "summary": "Nikkei Asia가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUzFwajBBTVQ4UGtoeDIzbV84b3lLZzVFQncxVnY3aWp4YWJaSV9mV09MMmxmaThrd042SF9sV0M3N0UyYTdMWk5qeGVOYlp4VFV1RDBiUUxhbXhoNV95Z0dYM2ppRDBpc3YyRmhtU2VuUlNSNU0wbkNtU0V0UnV5R1kzYXc2a3BKYW9NTFFKdG5fMFpEak9DUzNkMjNBRUxCVWNtUkFjYUlGdw?oc=5"
+    },
     {
       "id": "n-173fc3feabb6cf21",
       "title": "英 FT \"사모펀드들, 일본에 이어 차세대 개척지로 한국 주목\"",
@@ -22,6 +42,16 @@
       "region": "Europe",
       "summary": "Structured Credit Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMlZ6LVA4MXpqYUJ4SUtmb2V3MFJSNWhlc3VMdEdLR09LdG16SzVUcHpnZVpQNTFaVThuWmlwU0ZwSXliRGx6bXc3aXlpSXFEYnR3YUd1X0pHajNXWEUwa0d1UWFhXzhVT0VBcVFXSlZ5U3dwOVlQUEs1TWpRUUIxdHRIVQ?oc=5"
+    },
+    {
+      "id": "n-f57137062890c08c",
+      "title": "제2회 인하로스쿨·로앤에이 포럼...한국대체투자자산운용 'AI 데이터센터 개발' 강연",
+      "source": "로스쿨타임즈",
+      "published_at": "2026-10-20T04:53:41Z",
+      "category": "국내 대체투자",
+      "region": "Korea",
+      "summary": "로스쿨타임즈가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3SzNGNDdBOHZrUkF4NmhsbkY0RTlwb21rYnBEWHpTemtKbmE2aHJkbnBzSmNVZXFKU2tBX3dEZElGSXNnajUzSXU3YjZwVHBZRnNMVXEyWDJMalFKVko2LW5TYk5VMGE1NmlYc25iTzB4dw?oc=5"
     },
     {
       "id": "n-f37e42aa290747e2",
@@ -62,6 +92,16 @@
       "region": "North America",
       "summary": "Financial Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTRabUFqdmdjOU1XeFFHOVRNaVpFdEZLUElPTFFtX1RDSTdzQUZhTG1NSHQyXzZTc2NvSC13V3oyQ3NMWUtrN2JjOEZLeE9RRFZWeUhncGE1S2V0d3UwemI2eDNWVkhKc0U3RmNjRWxPUnQtWTllSWJYVzZjdHFHODlYaHU?oc=5"
+    },
+    {
+      "id": "n-1e0104a294b7a535",
+      "title": "Goldman, Evercore Explore Funds That Would Let PE Firms Hold Assets for 15 Years",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T20:38:24Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQME51bUlRMUlTalZYQ3hVeFlhVjM1LV9pU3pDaFRkQjlybjJxZVFGaVBXaEV0WENDRHBvRnhyLVNncExVM2pZUTJINTk0S054QkZQaGRNT19RWExqdXJSQ1NscHRWUDNnLTMwb2o2Z215dHVfNUFfN3dCUnFUeW9ycVNLeTItT3RIY3dnYTBERDhFR19QSnluWGdLR016WTRx?oc=5"
     },
     {
       "id": "n-8d602f87f81dcefa",
@@ -142,6 +182,16 @@
       "region": "Global",
       "summary": "ESG Today가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRmhYTWxIN1ZkOVFpV29iNmJkb2hFMUxNVkQ1SmRqdnA3ZW9vZ3RuYXp1SEhFV2VwcE9UWkttZ3VwNC1PeEhQWU1lcF9nWjJqbmZVeWhFUEhfb0t2R2RMTEpTd1J1N09rbjltc1lCeHFHV1ZqTUNiY2k4alhrSmhablFrdmRINTJubjJhblk1Z2VQWm54SzR6U1NsNA?oc=5"
+    },
+    {
+      "id": "n-1347ff4c927e0bc2",
+      "title": "Wall Street banks pitch forever funds for private equity assets - Bloomberg",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-19T13:04:35Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObllnTHF1cFlCcEhtVFZoWUhEWUg2Wmo0dzctSmlyd1YxbmljMnpyR1g4bTk0bUswVmtOcjZMakEwYkxYd1E1dXdwTjY5WU5QNWZhbE5fc24teGg4TWRCS1ppOVFfNTRWSVdlSTd2SzF3NGt0MzZCRlhIZExUZ096NV9BaTdzcHJHN1lfZEdyMFoyMnR4ZzAxMS1qS2s?oc=5"
     },
     {
       "id": "n-61835994fd0b6b2c",
@@ -517,7 +567,7 @@
       "id": "n-9c361dd26cdc8aa2",
       "title": "Raiffeisen reaches first close on debut €150M infrastructure fund",
       "source": "Dealroom",
-      "published_at": "2026-10-15T14:19:14Z",
+      "published_at": "2026-10-15T14:25:14Z",
       "category": "Infrastructure",
       "region": "Global",
       "summary": "Dealroom가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -544,14 +594,14 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcTRLblQ5aHRYbmppWjlLZXlMMnFCYTBBOWRIaTVFRGZiNnpyUzdXQk5fdkNvTzNYdHBFVEJ1OEprWU1aTUpOWDMtbnU0R1ZWcWloQnBucVNQNEZuQlNvaEE2WnBjcVVrU21Pd0oxRTVzRTJfcmIzNnJoT2wwSGJJM3pvTzRNYU85NW5ZSVgzeGV3TlFiRHVHLVFzaHh4TlRzaFdZeFRB?oc=5"
     },
     {
-      "id": "n-a902790be7a0d329",
+      "id": "n-557e28bd62bb351a",
       "title": "IT holds a bigger share of continuation fund exits",
-      "source": "PitchBook",
+      "source": "Yahoo Finance",
       "published_at": "2026-10-15T11:17:58Z",
       "category": "Secondaries",
       "region": "Global",
-      "summary": "PitchBook가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZTV1VTFtbTJfTE1OUGsxRlRpZzF0dUVReC1neFcxZ0cxeFp4ak1sQUkydEFTTnlkeFh1N21mSEotYW4xYlNuWTlLejNWQ25leXU1QUpWVTdVYUJzQWlWaUxvOUJnNW5YNHREV0ZaRzRhVkV3eHhJQS12UkFzMllrZFRmNTNWbEI0VDJkdjJ4OA?oc=5"
+      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2JPMWVWdnRHUkkxeUx1MFo1Vi1SV2tEVjRHdl9uLS1iMVFwNzJJamN6bHpvZ2wwcFo3THAtRVNwU0pqR1NwQWpNZnJ3R0pTakYxdFIyazZnZzVGR0xncnZhSTc3djFQRG9PZWJ4Qmo2QXVWUzJ0Nm51QkZQQVRXMUhRbF9zRUxNQ3BWSWVIYk8ydzljTkJVdkdva2FhZw?oc=5"
     },
     {
       "id": "n-b929e7a894b8840b",
@@ -1094,6 +1144,16 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzd0pBZjVmQm91T1M1Y0xvSzNKVUVXZHVaemk0LTJFWk1NbzgzUTRaaXJtZW1lLWdhTkdYQUoyRTBRZl9FcHJSYUQtRnlRYkRQMWI2SThuU2hJZTdvVFJtemowTndRQzBL0gFuQVVfeXFMUExXVktuXzBYTVI3blJWdnF3RzJNUDduVDlPdmQwS0xfa00waHN2SFlCYlhYbmt2MFZxNnF2XzlXRThsc3JQSGJhcTBfa3hpdHZVbzhJSjlfRFJ5MkNyQUJvMFVxNDh4R1g3QlFxR3c?oc=5"
     },
     {
+      "id": "n-06e52bc5e066a424",
+      "title": "StepStone crosses $3 billion for sixth PE secondaries fund",
+      "source": "SecondaryLink",
+      "published_at": "2026-10-13T17:56:10Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "SecondaryLink가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEpDbWJkc0R0UjgwVUNoYTN3NjNKNlI1QkJYeWxac0pXZ1IyN1IzOFdZS2hURFFHa3RfcXJ0YWNZTnVJYVZpZXF0T016el9Ibjdld3dtS1hJTjFhdUV1YWxnS2VWYmZMdld6RUNOR2x2dWYzcFd1dmtHbnVOR01vWk5BajRWNDIzS1k1RFhiZjB0UkRpblU4ZXVmVm9hU1FTdXlTd3FoTWFGcDFhRU1mY1dlNA?oc=5"
+    },
+    {
       "id": "n-96861337aa152962",
       "title": "Higher Rates Are Coming for Private Equity—and Smaller Firms Are Already Hurting",
       "source": "WSJ",
@@ -1342,66 +1402,6 @@
       "region": "Global",
       "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONnpYRVZBYzdfblpIWHM1VUhiSnJwdHJFdlN2aHp5Mkl3NGdfc2ZvZVpPWjR6eDBXdW5XOGhRMEx1ci1EN3M3VV9BWmtfZWxQQ3NMMklBMHo3U0lJZjBPOC0wU1NIYjUtSUYxU3doc1h3WGV3WjRsTFdxRFViVnU4NVVPby1VWnFqUy1RcXE0ZWRXUEIwQVhyQXVvaVlxOUgzOHhqS1FKQVU1VUY4MHYzQzRCTVNzSGdld21DcGVqdktGTkJLR2N4dnZWaDZnZw?oc=5"
-    },
-    {
-      "id": "n-41013bec2edff576",
-      "title": "금감원 사모펀드 운용사 내부통제 체계 '점검'",
-      "source": "세이프타임즈",
-      "published_at": "2026-10-12T10:53:56Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "세이프타임즈가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52d3dINXVibmVuZ2c1Q2M4bXIzeGU0QnB0Q0dxS0lYWEZvNFRjalFDcWIydXhqM2N5clJINVRZbG1VZ1lNSU8tOTBKeTB1NWRkWlNBMDF5aElDSy16eE9Ea3hnR2FwSjQ0bm5NcElad2twc0XSAXNBVV95cUxOdnd3SDV1Ym5lbmdnNUNjOG1yM3hlNEJwdENHcUtJWFhGbzRUY2pRQ3FiMnV4ajNjeXJSSDVUWWxtVWdZTUlPLTkwSnkwdTVkZFpTQTAxeWhJQ0stenhPRGt4Z0dhcEo0NG5uTXBJWndrcHNF?oc=5"
-    },
-    {
-      "id": "n-1ed10916dda53fb0",
-      "title": "Ardian-backed HR Path acquires AI governance and compliance startup SnapAI",
-      "source": "PE Hub",
-      "published_at": "2026-10-12T08:57:09Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "PE Hub가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdnVPRDNRYmtVUFJuSnBiMkhYZVdYSVd3SEg4bUJWOFprVnhCRl9FQndKUktJeEItMy1kRy1uOHg1eVRGYkhOVUJLd21YSkR0Wlhod0E5ZEVQUTYwZ3hERGJDS3o2b0hvR2ZuQkgtdEJ3LUl4MEQ0Vk42TVo3ZWtmOV90YUs0QjNLN011N1VwYVlMZ1FTcG9YVkV1UDBKUQ?oc=5"
-    },
-    {
-      "id": "n-d58f814efffa6796",
-      "title": "Institutional investors challenge traditional PE fund model with direct deals",
-      "source": "AMWatch",
-      "published_at": "2026-10-12T08:28:26Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "AMWatch가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96SllLZlhtT3lhSWZZVlBZMW5QWlNxbEJRX1dwcDUzX2d5VHM3dUFqd1VuVkJoODV6VjlKMU5VSXVUQ3FfN290RVV3dE8yUVpRVmV3aVhhUHdEZllDVjlERzlELXV0Q3RsYUdIOWxZaw?oc=5"
-    },
-    {
-      "id": "n-bb3e4835ac90f084",
-      "title": "한국금융지주, 미국 대체투자 운용사 설립 추진설에 \"확정 안 돼\"",
-      "source": "연합뉴스TV",
-      "published_at": "2026-10-12T04:42:00Z",
-      "category": "국내 대체투자",
-      "region": "Korea",
-      "summary": "연합뉴스TV가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHWXBBZmpFc3RlR2xDcXZTMDZaLWtESjBYZzJkcEdGN2l6RG5XNThfUjFuUUtHNFlGU2tXSVZZUWdiTjQ0SkpPWWdDeFJpcnp6bEpRQUJPczhnUWdudWpnUDR5UUpyc2M?oc=5"
-    },
-    {
-      "id": "n-722f4e232bebb35a",
-      "title": "금감원, 기관전용 사모펀드 운용사 30곳 내부통제 점검…대형사 현장검사도",
-      "source": "조선일보",
-      "published_at": "2026-10-12T03:08:19Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "조선일보가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVm14eTRLUDg2VUx3NnZGTjlwOUhDcHRpZWRINzFpRmtrVEpoYV9vQU45WEIwY1JFSU1weC1BZTBwUG9rdTAxaTNWSWZHc3RZUWc5aUlFb1hBUk5aSFAxREdwQjlfeWJsWGtVUUM5Y3NOWUdCX0Z4VFEwUFNEYUE3VE9ZdHRUSkhPTXhj?oc=5"
-    },
-    {
-      "id": "n-ce8e4cd22384d125",
-      "title": "KA5 Forecast — Price Target — Prediction for 2027",
-      "source": "TradingView",
-      "published_at": "2026-10-11T22:32:24Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SmF6QldOZUcycXBMdEJCWFVyNVgzck9pczc5d2ZqMzRqLUM1SFZlcElNaG5UcHpEWWJZZFdneGVidmY0MDY4WS12a2Nwa1dGVkp4WVMxYm52bVRjMHBWazZDQ2FDQThpVElERGhCMnI0eDBZ?oc=5"
     }
   ]
 }

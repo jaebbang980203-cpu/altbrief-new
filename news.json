@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-10-23T17:11:47.896846Z",
+  "updated_at": "2026-10-23T21:26:58.488996Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-0171722baf3f1372",
+      "title": "Digital Telecommunications Infrastructure Fund(Alien Mkt) Estimates – SET:DIF.F",
+      "source": "TradingView",
+      "published_at": "2026-10-23T17:19:19Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aLVlxbTZWcnZublNobUh5S21rUG0tOXpOcVVka1haWU1XN1NJalVleGNqWjhqMHRrd1dOQ3EyVk5xYWU0QlljT0dSYnBJVjhEU3puMjlIUFI0b0hFU3ZKRVp2SWlRVW9fZHZDbHIxdUpWZXctb1E?oc=5"
+    },
     {
       "id": "n-afd4a7a64c7b428a",
       "title": "Redwood Private Real Estate Debt Fund Class I Shares Estimates – NASDAQ:CREMX",
@@ -196,11 +206,11 @@
     {
       "id": "n-fd8e32b593f0e03c",
       "title": "Private Credit’s ‘Small Ball’ Has Lenders Fight for Every Dollar",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-10-22T15:09:23Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1daZlRPN2lBQ050WUxpSU5sc0x1Z2paRC1JMkw2NTlYYUllekhZQk9SYVpPRFd2X1gtYUk3dU9Ed0UzVHJKTXpfMjlLQ2NtblZ2Z0FkSkFXYVJhM0tubC05WVJlakdSVTRFZ0p6ampNWThZc0Y3aGdzVUZlay10LWVPT2E5WkpKaUV3ZDJlNHZ6TV9wYWhFeGMtTzNpOTYyN2JQZENJUEo3SkV3Sm9LdURzcw?oc=5"
     },
     {
@@ -484,16 +494,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XbC1uam5WamthSldmcHRoUlJOT0hWcTFzcHZXMC00OHI3emF2MXgwTXduSWQ4THJBV05jWFdiYUZYQ1N0Ql9Pb2x2TzlLVGVCcXV1OUNNSk1uX0tkNVpFMWVBdFo3Q01vakFjWlRWOWxCR25mOE9td0NpV1c?oc=5"
     },
     {
-      "id": "n-45128e6f75e97e65",
-      "title": "Key facts: BlackRock, Inc. $665M IBIT Inflows; TD Cowen Buy; CLO Fund",
-      "source": "TradingView",
-      "published_at": "2026-10-21T07:00:00Z",
-      "category": "CLO",
-      "region": "Global",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTdkNFN1cTc3TVNhRkpqcjkyYXpHNUdKYlFCRExTMWZ6OWZQY0RLcDdraThFRjdPcU0xUWVpdTVPYXpsaW9VVklwZlpJLV9WNUxhdzE4S3M1Z1hpTXU2THZJSFNsSmIxdDYyRzdpSm42V3ExamNscTRqN055VXVWVWluQUdaZUo2SXhJZE96ZFJURU1pVWZ1VFg0RHdHOWUwZjJYTHRjZk9CZkI3MEg3SVMtakVoSmF3MG5uQVNGMEhnMnM?oc=5"
-    },
-    {
       "id": "n-21ca9b0959ad3b9a",
       "title": "Arini Announces Final Close of Inaugural Direct Lending Fund, Targeting Over $4 Billion of Deployment",
       "source": "Yahoo Finance",
@@ -502,6 +502,16 @@
       "region": "Global",
       "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEJmRzFwb0o3MnRVdE84YzZIU21SUzlUTXdJOHdtLXFRdlRYbnNKSWVVT3NEa0NnUWI3N1NFdkYzeGpYLTNYRUMwUHo4bkVaUUF2MHRRNWk0cHRnZ0F1V0dIZmZIbWNlTHFfVFA5aGtXYkRGVmRRTWo0UDNpNGNaV2VfREFWUU9xbVRHX1cxbFdXeTBTYTdLdUdzSGlzYXhtYlRYeg?oc=5"
+    },
+    {
+      "id": "n-45128e6f75e97e65",
+      "title": "Key facts: BlackRock, Inc. $665M IBIT Inflows; TD Cowen Buy; CLO Fund",
+      "source": "TradingView",
+      "published_at": "2026-10-21T07:00:00Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTdkNFN1cTc3TVNhRkpqcjkyYXpHNUdKYlFCRExTMWZ6OWZQY0RLcDdraThFRjdPcU0xUWVpdTVPYXpsaW9VVklwZlpJLV9WNUxhdzE4S3M1Z1hpTXU2THZJSFNsSmIxdDYyRzdpSm42V3ExamNscTRqN055VXVWVWluQUdaZUo2SXhJZE96ZFJURU1pVWZ1VFg0RHdHOWUwZjJYTHRjZk9CZkI3MEg3SVMtakVoSmF3MG5uQVNGMEhnMnM?oc=5"
     },
     {
       "id": "n-3920960fe44c6315",
@@ -626,11 +636,11 @@
     {
       "id": "n-a134134384efb611",
       "title": "Private Equity's $12 Billion Self-Dealing Problem",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-10-20T10:00:07Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjlrVGJGLVJUX3pZY25yWTNqUWxCZnpVNmNxSFRlbW9Cd1BzblV3bEkzU21qRWd5NUZ5VzQxekI1TVBINlhaYmRGWjZqakdicW1TRE9kazltRHNrYVpncmI0R0dNa282TUItR1BSb0htcllOeE5KYnFaOFdmZnd6dFQ4Qzdfc2dFbFdVMmEyYVV1REZ4bTBkbXVGVjFVTXlOdUhpY0ZiWTl0cm50eXFIUFdraVVJLTJPeUMzd3R1a3o?oc=5"
     },
     {
@@ -1392,16 +1402,6 @@
       "region": "Global",
       "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0JMS3JaaEROMXNDcWpReUlUY3dNUE01Nl9lY05EUjNKMUlrU1pyUGYwWFVxS2xRdndMUEVpRTVBTGEwdEt4ejMtTmE5VGlHTHhRdHhZM2szdksyRmJPNlM5WkQxSi1KWVVZbno5MEpRQ0hJcmxxNFY4MDhwQl9mY1hkQ05vMG1uWE9oUGxSc1lpTVlvQVladEJzQ3h3WEQ1d3JZT1IxN0VPczhYRTgydUd4X1FzWE0?oc=5"
-    },
-    {
-      "id": "n-8d27c12c91627fce",
-      "title": "GenNx360 closes $285m continuation fund for Whitsons Culinary Group, led by Churchill",
-      "source": "AltAssets Private Equity News",
-      "published_at": "2026-10-15T09:45:38Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "AltAssets Private Equity News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNeUdlLUZOTmRJMDg0eDRXRklOTF9RYjRENmZVLWVMNXNkZ19ocGdkaVBIZS02WkcwdVZSVzdtRkE5eUVIU1ZPaWx5cWVfQ1NfQlo5WHBmWGloZ2lBbFNTNVV5SEpMc3A0ZGZDRldVVGVBRHBXOWhPMDBQOUVVandjQ0ctTVVXTEp5R1VHZzJkbHBKTURkQ0djYWlXbUZIWXdHdlJwU0ZZRTRVZEEwTEVzNFpBRl9OOXI4VkRBU3BZemc5LVJlWHR6TWpoRTJaalNxSzVUdklENmhfY2NwQzFDX01PYW50OWJCbXJtSzhpQzRRUUthclhTR1kzX252RG1sYkdhT0tweXhpYi1FdFR2TkpJd29JekpLQW5XZHkxbGdIZDdyR2VQdU5OSmg0VEU?oc=5"
     }
   ]
 }

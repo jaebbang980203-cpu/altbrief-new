@@ -1,17 +1,47 @@
 {
-  "updated_at": "2026-10-22T21:39:05.269892Z",
+  "updated_at": "2026-10-23T04:55:47.526524Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
     {
-      "id": "n-2325b31076c3e4cb",
+      "id": "n-d25ea9fde902fe99",
+      "title": "JP모건 \"주식·채권 60대 40 공식 깨라…대체투자 30%가 최적\"",
+      "source": "연합인포맥스",
+      "published_at": "2026-10-23T01:37:41Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "연합인포맥스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SQ01HMi1BZ0x5Q3pDdUNBd0lGel9DQUhzOXZmb0tKdnp2SDdQRU01QWhYUFU2WGtXa1hRcGVGNUhfWWxlXzNjQVBLYng1NDdiQjg5X1puLVA4SjloOHBoX0NIT1NGT1VxcHdGYVJRQkFlcTFi0gF0QVVfeXFMT1JDTUcyLUFnTHlDekN1Q0F3SUZ6X0NBSHM5dmZvS0p2enZIN1BFTTVBaFhQVTZYa1drWFFwZUY1SF9ZbGVfM2NBUEtieDU0N2JCODlfWm4tUDhKOWg4cGhfQ0hPU0ZPVXFwd0ZhUlFCQWVxMWI?oc=5"
+    },
+    {
+      "id": "n-de04425413b4d5df",
+      "title": "“한국투자증권, IMA 고객 자금 국내 기업 대신 위험한 해외 사모대출로”",
+      "source": "www.intn.co.kr",
+      "published_at": "2026-10-23T01:19:19Z",
+      "category": "국내 대체투자",
+      "region": "Korea",
+      "summary": "www.intn.co.kr가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xN1pza2w2elgzUENLZ2IyLXQyTGZpckp1RXYyUExVSUhTSmgzSGFXLXRta0NTQnlpdm1pcW9KNmxyVUlnbjJLOEN2ZnFFaFV6U2x5THh0QmVpQ2tBSGljczFIR3JMaHFZTnc?oc=5"
+    },
+    {
+      "id": "n-90efb96288acc189",
+      "title": "Buyout Firms Look to Swap Out Portfolio Company CEOs as Holds Lengthen",
+      "source": "WSJ",
+      "published_at": "2026-10-22T23:00:14Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQzZQUGxMQVprTDdvY2ZUT3ByWmU1SmFhV2tMT3ZwU3M1Ri1sTExJUW8tUXRuTXp4WmFXSHItMGdoaEZ0ZHNXM0o0SDhKUFRLWGRWeVdSa19xRTdQMm9lelZ0eGVhR3o5V0FJWEhHZ3l5ZnZTd3Ric3Y4eENGY2Q0c1dWb0t3Ujh0SlMzY0ZKZTc1OFlQakVsd1V6WUF3cUVPVXBSakUyc3ZUTngycWdub2ZsRlhraEN3bFE?oc=5"
+    },
+    {
+      "id": "n-70a19bc8ae86df22",
       "title": "MLPX vs EMLP: Which Energy Infrastructure ETF Offers Better Yield?",
-      "source": "The Globe and Mail",
-      "published_at": "2026-10-22T21:17:38Z",
+      "source": "The Motley Fool",
+      "published_at": "2026-10-22T21:55:00Z",
       "category": "Infrastructure",
       "region": "Global",
-      "summary": "The Globe and Mail가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOFhnSGxtcW8tWXNMQkdtd09kVThFWHB0czdCaE1Lc0RIa3N3RUZsTFFzNXZaTnprcndfaEZpQWxxV1lZcEgxRVlHUHcxYWtVQWk4d2pyNG5GV1VNYlBsTlZtTy1wc2NZb3g0MU5DclRMQm9BYXBpOVBmME84bUh6bklZMzhIY2kyV1Y0aXZTTXhsdDVHR3c0c3NyR0V2ZTRQMWRfTnRSOGNSQlItcm8tWHh6bFlhdmNzb1d0NUZHZzAzM0lFSjA3U3hNVEs3TmNoVU9YREVLd2JuWTVuc0p3bDB3R2M?oc=5"
+      "summary": "The Motley Fool가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0J6UGphSmVCYTFxcnJ6UTdzWHlJeEhjVGhpMjBBSzFPYkVyUEhoSy1zNVZYWlZoS3dDQnJsWkJpbnYyT2xJbUx6ekJSMzFlZU1MQVhrUjYtV3lkS29oZ0FULWQxamtUQU9aSFM2a2NmWUVDc0JMV3FMUTJmOWd3NVIzU2syeWRrMGpnWTd2eDExMENSZ0tZRDVwdjBwNC03YUF3WHplRjNXRjZiZ3VnZg?oc=5"
     },
     {
       "id": "n-47232dc840a23525",
@@ -32,6 +62,26 @@
       "region": "Global",
       "summary": "EnergyNow.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa3ZVWk5yazBTSDhiMUxINU5aLU9oazI5NmVCYW8xc29xNUEtVVFKV2hoaHlDYmFpWXhVZV8wbVpqR3MwZEl2ZUhvSERZb0J6c3ZhZWpscXZwSnZYN0V1R0RrMTY2TEVuVHZBeW5rV21PSUtRdTU0SVpWUWNRTnl2X3IwZjQ4U3NMLWJ2NUZ3UzZsX1oxNk5uaFYyWDM?oc=5"
+    },
+    {
+      "id": "n-d4559a3922083628",
+      "title": "New Report Highlights How Private Credit Powers Businesses Across America",
+      "source": "American Investment Council",
+      "published_at": "2026-10-22T17:14:32Z",
+      "category": "Private Credit",
+      "region": "North America",
+      "summary": "American Investment Council가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN0ljZ2x0dTZncjl1eFlCOVVERVZjZjJSUHlUU0dlRmJCVjhLNmNIMWt0UEZ1SENqZ090QVFHLThuRG1HU3lZTnluQmxFQ2FjV1NiT212TjVlMTJtSXNBZ2lUZXk5Y1Rhd1VsV0NzbmFrVkNJdDdZZGJIQl9wcHRkcENwQUxwZ0FGM1FJeUZMNjE1Q0VKZEJEbEFOVHJ2cE9sOU1aN09hVEE2anRK?oc=5"
+    },
+    {
+      "id": "n-7318bebcb9cce196",
+      "title": "The New Private Equity: Corporate Raider, Main Street Invader, Monopoly Builder, Shadow Owner",
+      "source": "The Roosevelt Institute",
+      "published_at": "2026-10-22T16:06:19Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "The Roosevelt Institute가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hbC1zWFl4YlFIQXlVcE9UMVZ3UjJMMFl1MUltMXRwTFpjTzhCMjFGQmRnR0p3ekdRa2RQVmxVVzY4dmlYZnhpOHRoSU5KeUt5SjBTX1lUX0lwWjZRVUhGOTN3enBiWXEyRE5tdlZBeXRxNzRnaFE?oc=5"
     },
     {
       "id": "n-f06dc9fcc396b530",
@@ -114,16 +164,6 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11ZDZyaEFSOGNIQkJ5TnpvUjE4dnFpNjJTZTBDU3NZTUFRX19mUHU2Qkx5NnBUZ25pRkhtMTE3OFl3MlBVVnh5ZUtMVV96eFo0MGZzTUREbmNVNTVEX003X3NnVVlvUUJV0gFuQVVfeXFMUE5BTnJDaG43WFVwd1VUcklaMzRneG55QkNzcUk1SmY5SFhEN1M5dzJvMUVHVUpacDU1d2ZBazJvZmFYekNZRDloVGdjS2g2WlBIQUF4NjBOdjJIN202QUZLOTlXMGVibXV3dFlYYmc?oc=5"
     },
     {
-      "id": "n-7318bebcb9cce196",
-      "title": "The New Private Equity: Corporate Raider, Main Street Invader, Monopoly Builder, Shadow Owner",
-      "source": "The Roosevelt Institute",
-      "published_at": "2026-10-22T09:15:07Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "The Roosevelt Institute가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hbC1zWFl4YlFIQXlVcE9UMVZ3UjJMMFl1MUltMXRwTFpjTzhCMjFGQmRnR0p3ekdRa2RQVmxVVzY4dmlYZnhpOHRoSU5KeUt5SjBTX1lUX0lwWjZRVUhGOTN3enBiWXEyRE5tdlZBeXRxNzRnaFE?oc=5"
-    },
-    {
       "id": "n-3a4b4f7435d0c0a7",
       "title": "금리냐 유연성이냐…美 기업들 사모대출·신디케이트론 저울질",
       "source": "마켓인",
@@ -147,28 +187,28 @@
       "id": "n-1a6124e49fc2255e",
       "title": "Big private equity backers call for greater scrutiny of sweetheart deals",
       "source": "Financial Times",
-      "published_at": "2026-10-22T04:00:21Z",
+      "published_at": "2026-10-22T04:01:51Z",
       "category": "Private Equity",
       "region": "Global",
       "summary": "Financial Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR0hjUndwZVZKcXRaTFJUZEJSQkZzOVk4S3JaZDlzUEFuUEh4ZDU0NWloUTluSmpTNmg0UE1PMnViZ2Y5VUw5bG1XeExWLU1SX2otQm9tWndsLU1jMGlyNlNzZWpub2s3eVVMcmlZTnVWcFlOOWhuNm9xUlFuOXVjTkw1aXo?oc=5"
     },
     {
-      "id": "n-93b9c7d40a43b9e3",
+      "id": "n-1e5931398e37677e",
       "title": "\"사모펀드들, 엑스박스 인수 예비검토 해왔다\"",
       "source": "연합뉴스",
       "published_at": "2026-10-22T02:44:10Z",
       "category": "국내 대체투자",
       "region": "Global",
       "summary": "연합뉴스가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PbDBaT1pFT2pHZXJOaFhUbDJSLW9rcHFQZk9rUU1nM1hYb1R0LTFsSzhBOEN5MGZsZ0VDYjJKanpkTUk4c0c5a1Q3ZWtZbVBrMHZNLU5OU1RlTHfSAWBBVV95cUxPRi1JUDBWemQ2cVpSVXVXWkl0Zm0zOE56OXBpNnFkRVJwSjdTc2kwZzFKaGNfTktkT3h2aXczYl93SFBjdC1mUklUbzgzNDQ0OUZMWGRqbmFwZWZyU28xNnM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GLUlQMFZ6ZDZxWlJVdVdaSXRmbTM4Tno5cGk2cWRFUnBKN1NzaTBnMUpoY19OS2RPeHZpdzNiX3dIUGN0LWZSSVRvODM0NDQ5RkxYZGpuYXBlZnJTbzE2c9IBYEFVX3lxTE9GLUlQMFZ6ZDZxWlJVdVdaSXRmbTM4Tno5cGk2cWRFUnBKN1NzaTBnMUpoY19OS2RPeHZpdzNiX3dIUGN0LWZSSVRvODM0NDQ5RkxYZGpuYXBlZnJTbzE2cw?oc=5"
     },
     {
       "id": "n-31dcbdfa158baeaf",
       "title": "How University Endowments Can Benchmark Private Equity and Private Credit Fund Performance",
       "source": "www.dakota.com",
       "published_at": "2026-10-22T02:30:04Z",
-      "category": "Private Credit",
+      "category": "Private Equity",
       "region": "Global",
       "summary": "www.dakota.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONEtZX1l5REpta0lZcHBiYU4xZmtaSm5qclVhMzVranBmZUJYNnd0WjRaZXRKVEdBeVQxZXpFaHhzWUkwdDl4UUdRRGtPcU8yejJ0VnVHcEZGeTR5TGxYMTl0RjVjWlQ0VzdxU1B6UWVtUzg2RWlzYThwdFluMFF5Q2FGX2pXVWxRTWxRaE5oTnJTZWxmXzVqUkpXN3FpR2o2QWZpclFBRUNwNlUzWVNkNDMyNTNPNFV5c3ZkRnhTaWJ6bG9IcFA0?oc=5"
@@ -187,7 +227,7 @@
       "id": "n-3cbce6866fd313e2",
       "title": "It Looks Like a Music Festival. It’s Really a Sales Pitch for Private Credit.",
       "source": "WSJ",
-      "published_at": "2026-10-22T01:00:00Z",
+      "published_at": "2026-10-22T01:00:23Z",
       "category": "Private Credit",
       "region": "Global",
       "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -312,16 +352,6 @@
       "region": "Global",
       "summary": "Crypto Briefing가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XbC1uam5WamthSldmcHRoUlJOT0hWcTFzcHZXMC00OHI3emF2MXgwTXduSWQ4THJBV05jWFdiYUZYQ1N0Ql9Pb2x2TzlLVGVCcXV1OUNNSk1uX0tkNVpFMWVBdFo3Q01vakFjWlRWOWxCR25mOE9td0NpV1c?oc=5"
-    },
-    {
-      "id": "n-90efb96288acc189",
-      "title": "Buyout Firms Look to Swap Out Portfolio Company CEOs as Holds Lengthen",
-      "source": "WSJ",
-      "published_at": "2026-10-21T11:00:00Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQzZQUGxMQVprTDdvY2ZUT3ByWmU1SmFhV2tMT3ZwU3M1Ri1sTExJUW8tUXRuTXp4WmFXSHItMGdoaEZ0ZHNXM0o0SDhKUFRLWGRWeVdSa19xRTdQMm9lelZ0eGVhR3o5V0FJWEhHZ3l5ZnZTd3Ric3Y4eENGY2Q0c1dWb0t3Ujh0SlMzY0ZKZTc1OFlQakVsd1V6WUF3cUVPVXBSakUyc3ZUTngycWdub2ZsRlhraEN3bFE?oc=5"
     },
     {
       "id": "n-21ca9b0959ad3b9a",
@@ -677,7 +707,7 @@
       "id": "n-f4cb0de6e8d76126",
       "title": "What Is Private Credit and Why Should Americans Care?",
       "source": "Center for American Progress",
-      "published_at": "2026-10-19T13:02:57Z",
+      "published_at": "2026-10-19T13:03:33Z",
       "category": "Private Credit",
       "region": "North America",
       "summary": "Center for American Progress가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -1372,36 +1402,6 @@
       "region": "Asia Pacific",
       "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZUFDU0lBRmk5NF9HcWFsM0ZrWUhMR00wRzZLTGNSclNZR25qQnpRNC11ckVlbG5qdURDM3IwNl9ScmQxaklOcDk4SWtpZnhvOERaaEZQaVlqaGtCNndTRnVITXNrVkgyNi04ckYtWGQ4alhDQVhQNG1xamhWUmJZM3Jnd29CWFp4MlJRRjJFbEJHcnR6dm5CRTIwak8xaldLcW5FcVA4NmQ?oc=5"
-    },
-    {
-      "id": "n-5f2eddcccd9ef644",
-      "title": "Why Invest in Real Asset Credit?",
-      "source": "T. Rowe Price",
-      "published_at": "2026-10-14T21:30:58Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "T. Rowe Price가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWkZrMjFOSzZsVmlRREVQNDhEaTRmUElQNGphbFNEZzlQMVR3b1pCaERFWHRzeWJ1NVM0NEZoMEctcGtZZWp4QXU3OWJPODhqTTM4eF91dk9EN3c0UU0xUm10Wk9kRXJkU0c4RE40ZkJnZjlPRVRONlZ3VmFDdjNWTUZLeUpyR3Ru?oc=5"
-    },
-    {
-      "id": "n-136f086d53ae3e63",
-      "title": "EisnerAmper, Agora Partner on Real Estate Fund Operations",
-      "source": "https://www.connectmoney.com/",
-      "published_at": "2026-10-14T20:03:47Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "https://www.connectmoney.com/가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDNUREhpcHd0RUxMNXh4U3E5YlBRclNuRDJLc3JOTTVHdEZRVW1rd0pxc3hQSk1VWjJPSklrazNpelBycVJGRFNjbHFoLVVZUWdiUjBEc2ZoT1licnVKaDZrT2lPRF9mVmhoT1dpZTBHX2lWN3dqbkYxaHljbzZWV1Q0WWFBVWZXaTYyTWZaSmVPNm0yS1VBVnJn?oc=5"
-    },
-    {
-      "id": "n-d2cab718f52652cc",
-      "title": "BSP adds Encina team, $480m portfolio to asset-backed finance platform",
-      "source": "Alternatives Watch",
-      "published_at": "2026-10-14T19:55:43Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "Alternatives Watch가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRXdfVXlMVU9lR2IzTlhaakEtTFpLVU5yRDEtMko1dzMyRVFXcWFLZUNQa1JlRGFDeWZnV1l5R1dTVmpIUXc5aUVvOEpPNHVzMFEzZGpQUWo1QXRRZjFWNTlWeGlUUWt0UnlzV3loRGRhSFpzeEduM0ZvLW9hRThnVm90UGduY3FpbjFTQmItbEpxTFVQU0dR?oc=5"
     }
   ]
 }

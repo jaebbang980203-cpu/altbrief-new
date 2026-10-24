@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T11:06:41.537916Z",
+  "updated_at": "2026-10-24T15:59:26.533399Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -32,6 +32,16 @@
       "region": "Global",
       "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aLVlxbTZWcnZublNobUh5S21rUG0tOXpOcVVka1haWU1XN1NJalVleGNqWjhqMHRrd1dOQ3EyVk5xYWU0QlljT0dSYnBJVjhEU3puMjlIUFI0b0hFU3ZKRVp2SWlRVW9fZHZDbHIxdUpWZXctb1E?oc=5"
+    },
+    {
+      "id": "n-08cfbfd99b60a238",
+      "title": "Carlyle’s Pooja Goyal: ‘Building platforms from scratch has become a deliberate part of how we invest’; Kayne Anderson, Warburg Pincus agree to $4.06bn exit from WildFire Energy",
+      "source": "PEI Private Equity",
+      "published_at": "2026-10-23T16:44:16Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "PEI Private Equity가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQVW1SS2ROV1F5LWhxYnp5V1pfb2ZrTk5xTjRSWkIydWJ2ZXY3dFMxa1Itc3ZUd0pRNFF1d1RxS2U3UERYUFJRb0FidW1uY3VCcXZBOWZnZ20tLUlic2p3MUc0R1I2ekEwam9ReUNJRXlhSVhJWmZTT21DODhyNTFPTENWb0RNd3ZLaTY2VkljWVhxTnUxeHBsZ1FSNTJxdVNXcUlTVHlKSW8zYkRpU2JDS3dIaFNhbUY4aVZpc2JRR2ZXMGZZaG1Xd0hwd2JEV2lTdUQyUEVNWG5QSVIxcnpBMGtqSnNraWFTbWY3enBsWWNCLXZNQ2VMRERuSjJ4UGd1bnBJdm1qT2NCa3lvVm5IZk1zOVkteXN3eTc0b3JNV3FxcndNLUxjUGFUQU9aalZRRl9kZ0RaS1Y?oc=5"
     },
     {
       "id": "n-afd4a7a64c7b428a",
@@ -666,11 +676,11 @@
     {
       "id": "n-a134134384efb611",
       "title": "Private Equity's $12 Billion Self-Dealing Problem",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-10-20T10:00:07Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjlrVGJGLVJUX3pZY25yWTNqUWxCZnpVNmNxSFRlbW9Cd1BzblV3bEkzU21qRWd5NUZ5VzQxekI1TVBINlhaYmRGWjZqakdicW1TRE9kazltRHNrYVpncmI0R0dNa282TUItR1BSb0htcllOeE5KYnFaOFdmZnd6dFQ4Qzdfc2dFbFdVMmEyYVV1REZ4bTBkbXVGVjFVTXlOdUhpY0ZiWTl0cm50eXFIUFdraVVJLTJPeUMzd3R1a3o?oc=5"
     },
     {
@@ -1392,16 +1402,6 @@
       "region": "Global",
       "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONjV1aXNJdFBna0dYU0dqd09FM2lYX3ROeTZfeEk0RVllQ2haRlZGc29GbXVCeUplalVlaFdIWEV3WDhobmM2LU9QRDB0YUhZMlBIc2xyWklDYXZITEJNLXNoUTlSd0dBRW1QY0ZMb3JWTklJQzkyMWYtVmZ3cXhhRlV3ZGVuRlBOczRmQ2tBQkJYdXhQb05WdW1JcVlNRUE?oc=5"
-    },
-    {
-      "id": "n-2596bac0a5bb7f26",
-      "title": "Kasikorn Securities Upgrades Digital Telecommunications Infrastructure Fund to Neutral From Underperform; Price Target is THB8.40",
-      "source": "www.marketscreener.com",
-      "published_at": "2026-10-15T10:55:47Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "www.marketscreener.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc2w0cGVQTGR2NUFBXzVOS1gxZlFJRVZtUHpuT2QyR2o4RktLZFVBRy0zdE11SVhDNW9FbEJtblZfdloySFR0RUEwcXY2cG13b1hZQngxT2pLbWZxMHZvek05ZXBVdmgweTNRM0VhdWEtOUUzT1ZtRF9IOURKUjBGYUtlWW1jV0IxV05Wek0tQ052azRUc28xZF9Ba01la1lJRi1CaE1wREItRWpoU0NXTTV6TW02SDJjWTBGQmMyQm9SdW1JVU9lSnVrSDlvSDdXTDdleFBUSlBnWWxrbThRVk1MdGMtZDI0?oc=5"
     }
   ]
 }

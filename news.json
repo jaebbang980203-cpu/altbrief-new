@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-10-23T21:26:58.488996Z",
+  "updated_at": "2026-10-24T04:40:56.972754Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-e6f032d3ee753dd0",
+      "title": "Kayne Anderson Energy Infrastructure Fund, Inc. Estimates – LSX:A0MXKB",
+      "source": "TradingView",
+      "published_at": "2026-10-24T02:07:37Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15UFNmcExjT25MWUdNaE4zOHp4cUN2cllBSnloUmhTb1ptTk5zMUVDY1cyN2htLTZOWVVtd0ZUOUw1Z0kybGR1T2oyWURvNVBvM0pUSGs3UUFrRko2blVMM0RIZUpTLXowUURoempBODFQZTlIOGxv?oc=5"
+    },
+    {
+      "id": "n-19fcc8512434c82f",
+      "title": "Northwind Group Closed Its Third Real Estate Debt Fund at $1 Billion, Double Its $500 Million Target",
+      "source": "HedgeCo.Net",
+      "published_at": "2026-10-23T21:45:35Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "HedgeCo.Net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU0Z4QTBIdVlPbUtsdExBdUxONk55TktHNDRjS1NMQ0U5R3dmelVSMzhWQUoyNGZJeXlsWkVoVlBsTGt3SktSbWJINWJsT3dFckgtWjh3MHNSWXFHYnV3ODZkQkNRaVlPcGhtQ05sOEtTLTlRQlZyVE9VOEM0dE90TFQ4OE9fNkxSYmRVS3NJdlBDTFRXcE5FNS15dW11cEprUl9zZGxOYnFOWG9WOHhQbkZqQjllZmVOeThXbjhTcGtjZGFkaWtfekFEajBZSi1n?oc=5"
+    },
     {
       "id": "n-0171722baf3f1372",
       "title": "Digital Telecommunications Infrastructure Fund(Alien Mkt) Estimates – SET:DIF.F",
@@ -62,16 +82,6 @@
       "region": "Global",
       "summary": "Alternatives Watch가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUktTX2NkcEFfU3pSX1pJU2hNejN1R19hRU5UcnVFTVF0N1c5QV80bEFlTDRnZm1CVjJuTncxSV96TEhwUFJkTXVSd015WDFWY29nd05wRzFrZGRQUXJMRjJ6WHNBUDU2RTF0cjJyaGVHUWF0ckFtR3REdHBqd0Y5VnlLa2N1Y3c1SVRWRElINA?oc=5"
-    },
-    {
-      "id": "n-19fcc8512434c82f",
-      "title": "Northwind Group Closed Its Third Real Estate Debt Fund at $1 Billion, Double Its $500 Million Target",
-      "source": "HedgeCo.Net",
-      "published_at": "2026-10-23T10:14:21Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "HedgeCo.Net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU0Z4QTBIdVlPbUtsdExBdUxONk55TktHNDRjS1NMQ0U5R3dmelVSMzhWQUoyNGZJeXlsWkVoVlBsTGt3SktSbWJINWJsT3dFckgtWjh3MHNSWXFHYnV3ODZkQkNRaVlPcGhtQ05sOEtTLTlRQlZyVE9VOEM0dE90TFQ4OE9fNkxSYmRVS3NJdlBDTFRXcE5FNS15dW11cEprUl9zZGxOYnFOWG9WOHhQbkZqQjllZmVOeThXbjhTcGtjZGFkaWtfekFEajBZSi1n?oc=5"
     },
     {
       "id": "n-540bf8131f2ad66f",
@@ -206,11 +216,11 @@
     {
       "id": "n-fd8e32b593f0e03c",
       "title": "Private Credit’s ‘Small Ball’ Has Lenders Fight for Every Dollar",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_at": "2026-10-22T15:09:23Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1daZlRPN2lBQ050WUxpSU5sc0x1Z2paRC1JMkw2NTlYYUllekhZQk9SYVpPRFd2X1gtYUk3dU9Ed0UzVHJKTXpfMjlLQ2NtblZ2Z0FkSkFXYVJhM0tubC05WVJlakdSVTRFZ0p6ampNWThZc0Y3aGdzVUZlay10LWVPT2E5WkpKaUV3ZDJlNHZ6TV9wYWhFeGMtTzNpOTYyN2JQZENJUEo3SkV3Sm9LdURzcw?oc=5"
     },
     {
@@ -247,7 +257,7 @@
       "id": "n-cac706b8699e72ec",
       "title": "Succession: Why waiting too long can price out the next generation",
       "source": "PEI Private Equity",
-      "published_at": "2026-10-22T11:36:37Z",
+      "published_at": "2026-10-22T11:41:34Z",
       "category": "GP Stakes",
       "region": "Global",
       "summary": "PEI Private Equity가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -302,6 +312,16 @@
       "region": "Korea",
       "summary": "조세일보가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwRFpnbjZhUmt2d3dRQjBUQU9KbUxZaVdCM0JfVHZ2UzRSNm1mcHBhSUZleS1TZ2hnYjZSeENCbGxJTEJ2SElpV2kzNEgwZEJzR09BajlOWE52RVQ1SXF5LUZfWUxIVTZ6cUJjRS11UQ?oc=5"
+    },
+    {
+      "id": "n-8e05da3a64dd65c5",
+      "title": "김현정 \"한투증권 원금보장 IMA, 해외사모대출 부실→위험 전이\" - 머니투데이",
+      "source": "머니투데이",
+      "published_at": "2026-10-22T06:37:18Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "머니투데이가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92a0Z2T0JUNXFKMHJIUmx3TXJiY0d1a0hiLTFsaEUzVVFmc3c5czdaUVgtWjg5RWtTdXo2NHlCampZNHNfa013RjkwRkJ0NmU1VTBMYlNMdDc4b0UwazNNbXJwbnFLYUZx0gFuQVVfeXFMUHBSUmt0N0ZBZ21ld1BiNEJMY0ZOM3M3T0Z3NmZNU2ZsMnZ3a2huT2kwdWVnZnZ5OXpLdU81elhtWkREZkZWV09JbVYtVUFCQ1pqdEZtYlhoZkMycWFFcjNwLUhCeDhzZU16VTVTR2c?oc=5"
     },
     {
       "id": "n-1a6124e49fc2255e",
@@ -626,11 +646,11 @@
     {
       "id": "n-6fe29dfbaa88b468",
       "title": "Ares Warns of Australian Private Credit Stress From Rising Rates",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-10-20T10:18:35Z",
       "category": "Private Credit",
       "region": "Asia Pacific",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVGQ1TVdwTzJFczFrbE80UUQ5TGZvdzJ5MjZwTDFSc1B0bGNJN2J0X0IxODFXVl8zUmVJNnBYQnZ3NDQxU1FPdXQ0UFpCX2xWaDhRLS15eXM3S2JkSkE5T1dhOWVoRnExQ0JuVXRVbEg5MEFxWTZVdTRBMGhUTWJIRWFmNzR6enNXZ3pieV9Fc2RGakNnUkJJeTBiVWNHWVZ5U2JFUzk1QUY3Y1NEOFpRb1FwckFBdw?oc=5"
     },
     {
@@ -1382,26 +1402,6 @@
       "region": "Global",
       "summary": "Private Equity Wire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnJuM0VoQ0RhOXMybHY5R0pKVlhZcTE0TEdqeVJEYjh4T2ZEVnJ6NlM0ZnkzeWpIb2Jpa2Vlb3lvcXNtZldGVGs0UnI5dVZvSzdVeWQ1S3MyV1gzSEZJblNOeFF3ek53LTJmNTczLXNUVXJydXJxdktHLUdwVHo2SmFPamJXa2xNQW1GVzhKaHhKZWo3Yi0zWS1OOVVxZkJZNkFKNkQyRlNzWlF5c2RTenZsSmNMX1JFTWJMcVhR?oc=5"
-    },
-    {
-      "id": "n-1be6c2420f4632b4",
-      "title": "Kayne Anderson Energy Infrastructure Fund, Inc's Dividend Analys",
-      "source": "GuruFocus",
-      "published_at": "2026-10-15T10:27:09Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "GuruFocus가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUtsLTFWeUw5eEZIZDVKMU9yUFp6OGgxYmlQaEZfSVpzaFExOUFEeGx1aHh5UmtESk9sLU9PUTRfUzVsUnNLbVVhemViaVpMQmxmOF9ZeXM2RmV4R1BDbm1lME0zclNkLTlQWkJaVll5Nl96cV9pdHB2dEZ4ODRXNC1lZzk4MklBRU9VZFpoNW83TGJuVnNPcjZCbDhuRjNiN0x2ZG9n?oc=5"
-    },
-    {
-      "id": "n-dfb4837dded9111a",
-      "title": "Exclusive | New Private-Equity Firm Specializes in Giving Companies AI Glow-Ups",
-      "source": "WSJ",
-      "published_at": "2026-10-15T10:00:00Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0JMS3JaaEROMXNDcWpReUlUY3dNUE01Nl9lY05EUjNKMUlrU1pyUGYwWFVxS2xRdndMUEVpRTVBTGEwdEt4ejMtTmE5VGlHTHhRdHhZM2szdksyRmJPNlM5WkQxSi1KWVVZbno5MEpRQ0hJcmxxNFY4MDhwQl9mY1hkQ05vMG1uWE9oUGxSc1lpTVlvQVladEJzQ3h3WEQ1d3JZT1IxN0VPczhYRTgydUd4X1FzWE0?oc=5"
     }
   ]
 }

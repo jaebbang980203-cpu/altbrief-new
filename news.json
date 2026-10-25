@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T16:26:36.249391Z",
+  "updated_at": "2026-10-25T20:54:11.451347Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -634,16 +634,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWsyUWg4N3ptYmFJZDhQZ2dPSUdrVHBad0lQT19lcGJvaU4yMWxQN0JyUC1RSXNPSVdsWTJnaF9TTG9zdTlvRnlNWklKQ2FFeE40V01VTHBOb0dYcmJwekR3Rk53UXBmN2c2Ml83Ymh3NEhFZm0zUzhOYkZjTEZDY2ZfQlhBSngy0gGcAUFVX3lxTFBVOWVxamRDMDRaQm9QSnFNZGpFcnRsYXE2ODVWOGhGcjZNMEtmZG1ackUyNzFVTWNfS2FFSU5HWmhNdktudnV1aXBlNVg4aDR4T3pRQVUwMG1hTGNTWkd5VG1sZWllR3p6M2xONFNBdHNmWExRNEJDMXBLQzN3R1JxNXhPLUdVRV9UcVZkakRmVlgtNktubDI3aTdKcA?oc=5"
     },
     {
-      "id": "n-45128e6f75e97e65",
-      "title": "Key facts: BlackRock, Inc. $665M IBIT Inflows; TD Cowen Buy; CLO Fund",
-      "source": "TradingView",
-      "published_at": "2026-10-21T07:00:00Z",
-      "category": "CLO",
-      "region": "Global",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTdkNFN1cTc3TVNhRkpqcjkyYXpHNUdKYlFCRExTMWZ6OWZQY0RLcDdraThFRjdPcU0xUWVpdTVPYXpsaW9VVklwZlpJLV9WNUxhdzE4S3M1Z1hpTXU2THZJSFNsSmIxdDYyRzdpSm42V3ExamNscTRqN055VXVWVWluQUdaZUo2SXhJZE96ZFJURU1pVWZ1VFg0RHdHOWUwZjJYTHRjZk9CZkI3MEg3SVMtakVoSmF3MG5uQVNGMEhnMnM?oc=5"
-    },
-    {
       "id": "n-21ca9b0959ad3b9a",
       "title": "Arini Announces Final Close of Inaugural Direct Lending Fund, Targeting Over $4 Billion of Deployment",
       "source": "Yahoo Finance",
@@ -652,6 +642,16 @@
       "region": "Global",
       "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEJmRzFwb0o3MnRVdE84YzZIU21SUzlUTXdJOHdtLXFRdlRYbnNKSWVVT3NEa0NnUWI3N1NFdkYzeGpYLTNYRUMwUHo4bkVaUUF2MHRRNWk0cHRnZ0F1V0dIZmZIbWNlTHFfVFA5aGtXYkRGVmRRTWo0UDNpNGNaV2VfREFWUU9xbVRHX1cxbFdXeTBTYTdLdUdzSGlzYXhtYlRYeg?oc=5"
+    },
+    {
+      "id": "n-45128e6f75e97e65",
+      "title": "Key facts: BlackRock, Inc. $665M IBIT Inflows; TD Cowen Buy; CLO Fund",
+      "source": "TradingView",
+      "published_at": "2026-10-21T07:00:00Z",
+      "category": "CLO",
+      "region": "Global",
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTdkNFN1cTc3TVNhRkpqcjkyYXpHNUdKYlFCRExTMWZ6OWZQY0RLcDdraThFRjdPcU0xUWVpdTVPYXpsaW9VVklwZlpJLV9WNUxhdzE4S3M1Z1hpTXU2THZJSFNsSmIxdDYyRzdpSm42V3ExamNscTRqN055VXVWVWluQUdaZUo2SXhJZE96ZFJURU1pVWZ1VFg0RHdHOWUwZjJYTHRjZk9CZkI3MEg3SVMtakVoSmF3MG5uQVNGMEhnMnM?oc=5"
     },
     {
       "id": "n-3920960fe44c6315",
@@ -1074,6 +1074,16 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85WGYyZzl1ZGJiWUluS1FIeVZTUEhTcUpJUllrQ0J0RmpEQzBjNWpHLUx4a1RLdWZyTmRBems0MjZfdVgtUFJqeWNOTmtFSmNUQmRHZXJpTzRoLXVDUngweGkwUDFuMlV5TmNSRDZn0gFuQVVfeXFMTzlYZjJnOXVkYmJZSW5LUUh5VlNQSFNxSklSWWtDQnRGakRDMGM1akctTHhrVEt1ZnJOZEF6azQyNl91WC1QUmp5Y05Oa0VKY1RCZEdlcmlPNGgtdUNSeDB4aTBQMW4yVXlOY1JENmc?oc=5"
     },
     {
+      "id": "n-744ff437feb055a3",
+      "title": "Inovia hits $200m in first close for sixth early-stage fund",
+      "source": "PEI Private Equity",
+      "published_at": "2026-10-19T07:00:00Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "PEI Private Equity가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbTlHeUZXNy11Q1lTZjgxalRzZGhfXzJLUXVfRzF1SkZCSzdtaEllZFZ3YlhhMlJYb0tlcWd6aGVNREs0cjIwcHVxS0xDWTFKNTlSZDlsODNYYzBjdFpXSDlsQWtsVzZEVkhoT08zOGMzXzV1V243dVJuRkdUNEdyNWdWTzVvazZhQmRuNDh3dFpkMDlZRGF1aFdmOEZ4X1paTmxqMA?oc=5"
+    },
+    {
       "id": "n-5f0ed21e840c2f74",
       "title": "Infrastructure Implementation Resources",
       "source": "National Governors Association",
@@ -1304,6 +1314,16 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUExsYWRYWmRYdW1JSHQ2RmV1N2RDazVQVmUycGNVeUVuUkFPSG16M0s0bDZWWUJLNzhaYzlsWE5CM1l6MjhjaEdSMG1LOE4tckE1QkIzX3FxZUYyV1F3bWJST01RM3FQMDlpbFY3aXR4dmZaX0sxcGRlSVJTTndtYy1YQUF1Z1ptTFZhMm9ESmo4WVVlamNtQkp1cTdQdWxaMzBCcTNseFlCMTdWaGVvUDM0WC04VVBzeGpud1F3?oc=5"
     },
     {
+      "id": "n-771f795aa40914f2",
+      "title": "솔리다임 상장에, 이마트 워너 인수에...사모펀드가 꼭 등장해야 할까?",
+      "source": "인베스트조선",
+      "published_at": "2026-10-16T07:00:00Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "인베스트조선가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU2lGeVdDM25Xb3MyVEN2emsyLW5abTl2UGlraGVxX0FBakhrQlZ4Z1ZxQWhDVzJpcFEwWUEzb2xUM3FhTlM0RFMzMGVYcVdwM0NabFRXRXVhZ0phNktya0FqN1hsWDFFMXBJVWluLTZnLS1iMVJubTlmYklWTFdBUU1mVQ?oc=5"
+    },
+    {
       "id": "n-03433b402b638548",
       "title": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
       "source": "CNBC",
@@ -1332,16 +1352,6 @@
       "region": "Global",
       "summary": "Moomoo가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHRhRTdNVnN2TExGbGtPUGtQcjRJaWwwcGdDQ1JNZFBoTEJZTmlHcldHczhUa2xUNWpTM3M2c0lkSUVidnZ4MkRMa1FJa0p2TWRKc3A0dE0zVXZUZmNlR2d3eEVWakM2c1R3TWptdjc0d0x6Y2VkN1VWbU1DSnQyaFgwdURaMGwtVTRLQUpJSF9rZWJpb3lNRGxCdVRYY2s4cHg1b0VuQXdhUFY1WWxyWVJBcw?oc=5"
-    },
-    {
-      "id": "n-771f795aa40914f2",
-      "title": "솔리다임 상장에, 이마트 워너 인수에...사모펀드가 꼭 등장해야 할까?",
-      "source": "인베스트조선",
-      "published_at": "2026-10-15T22:00:00Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "인베스트조선가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU2lGeVdDM25Xb3MyVEN2emsyLW5abTl2UGlraGVxX0FBakhrQlZ4Z1ZxQWhDVzJpcFEwWUEzb2xUM3FhTlM0RFMzMGVYcVdwM0NabFRXRXVhZ0phNktya0FqN1hsWDFFMXBJVWluLTZnLS1iMVJubTlmYklWTFdBUU1mVQ?oc=5"
     },
     {
       "id": "n-b34209bac17f2616",
@@ -1392,16 +1402,6 @@
       "region": "Global",
       "summary": "Reuters가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdW8zUF80MHpiNi1RMHVNa3NjWGFxZHlZRlZNaDFUQm0xeURIbDRELTBhd2VWQV9IZWhTc3JsUENxcVYxM2RfWV84ZGlBd1hqVlVYQnI5UnQwcFVWZHBNRUxxVGRmZWdZMUV4UGVjV1FZUGpwWk9QQWJ0V1hybXVDYzVHbTNBWmVsc01oWVhyZFd6dkFSbmxvckNaVk9meUtkd2I0cGttR3ZvUEdOWHJBc0xoVXZWZ3NYNXhB?oc=5"
-    },
-    {
-      "id": "n-a46bdd610d684af4",
-      "title": "Private Equity Is Hurting Health Care",
-      "source": "BC Law Magazine",
-      "published_at": "2026-10-15T17:14:31Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "BC Law Magazine가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KZVdIM2oyOUtKZjIxSVQzbS05MlljZlZUVTdwaldPR3RQaUxZNE9rckZqOEJsOVBxcGpHSzdmNDZLVVZqTmxVc1JoOExTV2JiRnE3czYwUmcxSDZocG5Zc3FBQ3k5VmR6R3pESXRNZ0RaU3M3RlRKdlcta3JoQQ?oc=5"
     }
   ]
 }

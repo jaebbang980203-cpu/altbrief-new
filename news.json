@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T22:17:57.153400Z",
+  "updated_at": "2026-10-28T05:46:39.684039Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -34,6 +34,26 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQczJXb3dOcEVaVXpsbERuM1kwZG1oN1h2ODJnTVd4MTdySkR4dnJMMG5NcjdmYlJfWnkyOFREZDVaT0c1ejBEWF9YTFNvSGpqNkd6bk9uMTE1S2JXekpZRmdrWFBGMlhSVTZpRktZc0ROX2hWRUN6ejM3WnZuNE9mSmlDM2poVlBO?oc=5"
     },
     {
+      "id": "n-5451e6d327b8cf38",
+      "title": "Show Me the Exits: The Real Way to Evaluate Private Equity Performance",
+      "source": "KKR: A Leading Global Investment Firm",
+      "published_at": "2026-10-27T18:54:16Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "KKR: A Leading Global Investment Firm가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tc2JwQjVVVnJ6b29pSFBoQ0hYSTBTdGYxVThkdFNjSHRFck94NVlsY3ZpcWNuUHhJbmo1MGZ5QnUwZ2lSOTVwVXB2Yk15QW5YRGpURmJEVzJodw?oc=5"
+    },
+    {
+      "id": "n-3d2bd4ace3d82017",
+      "title": "Scotiabank lines up significant risk transfer on about $2 billion of loans",
+      "source": "Briefs Finance",
+      "published_at": "2026-10-27T18:35:00Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "Briefs Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGgzTmFDQVFfdGRuWnl1RWoxWlJUdXA4ZEd2NnoySTJlTmtsclFHUkN5Y1pLTGlVR2xocE42dExUU1BoS193aXdZRUpJUzl5TDJfN2RsWGtTM0pUNi02eEtueWtraWE5MVZXaUhqdlg2RHpxTk1vNm93SUVYZ3AtUzhvUUtpdU43eGV5U3g5cG1Bdw?oc=5"
+    },
+    {
       "id": "n-26d5657902248e3b",
       "title": "AI financing driving private credit growth as refinancing risks rise, Moody’s says",
       "source": "Reuters",
@@ -44,13 +64,23 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMlFHLTNZbVhfQjRZSmFmT1N5S2s2UTNsUkIzRnF0eFNXbG1GTTlURnZsU2ZDUGJMNVhGX2tPVzBrdkpSR1Y2VHBxZlFfMUdHcnJoTWNjNVlLMFBkNzRja1RaVVRaWFBSaUU5ak1LN3lxUDBqRE45UVRBVm9USHk0SzZ3WG1pc0tXRDgwVU1JenB2cmFDN2pyb3d1U0tZQmlqNjA2UzltdmZFaHFLNWZxV0pITWlVV1U5enM5SGtNWjJfdEhQQVljbG9lcnFLZw?oc=5"
     },
     {
+      "id": "n-9853f68d6aa01a4d",
+      "title": "Tyler Henritze Raises Nearly $2B as Second Act Roars On",
+      "source": "The Real Deal",
+      "published_at": "2026-10-27T17:55:00Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "The Real Deal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0dHSmxTdWhiRG1iaDhzc19QT2lkWVpEbVAtQ0IyN3N2OEpQcjRVSjZhR2hxbDNzUEt3Z3dYV0p3N0pHQzg5czdPcFVDWjBmR1gwR1lVY1FfMlJ1YnZ1Y3VhQU01Rk5HQ215MElrQ2V1RjlPU3FHUUtubnpVWTdkNUpmWU9JeGFNME5SYjk0UThKRVVoOHJ4NTNwc3NFYzBE?oc=5"
+    },
+    {
       "id": "n-a353db13cd7ddd67",
       "title": "Scotiabank Plans SRT Transaction Tied to $2 Billion of Loans",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-10-27T16:57:28Z",
       "category": "SRT",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOU1IWkxOUmtSUDBaYUZ0dFJVbUVVbnFFU2FsN2hFYjVSd1EwenZJSjJVTFBGaGVlRU1RNTNobGVKaTNkU0NiaDhZWi01VklEdXh0LWZBVW9QQ0FPdUU0THlsOTdfODZueTZLV1ZMNHFvMDQ0Mk0zLUQwUmxwakpZdW9tUGlDRzhFRnpSeGYydTBEMC1hTHY4SEJ5VEduZmNBQlFxX0RLNmhKY01ac3FZ?oc=5"
     },
     {
@@ -72,6 +102,16 @@
       "region": "Global",
       "summary": "The Globe and Mail가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORHlLY3VOU0R5alBucjU4Y2xmeld4LWNqanVjZ2dqelNrZEdTeWsxVWVCLTN6RlFJUHFkMjJlWk1KeUFFay1OemhfcWgyYlFGaEtrZWN3elNCbXFCVDhkNzU0a1J1YVR0eE80QV9HdjRNUXlmRnFPMG5aOTRuRnluMXpocHBmbWIwR1czM3RGdjBTY25sR2lSU25KT0Z2M1U3S05Bb2F1Yi1uMFVxbG9RS0pwSV9QcklMbjJHWDc1RTJoMkhFX1NIR3VGWVpEalJ5NFZfYUFWa2xOVUdkdWpQSXktYkhQUQ?oc=5"
+    },
+    {
+      "id": "n-57210b6feda4fe37",
+      "title": "Cardo AI Introduces the Asset Based Finance Data Standards for 30 Collateral Types",
+      "source": "01net",
+      "published_at": "2026-10-27T15:31:00Z",
+      "category": "ABF",
+      "region": "Global",
+      "summary": "01net가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbm5sT1hwTklnTmhlRFRFVWtaemlQMWQ0UnBFM25JSHRnYUJZUmhNMWdvUG52ZlVlYXFCN1lYcGlNWEc2U0QwZWR2MzMwcDFHSEhzT1gzdmIzeHg4VXpFUWNYSm9XT2YtU2RHWFZfN0xSSmtXOFlHUWZBWHdIMUVvMVJlQkRVU2NucnVyNnVtWnl3bDNhdmpBdlUtRmVCcFJjS1ZnMW9vaw?oc=5"
     },
     {
       "id": "n-4083dadbebd1d1e1",
@@ -154,16 +194,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZkRvWkZtNHQ2NVlXU1N0emtYdVlnRUNKTVpDa2IteFg2eEtFMV9KVVpqb0NBT29BMGtBRXhUZjFxTlFmRnlkd0ZXSmF1Y3FJUk1NVl80a1lLZXl0R28xdFdoaTlyaE5hSHh5MkNyRnNVTi1uV0g3UU9VQmNLcGNNYU00eDgteDlENW1DNVRyQjZnTUNRRGRZY2hMUDd5cW1hcXNkMS05SnZoREdWT1JJb3RRbk83OS1Jcm5TWUQ0Y2J1a2gxb2lTbjh1LUs?oc=5"
     },
     {
-      "id": "n-db750e7fdae936cd",
-      "title": "Cardo AI Introduces the Asset Based Finance Data Standards for 30 Collateral Types",
-      "source": "Yahoo Finance",
-      "published_at": "2026-10-27T12:31:00Z",
-      "category": "ABF",
-      "region": "Global",
-      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDQxY2tKSkwyLUhyZ3dZbms0elpUWVVkNy05SXRWVXRtNjhMeUJQaHA0ZTg1RUxKZDBYR0RYcVk1WFRiVERHN3B2NVNYcmhnN3ZKeFA2LVh1c0MtVEwtOExYWGx4bHhOa21sLUMyQ0hteE1ReUUyOVZ5NVFqMGJ0VmlBQk1LZ1pVNHdqSFNmTkpoZmVEbEZB?oc=5"
-    },
-    {
       "id": "n-054660ffe163fe60",
       "title": "Ares Private-Credit Fund to Buy Competitor From Apollo",
       "source": "WSJ",
@@ -186,11 +216,11 @@
     {
       "id": "n-fb0ba4fc5e0c4078",
       "title": "Advent Raises $30 Billion for Top Private Equity Pool of 2026",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-10-27T09:30:48Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcU9tNTRyRGhQN0FEZ1pHRlhpNXVUWDZ3NmEwMklTOVd4cWNJU2pQakRtWkVoMUlRck1tVC15UlkzbUQyaHBsclVWQk9HS3Z3WW85Y29kRnFPa3FGODlyV2hCVG94bmt6c3NiODMyek9TbWYtR1ZQaFV1Rml2Y3d0LWpBaUJYQ1Z2c2N0WEZ5Wmsydl9jZEpXdExkcF9jMkoxOUdPT1VlSlFHeXp6WUpiOQ?oc=5"
     },
     {
@@ -334,6 +364,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0lxdk5rUGVPNkRZUHhzSTJFMEVTcGw0RkVFa21xeEFDZjNmY2NkblptQXFHTVRfZE1PencwbWl4cXJvUU1icTRLdnpsR2pEMnNGTnlKbUEwTnJ3TE9MVVM4cmdxdFhhYm53MTBIaFRaWklJZ3BvUHZxbV90VXl1RzN4SWZaNXZxUlZMNDlST2NmZ29PQmVmZ2pxUXZRWkxNYkdST1FGWEtERzNmcVE?oc=5"
     },
     {
+      "id": "n-dcdefefa71e2d5bb",
+      "title": "BNP Paribas weighs jumbo €16B SRT as European issuance accelerates - Bloomberg",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-26T17:42:26Z",
+      "category": "SRT",
+      "region": "Europe",
+      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3Y1LVJVWXdfQmNfTDllRVk2STd0eXV2cGVwcm5sOE1pM0xyckV3RFhUQy1zZGdOMTR2REdYT0QycWNEaFZDSUY5bTJVX3V5cE05ZmxlQ1NXSktQQ0s4QU5WWklwZFJqbmFMZHo4c1llaHI5TUVHR3RwQ2FnOVFGZEZITlJscFZLc0JWTFpBSWFxajAyckVxbg?oc=5"
+    },
+    {
       "id": "n-9c3b1f006e1ed899",
       "title": "Town Lane Raises $1.9 Billion for Second Real Estate Fund",
       "source": "Briefs Finance",
@@ -342,6 +382,16 @@
       "region": "Global",
       "summary": "Briefs Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZS1JcENvR2k0VXlNWGtmYU9pV1R3WVJlZ2VPbnBEaUJGdkY2M0hUNlJGODVMeDhkRXhXNm4yZlVFOVRmY3pvMU9MdUlMamhUWGc3SHNJRXZHdTRqWlBDSlp0UnY2SjVnNHFoVG9JZjZad0R5ZFN2NjJtQzY2Yk84QW1JaWozZDVUcHFvdA?oc=5"
+    },
+    {
+      "id": "n-4570548b34c4796e",
+      "title": "BNP Paribas Plans Jumbo SRT Tied to €16 Billion of Company Loans",
+      "source": "Bloomberg",
+      "published_at": "2026-10-26T16:07:01Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXk3azlIblpSb1k3bnZsVFhkWFo2c1pFVDJuS0s3VlB3dE9VRDZBZ3J0clduNVV0a3VTVkplbU1qbWZhdTRhXzJGaDVoZlQ5RUQ2QmJJUUVlVHMyQWo2dHc5M2lxYVBBdFZXb25rVjFNakJHUExXM2lkWkJWTDN6aHJIekh6YUJURDB5ZlpDWVJESlVlUFpadFprZWhGR3JoYW1oNUdWb3N6SjlFSTVJdlZRYks?oc=5"
     },
     {
       "id": "n-52988d39c3e51f38",
@@ -382,6 +432,16 @@
       "region": "Global",
       "summary": "CoStar가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0JDZlZ6Wmh1S1JqYWtNMms5V2xpYTU0cy1VUzNTOTl3RXBWUzZ6di1qLTFEa1F1UkdoVW9INTFfZmN0cGRJWmYxY0pxZUE3NVN2ZHpaVml3NVR4b0ROVmdxd3ZvY284TWFrUnZ4WVIxU0VncElVWmpBd3EwRjUtMGtUV3dJclVibWVybGpUMmdfcm1JWDZJeWZtX3luNmNSSEYweHlwajIyV0NJeEJV?oc=5"
+    },
+    {
+      "id": "n-afa52fa795572654",
+      "title": "Catalonia needs 52,838 million in infrastructure investment in the next decade",
+      "source": "The New Barcelona Post",
+      "published_at": "2026-10-26T13:24:17Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "The New Barcelona Post가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFJuTFJCeTFORWpVSFo4amJaWFpLVTZNQlhkMzk3a3VkOEpJSDlSSFhhaTJWT1AyLVI2SFBkRWlJRHFyckFXZm5VMHdHeGtSZXA0QXZfVGJ5QjNMT3ZRclNfSTB1bTF4TjdMZUNoV2Z5bWFSTFdSeGNZZldYYzZzZDVVcS00QU5JU3N1VFo3dUY5ckk4c05uNWxuVlp3WGduTTB0c3dFY3AwcEotQTFrd09kTGNZYkU4bGVsNkZ3?oc=5"
     },
     {
       "id": "n-9a446995f94c97e4",
@@ -442,16 +502,6 @@
       "region": "Global",
       "summary": "대구MBC가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oX1Q4TDBGZXdDVFByTHdOazR1NXNhMVlOejVpa1lwc2x1bVhhYkpvT1dQem9hRWt2dlBqaF9tTXpmNlQ2NTdpZVNYMl8?oc=5"
-    },
-    {
-      "id": "n-5451e6d327b8cf38",
-      "title": "Show Me the Exits: The Real Way to Evaluate Private Equity Performance",
-      "source": "KKR: A Leading Global Investment Firm",
-      "published_at": "2026-10-26T05:47:13Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "KKR: A Leading Global Investment Firm가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tc2JwQjVVVnJ6b29pSFBoQ0hYSTBTdGYxVThkdFNjSHRFck94NVlsY3ZpcWNuUHhJbmo1MGZ5QnUwZ2lSOTVwVXB2Yk15QW5YRGpURmJEVzJodw?oc=5"
     },
     {
       "id": "n-bf7ffb87b27c090f",
@@ -1164,6 +1214,16 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2tvQU16U2tLeGdwZ0l6ZnQ2bnNZM29rcm5SZ3ZCZnBSWFRmMkgxLVdfQ05oNENNZE8tOW15bGhPbHp5Y1FscElJcGEtc2hFUlpMWGhUS0paZm8yb0xRNGxPRWwzaXo5ZVdOTm90U1kxX1VpWnBrekhRdS1CQi1BNWxCczdLQjQyRzlaNNIBlAFBVV95cUxNRHd5ajhXZTIxd3VfeXFDTHJRSGZjQzRPallmQU5JRUdneE5YenlqUklLMkx3TmZrak1SWEJJMFZsUV9sUk9ldnF2WUNjcnpNUGNmcldIbWh6eXlxVGM0ZHNXUHBtUVNWMzdscGp3SUVXRjFGT2xPYWpZN3M5Y1FUVkthM043NkN6MW00R3J2aGtTWHVn?oc=5"
     },
     {
+      "id": "n-d224a0ac61b096b3",
+      "title": "Intesa Sanpaolo Said to Plan EUR5 Billion Significant Risk Transfer Deals",
+      "source": "marketscreener.com",
+      "published_at": "2026-10-21T10:53:36Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "marketscreener.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUDFyaTBXVERxMUt5MU9LZjN4TkxoWkROTThTa1pCanhWZURoVjJBWUZBRWpfNGRVLS11LUZqYUJBeVBhMG1nakhwSDRXY2NJbjFhRGZLYzA2Rzg1UDNtZ3VGLUp6UVF5djlXakdkZ3g4WFVBdGV5N2RuajlFc2JuaTJtZEYzaC1YNVhERFg4MW93TTJpelhVTFo3Q3FSMENPb1lRaGwyNXpNRGtDUm1CV0x1X095N2szUHdleE9FajFKMGtP?oc=5"
+    },
+    {
       "id": "n-70e4ec477010938a",
       "title": "LS증권, 사모펀드 통해 계열사 LS전선 EB에 200억 투자",
       "source": "Chosunbiz",
@@ -1184,14 +1244,14 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWsyUWg4N3ptYmFJZDhQZ2dPSUdrVHBad0lQT19lcGJvaU4yMWxQN0JyUC1RSXNPSVdsWTJnaF9TTG9zdTlvRnlNWklKQ2FFeE40V01VTHBOb0dYcmJwekR3Rk53UXBmN2c2Ml83Ymh3NEhFZm0zUzhOYkZjTEZDY2ZfQlhBSngy0gGcAUFVX3lxTFBVOWVxamRDMDRaQm9QSnFNZGpFcnRsYXE2ODVWOGhGcjZNMEtmZG1ackUyNzFVTWNfS2FFSU5HWmhNdktudnV1aXBlNVg4aDR4T3pRQVUwMG1hTGNTWkd5VG1sZWllR3p6M2xONFNBdHNmWExRNEJDMXBLQzN3R1JxNXhPLUdVRV9UcVZkakRmVlgtNktubDI3aTdKcA?oc=5"
     },
     {
-      "id": "n-45128e6f75e97e65",
-      "title": "Key facts: BlackRock, Inc. $665M IBIT Inflows; TD Cowen Buy; CLO Fund",
-      "source": "TradingView",
-      "published_at": "2026-10-21T07:00:00Z",
-      "category": "CLO",
+      "id": "n-3920960fe44c6315",
+      "title": "Arini closes debut direct lending fund with $4bn to invest",
+      "source": "privatedebtinvestor.com",
+      "published_at": "2026-10-21T07:18:55Z",
+      "category": "Private Credit",
       "region": "Global",
-      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTdkNFN1cTc3TVNhRkpqcjkyYXpHNUdKYlFCRExTMWZ6OWZQY0RLcDdraThFRjdPcU0xUWVpdTVPYXpsaW9VVklwZlpJLV9WNUxhdzE4S3M1Z1hpTXU2THZJSFNsSmIxdDYyRzdpSm42V3ExamNscTRqN055VXVWVWluQUdaZUo2SXhJZE96ZFJURU1pVWZ1VFg0RHdHOWUwZjJYTHRjZk9CZkI3MEg3SVMtakVoSmF3MG5uQVNGMEhnMnM?oc=5"
+      "summary": "privatedebtinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVNCR1llcXZ2aW5Jbjh1RzBGem9tcTZwakpUYXVhNmtVLUZJOUUyME1iaTdFOURxN2ZaUVl2NExWeWNVdGRSVFZscXoyY1RKMXZEaGxKOWdaN0tNTXNKOGcwQlRoZk05bHNHQUF5LUY2RDlVOEJDUzJITGxnNW5PWW43aGZxczd2Ym83VTNXLWVfRktia0o5REVR?oc=5"
     },
     {
       "id": "n-21ca9b0959ad3b9a",
@@ -1204,14 +1264,14 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEJmRzFwb0o3MnRVdE84YzZIU21SUzlUTXdJOHdtLXFRdlRYbnNKSWVVT3NEa0NnUWI3N1NFdkYzeGpYLTNYRUMwUHo4bkVaUUF2MHRRNWk0cHRnZ0F1V0dIZmZIbWNlTHFfVFA5aGtXYkRGVmRRTWo0UDNpNGNaV2VfREFWUU9xbVRHX1cxbFdXeTBTYTdLdUdzSGlzYXhtYlRYeg?oc=5"
     },
     {
-      "id": "n-3920960fe44c6315",
-      "title": "Arini closes debut direct lending fund with $4bn to invest",
-      "source": "privatedebtinvestor.com",
-      "published_at": "2026-10-21T06:18:55Z",
-      "category": "Private Credit",
+      "id": "n-45128e6f75e97e65",
+      "title": "Key facts: BlackRock, Inc. $665M IBIT Inflows; TD Cowen Buy; CLO Fund",
+      "source": "TradingView",
+      "published_at": "2026-10-21T07:00:00Z",
+      "category": "CLO",
       "region": "Global",
-      "summary": "privatedebtinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVNCR1llcXZ2aW5Jbjh1RzBGem9tcTZwakpUYXVhNmtVLUZJOUUyME1iaTdFOURxN2ZaUVl2NExWeWNVdGRSVFZscXoyY1RKMXZEaGxKOWdaN0tNTXNKOGcwQlRoZk05bHNHQUF5LUY2RDlVOEJDUzJITGxnNW5PWW43aGZxczd2Ym83VTNXLWVfRktia0o5REVR?oc=5"
+      "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTdkNFN1cTc3TVNhRkpqcjkyYXpHNUdKYlFCRExTMWZ6OWZQY0RLcDdraThFRjdPcU0xUWVpdTVPYXpsaW9VVklwZlpJLV9WNUxhdzE4S3M1Z1hpTXU2THZJSFNsSmIxdDYyRzdpSm42V3ExamNscTRqN055VXVWVWluQUdaZUo2SXhJZE96ZFJURU1pVWZ1VFg0RHdHOWUwZjJYTHRjZk9CZkI3MEg3SVMtakVoSmF3MG5uQVNGMEhnMnM?oc=5"
     },
     {
       "id": "n-9bb08dd14527f902",
@@ -1342,66 +1402,6 @@
       "region": "Asia Pacific",
       "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVGQ1TVdwTzJFczFrbE80UUQ5TGZvdzJ5MjZwTDFSc1B0bGNJN2J0X0IxODFXVl8zUmVJNnBYQnZ3NDQxU1FPdXQ0UFpCX2xWaDhRLS15eXM3S2JkSkE5T1dhOWVoRnExQ0JuVXRVbEg5MEFxWTZVdTRBMGhUTWJIRWFmNzR6enNXZ3pieV9Fc2RGakNnUkJJeTBiVWNHWVZ5U2JFUzk1QUY3Y1NEOFpRb1FwckFBdw?oc=5"
-    },
-    {
-      "id": "n-a134134384efb611",
-      "title": "Private Equity's $12 Billion Self-Dealing Problem",
-      "source": "Bloomberg.com",
-      "published_at": "2026-10-20T10:00:07Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUjlrVGJGLVJUX3pZY25yWTNqUWxCZnpVNmNxSFRlbW9Cd1BzblV3bEkzU21qRWd5NUZ5VzQxekI1TVBINlhaYmRGWjZqakdicW1TRE9kazltRHNrYVpncmI0R0dNa282TUItR1BSb0htcllOeE5KYnFaOFdmZnd6dFQ4Qzdfc2dFbFdVMmEyYVV1REZ4bTBkbXVGVjFVTXlOdUhpY0ZiWTl0cm50eXFIUFdraVVJLTJPeUMzd3R1a3o?oc=5"
-    },
-    {
-      "id": "n-eb00004d3d9a4ecf",
-      "title": "\"Power is probably the forever bottleneck\": Grid delays threaten the AI race.",
-      "source": "Axios",
-      "published_at": "2026-10-20T09:31:58Z",
-      "category": "Infrastructure",
-      "region": "Global",
-      "summary": "Axios가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN095N2xyOEljTW53Y2djMG5Gek50Nkd5TERkbGdHVkxmbHdpcXZSbHgtWkE1bEpGT3l0Yk5sLUlSZUtGX3FjTWpwTWtYRlpsMDRmWTJ2OHJ3Q0UzRVpmLWR3ZTZfN0tiTjB5RHp0ZWdSbHF4ZTl3ZG1nQ2N5ZmRTME9n?oc=5"
-    },
-    {
-      "id": "n-394f0c5c1ff59c82",
-      "title": "Polaris to launch $630m private credit fund, one of Japan's largest",
-      "source": "Nikkei Asia",
-      "published_at": "2026-10-20T09:29:00Z",
-      "category": "Private Credit",
-      "region": "Asia Pacific",
-      "summary": "Nikkei Asia가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUzFwajBBTVQ4UGtoeDIzbV84b3lLZzVFQncxVnY3aWp4YWJaSV9mV09MMmxmaThrd042SF9sV0M3N0UyYTdMWk5qeGVOYlp4VFV1RDBiUUxhbXhoNV95Z0dYM2ppRDBpc3YyRmhtU2VuUlNSNU0wbkNtU0V0UnV5R1kzYXc2a3BKYW9NTFFKdG5fMFpEak9DUzNkMjNBRUxCVWNtUkFjYUlGdw?oc=5"
-    },
-    {
-      "id": "n-3083be2b30030ffd",
-      "title": "EIB proposes investment in Admaius’ Virunga Africa Fund II",
-      "source": "Africa Private Equity News",
-      "published_at": "2026-10-20T08:34:10Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Africa Private Equity News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUG94Q0ZEWHhMeGNudHBfZjZTRUFGNTJfZU1MWFlJTk81cW5aQXBRV0ItblNaSVRyOEhVTjRNQmtVSkRWRlJ5ZGtiNXVWT3p4eEQ3OURoRk5iUGhoWDJnb2xJOHl3VmVOUGtCMUZQbmx2Y3FaRkRHcXlrS1MwNjZxUld3?oc=5"
-    },
-    {
-      "id": "n-307917c82b1659c9",
-      "title": "英 FT \"사모펀드들, 일본에 이어 차세대 개척지로 한국 주목\" By The Guru",
-      "source": "Investing.com 한국어",
-      "published_at": "2026-10-20T07:35:00Z",
-      "category": "국내 대체투자",
-      "region": "Korea",
-      "summary": "Investing.com 한국어가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMWx4REZicjVIMF9CV2ZQU3VGZXhSN3F3OVhRSEEyOFhJUDF6MzA2b2NVLWVPaFEydzdoajIyaEFCRHpSeUJqbl9VWUNhXzVoWDFhdTRrWWFoWUgwZWtXdGcyc2MyVDAwU1k3dXhrMDI?oc=5"
-    },
-    {
-      "id": "n-173fc3feabb6cf21",
-      "title": "英 FT \"사모펀드들, 일본에 이어 차세대 개척지로 한국 주목\"",
-      "source": "더구루",
-      "published_at": "2026-10-20T06:27:33Z",
-      "category": "국내 대체투자",
-      "region": "Korea",
-      "summary": "더구루가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zeVFFcTc5UGszRm5FbHNERkNuRGNtRkVLNE9ZUV9nbnd3bzdKbl9ROW9zTzFsWjQ4YTZtUFNxWTFzemIwYnAyeldKLXZYeXRzcG5FbHVXdjR4ZDNFUm80dzhjcw?oc=5"
     }
   ]
 }

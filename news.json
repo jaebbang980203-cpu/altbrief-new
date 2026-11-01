@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T06:12:20.102179Z",
+  "updated_at": "2026-11-01T13:29:51.779606Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
@@ -314,6 +314,16 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbHZaUjNDQVlkZ21rVzRicUNVYTh1SEhFZWxkZ1oxcVJ3SXJBM3JSUGVwWnl1cUV6OWR0b2pRVTZHUHlubzlfTGJUcHRzbGJZNjhtak01OWVXQ0VfWkNzOXJMTnJuXzlyWDZPOXpraTloeWpXYnRJcHpRTGFSSURCeFN3a2pZWWIyYUdtaVdOQlBRU2tveGNaUjVHUnl3bDVkRERzYjdwY2xleFhhX2JSVjhSUkJ3a0ZxWVdXQ0JzWEpUREh6c0NoVW4za2xXZw?oc=5"
     },
     {
+      "id": "n-a7d8f3aa65164687",
+      "title": "Schroders Capital UK Real Estate Fund (0P0000YZEY.L) Seasonal Returns Chart",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-10-30T05:57:28Z",
+      "category": "Real Estate",
+      "region": "North America",
+      "summary": "Yahoo! Finance Canada가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHVzc5VjRTamo5RXAxa3d1SUdiMUJPOTNmZGVaaVFGUzIyaEl1WjA0SHRuam4xejdueFk3UF9aaGFEdFF5SUJFTHFkNk96ZUNBN3g5VXI4dXhwbDJDVHN1NXhXbF9oT294SnpnbQ?oc=5"
+    },
+    {
       "id": "n-cc7ec641d89cbd70",
       "title": "Cardo AI Introduces the Asset Based Finance Data Standards for 30 Collateral Types",
       "source": "ABF Journal",
@@ -408,7 +418,7 @@
       "title": "Cash plays outsized role in New Jersey Pension Fund return — private credit falls short",
       "source": "Pensions & Investments",
       "published_at": "2026-10-29T18:36:00Z",
-      "category": "Private Equity",
+      "category": "Private Credit",
       "region": "Global",
       "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkhOV0FRWVZUUXhqcWNqdUxqQTM3cG9WNlFDNGFJTzd0WVlLdEZTM3B3N00tM3dlNjRvTEFEOE5Kd1V5eVQycTVnUUJhUENTQ0RwZ0lhYjQ3SVlTQWJYTF9ZamJTVzF6dTFLaEEyZE5VQUNMQTNFZi10MnJVWVZxTmJDVThpa2ZRa19mVkh2Qi1wdEVubjlyTDJoZnhDQ3NDclVFb2xYeTkwOHBCY1pBcDNxZWRJQ2RYSlYwMjRNdw?oc=5"
@@ -424,6 +434,16 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWEM4TTFid2k1ZERySmk4VlUtOTVTUmxzeXlJNXFfaTlRWEJxeTVHaDJBNjJMN2xMTmFUeU04SjNJSDNRODFCWnNwM1l2NnZ2TkVBSlRjcGp2ODFQSTRIYXFhbmtuTVNPNkpHLWJyeFdrTV83bTRIbkJ5ZG1LTEExSjFWTE9CQVVRNThkNDNXc0MzSnJTRExwME5abHh1TXhfSTB6SDV4OWkwSVJ4UG5SX19qc0p2V3A2eWV0eWNUb2ZQWF9rMUE?oc=5"
     },
     {
+      "id": "n-3e0d43d71675a757",
+      "title": "Blue Owl's latest GP stakes fund close may slip to Q1 2027",
+      "source": "PEI Private Equity",
+      "published_at": "2026-10-29T17:03:35Z",
+      "category": "GP Stakes",
+      "region": "Global",
+      "summary": "PEI Private Equity가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnByZWo5R0l1M0JHSFVJUm9iZ0Nsc2tWYTU2Qk83ZFZGdElCMWFGdjl4dlZZTHlCT2h0Qm5iV1NwTGpIaDNIalcybElLUDBTd3pSd0Nxc2V3OWY4YlNBT0g1c0JjQUV4ZjlzdXlWQ0pEakwtQ0FLZS1GZ1hLUmFiTXlESjUzOFFVb3dyVFhqX3piSVIzSWNlMl8tZXhibG5mVDkw?oc=5"
+    },
+    {
       "id": "n-33355074c78d9b18",
       "title": "Investors double withdrawal requests at Partners’ flagship US private equity fund",
       "source": "Financial Times",
@@ -432,16 +452,6 @@
       "region": "Global",
       "summary": "Financial Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjlsU3RiS1JPMGlObFFuUUFGcUgxbmpDa2oxSUk2SDBMUFFPWGVBNFJ0TnZaZHR3U2tjdklmdllabnc3ZldPQlVqNElIOHJTQlEtY2Z2MUpYTUNKMU9mNWE3Ujk4OHEtbDdHa0dYU0VFbFZraTE0TG84dmV3X0xuY1ZDczE?oc=5"
-    },
-    {
-      "id": "n-3e0d43d71675a757",
-      "title": "Blue Owl's latest GP stakes fund close may slip to Q1 2027",
-      "source": "PEI Private Equity",
-      "published_at": "2026-10-29T16:52:50Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "PEI Private Equity가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnByZWo5R0l1M0JHSFVJUm9iZ0Nsc2tWYTU2Qk83ZFZGdElCMWFGdjl4dlZZTHlCT2h0Qm5iV1NwTGpIaDNIalcybElLUDBTd3pSd0Nxc2V3OWY4YlNBT0g1c0JjQUV4ZjlzdXlWQ0pEakwtQ0FLZS1GZ1hLUmFiTXlESjUzOFFVb3dyVFhqX3piSVIzSWNlMl8tZXhibG5mVDkw?oc=5"
     },
     {
       "id": "n-a5fbd083779d6337",
@@ -1156,11 +1166,11 @@
     {
       "id": "n-fb0ba4fc5e0c4078",
       "title": "Advent Raises $30 Billion for Top Private Equity Pool of 2026",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_at": "2026-10-27T09:30:48Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcU9tNTRyRGhQN0FEZ1pHRlhpNXVUWDZ3NmEwMklTOVd4cWNJU2pQakRtWkVoMUlRck1tVC15UlkzbUQyaHBsclVWQk9HS3Z3WW85Y29kRnFPa3FGODlyV2hCVG94bmt6c3NiODMyek9TbWYtR1ZQaFV1Rml2Y3d0LWpBaUJYQ1Z2c2N0WEZ5Wmsydl9jZEpXdExkcF9jMkoxOUdPT1VlSlFHeXp6WUpiOQ?oc=5"
     },
     {
@@ -1392,16 +1402,6 @@
       "region": "Global",
       "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXk3azlIblpSb1k3bnZsVFhkWFo2c1pFVDJuS0s3VlB3dE9VRDZBZ3J0clduNVV0a3VTVkplbU1qbWZhdTRhXzJGaDVoZlQ5RUQ2QmJJUUVlVHMyQWo2dHc5M2lxYVBBdFZXb25rVjFNakJHUExXM2lkWkJWTDN6aHJIekh6YUJURDB5ZlpDWVJESlVlUFpadFprZWhGR3JoYW1oNUdWb3N6SjlFSTVJdlZRYks?oc=5"
-    },
-    {
-      "id": "n-52988d39c3e51f38",
-      "title": "What to expect from the case study in a private credit interview",
-      "source": "eFinancialCareers",
-      "published_at": "2026-10-26T15:45:31Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "eFinancialCareers가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtQVUzQ3NqVHBZQTV2Q2M4QmQ1eGRPRTNyX09EZzFxV0VFNWJWX3I4Um93MFFTVWZLNWdsUThXbThXSm9mSDktS21tYW45VEhhOXpJd2thcWs1eFlRU0VYNXl4R21CN2R3NzBXSG5GVmo?oc=5"
     }
   ]
 }

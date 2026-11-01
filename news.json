@@ -1,8 +1,28 @@
 {
-  "updated_at": "2026-10-31T19:19:23.504393Z",
+  "updated_at": "2026-11-01T00:09:12.734882Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-be3d3c168126e130",
+      "title": "Taiwan Semiconductor Manufacturing (TSM) Draws New Sunbelt Real Estate Fund Around Phoenix Fabs",
+      "source": "Yahoo Finance",
+      "published_at": "2026-10-31T20:09:26Z",
+      "category": "Real Estate",
+      "region": "Global",
+      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUs5cmo0YzlWOTcxalA1NXI2TUFYeGNyRUhLSFN2enpRZUVDNjhucU5KOFJkNzYtUjM4d2wxTTVYaWVpSU8xM0c0WllPeFRkN2RKQmJlTzlVOS1BRHlyS1lpYjNXY0pyWGpzMHQzTElhMzMzXzI5dnl3RkZ3MWZ1S296dzFPZTVvb3N4X0FJRGl2OFZHSGlQRFphYUE5bGFDVWFDckRNaFdFdw?oc=5"
+    },
+    {
+      "id": "n-612a0b53eb7fdf5d",
+      "title": "Volition Capital closes on $950m for oversubscribed Fund VI",
+      "source": "PEI Private Equity",
+      "published_at": "2026-10-31T12:35:49Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "PEI Private Equity가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLXFzUlE3SkZSQk42bTllU3hlVEcxdWRybzAtME9oWV9iNFI2RFZvWG9xLVRNRE5LRzY5clBWV2tPVUl0TURGNWFTVkI3ZlZEaVYtOGRlT3RqTHpMQ1V4Mk9Rb2NBcVJfSVdFam5CckxKY2lIeFE5Mk9CSXVIM2pDbTdURUhIbEFqVGswQmdoSmhiMFlEOVNNYVFkbXJlZm1pdUZtRw?oc=5"
+    },
     {
       "id": "n-074a86e9aeb842ec",
       "title": "BNP Paribas stock: Q3 beat and EUR 1.3 billion buyback",
@@ -22,6 +42,16 @@
       "region": "North America",
       "summary": "Yahoo! Finance Canada가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CVHRVZmktcXM5RXFFbTU4R0FHTU5vODVHYXVtejFLa1FiaTBieVhKeGx5eUVIbk5fZTVvZ29acHdIWkkzeUM4TmZSVTFlckM5NzJ0X0FUT1E2QjZrYXMtVA?oc=5"
+    },
+    {
+      "id": "n-5451e6d327b8cf38",
+      "title": "Show Me the Exits: The Real Way to Evaluate Private Equity Performance",
+      "source": "KKR: A Leading Global Investment Firm",
+      "published_at": "2026-10-31T07:12:56Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "KKR: A Leading Global Investment Firm가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tc2JwQjVVVnJ6b29pSFBoQ0hYSTBTdGYxVThkdFNjSHRFck94NVlsY3ZpcWNuUHhJbmo1MGZ5QnUwZ2lSOTVwVXB2Yk15QW5YRGpURmJEVzJodw?oc=5"
     },
     {
       "id": "n-a0e5b0ce1348d990",
@@ -318,7 +348,7 @@
       "title": "Cash plays outsized role in New Jersey Pension Fund return — private credit falls short",
       "source": "Pensions & Investments",
       "published_at": "2026-10-29T18:36:00Z",
-      "category": "Private Equity",
+      "category": "Private Credit",
       "region": "Global",
       "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkhOV0FRWVZUUXhqcWNqdUxqQTM3cG9WNlFDNGFJTzd0WVlLdEZTM3B3N00tM3dlNjRvTEFEOE5Kd1V5eVQycTVnUUJhUENTQ0RwZ0lhYjQ3SVlTQWJYTF9ZamJTVzF6dTFLaEEyZE5VQUNMQTNFZi10MnJVWVZxTmJDVThpa2ZRa19mVkh2Qi1wdEVubjlyTDJoZnhDQ3NDclVFb2xYeTkwOHBCY1pBcDNxZWRJQ2RYSlYwMjRNdw?oc=5"
@@ -348,7 +378,7 @@
       "title": "Blue Owl's latest GP stakes fund close may slip to Q1 2027",
       "source": "PEI Private Equity",
       "published_at": "2026-10-29T16:52:50Z",
-      "category": "Private Equity",
+      "category": "GP Stakes",
       "region": "Global",
       "summary": "PEI Private Equity가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnByZWo5R0l1M0JHSFVJUm9iZ0Nsc2tWYTU2Qk83ZFZGdElCMWFGdjl4dlZZTHlCT2h0Qm5iV1NwTGpIaDNIalcybElLUDBTd3pSd0Nxc2V3OWY4YlNBT0g1c0JjQUV4ZjlzdXlWQ0pEakwtQ0FLZS1GZ1hLUmFiTXlESjUzOFFVb3dyVFhqX3piSVIzSWNlMl8tZXhibG5mVDkw?oc=5"
@@ -476,11 +506,11 @@
     {
       "id": "n-de3280360e23be09",
       "title": "Ares Draws $8 Billion for Flagship Credit Fund’s First Close",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_at": "2026-10-29T10:00:03Z",
       "category": "Private Credit",
       "region": "Global",
-      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalNkUjFZUUJ2NjN3YndxeDFmVWEzTzZFTllPeEFxRVVqVEJXYUZzd2tBQmdvZzVNbld3NnRGY2pDU010TWJpYmoybHJjNHJoYU53YXp3OWdHb25YQUdsMmZiRXV1V2xhZ3hMak82U3FYaDh4dTFmOXVpTHZPWUk3MmN6V1pUUDNjcG03ZEdsNlUtTGNhaFp3YTJqYkhZcGlmWW9kUFlUdWxVNU8xVFhv?oc=5"
     },
     {
@@ -524,14 +554,14 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lZkU0M0F1THlIalU1bmtXX3N6R2R2aENjQ2dsMkV3bWJkZ0JiOU51MThWVzIxNXFidVhLaHNCWkxtaG85aE4tbklvVEkzMkNTVnNPX2NQdUdJMTdndE9BTlJ5MTliVU1aVFQya2NmRnZQbXZTSENXVVZR?oc=5"
     },
     {
-      "id": "n-7738644cfaab7bde",
+      "id": "n-6d8c8368f3f63691",
       "title": "EfTEN Real Estate Fund AS unaudited results for 3rd quarter and 9 months 2026",
-      "source": "Yahoo Finance",
+      "source": "Yahoo Finance UK",
       "published_at": "2026-10-29T06:00:00Z",
       "category": "Real Estate",
-      "region": "Global",
-      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmU2X3cyZnhBbVV1NHhkdXBWUHpuS2tTRzRDZTNKeFhVbWZWRmU3bklpZ1ZLNTVCUU9teGI4WElieWd2OUl2S04zNmg3RXQwcERBQWQtX19nM3JxUUZzRXZDaVhQUUx0SEMwYnpwX3RybzIzZjBoYkEwMm9YNmRnVTN5ck9OcjJtV2JwV21rV2VhRGN5dm0tUDh3?oc=5"
+      "region": "Europe",
+      "summary": "Yahoo Finance UK가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVGdLci1iVDh1UndTa1ZwSFZaMFEzSEJLd2l1bU9yaVE2Yk9UZmtXMl85OVRfaGZhZHRfejRERDlDMzRnUExJS09pZURGOEhiNm9ISmxjMTQ1NjBFSDdIR2dUeFUzRldGcmVlODdVSjVKemRVU0hLSFJxNjN0RGFiM1FVMkcydFdy?oc=5"
     },
     {
       "id": "n-ff0ffb9447143ab4",
@@ -572,6 +602,16 @@
       "region": "Global",
       "summary": "Business News Wales가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmVmek5kN1V6VFc5NzE4Mk1pS3FyczlkOVo1NFkyN25zR09NUHRGa2hJQzhYMVpmTzAtR3BMT0E1VmdXaTlGalVBOUU0ZUZjUzVmd2xVV0s0ZXR4dlVKb1liQWx6WUxBZ01ZeGktcE1FLTR5LXhuRnltdVVvN3RhRm5tZkxrSWEwOE5aOE9LTEF6Vk1KTFhCUHA0SHh2ZkN3WmtNeVV3SmgwSVlhZzJ4TC1IbG9OTms2d0E?oc=5"
+    },
+    {
+      "id": "n-066e6f898caa1c5c",
+      "title": "Private Equity’s Significant Debt Problem Has Been Building For Years",
+      "source": "Forbes",
+      "published_at": "2026-10-28T17:04:34Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Forbes가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSHBudDRtNDJWS0FnYlUwZXY1NzlwTHdFWlRrRlh0ZzdOczZUSFd4OHJNT1kzV2FjNEtvc25KRnZTOUozQ3hXSTZoaDM2X24zbFoyQTFIYXpkWDB6Z3U0TFBrNnN3QzliMVMzV3lveWRpUXZHcmZKRXJQc3FDTGxZdVQ1bGNRVzk0WnhuWlJKNjhQNGRsWlRRdDlrQlJsbzNDNGhNWF83NlhKTVY3X2ZwXzVYaHhuaUlyaFBZRUtDTUEyTHhHZ1dVZlVIQVhCUUE?oc=5"
     },
     {
       "id": "n-a6819d02961a68f2",
@@ -824,16 +864,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQczJXb3dOcEVaVXpsbERuM1kwZG1oN1h2ODJnTVd4MTdySkR4dnJMMG5NcjdmYlJfWnkyOFREZDVaT0c1ejBEWF9YTFNvSGpqNkd6bk9uMTE1S2JXekpZRmdrWFBGMlhSVTZpRktZc0ROX2hWRUN6ejM3WnZuNE9mSmlDM2poVlBO?oc=5"
     },
     {
-      "id": "n-5451e6d327b8cf38",
-      "title": "Show Me the Exits: The Real Way to Evaluate Private Equity Performance",
-      "source": "KKR: A Leading Global Investment Firm",
-      "published_at": "2026-10-27T18:54:16Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "KKR: A Leading Global Investment Firm가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tc2JwQjVVVnJ6b29pSFBoQ0hYSTBTdGYxVThkdFNjSHRFck94NVlsY3ZpcWNuUHhJbmo1MGZ5QnUwZ2lSOTVwVXB2Yk15QW5YRGpURmJEVzJodw?oc=5"
-    },
-    {
       "id": "n-3d2bd4ace3d82017",
       "title": "Scotiabank lines up significant risk transfer on about $2 billion of loans",
       "source": "Briefs Finance",
@@ -1056,11 +1086,11 @@
     {
       "id": "n-fb0ba4fc5e0c4078",
       "title": "Advent Raises $30 Billion for Top Private Equity Pool of 2026",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "2026-10-27T09:30:48Z",
       "category": "Private Equity",
       "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcU9tNTRyRGhQN0FEZ1pHRlhpNXVUWDZ3NmEwMklTOVd4cWNJU2pQakRtWkVoMUlRck1tVC15UlkzbUQyaHBsclVWQk9HS3Z3WW85Y29kRnFPa3FGODlyV2hCVG94bmt6c3NiODMyek9TbWYtR1ZQaFV1Rml2Y3d0LWpBaUJYQ1Z2c2N0WEZ5Wmsydl9jZEpXdExkcF9jMkoxOUdPT1VlSlFHeXp6WUpiOQ?oc=5"
     },
     {
@@ -1207,7 +1237,7 @@
       "id": "n-d0b97f377748814f",
       "title": "GTCR closes in on $15bn hard-cap for Fund XV",
       "source": "PEI Private Equity",
-      "published_at": "2026-10-26T20:05:06Z",
+      "published_at": "2026-10-26T20:19:27Z",
       "category": "Private Equity",
       "region": "Global",
       "summary": "PEI Private Equity가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -1372,36 +1402,6 @@
       "region": "Asia Pacific",
       "summary": "https://streamlinefeed.co.ke/가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkR6WTlQVkpsOGlXblhtUnZPZmFFVHJoWHJJendhOVVGUVdveGZJYkxMVkZ3MHRTWVNtbjU2U3RJTW1vd29FbF93VkV4TUVwaUYxZC1BOW1CWEhjOHRsMHQ0Wi1XM3pOLUY1WDY0SHJObGljY2tCa09EdzdvejBCOGdGcFZhZy1SSWVQc2w4azM1SkJXRGxzZkFVaGZ1R2NEOGJkN29YUmFFSzZJZy1tbE5lZWtoVEtHQl82XzB2bXRXUQ?oc=5"
-    },
-    {
-      "id": "n-a72ba397abcae12f",
-      "title": "JPMorgan analysts predict GFL will turn down private equity buyout",
-      "source": "The Globe and Mail",
-      "published_at": "2026-10-26T09:00:00Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "The Globe and Mail가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRUJGY2VJemxGSk85d083OGExSi0zM0tKQ05ONzdtWVN3TTV2NWZLQkFpdXpET1VsWW1ELUlPMnpoX3JWM1dCaTZCWFhzaU45MWJDWDdTOVhnRG1DYWpydC02b1VzQkl3dDRvVVBjVlhCQl96LU03S0RkYlpacXRqYUh6c3VaWGQxams4QmNqMjBmVHRS?oc=5"
-    },
-    {
-      "id": "n-8064b7df738165bc",
-      "title": "\"차입 인수·먹튀 막아야\"···국회·노동계, 사모펀드 투기 자본 규제 촉구",
-      "source": "대구MBC",
-      "published_at": "2026-10-26T07:00:56Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "대구MBC가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1oX1Q4TDBGZXdDVFByTHdOazR1NXNhMVlOejVpa1lwc2x1bVhhYkpvT1dQem9hRWt2dlBqaF9tTXpmNlQ2NTdpZVNYMl8?oc=5"
-    },
-    {
-      "id": "n-0d26b49b1e81b57b",
-      "title": "Loan Note: Time to enter the PEI Private Credit Awards; Manulife hires for emerging market private debt",
-      "source": "privatedebtinvestor.com",
-      "published_at": "2026-10-26T07:00:00Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "privatedebtinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSnpXbFIzZUpJdk40ZnItb1Z5WTZJZHBScVl5MzRUcWxHczVEdTNvN3RTcTczYlhQV01jUmVDcVpEYVI4ZkRrdUtBVzNhelBDa3F0aDYxUzZzRUI2bGlBREcwbW1LTEpDMF90TklGNkEwZWtFaWsxN2VtTWZEWXhQLXN3VVJDa3R6NWZWSTdLSFc5VmJobXVkdWc5WFhaUFRYMElKN0NEbG56WTYtX2EtX2s4eWZibnlxMzBTTmJMVnVuX1BSdjRPQVpJQzYxdjJHQUFEQg?oc=5"
     }
   ]
 }

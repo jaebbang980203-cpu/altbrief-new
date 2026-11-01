@@ -1,8 +1,38 @@
 {
-  "updated_at": "2026-11-01T13:29:51.779606Z",
+  "updated_at": "2026-11-01T19:43:23.501103Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-77730661f2c9414f",
+      "title": "Banks Start Reviewing Loan Terms for Clients in El Niño’s Path",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-01T12:30:00Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYzE2U3M4RDUwZDFab2o3ZVR2NnVfRWxfT3RzajZMRElFTzktaGE3U2tfdlFYY0hfMzhlWE1HSFQ0SmpZdFFFR3pHUzhWbUU5SlFtdnA5aWktV0ZYVGtBQXc2TE0wdUo4SU5XR3VqSnluVDVDLXlFaGRBQnRuRm1tdzh4cjIzRW02d0ZNaXowRC1CbC1jTEIxT3VRbktudw?oc=5"
+    },
+    {
+      "id": "n-74d15f42356ec9a9",
+      "title": "한투·日 SBI, 1조엔 AI인프라 펀드 추진",
+      "source": "매일경제 마켓",
+      "published_at": "2026-11-01T10:50:59Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "매일경제 마켓가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tQnE5SG5qdzlQeW1tM3BES09KUGRoLXhkcDNKSTFzRTg3S2EyUzFmYy1fU3g1NkZKWHV1bnhKZDB6b2dxYmg0dDNQcDhGYlJzbWc?oc=5"
+    },
+    {
+      "id": "n-054660ffe163fe60",
+      "title": "Ares Private-Credit Fund to Buy Competitor From Apollo",
+      "source": "WSJ",
+      "published_at": "2026-11-01T10:24:49Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlZwZ1FEMW04cEtxdzdaV1RaNm9ZUXl3NlNEQmRuMk1qT0p5aXRNTEZ6RS1qdjJURFdVUzhGRWV6QmZKdUNmZklVaW95T0c0R2llRWdnckJEYy1IN1lxMk5aRzAtU24zbkkwb3cwRzc0NXJqb1A4WXo1QXl4QUZwOExVSThLY2o0MFA0Q1lQZG03ZDVLckgyeGlZbjFGZzVUMVB3?oc=5"
+    },
     {
       "id": "n-85e5538009adb9dd",
       "title": "Allos stock weighs revised seven-mall fund transaction",
@@ -418,7 +448,7 @@
       "title": "Cash plays outsized role in New Jersey Pension Fund return — private credit falls short",
       "source": "Pensions & Investments",
       "published_at": "2026-10-29T18:36:00Z",
-      "category": "Private Credit",
+      "category": "Private Equity",
       "region": "Global",
       "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkhOV0FRWVZUUXhqcWNqdUxqQTM3cG9WNlFDNGFJTzd0WVlLdEZTM3B3N00tM3dlNjRvTEFEOE5Kd1V5eVQycTVnUUJhUENTQ0RwZ0lhYjQ3SVlTQWJYTF9ZamJTVzF6dTFLaEEyZE5VQUNMQTNFZi10MnJVWVZxTmJDVThpa2ZRa19mVkh2Qi1wdEVubjlyTDJoZnhDQ3NDclVFb2xYeTkwOHBCY1pBcDNxZWRJQ2RYSlYwMjRNdw?oc=5"
@@ -438,7 +468,7 @@
       "title": "Blue Owl's latest GP stakes fund close may slip to Q1 2027",
       "source": "PEI Private Equity",
       "published_at": "2026-10-29T17:03:35Z",
-      "category": "GP Stakes",
+      "category": "Private Equity",
       "region": "Global",
       "summary": "PEI Private Equity가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnByZWo5R0l1M0JHSFVJUm9iZ0Nsc2tWYTU2Qk83ZFZGdElCMWFGdjl4dlZZTHlCT2h0Qm5iV1NwTGpIaDNIalcybElLUDBTd3pSd0Nxc2V3OWY4YlNBT0g1c0JjQUV4ZjlzdXlWQ0pEakwtQ0FLZS1GZ1hLUmFiTXlESjUzOFFVb3dyVFhqX3piSVIzSWNlMl8tZXhibG5mVDkw?oc=5"
@@ -502,16 +532,6 @@
       "region": "Global",
       "summary": "Reuters가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONW1wWWw1XzBrM3RnRHgwTzVSRnlINGkxZXhlaDF3Y3k1TFVxcUYwSm9ybElaUkVYSlVPZ1FUbGs1QnBPZXdhMmFPd19aU1RzVmJNWDBwRXp4dEFkRmw3NDE4MXdQeDNFUWdtWElDVzNWM0o1WkVfMzZ0a0RGVnFyRDdrQUtXOFpPbUFQVzR4WUZqSmQwand5RTR6NU5WM0toWVBFdGYwczMxbWQ1VThUWGxyUThCSUxEUUZXaVJvMGdTc3ROanFYUF91WFppb3ppQ2hSaQ?oc=5"
-    },
-    {
-      "id": "n-054660ffe163fe60",
-      "title": "Ares Private-Credit Fund to Buy Competitor From Apollo",
-      "source": "WSJ",
-      "published_at": "2026-10-29T13:28:58Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlZwZ1FEMW04cEtxdzdaV1RaNm9ZUXl3NlNEQmRuMk1qT0p5aXRNTEZ6RS1qdjJURFdVUzhGRWV6QmZKdUNmZklVaW95T0c0R2llRWdnckJEYy1IN1lxMk5aRzAtU24zbkkwb3cwRzc0NXJqb1A4WXo1QXl4QUZwOExVSThLY2o0MFA0Q1lQZG03ZDVLckgyeGlZbjFGZzVUMVB3?oc=5"
     },
     {
       "id": "n-31818794936eb97a",
@@ -1382,26 +1402,6 @@
       "region": "Global",
       "summary": "Briefs Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZS1JcENvR2k0VXlNWGtmYU9pV1R3WVJlZ2VPbnBEaUJGdkY2M0hUNlJGODVMeDhkRXhXNm4yZlVFOVRmY3pvMU9MdUlMamhUWGc3SHNJRXZHdTRqWlBDSlp0UnY2SjVnNHFoVG9JZjZad0R5ZFN2NjJtQzY2Yk84QW1JaWozZDVUcHFvdA?oc=5"
-    },
-    {
-      "id": "n-538619f53ecaff5e",
-      "title": "In brief: Maycomb raises $100m for impact private credit",
-      "source": "New Private Markets",
-      "published_at": "2026-10-26T17:14:11Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "New Private Markets가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZnJEaHRzbjJld04xY0NCQS0ybmdNYTdmVWlSbDEtRTRFZS1YdlZMSDJOV3pLM3VEQU9OQ2stcDNvUmZPTkhPZ2VaQ241MmJfcVhCMUhhb3plbEgtREFsODFGUm1OT295ZVNLSUJrQlBuZmhjUGZya1c2N1cyR0FuYXZCUWtEOVFab211dWFvaUtOYjg?oc=5"
-    },
-    {
-      "id": "n-4570548b34c4796e",
-      "title": "BNP Paribas Plans Jumbo SRT Tied to €16 Billion of Company Loans",
-      "source": "Bloomberg.com",
-      "published_at": "2026-10-26T16:07:01Z",
-      "category": "SRT",
-      "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeXk3azlIblpSb1k3bnZsVFhkWFo2c1pFVDJuS0s3VlB3dE9VRDZBZ3J0clduNVV0a3VTVkplbU1qbWZhdTRhXzJGaDVoZlQ5RUQ2QmJJUUVlVHMyQWo2dHc5M2lxYVBBdFZXb25rVjFNakJHUExXM2lkWkJWTDN6aHJIekh6YUJURDB5ZlpDWVJESlVlUFpadFprZWhGR3JoYW1oNUdWb3N6SjlFSTVJdlZRYks?oc=5"
     }
   ]
 }

@@ -1,17 +1,107 @@
 {
-  "updated_at": "2026-11-03T06:52:24.126572Z",
+  "updated_at": "2026-11-03T17:05:27.096395Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
     {
+      "id": "n-c2bd9532b19124bb",
+      "title": "Has China’s infrastructure investment peaked? : Global Times editorial",
+      "source": "Global Times",
+      "published_at": "2026-11-03T15:38:00Z",
+      "category": "Infrastructure",
+      "region": "Asia Pacific",
+      "summary": "Global Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zLXFCU2Q4dXlOQmw3cTFlUEU3dEdzMXJoRGItMzhvb3pHZmFIRUNGaFFhanBJVVV5US0tbWJ3alhxQkZNZDFvMkx4Ty1Oc0ROZ3VyMWNjT3FmTmUzYTdPM2F3?oc=5"
+    },
+    {
+      "id": "n-1956275fac3ed139",
+      "title": "ADIPEC 2026 Day Two: Energy Infrastructure Investment and Supply Chain Resilience - News and Statistics",
+      "source": "IndexBox",
+      "published_at": "2026-11-03T15:01:11Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "IndexBox가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzRIbXhhelE2cUxfSlJpclk5cEhrRVZveTc3RjRSU3ZMYWFDcHZ1ZDdGcF9ON29fWVJlSTgwNzFKbmhXcy0yb3BZeDhqalJIdjdKeUoyeGliM29sdlNoU1lGRWVoc0hLRkNac3ZSVnduSEpEMV91VVdNZm80ZFRIMkx0U09kTk9mcEJqMVM2WnRaME93YXNWb0lUVGJzbFJnSkNsdXdwRWdkT0VjWE1QODR3?oc=5"
+    },
+    {
+      "id": "n-e60ee6807ee4da9a",
+      "title": "Deep Dive: Why Asia-Pacific private equity is shifting from growth to control",
+      "source": "PEI Private Equity",
+      "published_at": "2026-11-03T14:54:26Z",
+      "category": "Private Equity",
+      "region": "Asia Pacific",
+      "summary": "PEI Private Equity가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaVhCSjZiV3pma3IyaUtiWFZQcldfTXhrZnA5MnBVb3VXdDU3eWNPY25CcjBtT1FwVnpwNGMyaDRYLTdIRXRjQ0VqVnF2MVk3RV9lRHhUVU1xanRpVmMzT3Fvam1hbm00WWIybmF5SlJKWUFzcERQUy1MMGE2RUdGeDk3UnExNTVyMDBhbTcxRVhTclhoaUVtOUVYS3VMYXltUEZkc0hiaVhrNE9PcE9XTGRiNUFXbUY0dUhTYQ?oc=5"
+    },
+    {
+      "id": "n-04bbfaf5655aaeed",
+      "title": "Aramco looking to circumvent Strait of Hormuz via pipeline expansion, CEO says",
+      "source": "The Jerusalem Post",
+      "published_at": "2026-11-03T11:26:33Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "The Jerusalem Post가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMF9yQThid09BLUZicDhxWUtfQlBJYzBzdTkxR2xXMUZwMVEtR1hfTVZHOWVHV19SSkV3cUZYQW9MU2FOcEZvbi1IWFVmLU5RZTg5aWVjc3djYy1s?oc=5"
+    },
+    {
+      "id": "n-7ad7ed0872913e06",
+      "title": "On Wall Street, the ‘energy transition’ includes natural gas and data centers",
+      "source": "Grist",
+      "published_at": "2026-11-03T09:16:34Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Grist가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmhlLUdJZGtjbGc4T0NCYXNFb0NVbzdNX2s2Mmx1MmJNME0wN0ljdUpoMUk2NW1xMXI5RzhkZ2ZJVEwyc0VFOWp5Y1NnUnl0a3NwV1p4cXBFbmNYcjFyMU1XdHJtakJLbklNdUNlLWZyVHJOLXFoQ1lQT2RSNjJYUjdLcG9BSmw0NDRQMEdrZlJtRlpMTUdGWUFZQWRZZkEwY082aE5R?oc=5"
+    },
+    {
+      "id": "n-8ee28262546f4d4c",
+      "title": "Banks drive significant risk transfer sales toward another record",
+      "source": "Traders Union",
+      "published_at": "2026-11-03T09:11:33Z",
+      "category": "SRT",
+      "region": "Global",
+      "summary": "Traders Union가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN3NzRmZmbjlQZ0JIeVg0R2h0U2Y2cjFpMlZlOEN3bmlvdlZETjVGejVlTXpTblBuWXk3UkdOWEJKTkpmY04xbDNGeUlJSy1YRDk5RTJldXE0eVBQbVI0Z1lPSWdHNGlaQWNfTVRUVUg0dk5YOXNMUU9CSi1xRkg2TVpDRmJrV285b1VlTllJUWFRNWc?oc=5"
+    },
+    {
+      "id": "n-9cb28d333e0abfd9",
+      "title": "American IRA Hosts Monica Ho for Webinar on Private Real Estate Debt and Passive Income",
+      "source": "EIN Presswire",
+      "published_at": "2026-11-03T08:00:00Z",
+      "category": "Real Estate",
+      "region": "North America",
+      "summary": "EIN Presswire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWGcxWEpoNUlfV1kxMnBScm5oSVNJV3ZWSjdNV0xNQ3BJTjRfWVJaWkhOdU9HLVo1NGVjOExtYmt5YkxGU2VEeDlXcEc3eFJKazAwaTNlTDVuc0pXQWxRRE9JQzV2dVRPQ3ljNE9aLXJOYlM0R0xLVFE0b09JWndwdVMzUU1rQXFCa0s2MmRGbXNaNV9lWkJKNEJkZU1vWWZJcWdpMHZrYjYxak90NVpUTHVtaENOTnlZdXlkR29IZ2hWUWtqTjFqTzBJZU1Hd0E?oc=5"
+    },
+    {
       "id": "n-937e37f0e35098a9",
       "title": "UAE plans up to $55bn in energy infrastructure investment",
       "source": "Arabian Gulf Business Insight | AGBI",
-      "published_at": "2026-11-03T06:37:49Z",
+      "published_at": "2026-11-03T06:38:00Z",
       "category": "Infrastructure",
       "region": "Middle East",
       "summary": "Arabian Gulf Business Insight | AGBI가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNE5nUWIyWnp5ak5iTmJENGNoWVNac1BqTlIwb2RDZG5EdU51QmRjdmV6WlU2UU51LWN6QmpfeWhJSUEyRjlpQ2V1ZW1lVmkyU0taZTJ1dnBLSGVTaVNXWWhnYldBZjBEaEgzb3lwRXoxbGJBZXpRV1Q0cTFxXzlGQmNIcGpyRUozcEhPX2FuUlVWU3h3MURzSA?oc=5"
+    },
+    {
+      "id": "n-d5b793290d1219b5",
+      "title": "Digital Infrastructure Investment Tops EGP 600 Billion Over 10 Years",
+      "source": "CairoScene",
+      "published_at": "2026-11-03T04:03:01Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "CairoScene가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORFVCZXpWanJxLVZOSU9PcmVYMmhvMWdNRGhGM0lqcC1ESTNCZ29YOFpnS2kxUXdqbk1FMGdXd2p1Q0FrOXdKQ2p5S0dCXzRjdmlCdmNfaXFaZk5kX25hRmVnVU45Y181cHc1cjBRYmk4ci1fSFRfUEJXa1Rfdjc0TTJraTAxX2xvQ1UxLU1SRVJ4Y2h3cjdldGdITzM?oc=5"
+    },
+    {
+      "id": "n-d1e538ef7934c352",
+      "title": "Consistency without uniformity: Unlocking water infrastructure investment",
+      "source": "Water Magazine",
+      "published_at": "2026-11-03T04:00:21Z",
+      "category": "Infrastructure",
+      "region": "Global",
+      "summary": "Water Magazine가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHdGYWxvc1VUb21HWTlqay1HRTFhUk9hTUNlR1JSaWhkWGgxTWNCd1BtdmtZZlRVVFZlTWF6d0w4M2lRU2VnREVPWUFZcXo4WlBCVjRyUTg1TXo2RzNXbUhwWGZzOUExTkU3d25XN09USzhpdDRrQTRiYXg2aEtqbkJEa0RaNlZZT1BkLXhPTV9tcVJCMW9VZkRIOWh0Zlpwd0Z5UlEtQzZBTTExamkwY0ZMQUJGRFU?oc=5"
     },
     {
       "id": "n-763db773cccbc3f5",
@@ -144,6 +234,16 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdDVMc0xmSnRYUjlWMTR1THZjUVVVWmd2NWhOM1FLdWMwRGQ0elBQUHNodGltWEg5a25zdkdtQ3dCMU9xRE9FNW54OFVZUEgwQ0VYVUZDZjFrem1XU1c2ZEVWRU1oWHV6VDNleURnQWE3NWNFa3NhdjRLX3JMUS10dWlGakw4LWFwTVVMdG1xSnNha0lndVhkZnJUUjNRVUhfTjF1UzN1dw?oc=5"
     },
     {
+      "id": "n-0a007b6bc6d833b8",
+      "title": "Nearly 1 in 8 U.S. hospitals owned by private equity firms, watchdog says",
+      "source": "HealthExec",
+      "published_at": "2026-11-02T12:14:16Z",
+      "category": "Private Equity",
+      "region": "North America",
+      "summary": "HealthExec가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcWRRaG5tVF9ncjNQV01ncjVqMUVnaUdIUWtLZ0JvZWI1Zm1FaDJiS2NaWXRVaVhzTkhLYWdSMU1TRWsybGZsNDNrVzRKa1N1am90ZXBibnRycnlLbDhKVlRvQ3JKay1OQW5FVFQxYjVvTG1iVk5hZGZqRDB5RzFqc21FTHo4MExrOE42elRpbk9LZ1F5Y3RHUU1UdFlseWhWZVJmNnprSG50TUtjZ1JWUDdxb0prSEhnd0liT3Vpa01fMHNWVmZJUGw1bm1OaU4yMFpVRw?oc=5"
+    },
+    {
       "id": "n-a037d6d5ab37bb58",
       "title": "ID Plans lands investment from Boston private equity firm",
       "source": "The Business Journals",
@@ -154,16 +254,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWDFsRElzbUhydjQ4eEh1ZFhBZVlDUXJRd05CdHdTZkp1WUxVRm5IenMtVFp4WDNXVW5FNmV1X3dFN1FfbnpUOGtMbmdLVTg3X090OTdoZEhnTEdKTzNfWTRzQUprLUk5cms1bjl5S2llbHdDcHZ1UUItVjN3WFFNRjF5WmVkSmYtLTdyV3pUSkVHWFhtTjRsMGZBUF8?oc=5"
     },
     {
-      "id": "n-65a511250fa37c93",
-      "title": "Private Equity’s Take-It-Or-Leave-It Continuation Deals Frustrate Investors",
-      "source": "WSJ",
-      "published_at": "2026-11-02T11:00:00Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaThDTmhkamhYWllPMEhHUGVBMkYtZUN1Vlo5WWQycWZpcVlCSUZCN1lZTkpiTkoxckVEU2h4LUJINTBnejh1STVsdTBJMVJzZHd6cl9WV2xxNUp1V3M1VTZrMUY5TnVZNmo5OTJfTV9tZXMwYlBQVFI2Tk1KRFBTdGcxcGtFU3pkWFYwSlJCZ1dNQWo2alozbG82cU9qOXdCQUV5UEdyWXIzOGQ4R3NZZlpqMlExOTF3eUdFaHNVbw?oc=5"
-    },
-    {
       "id": "n-18e1f21fcb4fc2c1",
       "title": "Weekly Recap: Loan risk transfer and Canadian prime rate increase",
       "source": "TradingView",
@@ -172,6 +262,16 @@
       "region": "Global",
       "summary": "TradingView가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd1FWOUY1cW1pVTFSaU44RzNWdUNqY3hZMFFhRUZLM0VJNHh6WnhDY1ByMnBPaUVTS1JMR19RR0xrM0R6aklJbzg4aDB6YkI0Z083QkFWTVV2VEQ5SGh6RlhlSzlaYkFfQXFwRnJyY1l0bGtVLWVCR1dkWHhqSzkxaU51TkVwMUNMVEpFdm9oSmhIOWV0SHRRdzdfOHV5aDhiVU9KUlltQXpKZlRoazhUTDNpX0MzbndfcHUxb3NmeE9meUxo?oc=5"
+    },
+    {
+      "id": "n-65a511250fa37c93",
+      "title": "Private Equity’s Take-It-Or-Leave-It Continuation Deals Frustrate Investors",
+      "source": "WSJ",
+      "published_at": "2026-11-02T11:00:00Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "WSJ가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaThDTmhkamhYWllPMEhHUGVBMkYtZUN1Vlo5WWQycWZpcVlCSUZCN1lZTkpiTkoxckVEU2h4LUJINTBnejh1STVsdTBJMVJzZHd6cl9WV2xxNUp1V3M1VTZrMUY5TnVZNmo5OTJfTV9tZXMwYlBQVFI2Tk1KRFBTdGcxcGtFU3pkWFYwSlJCZ1dNQWo2alozbG82cU9qOXdCQUV5UEdyWXIzOGQ4R3NZZlpqMlExOTF3eUdFaHNVbw?oc=5"
     },
     {
       "id": "n-3780003bc2160230",
@@ -194,6 +294,16 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DUk40RHBsMG14cnBQdjgwTmE5ZWpHaTQ5YmRialVXbUFyVks3dHExMG0zX1lrR3dJa2tUdzZ2YXh3THY1blZvT1lXaGJkdURPenVpbk9VSmtZdW1kUzNZTg?oc=5"
     },
     {
+      "id": "n-3d5bd910c2a51097",
+      "title": "BDO CEO Sees No Need for Private Equity as It Consolidates Units",
+      "source": "Bloomberg.com",
+      "published_at": "2026-11-02T09:00:00Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdDJIdjNrVHRIeEQ2LXpNX1F4OFhkeDJnb25vRnJLQm16VkhYdEVkdXE3M2d5NmJTSGRfNHp6U1FDOVUzSzFZRHRDSlpXNkFqMm9WOEJaQTJNM0RIcWtoVHBVVWZDUzYtMDFXQUdTbklHaVFWRUNiQ3g5SkJybVdNNThKSVdSeHFjWWpxaXgxZGlmTW1tVXJ5YnBqc241NjJ4d2FwX0VBRGxLamV1ZEJCVjFTVEtmQQ?oc=5"
+    },
+    {
       "id": "n-116f0f628485ec07",
       "title": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
       "source": "CNBC",
@@ -207,7 +317,7 @@
       "id": "n-73703aad835f1ad6",
       "title": "Igneo sails past target to close EDIF IV on €6bn hard-cap",
       "source": "Infrastructure Investor",
-      "published_at": "2026-11-02T08:02:20Z",
+      "published_at": "2026-11-02T08:05:21Z",
       "category": "Infrastructure",
       "region": "Global",
       "summary": "Infrastructure Investor가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
@@ -244,6 +354,16 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5odTd2T3BLS1ZneTI5b3d6STc5Z0V0QjBDa3BzdGM3Tm5EYmhGUXFHeDlLbkRsdnBEWUFUdDBQVlpPY2gzYXFPTDUwQVdyVUhwbjI3aDdQUjJWal94NkdOajZVaHlDTUpT?oc=5"
     },
     {
+      "id": "n-129cc7caf90e97aa",
+      "title": "산은인프라자산운용, 전주사무소 개소 ... 차별화된 대체투자 전략 제시",
+      "source": "파이낸셜신문",
+      "published_at": "2026-11-02T06:07:04Z",
+      "category": "국내 대체투자",
+      "region": "Global",
+      "summary": "파이낸셜신문가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pNkY2eTZ2aklZdmp4cFg1YnIxX3lONzdjRGZhY3pteDJzTTZCZFNzTkU0dTVGb1c0VmRLY0hfMXVFbWFuRmZaSDF4czFwUXM2bnMwbUFOV3N5R3Q5amFpMUVFV1Y3ZkxhNEhj?oc=5"
+    },
+    {
       "id": "n-90840deede261ee4",
       "title": "Barings on what’s driving the growth of private investment grade credit?",
       "source": "privatedebtinvestor.com",
@@ -252,16 +372,6 @@
       "region": "Global",
       "summary": "privatedebtinvestor.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjJTdjk1SjYydzdRY1lMSmRFSWo3TmY3U0xlRUZxVWdBUC1VZDNBaWRFM1dfalZrTjBHQ2h5djVmTXJ3S21SZGI3V3BzdDY4YnA1U2FxVkw3MXBMT0FwTENvbTN0YmkwelgxaDNpT1dYMGNKTTJucW1ldHU5YVpHdmpfTm85c1VBZTVLTFdqSm5Dd3VjZzRnYVZybk9hVENfN1UyZGtaek9IRGs?oc=5"
-    },
-    {
-      "id": "n-e60ee6807ee4da9a",
-      "title": "Deep Dive: Why Asia-Pacific private equity is shifting from growth to control",
-      "source": "PEI Private Equity",
-      "published_at": "2026-11-02T02:07:26Z",
-      "category": "Private Equity",
-      "region": "Asia Pacific",
-      "summary": "PEI Private Equity가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaVhCSjZiV3pma3IyaUtiWFZQcldfTXhrZnA5MnBVb3VXdDU3eWNPY25CcjBtT1FwVnpwNGMyaDRYLTdIRXRjQ0VqVnF2MVk3RV9lRHhUVU1xanRpVmMzT3Fvam1hbm00WWIybmF5SlJKWUFzcERQUy1MMGE2RUdGeDk3UnExNTVyMDBhbTcxRVhTclhoaUVtOUVYS3VMYXltUEZkc0hiaVhrNE9PcE9XTGRiNUFXbUY0dUhTYQ?oc=5"
     },
     {
       "id": "n-91542f89a733c402",
@@ -778,7 +888,7 @@
       "title": "Cash plays outsized role in New Jersey Pension Fund return — private credit falls short",
       "source": "Pensions & Investments",
       "published_at": "2026-10-29T18:36:00Z",
-      "category": "Private Equity",
+      "category": "Private Credit",
       "region": "Global",
       "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRkhOV0FRWVZUUXhqcWNqdUxqQTM3cG9WNlFDNGFJTzd0WVlLdEZTM3B3N00tM3dlNjRvTEFEOE5Kd1V5eVQycTVnUUJhUENTQ0RwZ0lhYjQ3SVlTQWJYTF9ZamJTVzF6dTFLaEEyZE5VQUNMQTNFZi10MnJVWVZxTmJDVThpa2ZRa19mVkh2Qi1wdEVubjlyTDJoZnhDQ3NDclVFb2xYeTkwOHBCY1pBcDNxZWRJQ2RYSlYwMjRNdw?oc=5"
@@ -952,6 +1062,16 @@
       "region": "Global",
       "summary": "Serrari Group가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV3E1M3A2a0llT285YS1CU3FzNmptSGJpZDlaWWs3d3Z1MkFDOEowbmdxZmFXcXhSMWxqYnBQNS15dmlZN3NpTWM2VWFxSy1iZEF0dTlsdktwMndXaENSYTFfeUJTUi1JT2JvS3RuS1dZMmE5bzRLWmFyazNfeU1tY2tSbw?oc=5"
+    },
+    {
+      "id": "n-31e05c3421d473bb",
+      "title": "Private Equity Pulse: key takeaways from Q3 2026 | EY - Global",
+      "source": "EY",
+      "published_at": "2026-10-29T07:00:00Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "EY가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfZFpWVnNjQXRQMFRKb3BDWHhRUlBaSEtwYXdLSTczQ3JxOEVLYUU1a2dDeFJ3UG1TeUM4RmE0dFVUZWZiQlh0ZGlteHpvWDN2aE9RZFJ1OUhacG1YQm5qMm9VR3U?oc=5"
     },
     {
       "id": "n-53d80827fe27cae3",
@@ -1282,126 +1402,6 @@
       "region": "Global",
       "summary": "Mexico Business News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR2FOMGJFTU9RR3R3THh1Q250LWstYWpIY1ozRkozTnNpaS0wV19TWkRBTHZzM2VRR2VvY25NN21KbFNFeTdhcWxySkhqelNjeWtXVi1FWFM2TnRpMTdwb2l1S0M1MlNjOGpESlZlXzFfQ3BSdzcxTjVfVTdBa3pjMW4ydHliajRrYV82anh3b0loUkU?oc=5"
-    },
-    {
-      "id": "n-d4c73d39b1afae33",
-      "title": "저금리가 남긴 청구서…사모펀드 3000억달러 만기 몰린다",
-      "source": "글로벌이코노믹",
-      "published_at": "2026-10-27T19:05:00Z",
-      "category": "국내 대체투자",
-      "region": "Global",
-      "summary": "글로벌이코노믹가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQczJXb3dOcEVaVXpsbERuM1kwZG1oN1h2ODJnTVd4MTdySkR4dnJMMG5NcjdmYlJfWnkyOFREZDVaT0c1ejBEWF9YTFNvSGpqNkd6bk9uMTE1S2JXekpZRmdrWFBGMlhSVTZpRktZc0ROX2hWRUN6ejM3WnZuNE9mSmlDM2poVlBO?oc=5"
-    },
-    {
-      "id": "n-3d2bd4ace3d82017",
-      "title": "Scotiabank lines up significant risk transfer on about $2 billion of loans",
-      "source": "Briefs Finance",
-      "published_at": "2026-10-27T18:35:00Z",
-      "category": "SRT",
-      "region": "Global",
-      "summary": "Briefs Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGgzTmFDQVFfdGRuWnl1RWoxWlJUdXA4ZEd2NnoySTJlTmtsclFHUkN5Y1pLTGlVR2xocE42dExUU1BoS193aXdZRUpJUzl5TDJfN2RsWGtTM0pUNi02eEtueWtraWE5MVZXaUhqdlg2RHpxTk1vNm93SUVYZ3AtUzhvUUtpdU43eGV5U3g5cG1Bdw?oc=5"
-    },
-    {
-      "id": "n-26d5657902248e3b",
-      "title": "AI financing driving private credit growth as refinancing risks rise, Moody’s says",
-      "source": "Reuters",
-      "published_at": "2026-10-27T18:32:02Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "Reuters가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMlFHLTNZbVhfQjRZSmFmT1N5S2s2UTNsUkIzRnF0eFNXbG1GTTlURnZsU2ZDUGJMNVhGX2tPVzBrdkpSR1Y2VHBxZlFfMUdHcnJoTWNjNVlLMFBkNzRja1RaVVRaWFBSaUU5ak1LN3lxUDBqRE45UVRBVm9USHk0SzZ3WG1pc0tXRDgwVU1JenB2cmFDN2pyb3d1U0tZQmlqNjA2UzltdmZFaHFLNWZxV0pITWlVV1U5enM5SGtNWjJfdEhQQVljbG9lcnFLZw?oc=5"
-    },
-    {
-      "id": "n-9d6b6ed96f6ac815",
-      "title": "Seidler nabs $2.3bn for three funds, including ninth flagship, in 90 days",
-      "source": "PEI Private Equity",
-      "published_at": "2026-10-27T18:11:34Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "PEI Private Equity가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaHJIYW5PcGVucEV4ay1aMHpNcGFxU2Zhc08tZktqb0V3UHotSUtJXzFBM2lVbGwtREtaS2dRaWhJemQwZTBJNllkQlRDNEtacUtEWE1zT0JKMmdkbkoteXJVUDZOeUZTTkh3TDBXM1NGMmdEMGE0cldSUjBZVGhabVBKdVZvQ0ozbmlqVWRmZ0tGbV9SbEtLWHRxclR5TEwtcUlUZWJtQVp5MnJ5MUVsRGxJdzQ?oc=5"
-    },
-    {
-      "id": "n-9853f68d6aa01a4d",
-      "title": "Tyler Henritze Raises Nearly $2B as Second Act Roars On",
-      "source": "The Real Deal",
-      "published_at": "2026-10-27T17:55:00Z",
-      "category": "Real Estate",
-      "region": "Global",
-      "summary": "The Real Deal가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0dHSmxTdWhiRG1iaDhzc19QT2lkWVpEbVAtQ0IyN3N2OEpQcjRVSjZhR2hxbDNzUEt3Z3dYV0p3N0pHQzg5czdPcFVDWjBmR1gwR1lVY1FfMlJ1YnZ1Y3VhQU01Rk5HQ215MElrQ2V1RjlPU3FHUUtubnpVWTdkNUpmWU9JeGFNME5SYjk0UThKRVVoOHJ4NTNwc3NFYzBE?oc=5"
-    },
-    {
-      "id": "n-dd4999418fc827fa",
-      "title": "KKR closes on $460M private credit continuation vehicle, with AllianzGI leading",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-10-27T17:39:28Z",
-      "category": "Private Credit",
-      "region": "North America",
-      "summary": "Yahoo! Finance Canada가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzd3bmVxV0JzVlBTMjNSZmRjb285c3d0cURILUU2cGtuY0ZsZW5HUUc3V1JJc2tuMHhna243T3RNd0JYM25PZ2RiSDF4emlNQnBmYnVRY3p3U19KcjVsRTA1SC16dHdYLXdON3gxMUQ0YlJOYTZSQjVMdnJxQzFCSjdnTHFzdw?oc=5"
-    },
-    {
-      "id": "n-a353db13cd7ddd67",
-      "title": "Scotiabank Plans SRT Transaction Tied to $2 Billion of Loans",
-      "source": "Bloomberg.com",
-      "published_at": "2026-10-27T16:57:28Z",
-      "category": "SRT",
-      "region": "Global",
-      "summary": "Bloomberg.com가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOU1IWkxOUmtSUDBaYUZ0dFJVbUVVbnFFU2FsN2hFYjVSd1EwenZJSjJVTFBGaGVlRU1RNTNobGVKaTNkU0NiaDhZWi01VklEdXh0LWZBVW9QQ0FPdUU0THlsOTdfODZueTZLV1ZMNHFvMDQ0Mk0zLUQwUmxwakpZdW9tUGlDRzhFRnpSeGYydTBEMC1hTHY4SEJ5VEduZmNBQlFxX0RLNmhKY01ac3FZ?oc=5"
-    },
-    {
-      "id": "n-d99585dcd7d3948b",
-      "title": "Advent raises $30 billion for latest buyout, mid-market funds",
-      "source": "Reuters",
-      "published_at": "2026-10-27T16:54:08Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Reuters가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWZ3QnkyMzNBUW80dk5iTjZLWGpSN1pTVWVVUlp4bDY2VUV1U1dKYUdhYVp0NEJtWmJER3dDamRYZnRzeUVPM3hFQ2NTZExfYl9sVHotTDNKRTJwQ0w4RmhWZWxvV0RwQ0hhTUZBSzY1VW0ydHNJaXNHR1RJeFV3Wm1fUmIzTkFsamoxcjF2bm9ZWVJuQzJFb3dueHZBbW9jUzloeGlVVk9LMHpjU0lIdQ?oc=5"
-    },
-    {
-      "id": "n-2fa2349d187f9a09",
-      "title": "Advent International closes latest buyout fund at nearly $27 billion",
-      "source": "Pensions & Investments",
-      "published_at": "2026-10-27T16:28:00Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Pensions & Investments가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaEVhbzROQXpqZ3MtMDMwQjNyNGpVclcxVU0zdHVmWWt2RVd4T0RHVXlGR0dyOVM4TkRjQThURnhCUm03UnYyZTRVdnZTYTFOcUNvLU1RbEVwbUpXdWNoWFVpN1R6b0RlY3FBd3ZhMHpnZU5rM1VjLUJCWXlmc0N5ODlzUmF6TGFhcEpJLTBTRzE4QllFMkxKLXB4aGRMM2c?oc=5"
-    },
-    {
-      "id": "n-1b62d48b41c4486f",
-      "title": "Acts of God Meet Acts of AI in Private Equity’s New Debt Play",
-      "source": "Bloomberg",
-      "published_at": "2026-10-27T16:27:58Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Bloomberg가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdFhwQzk2cDNscjhuWjNFVVI1dWNWQ2h5SlQ5OXZKVS14ekRCbHQ2aTlkN2NHNnZlTzNGMndLZDUtUDRTVVlOOXdYSjg4Y3BIdUM4Q00tUW9CcG9Bdmc2dEpDbmpLcmZzOEFSR0Z6UVpsdTVraEZQaGdMTkJDUFNnTklhcVNiRGdmMjY0amd5MnIxWVBidk45d3RtT3lpMW4zVTZLUmVXTm1zcmEyekhrSEZB?oc=5"
-    },
-    {
-      "id": "n-02d10bf31e7864e5",
-      "title": "Maycomb Capital Closes $100 Million Impact Private Credit Fund",
-      "source": "The Globe and Mail",
-      "published_at": "2026-10-27T15:39:38Z",
-      "category": "Private Credit",
-      "region": "Global",
-      "summary": "The Globe and Mail가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORHlLY3VOU0R5alBucjU4Y2xmeld4LWNqanVjZ2dqelNrZEdTeWsxVWVCLTN6RlFJUHFkMjJlWk1KeUFFay1OemhfcWgyYlFGaEtrZWN3elNCbXFCVDhkNzU0a1J1YVR0eE80QV9HdjRNUXlmRnFPMG5aOTRuRnluMXpocHBmbWIwR1czM3RGdjBTY25sR2lSU25KT0Z2M1U3S05Bb2F1Yi1uMFVxbG9RS0pwSV9QcklMbjJHWDc1RTJoMkhFX1NIR3VGWVpEalJ5NFZfYUFWa2xOVUdkdWpQSXktYkhQUQ?oc=5"
-    },
-    {
-      "id": "n-4083dadbebd1d1e1",
-      "title": "Sycamore Tree Capital Partners Closes Eighth CLO at $504 Million",
-      "source": "Business Wire",
-      "published_at": "2026-10-27T15:30:00Z",
-      "category": "CLO",
-      "region": "Global",
-      "summary": "Business Wire가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQTZiSy1LZFUzeG4wQmt0TTU4WGFuOW1IV2VCcndJeHAwVFoyNmgyYTNiV3BsQ0psSldIemQyMmItSVlOYzlqeGpwWk53VTltSVp5S0dGQWtmNXdYdUFTTlI0eTYweDd0a09JZ2E5aGpxRkdXZUFUaHAwbnE0MnA3Yk1EME05TFZQVGVtLUJsUU5XUklFb2hhZXRjb2RTcktVNXdVSXpNajZqdzl4cWJUYl9CS3dXMEJWM0xsbTFrb0U?oc=5"
     }
   ]
 }

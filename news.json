@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-11-08T17:56:39.331234Z",
+  "updated_at": "2026-11-08T22:09:50.688167Z",
   "article_count": 140,
   "collection_errors": [],
   "articles": [
+    {
+      "id": "n-dd9c6baac4c63de5",
+      "title": "The 5 top stories on Africa Private Equity News the past week",
+      "source": "Africa Private Equity News",
+      "published_at": "2026-11-08T17:57:17Z",
+      "category": "Private Equity",
+      "region": "Global",
+      "summary": "Africa Private Equity News가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3hNeEVCbU9tbm13djk0WXNCTnV1MXJPZjB3U1FBa3RDakVzUlhDOExSQkUyVWdlY3lPLU42eWZjTGR0b1FBa3RhMWg0X1JCay03RlRXbXhJcHBaNnZjMlZuVXRHZG5XY3NQaGs1SmJ6bC03ZGhhVXNYcEZpeDlsUlAzcVh1Zy1j?oc=5"
+    },
     {
       "id": "n-c6e2ae06c2b621d4",
       "title": "BC Partners seeks control of LIV Golf from Saudi wealth fund, FT reports",
@@ -22,6 +32,16 @@
       "region": "Middle East",
       "summary": "Financial Times가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWUotV0RTQVAzQmtNVDhlTHMwMTAyOUU2N1RCcUpiVGNINFlRSDFkSExLUEFpdU5FdFFWTjdhamZBZDh2blNOVlBRc0Z2RjBQQXJreHc2SE53WlJOSkduMWhRRkM1eWtJVU9oZEpTQ2kxYTM4YkotZzhqbGxHUUNLYTBhclU?oc=5"
+    },
+    {
+      "id": "n-94ce87f1adb18189",
+      "title": "Morgan Stanley Direct Lending Fund (MSDL) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-11-07T23:24:16Z",
+      "category": "Private Credit",
+      "region": "North America",
+      "summary": "Yahoo! Finance Canada가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nYlg1VXRhSUhlMEUtNURIQU9Nci1wOXpmQy16TmIyczlfY1NNN2l5QkthMlRmcUxtNldhMGl2UUVocWdiTGJrbXgtY1cyZWZSQUE?oc=5"
     },
     {
       "id": "n-0530f142ade2de1e",
@@ -242,6 +262,16 @@
       "region": "Global",
       "summary": "World Economic Forum가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWZhZzJkM1N2dGpPVlZ3YU5vdU9BZGNZYXhuNml0WFFxb1pSemk4TER5NzEtdk14TUUxazFkOGtTenlaZllzY25ucmJHV2JsaG5vZGdITUZpQzYtUXVDMzYzaXBrcFEtRTc2WHVOUndIeG5ObWt2RGVsWHY0bnVRNWVyaFhFV2d6eEsxcE9QMVhtMmFGbC1Oc1FwZ3lTTFpiUW9wZzdzTm8ySUNxeGU5SHB5NmEwM1JhR1NNbnJtUHRQUQ?oc=5"
+    },
+    {
+      "id": "n-6621171fcd97ec38",
+      "title": "Morgan Stanley Direct Lending Fund Q3 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "published_at": "2026-11-06T13:30:00Z",
+      "category": "Private Credit",
+      "region": "Global",
+      "summary": "Yahoo Finance가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMjdwVnUtbFBkSHVNMkZ6eURCUEF3UDk2TGs5c08tUk5RN0haNXBhRHo2WFRIU0E5d2dsVm1jZXhKOVNZSmIzMEs0Y0c3VFFiRkF6S0l2cl9RZGt4Q05ES21sZGNzRUE0d01ydV9Za0gwVGFEcjdpaU5MYnhhc2lTMXF6NHRKdk1KNlVfQlhyN0VvNFd5TVJMV2FZM0NKM0R2?oc=5"
     },
     {
       "id": "n-adab0138015b945c",
@@ -1372,36 +1402,6 @@
       "region": "Global",
       "summary": "GuruFocus가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR3VxQWtvWkV5OUNkYzh6X1h1Wl9kdlJIbFFMR1pQdE9VNE9YblY2dGVrQVJCSEVDaDlJelBoUXY3WnJGb3VsYU10R21YV256QUF6MENqYVZfSF8yN0IwN1hiOGlIc1RHNm5tb0xDQng2UWZ0SVpxWk1NOW9oa2tUMHNwMWhpcGlDbG5hY29xbzU0YXRvYkYtUEpsdHpxVzdsQVVXSXpCbDUzcUFzWXhIbjUtTDY5VWFaUUdtS1VabW1jUU8zeE5Xbk5qa3lqRmJ1X1piQTk0RHo?oc=5"
-    },
-    {
-      "id": "n-4afcc40f76d9b250",
-      "title": "News | Germany's Union completes Irish retail debut with Dublin acquisition",
-      "source": "CoStar",
-      "published_at": "2026-11-02T14:42:16Z",
-      "category": "Real Estate",
-      "region": "Europe",
-      "summary": "CoStar가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHliYU1jNHVPTEhpVXFvaWhGNVk2OXJoZHRENmZSVmhNQTItdzBsUHEzOUtsNFhGaml0S2hmdmtqR3pNM0s2Szh5QXJOOFM4bVN1a0FKVkdQLVpiRExVMTRXV1JVQWU4UDBIanVsSUlNamV1MngwYXd5dFFMRkJheTc2N1Uzc01tUFhYNUdZLTZOUE1CRFQybTJhM3NLejBkSmViQkJ0MWRCSTF6WlE?oc=5"
-    },
-    {
-      "id": "n-6eb69aa92d551c07",
-      "title": "AE Industrial Partners Closes $850 Million Continuation Fund for Defense Distributor Blue Raven",
-      "source": "citybiz",
-      "published_at": "2026-11-02T14:31:56Z",
-      "category": "Secondaries",
-      "region": "Global",
-      "summary": "citybiz가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVFdWMVN4R1lfdmtHSjJqeE4zMnRYemt5WWRwdFpDTm9qLTJONkw4QnhBZjk1eVRtdmxKc1FRVUNTWkQwVEcySDRTaFJjU1V4aWd3SzY3T291ajVlazc3SUduSThRbDJYaktTaW1Yb0hjUzNZZ2w4aWdTUUpOemlyQTZPcnAyX3FBbkp0RXNsejJEWl9LaVJYZ2FvVGJKSFdMZDJ4a1ladkQ2Z08zRE82c25FM1BTTVdETmZGaUNIV0xENVBqdS1kV0lrM2NnZw?oc=5"
-    },
-    {
-      "id": "n-9d6869632a600e40",
-      "title": "Medicare Spending Rises After Private Equity Buys Hospices | Newswise",
-      "source": "Newswise",
-      "published_at": "2026-11-02T14:25:00Z",
-      "category": "Private Equity",
-      "region": "Global",
-      "summary": "Newswise가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0RZb09yd3doMTFwZlpOVTdaSzZsU2xYQTNJajBVbWpHVmMzb3VlcWJMSzhFZVRYdjh3OGFybDhGekM2TkdKNjdYRjJ2LXhLMmpxSDhVQk1EY2lmNXBFMlVTZFFoVWlXR21kNk41MVd1NnRGV3M3dkNVbmI0TXJqT3lPLVFDeU9HWTlaMTlLQktEZFBEN0hN0gGXAUFVX3lxTE9PRFlvT3J3d2gxMXBmWk5VN1pLNmxTbFhBM0lqMFVtakdWYzNvdWVxYkxLOEVlVFh2OHc4YXJsOEZ6QzZOR0o2N1hGMnYteEsyanFIOFVCTURjaWY1cEUyVVNkUWhVaVdHbWQ2TjUxV3U2dEZXczd2Q1VuYjRNcmpPeU8tUUN5T0dZOVoxOUtCS0RkUEQ3SE0?oc=5"
     }
   ]
 }

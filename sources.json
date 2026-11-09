@@ -1,0 +1,13 @@
+[
+  {"category":"Private Equity","query":"\"private equity\" fund OR buyout when:7d","region":"Global","language":"en"},
+  {"category":"Private Credit","query":"\"private credit\" OR \"direct lending\" when:7d","region":"Global","language":"en"},
+  {"category":"Infrastructure","query":"\"infrastructure fund\" OR \"infrastructure investment\" when:7d","region":"Global","language":"en"},
+  {"category":"Real Estate","query":"\"real estate private equity\" OR \"real estate debt\" when:7d","region":"Global","language":"en"},
+  {"category":"Secondaries","query":"\"private equity secondaries\" OR \"continuation fund\" when:7d","region":"Global","language":"en"},
+  {"category":"GP Stakes","query":"\"GP stakes\" OR \"GP stake investment\" when:14d","region":"Global","language":"en"},
+  {"category":"ABF","query":"\"asset based finance\" OR \"asset-based lending\" when:7d","region":"Global","language":"en"},
+  {"category":"SRT","query":"\"significant risk transfer\" banks when:14d","region":"Global","language":"en"},
+  {"category":"CLO","query":"\"collateralized loan obligation\" OR CLO market when:7d","region":"Global","language":"en"},
+  {"category":"국내 대체투자","query":"사모펀드 OR 사모대출 OR 대체투자 when:7d","region":"Korea","language":"ko"},
+  {"category":"국내 LP","query":"공제회 OR 연기금 해외 대체투자 when:14d","region":"Korea","language":"ko"}
+]

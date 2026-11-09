@@ -1,337 +1,198 @@
+#!/usr/bin/env python3
+"""AltBrief: public Google News RSS collector, no API key required."""
 from __future__ import annotations
-
 import hashlib
 import html
 import json
+import logging
+import os
 import re
+import sys
 import time
-import urllib.parse
-import urllib.request
-import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
-from typing import Any
+from urllib.parse import urlencode, urlparse, parse_qs, unquote
+
+import feedparser
+import requests
 
 ROOT = Path(__file__).resolve().parent
-OUTPUT_FILE = ROOT / "news.json"
-
-MAX_PER_FEED = 18
-MAX_TOTAL = 140
-REQUEST_TIMEOUT = 25
-
-FEEDS = [
-    {
-        "category": "Private Equity",
-        "query": '"private equity" (fund OR buyout OR acquisition OR fundraising OR "final close") when:14d',
-        "hl": "en-US",
-        "gl": "US",
-        "ceid": "US:en",
-    },
-    {
-        "category": "Private Credit",
-        "query": '("private credit" OR "direct lending") (fund OR financing OR fundraising OR loan) when:14d',
-        "hl": "en-US",
-        "gl": "US",
-        "ceid": "US:en",
-    },
-    {
-        "category": "Infrastructure",
-        "query": '("infrastructure fund" OR "infrastructure investment") (energy OR digital OR transport OR "final close") when:14d',
-        "hl": "en-US",
-        "gl": "US",
-        "ceid": "US:en",
-    },
-    {
-        "category": "Real Estate",
-        "query": '("real estate fund" OR "real estate debt") (investment OR fundraising OR transaction) when:14d',
-        "hl": "en-US",
-        "gl": "US",
-        "ceid": "US:en",
-    },
-    {
-        "category": "Secondaries",
-        "query": '("private markets secondaries" OR "continuation fund" OR "GP-led secondary") when:21d',
-        "hl": "en-US",
-        "gl": "US",
-        "ceid": "US:en",
-    },
-    {
-        "category": "GP Stakes",
-        "query": '("GP stakes" OR "asset manager minority stake") when:30d',
-        "hl": "en-US",
-        "gl": "US",
-        "ceid": "US:en",
-    },
-    {
-        "category": "ABF",
-        "query": '("asset based finance" OR "asset-backed finance") "private credit" when:30d',
-        "hl": "en-US",
-        "gl": "US",
-        "ceid": "US:en",
-    },
-    {
-        "category": "SRT",
-        "query": '("significant risk transfer" OR "synthetic risk transfer") bank when:30d',
-        "hl": "en-US",
-        "gl": "US",
-        "ceid": "US:en",
-    },
-    {
-        "category": "CLO",
-        "query": '("CLO fund" OR "collateralized loan obligation") manager when:14d',
-        "hl": "en-US",
-        "gl": "US",
-        "ceid": "US:en",
-    },
-    {
-        "category": "국내 대체투자",
-        "query": '(대체투자 OR 사모펀드 OR 사모대출 OR 인프라펀드 OR 부동산펀드) when:14d',
-        "hl": "ko",
-        "gl": "KR",
-        "ceid": "KR:ko",
-    },
-]
+OUTPUT = ROOT / 'news.json'
+CONFIG = ROOT / 'sources.json'
+KST = timezone(timedelta(hours=9))
+HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; AltBriefRSS/2.0; public-feed-collector)', 'Accept': 'application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.6'}
+MAX_ARTICLES = int(os.getenv('MAX_ARTICLES', '500'))
+MAX_AGE_DAYS = int(os.getenv('MAX_AGE_DAYS', '21'))
+REQUEST_PAUSE = float(os.getenv('REQUEST_PAUSE', '0.35'))
+logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
+log = logging.getLogger('altbrief')
 
 
-def clean_text(value: str | None) -> str:
+def utcnow():
+    return datetime.now(timezone.utc)
+
+
+def as_iso(value):
     if not value:
-        return ""
-    text = html.unescape(value)
-    text = re.sub(r"<script[\s\S]*?</script>", " ", text, flags=re.I)
-    text = re.sub(r"<style[\s\S]*?</style>", " ", text, flags=re.I)
-    text = re.sub(r"<[^>]+>", " ", text)
-    text = re.sub(r"\s+", " ", text)
-    return text.strip()
-
-
-def normalize_key(value: str) -> str:
-    return re.sub(r"[^a-z0-9가-힣]", "", value.lower())
-
-
-def stable_id(url: str, title: str) -> str:
-    raw = (url or title).encode("utf-8")
-    return "n-" + hashlib.sha1(raw).hexdigest()[:16]
-
-
-def parse_date(value: str | None) -> str:
-    if not value:
-        return datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
-
-    formats = [
-        "%a, %d %b %Y %H:%M:%S %Z",
-        "%a, %d %b %Y %H:%M:%S %z",
-        "%Y-%m-%dT%H:%M:%S%z",
-    ]
-
-    for fmt in formats:
+        return None
+    if isinstance(value, str):
         try:
-            parsed = datetime.strptime(value.strip(), fmt)
-            if parsed.tzinfo is None:
-                parsed = parsed.replace(tzinfo=timezone.utc)
-            return parsed.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+            return datetime.fromisoformat(value.replace('Z', '+00:00')).astimezone(timezone.utc).isoformat().replace('+00:00', 'Z')
         except ValueError:
-            continue
-
-    return datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
-
-
-def classify_region(text: str) -> str:
-    value = text.lower()
-    rules = [
-        ("Korea", r"korea|korean|한국|국내|서울|국민연금|한국투자공사|공제회"),
-        ("North America", r"united states|u\.s\.|america|canada|new york|california|texas"),
-        ("Europe", r"europe|european|united kingdom|\buk\b|britain|germany|france|italy|spain|netherlands"),
-        ("Asia Pacific", r"asia|japan|china|hong kong|singapore|australia|india|apac"),
-        ("Middle East", r"middle east|uae|saudi|qatar|abu dhabi|dubai"),
-    ]
-    for region, pattern in rules:
-        if re.search(pattern, value, flags=re.I):
-            return region
-    return "Global"
+            try:
+                value = parsedate_to_datetime(value)
+            except (ValueError, TypeError):
+                return None
+    if hasattr(value, 'tm_year'):
+        value = datetime(*value[:6], tzinfo=timezone.utc)
+    if value.tzinfo is None:
+        value = value.replace(tzinfo=timezone.utc)
+    return value.astimezone(timezone.utc).isoformat().replace('+00:00', 'Z')
 
 
-def google_news_url(feed: dict[str, str]) -> str:
-    params = urllib.parse.urlencode(
-        {
-            "q": feed["query"],
-            "hl": feed["hl"],
-            "gl": feed["gl"],
-            "ceid": feed["ceid"],
-        }
-    )
-    return f"https://news.google.com/rss/search?{params}"
+def clean(value):
+    value = re.sub(r'<[^>]*>', ' ', value or '')
+    value = html.unescape(value)
+    return re.sub(r'\s+', ' ', value).strip()
 
 
-def read_child_text(item: ET.Element, tag: str) -> str:
-    child = item.find(tag)
-    return (child.text or "").strip() if child is not None and child.text else ""
+def stable_id(title, source):
+    key = re.sub(r'\W+', '', (title + '|' + source).casefold())
+    return hashlib.sha256(key.encode('utf-8')).hexdigest()[:20]
 
 
-def extract_source(item: ET.Element, raw_title: str) -> str:
-    source = item.find("source")
-    if source is not None and source.text:
-        return clean_text(source.text)
-
-    parts = raw_title.rsplit(" - ", 1)
-    if len(parts) == 2:
-        return clean_text(parts[1])
-    return "Google News"
+def google_news_url(query, language):
+    if language == 'ko':
+        settings = {'hl': 'ko', 'gl': 'KR', 'ceid': 'KR:ko'}
+    else:
+        settings = {'hl': 'en-US', 'gl': 'US', 'ceid': 'US:en'}
+    return 'https://news.google.com/rss/search?' + urlencode({'q': query, **settings})
 
 
-def clean_title(raw_title: str, source: str) -> str:
-    title = clean_text(raw_title)
-    suffix = f" - {source}"
-    if source and title.lower().endswith(suffix.lower()):
-        title = title[: -len(suffix)].strip()
-    return title
-
-
-def make_summary(title: str, description: str, source: str) -> str:
-    text = clean_text(description)
-
-    # Google News 설명문에 제목과 출처만 반복되는 경우가 많아 중복을 제거합니다.
-    for repeated in (title, source):
-        if repeated:
-            text = re.sub(re.escape(repeated), " ", text, flags=re.I)
-
-    text = re.sub(r"\s+", " ", text).strip(" -–—:|")
-
-    if not text or len(text) < 25:
-        return f"{source}가 보도한 기사입니다. 자세한 내용은 원문에서 확인할 수 있습니다."
-
-    if len(text) > 420:
-        text = text[:417].rstrip() + "…"
-
-    return text
-
-
-def fetch_feed(feed: dict[str, str]) -> list[dict[str, Any]]:
-    url = google_news_url(feed)
-    request = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "Mozilla/5.0 (compatible; AltBrief/3.0; +https://github.com/)",
-            "Accept": "application/rss+xml, application/xml, text/xml",
-        },
-    )
-
-    with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT) as response:
-        xml_bytes = response.read()
-
-    root = ET.fromstring(xml_bytes)
-    articles: list[dict[str, Any]] = []
-
-    for item in root.findall(".//item")[:MAX_PER_FEED]:
-        raw_title = read_child_text(item, "title")
-        link = read_child_text(item, "link")
-        description = read_child_text(item, "description")
-        pub_date = read_child_text(item, "pubDate")
-
-        source = extract_source(item, raw_title)
-        title = clean_title(raw_title, source)
-
-        if not title or not link:
-            continue
-
-        combined = f"{title} {description}"
-        articles.append(
-            {
-                "id": stable_id(link, title),
-                "title": title,
-                "source": source,
-                "published_at": parse_date(pub_date),
-                "category": feed["category"],
-                "region": classify_region(combined),
-                "summary": make_summary(title, description, source),
-                "url": link,
-            }
-        )
-
-    return articles
-
-
-def load_existing_articles() -> list[dict[str, Any]]:
-    if not OUTPUT_FILE.exists():
-        return []
-
-    try:
-        payload = json.loads(OUTPUT_FILE.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError):
-        return []
-
-    if isinstance(payload, list):
-        return payload
-
-    if isinstance(payload, dict):
-        for key in ("articles", "news", "items", "data"):
-            value = payload.get(key)
-            if isinstance(value, list):
-                return value
-
-    return []
-
-
-def deduplicate(articles: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    seen: set[str] = set()
-    result: list[dict[str, Any]] = []
-
-    sorted_articles = sorted(
-        articles,
-        key=lambda item: str(item.get("published_at", "")),
-        reverse=True,
-    )
-
-    for article in sorted_articles:
-        key = normalize_key(str(article.get("title", "")))[:180]
-        if not key or key in seen:
-            continue
-        seen.add(key)
-        result.append(article)
-
-    return result[:MAX_TOTAL]
-
-
-def main() -> None:
-    collected: list[dict[str, Any]] = []
-    errors: list[str] = []
-
-    for index, feed in enumerate(FEEDS, start=1):
+def fetch_feed(session, url, attempts=3):
+    for attempt in range(attempts):
         try:
-            articles = fetch_feed(feed)
-            collected.extend(articles)
-            print(f"[{index}/{len(FEEDS)}] {feed['category']}: {len(articles)}건")
-        except Exception as exc:  # 각 피드 실패가 전체 수집을 막지 않도록 처리
-            message = f"{feed['category']}: {type(exc).__name__}: {exc}"
-            errors.append(message)
-            print(f"[WARN] {message}")
+            r = session.get(url, headers=HEADERS, timeout=(10, 25))
+            r.raise_for_status()
+            feed = feedparser.parse(r.content)
+            if feed.bozo and not feed.entries:
+                raise ValueError(f'Invalid feed: {feed.bozo_exception}')
+            return feed.entries
+        except (requests.RequestException, ValueError) as exc:
+            log.warning('Feed attempt %d/%d failed: %s', attempt + 1, attempts, exc)
+            if attempt < attempts - 1:
+                time.sleep(2 ** attempt)
+    return None
 
-        time.sleep(0.4)
 
-    # 일시적 RSS 장애 때 기존 news.json이 빈 파일로 덮이지 않도록 합니다.
-    existing = load_existing_articles()
-    if not collected:
-        if existing:
-            print("[WARN] 신규 수집 결과가 없어 기존 news.json을 유지합니다.")
-            return
-        raise RuntimeError("모든 RSS 수집에 실패했고 기존 데이터도 없습니다.")
-
-    merged = deduplicate(collected + existing)
-    payload = {
-        "updated_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
-        "article_count": len(merged),
-        "collection_errors": errors,
-        "articles": merged,
+def extract_article(entry, category, region):
+    title = clean(entry.get('title', ''))
+    source_obj = entry.get('source') or {}
+    source = clean(source_obj.get('title') or '')
+    if not source and ' - ' in title:
+        title, source = title.rsplit(' - ', 1)
+        title, source = title.strip(), source.strip()
+    link = entry.get('link', '')
+    if not title or not link or urlparse(link).scheme not in ('https', 'http'):
+        return None
+    pub = as_iso(entry.get('published_parsed') or entry.get('published') or entry.get('updated_parsed'))
+    if not pub:
+        return None
+    try:
+        published_dt = datetime.fromisoformat(pub.replace('Z', '+00:00'))
+    except ValueError:
+        return None
+    if published_dt > utcnow() + timedelta(days=1) or published_dt < utcnow() - timedelta(days=MAX_AGE_DAYS):
+        return None
+    summary = clean(entry.get('summary') or entry.get('description') or '')
+    # Google News descriptions may repeat the headline and list related headlines.
+    if summary.casefold().startswith(title.casefold()):
+        summary = summary[len(title):].strip(' -–:')
+    summary = summary[:550]
+    return {
+        'id': stable_id(title, source), 'title': title, 'summary': summary,
+        'source': source or 'Google News', 'published_at': pub,
+        'url': link, 'category': category, 'region': region,
+        'summary_type': 'RSS 공개 설명 (AI 요약 아님)'
     }
 
-    OUTPUT_FILE.write_text(
-        json.dumps(payload, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
 
-    print(f"[DONE] {OUTPUT_FILE.name}: {len(merged)}건 저장")
-    if errors:
-        print(f"[INFO] 일부 피드 실패: {len(errors)}개")
+def read_existing():
+    if not OUTPUT.exists():
+        return {'updated_at': None, 'articles': []}
+    try:
+        obj = json.loads(OUTPUT.read_text(encoding='utf-8'))
+        if isinstance(obj, list):
+            return {'updated_at': None, 'articles': obj}
+        return {'updated_at': obj.get('updated_at'), 'articles': obj.get('articles', [])}
+    except (OSError, ValueError) as exc:
+        log.warning('Previous news.json unreadable: %s', exc)
+        return {'updated_at': None, 'articles': []}
 
 
-if __name__ == "__main__":
-    main()
+def main():
+    sources = json.loads(CONFIG.read_text(encoding='utf-8'))
+    existing = read_existing()
+    cutoff = utcnow() - timedelta(days=MAX_AGE_DAYS)
+    pooled = {}
+    for obj in existing['articles']:
+        if not isinstance(obj, dict) or not obj.get('title') or not obj.get('url'):
+            continue
+        try:
+            dt = datetime.fromisoformat(obj['published_at'].replace('Z', '+00:00'))
+            if dt < cutoff:
+                continue
+        except (KeyError, TypeError, ValueError):
+            continue
+        key = obj.get('id') or stable_id(obj['title'], obj.get('source', ''))
+        obj['id'] = key
+        pooled[key] = obj
+    successes, failures, fetched_count = 0, 0, 0
+    with requests.Session() as session:
+        for source in sources:
+            query, category = source['query'], source['category']
+            region = source.get('region', 'Global')
+            language = source.get('language', 'en')
+            url = google_news_url(query, language)
+            entries = fetch_feed(session, url)
+            if entries is None:
+                failures += 1
+                log.error('FAILED category=%s query=%s', category, query)
+                continue
+            successes += 1
+            added = 0
+            for entry in entries:
+                article = extract_article(entry, category, region)
+                if not article:
+                    continue
+                fetched_count += 1
+                key = article['id']
+                # Prefer nonempty text already present, but refresh stale metadata.
+                if key in pooled and len(pooled[key].get('summary') or '') > len(article['summary']):
+                    article['summary'] = pooled[key]['summary']
+                    article['summary_type'] = pooled[key].get('summary_type', article['summary_type'])
+                if key not in pooled:
+                    added += 1
+                pooled[key] = article
+            log.info('OK category=%s entries=%d new=%d', category, len(entries), added)
+            time.sleep(REQUEST_PAUSE)
+    if successes == 0:
+        log.error('All RSS requests failed; retaining previous news.json. Check Google News accessibility and GitHub Action logs.')
+        return 1
+    articles = sorted(pooled.values(), key=lambda x: x.get('published_at') or '', reverse=True)[:MAX_ARTICLES]
+    payload = {
+        'updated_at': utcnow().isoformat().replace('+00:00', 'Z'),
+        'status': 'ok' if failures == 0 else 'partial',
+        'feed_successes': successes, 'feed_failures': failures,
+        'article_count': len(articles), 'articles': articles
+    }
+    temp = OUTPUT.with_suffix('.json.tmp')
+    temp.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    temp.replace(OUTPUT)
+    log.info('DONE success=%d failed=%d fetched=%d articles=%d file=%s', successes, failures, fetched_count, len(articles), OUTPUT)
+    return 0
+
+
+if __name__ == '__main__':
+    sys.exit(main())

@@ -1,20 +1,21 @@
-name: Update and Deploy AltBrief
+name: AltBrief - Refresh News and Deploy
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */3 * * *"
+    - cron: '17 */3 * * *'
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
-      - "index.html"
-      - "app.js"
-      - "styles.css"
-      - "sw.js"
-      - "manifest.webmanifest"
-      - "update_news.py"
-      - ".github/workflows/update-news.yml"
+      - 'update_news.py'
+      - 'sources.json'
+      - 'requirements.txt'
+      - 'index.html'
+      - 'app.js'
+      - 'styles.css'
+      - 'sw.js'
+      - 'manifest.webmanifest'
+      - '.github/workflows/update-news.yml'
 
 permissions:
   contents: write
@@ -22,58 +23,62 @@ permissions:
   id-token: write
 
 concurrency:
-  group: altbrief-pages
+  group: altbrief-news-pages
   cancel-in-progress: false
 
 jobs:
   update-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Set up Python
+        with:
+          persist-credentials: true
+      - name: Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-
-      - name: Collect public RSS news
+          python-version: '3.12'
+      - name: Install RSS dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Collect latest news
         run: python update_news.py
-
-      - name: Commit updated news.json
-        shell: bash
+      - name: Print freshness diagnostics
         run: |
-          git config user.name "altbrief-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python - <<'PY'
+          import json
+          d=json.load(open('news.json', encoding='utf-8'))
+          print('updated_at=', d.get('updated_at'))
+          print('status=', d.get('status'))
+          print('feed_successes=', d.get('feed_successes'))
+          print('feed_failures=', d.get('feed_failures'))
+          print('article_count=', len(d.get('articles', [])))
+          PY
+      - name: Commit latest dataset
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add news.json
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update AltBrief news [skip ci]"
+            git commit -m 'chore: refresh news [skip ci]'
             git push
           else
-            echo "No news.json changes to commit."
+            echo 'No dataset changes'
           fi
-
-      - name: Prepare GitHub Pages files
-        shell: bash
+      - name: Prepare pages payload
         run: |
-          rm -rf dist
           mkdir -p dist
           cp index.html app.js styles.css sw.js manifest.webmanifest news.json dist/
-          cp icon-192.png icon-512.png dist/
           touch dist/.nojekyll
-
-      - name: Configure GitHub Pages
+      - name: Configure Pages
         uses: actions/configure-pages@v5
-
-      - name: Upload website artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist
-
-      - name: Deploy to GitHub Pages
+      - name: Deploy Pages
         id: deployment
         uses: actions/deploy-pages@v4
